@@ -1,2 +1,71 @@
-<title>Daten-API</title>
-API Schnittstelle
+<!DOCTYPE html>
+<html lang="de">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Demo-Kalender</title>
+
+    <meta name="author" content="Demo-Kalender/Mobil">
+    <meta name="description" content="Zentrale Anlaufstelle für Demos in DE, AT, BE, NL, CH, LI, US, UK, FR, HU, CZ, ES, CA, RU und IT.">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/fullcalendar@5.3.2/main.min.css">
+
+    <meta property="og:site_name" content="terminkalender.top">
+    <meta property="og:title" content="terminkalender.top">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://demo.terminkalender.top/img/demo1.jpg">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https:///demo.terminkalender.top/m/">
+
+    <link rel="canonical" href="https://demo.terminkalender.top/m/">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@">
+    <meta name="twitter:creator" content="@">
+    <meta property="twitter:title" content="terminkalender.top">
+    <meta property="twitter:description" content="">
+    <meta name="twitter:image" content="https://demo.terminkalender.top/img/demo1.jpg">
+
+  </head>
+
+  <body>
+
+    <div id='calendar'></div>
+
+    <script src="//cdn.jsdelivr.net/npm/fullcalendar@5.3.2/main.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/fullcalendar@5.3.2/locales/de.js"></script>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var calendarEl = document.getElementById('calendar');
+      var calendar = new FullCalendar.Calendar(calendarEl, {
+        headerToolbar: {
+          left: 'dayGridMonth,timeGridWeek,timeGridDay',
+          center: 'title',
+          right: 'prev,next'
+        },
+        events:'https://api.terminkalender.top/event-data',
+        eventClick: function(info) {
+	  info.jsEvent.preventDefault(); // don't let the browser navigate
+          if (info.event.url) {
+            window.open(info.event.url);
+          }
+	},
+        themeSystem: 'standard',
+	locale: 'de',
+	firstDay: 1,
+        dayMaxEvents: 5,
+        initialView: 'listWeek',
+        eventTimeFormat: {
+          hour: '2-digit',
+          minute: '2-digit',
+          hour12: false
+        }
+      });
+      calendar.render();
+    });
+    </script>
+<img src="https://statistik.space/piwik/matomo.php?idsite=13&amp;rec=1" style="border:0" alt="" />
+  </body>
+</html>
