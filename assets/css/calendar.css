@@ -1,0 +1,65 @@
+[class~='ch-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(/assets/img/flaggen/CH.png);
+}
+
+[class~='at-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(/assets/img/flaggen/AT.png);
+}
+
+[class~='de-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(/assets/img/flaggen/DE.png);
+}
+
+[class~='nl-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(/assets/img/flaggen/NL.png);
+}
+
+[class~='it-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(/assets/img/flaggen/IT.png);
+}
+
+[class~='be-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(/assets/img/flaggen/BE.png);
+}
+
+.fc {
+  font-family: Courier, Arial, Helvetica, sans-serif;
+}
+
+.fc .fc-list-event-dot {
+  background-repeat: no-repeat;
+  background-origin: border-box;
+  background-position: center;
+  border: 0;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 16px;
+  height: 16px;
+}
+
+.fc .fc-daygrid-event-dot {
+  display: none;
+}
+
+.fc .fc-event-title {
+  text-align: left;
+  padding-left: 0.2em;
+}
+
+@media (max-width: 767px) {
+
+  .fc .fc-button {
+    padding-top: 0.2em;
+    padding-right: 0.4em;
+    padding-bottom: 0.2em;
+    padding-left: 0.4em;
+  }
+
+  .fc .fc-button {
+    font-size: 0.8em
+  }
+
+  .fc .fc-toolbar-title {
+    font-size: 1.2em
+  }
+}
