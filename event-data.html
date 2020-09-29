@@ -7,13 +7,13 @@ permalink: /event-data/
 [ {% for event in site.data.demotermine %}
     {% if event.land == "DE" %}
       {% assign color = "orange" %}
-      {% assign imgurl = "/assets/img/flaggen/DE.jpg" %}
+      {% assign imgurl = "https://demo.terminkalender.top/img/DE.png" %}
     {% elsif event.land == "CH" %}
       {% assign color = "red" %}
-      {% assign imgurl = "/assets/img/flaggen/CH.jpg" %}
+      {% assign imgurl = "https://demo.terminkalender.top/img/CH.png" %}
     {% elsif event.land == "AT" %}
       {% assign color = "red" %}
-      {% assign imgurl = "/assets/img/flaggen/AT.jpg" %}
+      {% assign imgurl = "https://demo.terminkalender.top/img/AT.png" %}
     {% endif %}
     { "color":"{{color}}", "title":"{{event.stadt}}, {{event.treffpunkt}}, {{event.protestform}}", "start": "{{event.datum}}T{{event.uhrzeit}}", "allDay":false, "url":"{{event.url}}", "country":"{{event.land}}" }
     {%unless forloop.last %},{%endunless%}
