@@ -22,6 +22,42 @@
   background-image: url(https://demo.terminkalender.top/img/BE.png);
 }
 
+[class~='li-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(https://demo.terminkalender.top/img/LI.png);
+}
+
+[class~='us-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(https://demo.terminkalender.top/img/US.png);
+}
+
+[class~='uk-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(https://demo.terminkalender.top/img/UK.png);
+}
+
+[class~='fr-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(https://demo.terminkalender.top/img/FR.png);
+}
+
+[class~='hu-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(https://demo.terminkalender.top/img/HU.png);
+}
+
+[class~='cz-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(https://demo.terminkalender.top/img/CZ.png);
+}
+
+[class~='es-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(https://demo.terminkalender.top/img/ES.png);
+}
+
+[class~='ca-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(https://demo.terminkalender.top/img/CA.png);
+}
+
+[class~='ru-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(https://demo.terminkalender.top/img/RU.png);
+}
+
 .fc {
   font-family: Courier, Arial, Helvetica, sans-serif;
 }
