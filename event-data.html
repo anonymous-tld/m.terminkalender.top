@@ -13,7 +13,7 @@ permalink: /event-data/
       {% assign color = "red" %}
     {% endif %}
     {% if event.livestream %}
-      {% capture title %}{{event.stadt}}, {{event.treffpunkt}}, {{event.protestform}} https://demo.terminkalender.top/img/live.png{% endcapture %}
+      {% capture title %}{{event.stadt}}, {{event.treffpunkt}}, {{event.protestform}} (live){% endcapture %}
     {% else %}
       {% capture title %}{{event.stadt}}, {{event.treffpunkt}}, {{event.protestform}}{% endcapture %}
     {% endif %}
