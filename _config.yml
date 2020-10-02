@@ -21,7 +21,7 @@ social-network-links:
   github: anonymous-tld/m.terminkalender.top
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Kritische Informationen rund um das Thema Covid19, Recht und Gesundheit
+  Demo-Kalender gegen Corona
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://m.terminkalender.top" # the base hostname & protocol for your site, e.g. http://example.com
 url-pretty: "m.terminkalender.top"
@@ -30,13 +30,13 @@ url-pretty: "m.terminkalender.top"
 
 navbar-links:
   Sprache: 
-    - Deutsch: /test_index.html
-    - Englisch: /us
-    - Russisch: /ru
-    - Ungarisch: /hu
-  Info: /test_info.html
-  Spenden: /test_spenden.html
-  Kontakt: /test_kontakt.html
+    - Deutsch: /de_index.html
+    - Englisch: /us_index.html
+    - Russisch: /ru_index.html
+    - Ungarisch: /hu_index.html
+  Info: /de_info.html
+  Spenden: /de_spenden.html
+  Kontakt: /de_kontakt.html
 
 # --- Logo --- #
 
@@ -76,7 +76,7 @@ feed_show_tags: true
 site-css:
   - "/assets/css/custom-styles.css"
 
-rss-description: terminkalender.top News-Feed
+# rss-description: terminkalender.top News-Feed
 
 collections:
   events:
@@ -101,7 +101,7 @@ paginate_path: "/blog/page:num/"
 
 # Build settings
 markdown: kramdown
-remote_theme: EarthData/beautiful-jekyll
+remote_theme: anonymous-tld/beautiful-jekyll
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 navbar-col: "#FFE5CC"
