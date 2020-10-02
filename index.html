@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <title>Demo-Kalender/Mobil</title>
-    <link rel="icon" href="https://demo.terminkalender.top/img/computer.png" type="image/x-icon">
+    <link rel="icon" href="https://m.terminkalender.top/img/computer.png" type="image/x-icon">
     <meta name="author" content="Demo-Kalender/Mobil">
     <meta name="description" content="Zentrale Anlaufstelle für Demos in DE, AT, BE, NL, CH, LI, US, UK, FR, HU, CZ, ES, CA, RU und IT.">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/fullcalendar@5.3.2/main.min.css">
@@ -15,7 +15,7 @@
     <meta property="og:site_name" content="terminkalender.top">
     <meta property="og:title" content="terminkalender.top">
     <meta property="og:description" content="">
-    <meta property="og:image" content="https://demo.terminkalender.top/img/demo1.jpg">
+    <meta property="og:image" content="https://m.terminkalender.top/img/demo1.jpg">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https:///m.terminkalender.top/">
 
@@ -26,7 +26,7 @@
     <meta name="twitter:creator" content="@">
     <meta property="twitter:title" content="terminkalender.top">
     <meta property="twitter:description" content="">
-    <meta name="twitter:image" content="https://demo.terminkalender.top/img/demo1.jpg">
+    <meta name="twitter:image" content="https://m.terminkalender.top/img/demo1.jpg">
 
   </head>
 
@@ -86,14 +86,14 @@
           var elemTitle = info.el.getElementsByClassName('fc-list-event-title')[0];
           if (elemTitle) {
             if (info.event.url) {
-              elemTitle.innerHTML = '<a href="' + info.event.url + '">' + elemTitle.innerText + '&nbsp&nbsp<img src="https://demo.terminkalender.top/img/live.png" height="16px" style="vertical-align:middle"/></a>';
+              elemTitle.innerHTML = '<a href="' + info.event.url + '">' + elemTitle.innerText + '&nbsp&nbsp<img src="https://m.terminkalender.top/img/live.png" height="16px" style="vertical-align:middle"/></a>';
             } else {
               elemTitle.innerHTML = elemTitle.innerText;
             }
           }
           var elemDot = info.el.getElementsByClassName('fc-list-event-dot')[0];
           if (elemDot) {
-             elemDot.outerHTML = '<img src="https://demo.terminkalender.top/img/' + info.event.extendedProps.country.toUpperCase() + '.png" height="16px" width="16px" style="vertical-align: top;"/>'
+             elemDot.outerHTML = '<img src="https://m.terminkalender.top/img/' + info.event.extendedProps.country.toUpperCase() + '.png" height="16px" width="16px" style="vertical-align: top;"/>'
           }
         },
       });
