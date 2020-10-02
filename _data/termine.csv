@@ -89,6 +89,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4104,DE,85586,2020-10-08,18:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,2020-09-03 11:01:23,
 4619,AT,1010,2020-10-09,17:00,Wien,Ballhausplatz,Menschenkette,2020-09-30 13:35:13,
 4625,DE,74889,2020-10-09,17:00,Sinsheim,Burgplatz,Vortrag,2020-09-30 17:49:36,
+4686,DE,74889,2020-10-09,17:00,Sinsheim,Burgplatz,Kundgebung,2020-10-02 19:11:20,
 4670,DE,73614,2020-10-09,17:30,Schorndorf,Oberer Marktplatz,Kundgebung,2020-10-02 12:46:55,
 4323,DE,10117,2020-10-10,10:00,Berlin,US Botschaft am Brandenburger,Kundgebung,2020-09-16 11:47:59,
 4515,DE,10707,2020-10-10,11:55,Berlin,Adenauer Platz,Spaziergang,2020-09-24 06:46:51,
@@ -116,6 +117,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4682,DE,52064,2020-10-12,19:00,Aachen,Katschhof an den Treppen,Musik,2020-10-02 15:17:29,
 4611,DE,87776,2020-10-14,19:00,Sontheim/Schwaben,Dampfsäg/Westerheimer Str. 10,Vortrag,2020-09-30 11:01:00,
 4105,DE,85586,2020-10-15,18:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,2020-09-03 11:01:57,
+4687,DE,74889,2020-10-16,17:00,Sinsheim,Burgplatz,Kundgebung,2020-10-02 19:11:56,
 4663,DE,52525,2020-10-17,11:45,Heinsberg,Parkplatz Ostpromenade,Demonstration,2020-10-01 21:41:39,
 4297,DE,26382,2020-10-17,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2020-09-15 11:34:32,
 4679,DE,39104,2020-10-17,15:30,Magdeburg,Domplatz,Kundgebung,2020-10-02 14:01:00,
@@ -126,6 +128,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4157,DE,26441,2020-10-19,19:00,Jever,Marktplatz,Spaziergang,2020-09-06 19:38:35,
 4630,DE,69190,2020-10-19,20:00,Walldorf,Drehscheibe,Kundgebung,2020-09-30 18:43:09,
 4107,DE,85586,2020-10-22,18:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,2020-09-03 11:03:07,
+4688,DE,74889,2020-10-23,17:00,Sinsheim,Burgplatz,Kundgebung,2020-10-02 19:12:25,
 4584,DE,83026,2020-10-24,14:00,Rosenheim,wird noch bekanntgegeben,Kundgebung,2020-09-27 20:50:57,
 4298,DE,26382,2020-10-24,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2020-09-15 11:35:05,
 4596,DE,84130,2020-10-24,15:00,Dingolfing,Marienplatz,Kundgebung,2020-09-29 00:04:00,
@@ -140,6 +143,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4631,DE,69190,2020-10-26,18:00,Walldorf,Drehscheibe,Kundgebung,2020-09-30 18:43:36,
 4158,DE,26441,2020-10-26,19:00,Jever,Marktplatz,Spaziergang,2020-09-06 19:39:08,
 4108,DE,85586,2020-10-29,18:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,2020-09-03 11:03:40,
+4689,DE,74889,2020-10-30,17:00,Sinsheim,Burgplatz,Kundgebung,2020-10-02 19:12:55,
 4571,DE,38100,2020-10-31,12:00,Braunschweig,Schlossplatz Reiterdenkmal,Kundgebung,2020-09-26 20:42:24,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
 4572,DE,38100,2020-10-31,13:00,Braunschweig,Schlossplatz Reiterdenkmal,Demonstration,2020-09-26 20:44:14,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
 4299,DE,26382,2020-10-31,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2020-09-15 11:35:40,
