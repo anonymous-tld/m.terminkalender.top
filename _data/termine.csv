@@ -2,6 +2,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4668,DE,10557,2020-10-02,10:00,Berlin,Zeltenplatz,Event,2020-10-02 07:40:15,
 4644,DE,83278,2020-10-02,14:00,Traunstein,Stadtpark,Kundgebung,2020-10-01 10:36:29,
 4666,DE,10557,2020-10-02,15:00,Berlin,Platz der Republik/Reichstag,Kundgebung,2020-10-02 00:57:31,https://demo.stream/live
+4671,DE,10117,2020-10-02,16:00,Berlin,Pariser Platz/US-Botschaft,Kundgebung,2020-10-02 13:26:08,
 4475,DE,95326,2020-10-02,17:00,Kulmbach,Marktplatz,Kundgebung,2020-09-22 19:23:32,
 4656,DE,35398,2020-10-02,17:30,Gießen,Seltersweg/ Kugelbrunnen,Mahnwache,2020-10-01 20:55:13,
 4613,DE,10178,2020-10-02,19:30,Berlin,Rosa-Luxemburg-Platz,Kundgebung,2020-09-30 11:16:38,
@@ -80,6 +81,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4104,DE,85586,2020-10-08,18:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,2020-09-03 11:01:23,
 4619,AT,1010,2020-10-09,17:00,Wien,Ballhausplatz,Menschenkette,2020-09-30 13:35:13,
 4625,DE,74889,2020-10-09,17:00,Sinsheim,Burgplatz,Vortrag,2020-09-30 17:49:36,
+4670,DE,73614,2020-10-09,17:30,Schorndorf,Oberer Marktplatz,Kundgebung,2020-10-02 12:46:55,
 4323,DE,10117,2020-10-10,10:00,Berlin,US Botschaft am Brandenburger,Kundgebung,2020-09-16 11:47:59,
 4515,DE,10707,2020-10-10,11:55,Berlin,Adenauer Platz,Spaziergang,2020-09-24 06:46:51,
 4270,DE,10629,2020-10-10,11:59,Berlin,Adenauerplatz Schweigemarsch,Sonstiges,2020-09-13 15:32:23,
