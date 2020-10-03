@@ -19,6 +19,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4661,DE,98617,2020-10-03,14:00,Meiningen,Volkshausplatz,Kundgebung,2020-10-01 21:16:49,
 4695,DE,80237,2020-10-03,14:00,München,Innenstadt,Flashmob,2020-10-02 23:32:57,
 4658,DE,36037,2020-10-03,14:00,Fulda,Bahnhofsplatz,Demonstration,2020-10-01 21:10:59,
+4701,DE,99089,2020-10-03,14:00,Erfurt,Wenigemarkt,Flashmob,2020-10-03 11:49:45,
 4614,DE,10117,2020-10-03,14:00,Berlin,Brandenburger Tor,Flashmob,2020-09-30 11:36:37,https://demo.stream/berlinberlin
 4696,DE,10117,2020-10-03,14:00,Berlin,Brandenburger Tor,Kundgebung,2020-10-02 23:37:52,https://youtu.be/xOSjU5-ym9c
 4698,DE,10117,2020-10-03,14:00,Berlin,Brandenburger Tor,Kundgebung,2020-10-03 00:13:37,https://youtu.be/bz52moETtes
@@ -53,6 +54,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4510,DE,69231,2020-10-04,15:00,Rauenberg,Rathausplatz,Kundgebung,2020-09-24 00:13:04,
 4492,DE,99084,2020-10-04,15:00,Erfurt,Brühler Garten,Kundgebung,2020-09-23 19:07:11,
 4452,DE,82140,2020-10-04,15:30,Olching (FFB),Nöscherplatz,Kundgebung,2020-09-21 10:23:41,
+4702,DE,28209,2020-10-04,17:00,Bremen,Marcusbrunnen im Bürgerpark,Meditation,2020-10-03 12:34:03,
 4364,DE,91301,2020-10-04,18:00,Forchheim,Paradeplatz,Kundgebung,2020-09-17 16:28:56,
 4678,DE,10117,2020-10-04,18:00,Berlin,Bundeskanzleramt/Protestcamp,Kundgebung,2020-10-02 13:38:23,
 4649,DE,63825,2020-10-05,17:00,Schöllkrippen,Marktplatz,Demonstration,2020-10-01 14:15:05,
@@ -89,6 +91,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4619,AT,1010,2020-10-09,17:00,Wien,Ballhausplatz,Menschenkette,2020-09-30 13:35:13,
 4625,DE,74889,2020-10-09,17:00,Sinsheim,Burgplatz,Vortrag,2020-09-30 17:49:36,
 4686,DE,74889,2020-10-09,17:00,Sinsheim,Burgplatz,Kundgebung,2020-10-02 19:11:20,
+4700,DE,51515,2020-10-09,17:00,Bergisch Gladbach,Trotzenburger Platz,Kundgebung,2020-10-03 11:12:29,
 4670,DE,73614,2020-10-09,17:30,Schorndorf,Oberer Marktplatz,Kundgebung,2020-10-02 12:46:55,
 4323,DE,10117,2020-10-10,10:00,Berlin,US Botschaft am Brandenburger,Kundgebung,2020-09-16 11:47:59,
 4515,DE,10707,2020-10-10,11:55,Berlin,Adenauer Platz,Spaziergang,2020-09-24 06:46:51,
