@@ -36,7 +36,7 @@ navbar-links:
     - Ungarisch: /hu_index.html
   Info: /de_info.html
   Spenden: /de_spenden.html
-  Kontakt: /de_kontakt.html
+  Kontakt: mailto:info@anonymous.support
 
 # --- Logo --- #
 
@@ -104,16 +104,18 @@ markdown: kramdown
 remote_theme: anonymous-tld/beautiful-jekyll
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
-navbar-col: "#FFE5CC"
+navbar-col: "#bee8e5"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#994C00"
 hover-col: "#FF8000"
-footer-col: "#FFE5CC"
+footer-col: "#bee8e5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
+
+remove-ads: true
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
