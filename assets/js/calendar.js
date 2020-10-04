@@ -7,6 +7,12 @@ document.addEventListener('DOMContentLoaded', function() {
   } else if (lang == "us") {
     add_button_text = "New Date";
   } else {
+    add_button_text = "Nouvelle date";
+    lang = "fr";
+  } else {
+    add_button_text = "Nowy termin";
+    lang = "pl";
+  } else {
     add_button_text = "Neuer Termin";
     lang = "de";
   }
