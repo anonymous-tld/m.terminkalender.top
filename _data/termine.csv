@@ -28,10 +28,12 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4697,DE,71334,2020-10-05,18:30,Waiblingen,Marktbrunnen,Menschenkette,2020-10-03 00:12:03,
 4705,DE,71332,2020-10-05,18:30,Waiblingen,Marktbrunnen,Spaziergang,2020-10-03 17:27:43,
 4711,DE,71332,2020-10-05,18:30,Waiblingen,Am Marktbrunnen,Spaziergang,2020-10-04 07:27:15,
+4721,DE,09111,2020-10-05,18:30,Chemnitz,Rathaus,Mahnwache,2020-10-04 17:45:28,
 4615,DE,16321,2020-10-05,18:30,Bernau,Marktplatz,Kundgebung,2020-09-30 11:58:07,
 4640,DE,18539,2020-10-05,19:00,Stralsund,Alter Markt,Mahnwache,2020-10-01 09:17:40,
 4714,DE,96515,2020-10-05,19:00,Sonneberg,Stadtparkhüttla,Spaziergang,2020-10-04 11:21:31,
 4694,DE,59494,2020-10-05,19:00,Soest,Rathaus,Spaziergang,2020-10-02 23:26:27,
+4724,DE,07907,2020-10-05,19:00,Schleiz,Neumarkt,Spaziergang,2020-10-04 18:26:26,
 4703,DE,08261,2020-10-05,19:00,Schöneck,Rathaus,Spaziergang,2020-10-03 14:25:00,
 4664,DE,07318,2020-10-05,19:00,Saalfeld,Markt/Ecke Apotheke,Demonstration,2020-10-01 22:06:08,
 4665,DE,07407,2020-10-05,19:00,Rudolstadt,Markt/Ecke Apotheke,Spaziergang,2020-10-01 22:06:56,
@@ -53,6 +55,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4609,DE,80000,2020-10-07,16:30,München,Theresienwiese,Sonstiges,2020-09-30 09:24:20,
 4717,DE,10117,2020-10-07,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-10-04 14:43:37,https://demo.stream/mariagoetz
 4655,DE,01662,2020-10-07,19:00,Meißen,Heinrichsplatz,Kundgebung,2020-10-01 20:34:46,
+4722,DE,91054,2020-10-08,10:30,Erlangen,Schlossplatz,Kundgebung,2020-10-04 17:50:17,
 4104,DE,85586,2020-10-08,18:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,2020-09-03 11:01:23,
 4619,AT,1010,2020-10-09,17:00,Wien,Ballhausplatz,Menschenkette,2020-09-30 13:35:13,
 4625,DE,74889,2020-10-09,17:00,Sinsheim,Burgplatz,Vortrag,2020-09-30 17:49:36,
@@ -70,6 +73,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4312,DE,53111,2020-10-10,14:00,Bonn,Hofgarten,Demonstration,2020-09-15 23:00:40,
 4296,DE,26382,2020-10-10,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2020-09-15 11:33:45,
 4266,DE,25335,2020-10-10,14:30,Elmshorn,Nikolai-Kirche,Spaziergang,2020-09-13 00:29:54,
+4723,DE,91054,2020-10-10,15:00,Erlangen,Schlossplatz,Kundgebung,2020-10-04 17:57:24,
 4603,DE,44137,2020-10-10,15:00,Dortmund,Friedensplatz,Kundgebung,2020-09-29 19:28:42,
 4716,DE,26603,2020-10-10,15:00,Aurich,Marktplatz,Spaziergang,2020-10-04 14:27:16,
 4706,DE,22926,2020-10-10,15:00,Ahrensburg,Parkplatz Schlossbrücke,Spaziergang,2020-10-03 19:08:14,
@@ -129,6 +133,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3901,DE,80331,2020-11-02,17:00,München,Max Joseph Platz/vor der Oper,Meditation,2020-08-19 02:17:35,http://www.mbsr-muenchen.net/openair
 4500,DE,50674,2020-11-02,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:23:17,
 4543,DE,10117,2020-11-05,18:00,Berlin,Brandenburger Tor,Kundgebung,2020-09-25 10:22:18,https://anonymous.support/tv
+4725,DE,04105,2020-11-07,14:00,Leipzig,Rosental,Kundgebung,2020-10-04 20:44:58,
 4300,DE,26382,2020-11-07,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2020-09-15 11:36:19,
 3139,DE,24568,2020-11-07,15:30,Kaltenkirchen,Park ggü. Rathaus,Sonstiges,2020-07-10 12:21:49,
 3902,DE,80331,2020-11-09,17:00,München,Marienplatz,Meditation,2020-08-19 02:18:13,http://www.mbsr-muenchen.net/openair
