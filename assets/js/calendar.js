@@ -6,12 +6,16 @@ document.addEventListener('DOMContentLoaded', function() {
     add_button_text = "Новая дата";
   } else if (lang == "us-gb") {
     add_button_text = "New Date";
-  } else {
-    add_button_text = "Nouvelle date";
-    lang = "fr";
-  } else {
-    add_button_text = "Nowy termin";
-    lang = "po";
+    
+  } else if (lang == "fr") {
+    add_button_text = "Nouvelle date";  
+ 
+  } else if (lang == "hu") {
+    add_button_text = "Nouvelle date";  
+  
+   } else if (lang == "po") {
+    add_button_text = "Nowy termin";  
+    
   } else {
     add_button_text = "Neuer Termin";
     lang = "de";
