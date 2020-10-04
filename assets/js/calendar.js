@@ -12,6 +12,8 @@ document.addEventListener('DOMContentLoaded', function() {
     add_button_text = "Nouvelle date";
   } else if (lang == "pl") {
     add_button_text = "Nową datę";
+   } else if (lang == "cs") {
+    add_button_text = "Nová schůzka";
   } else {
     add_button_text = "Neuer Termin";
     lang = "de";
