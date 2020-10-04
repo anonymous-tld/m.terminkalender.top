@@ -8,6 +8,8 @@ document.addEventListener('DOMContentLoaded', function() {
     add_button_text = "New Date";
   } else if (lang == "hu") {
     add_button_text = "Új időpont";
+  } else if (lang == "es") {
+    add_button_text = "Nueva fecha";
   } else if (lang == "fr") {
     add_button_text = "Nouvelle date";
   } else if (lang == "pl") {
