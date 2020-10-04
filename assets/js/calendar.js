@@ -4,14 +4,14 @@ document.addEventListener('DOMContentLoaded', function() {
   var lang = params[1];
   if (lang == "ru") {
     add_button_text = "Новая дата";
-  } else if (lang == "us") {
+  } else if (lang == "us-gb") {
     add_button_text = "New Date";
   } else {
     add_button_text = "Nouvelle date";
     lang = "fr";
   } else {
     add_button_text = "Nowy termin";
-    lang = "pl";
+    lang = "po";
   } else {
     add_button_text = "Neuer Termin";
     lang = "de";
