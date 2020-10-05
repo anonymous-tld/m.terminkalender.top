@@ -19,6 +19,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4703,DE,08261,2020-10-05,19:00,Schöneck,Rathaus,Spaziergang,2020-10-03 14:25:00,
 4664,DE,07318,2020-10-05,19:00,Saalfeld,Markt/Ecke Apotheke,Demonstration,2020-10-01 22:06:08,
 4665,DE,07407,2020-10-05,19:00,Rudolstadt,Markt/Ecke Apotheke,Spaziergang,2020-10-01 22:06:56,
+4728,DE,07407,2020-10-05,19:00,Rudolstadt,Markt,Spaziergang,2020-10-05 07:48:55,
 4459,DE,21465,2020-10-05,19:00,Reinbek/Wentorf,Schloß/Innenhof,Spaziergang,2020-09-21 21:20:14,
 4683,DE,33098,2020-10-05,19:00,Paderborn,Rathausplatz,Spaziergang,2020-10-02 16:17:08,
 4465,DE,17033,2020-10-05,19:00,Neubrandenburg,Marktplatz/Innenstadt,Spaziergang,2020-09-22 09:41:41,
@@ -49,6 +50,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4270,DE,10629,2020-10-10,11:59,Berlin,Adenauerplatz Schweigemarsch,Sonstiges,2020-09-13 15:32:23,
 4645,DE,50321,2020-10-10,13:00,Brühl,Markt/Höhe Kreissparkasse,Kundgebung,2020-10-01 10:44:05,
 4691,DE,31789,2020-10-10,13:15,Hameln,Pferdemarkt,Kundgebung,2020-10-02 21:04:09,
+4727,DE,31785,2020-10-10,13:15,Hameln,Hochzeitshausterrasse,Kundgebung,2020-10-05 06:56:52,
 4575,DE,31789,2020-10-10,13:15,Hameln,Pferdemarkt,Kundgebung,2020-09-26 21:11:06,
 4083,IT,00184,2020-10-10,14:00,Roma,P.zza San Giovanni in Laterano,Demonstration,2020-09-02 16:34:02,https://cutt.ly/ifxC3Q7
 4598,DE,14471,2020-10-10,14:00,Potsdam,Luisenplatz,Kundgebung,2020-09-29 13:16:27,
