@@ -31,15 +31,16 @@ url-pretty: "m.terminkalender.top"
 
 navbar-links:
   Sprache: 
-    - Deutsch: /index.html
-    - Englisch: /en-gb/index.html
-    - Russisch: /ru/index.html
-    - Ungarisch: /hu/index.html
-    - Polnisch: /pl/index.html
-    - Tschechisch: /cs/index.html
-    - Italenisch: /it/index.html
-    - Französisch: /fr/index.html
-    - Spanisch: /es/index.html
+    - Deutsch: /
+    - Englisch: /en-gb/
+    - Russisch: /ru/
+    - Ungarisch: /hu/
+    - Polnisch: /pl/
+    - Tschechisch: /cs/
+    - Türkisch: /tr/
+    - Italenisch: /it/
+    - Französisch: /fr/
+    - Spanisch: /es/
   Info: /de/info.html
   Spenden: /de/spenden.html
   Kontakt: mailto:info@anonymous.support
