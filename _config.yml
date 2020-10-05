@@ -31,7 +31,7 @@ url-pretty: "m.terminkalender.top"
 
 navbar-links:
   Sprache: 
-    - Deutsch: /
+    - Deutsch: /index.html
     - Englisch: /en-gb/index.html
     - Russisch: /ru/index.html
     - Ungarisch: /hu/index.html
