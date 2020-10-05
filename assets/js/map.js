@@ -28,7 +28,7 @@ controlLayers.addBaseLayer(terrain, 'Stamen Terrain basemap');
 geocoder = new L.Control.Geocoder.Nominatim();
 
 // Read markers data from data.csv
-$.get('/assets/data/demotermine.csv', function(csvString) {
+$.get('/_data/demotermine.csv', function(csvString) {
 
   // Use PapaParse to convert string to array of objects
   var data = Papa.parse(csvString, {header: true, dynamicTyping: true, skipEmptyLines: true}).data;
