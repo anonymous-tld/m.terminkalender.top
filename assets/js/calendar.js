@@ -18,6 +18,8 @@ document.addEventListener('DOMContentLoaded', function() {
     add_button_text = "Nová schůzka";
   } else if (lang == "it") {
     add_button_text = "Nuova data";
+  } else if (lang == "tr") {
+    add_button_text = "Yeni randevu";
   } else if (lang == "nl") {
     add_button_text = "Nieuwe datum";
   } else {
