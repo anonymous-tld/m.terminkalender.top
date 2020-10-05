@@ -42,7 +42,7 @@ navbar-links:
     - Français: /fr/
     - Svenska: /sv/
     - Español: /es/
-  Karte: /de/map.html
+# Karte: /de/map.html
   Info: /de/info.html
   Spenden: /de/spenden.html
   Kontakt: mailto:info@anonymous.support
