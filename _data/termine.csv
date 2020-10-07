@@ -58,6 +58,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4750,DE,07407,2020-10-12,19:00,Rudolstadt,Markt,Spaziergang,2020-10-06 15:25:17,
 4746,DE,17033,2020-10-12,19:00,Neubrandenburg,Marktplatz / Innenstadt,Spaziergang,2020-10-06 12:32:39,
 4755,DE,99974,2020-10-12,19:00,Mühlhausen/ Thüringen,Postplatz,Spaziergang,2020-10-07 00:53:02,
+4759,DE,47906,2020-10-12,19:00,Kempen,Buttermarkt,Spaziergang,2020-10-07 10:29:53,
 4156,DE,26441,2020-10-12,19:00,Jever,Marktplatz,Spaziergang,2020-09-06 19:37:58,
 4618,DE,99510,2020-10-12,19:00,Apolda,Markt/ Rathaus,Spaziergang,2020-09-30 13:09:42,
 4682,DE,52064,2020-10-12,19:00,Aachen,Katschhof an den Treppen,Musik,2020-10-02 15:17:29,
@@ -78,6 +79,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3898,DE,80331,2020-10-19,17:00,München,Marienplatz,Meditation,2020-08-19 02:14:46,http://www.mbsr-muenchen.net/openair
 4498,DE,50674,2020-10-19,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:22:06,
 4742,DE,99510,2020-10-19,18:30,Apolda,Markt/ Rathaus,Spaziergang,2020-10-06 08:02:47,
+4760,DE,47906,2020-10-19,19:00,Kempen,Buttermarkt,Spaziergang,2020-10-07 10:30:23,
 4157,DE,26441,2020-10-19,19:00,Jever,Marktplatz,Spaziergang,2020-09-06 19:38:35,
 4630,DE,69190,2020-10-19,20:00,Walldorf,Drehscheibe,Kundgebung,2020-09-30 18:43:09,
 4719,DE,10117,2020-10-21,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-10-04 14:44:45,https://demo.stream/mariagoetz
