@@ -12,6 +12,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4700,DE,51515,2020-10-09,17:00,Bergisch Gladbach,Trotzenburger Platz,Kundgebung,2020-10-03 11:12:29,
 4768,DE,51465,2020-10-09,17:00,Bergisch Gladbach,Hauptstr. 164,Kundgebung,2020-10-07 14:49:18,
 4670,DE,73614,2020-10-09,17:30,Schorndorf,Oberer Marktplatz,Kundgebung,2020-10-02 12:46:55,
+4797,DE,24340,2020-10-10,10:00,Eckernförde,Hafenspitze,Kundgebung,2020-10-08 14:28:36,
 4779,DE,15831,2020-10-10,10:00,Blankenfelde Mahlow,B96/Krügers Land,Menschenkette,2020-10-08 00:42:09,
 4323,DE,10117,2020-10-10,10:00,Berlin,US Botschaft am Brandenburger,Kundgebung,2020-09-16 11:47:59,
 4769,DE,02763,2020-10-10,11:00,Zittau,Neustadt Herkukesbrunnen,Kundgebung,2020-10-07 15:12:00,
@@ -29,6 +30,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4083,IT,00184,2020-10-10,14:00,Roma,Piazza San Giovanni,Demonstration,2020-09-02 16:34:02,https://cutt.ly/ifxC3Q7
 4737,DE,64385,2020-10-10,14:00,Reichelsheim,B 38 Ortseingang Aldi,Kundgebung,2020-10-05 14:07:38,
 4598,DE,14471,2020-10-10,14:00,Potsdam,Luisenplatz,Kundgebung,2020-09-29 13:16:27,
+4798,DE,80239,2020-10-10,14:00,München,Innenstadt,Flashmob,2020-10-08 14:44:07,
 4781,DE,79539,2020-10-10,14:00,Lörrach,Marktplatz,Mahnwache,2020-10-08 00:46:42,
 4762,DE,56068,2020-10-10,14:00,Koblenz,Jesuitenplatz,Mahnwache,2020-10-07 11:11:13,
 4795,DE,36037,2020-10-10,14:00,Fulda,Bahnhofsplatz,Kundgebung,2020-10-08 12:00:58,
@@ -91,8 +93,10 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4687,DE,74889,2020-10-16,17:00,Sinsheim,Burgplatz,Kundgebung,2020-10-02 19:11:56,
 4792,DE,89522,2020-10-17,11:00,Heidenheim,Bahnhof / Parkanlage,Kundgebung,2020-10-08 11:56:06,
 4663,DE,52525,2020-10-17,11:45,Heinsberg,Parkplatz Ostpromenade,Demonstration,2020-10-01 21:41:39,
+4799,DE,52525,2020-10-17,11:45,Heinsberg,Parkplatz Ostpromenade,Spaziergang,2020-10-08 15:19:35,https://www.youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
 4784,DE,70372,2020-10-17,12:00,Stuttgart,Cannstatter Wasen,Kundgebung,2020-10-08 00:52:46,
 4747,DE,63571,2020-10-17,13:00,Gelnhausen,Parkplatz am Uferweg/ Bleiche,Kundgebung,2020-10-06 12:33:30,
+4796,DE,79215,2020-10-17,14:00,Elzach,Nikolausplatz,Demonstration,2020-10-08 13:06:28,
 4297,DE,26382,2020-10-17,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2020-09-15 11:34:32,
 4744,DE,56068,2020-10-17,15:00,Koblenz,Münzplatz,Kundgebung,2020-10-06 08:31:22,
 4707,DE,22926,2020-10-17,15:00,Ahrensburg,Parkplatz Schlossbrücke,Spaziergang,2020-10-03 19:08:59,
