@@ -13,6 +13,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4768,DE,51465,2020-10-09,17:00,Bergisch Gladbach,Hauptstr. 164,Kundgebung,2020-10-07 14:49:18,
 4670,DE,73614,2020-10-09,17:30,Schorndorf,Oberer Marktplatz,Kundgebung,2020-10-02 12:46:55,
 4797,DE,24340,2020-10-10,10:00,Eckernförde,Hafenspitze,Kundgebung,2020-10-08 14:28:36,
+4808,DE,24340,2020-10-10,10:00,Eckernförde,Hafenspitze,Kundgebung,2020-10-08 21:00:02,
 4779,DE,15831,2020-10-10,10:00,Blankenfelde Mahlow,B96/Krügers Land,Menschenkette,2020-10-08 00:42:09,
 4323,DE,10117,2020-10-10,10:00,Berlin,US Botschaft am Brandenburger,Kundgebung,2020-09-16 11:47:59,
 4769,DE,02763,2020-10-10,11:00,Zittau,Neustadt Herkukesbrunnen,Kundgebung,2020-10-07 15:12:00,
@@ -60,6 +61,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4635,DE,18057,2020-10-10,15:30,Rostock,Universitätsplatz am Brunnen,Kundgebung,2020-10-01 04:50:48,
 4787,DE,87600,2020-10-10,15:30,Kaufbeuren,Obstmarkt (Fußgängerzone),Meditation,2020-10-08 10:32:21,
 4693,DE,35398,2020-10-10,15:30,Gießen,Seltersweg/ Kugelbrunnen,Mahnwache,2020-10-02 22:05:08,
+4809,DE,35398,2020-10-10,15:30,Gießen,Seltersweg / Katharinengasse,Demonstration,2020-10-08 21:02:04,
 4748,DE,99084,2020-10-10,15:30,Erfurt,Anger 1,Kundgebung,2020-10-06 15:23:43,
 4785,DE,44787,2020-10-10,15:30,Bochum,Husemannplatz,Kundgebung,2020-10-08 01:45:20,
 4406,DE,48143,2020-10-10,16:00,Münster,Stubengasse,Kundgebung,2020-09-19 12:03:52,
@@ -101,6 +103,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4799,DE,52525,2020-10-17,11:45,Heinsberg,Parkplatz Ostpromenade,Spaziergang,2020-10-08 15:19:35,https://www.youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
 4784,DE,70372,2020-10-17,12:00,Stuttgart,Cannstatter Wasen,Kundgebung,2020-10-08 00:52:46,
 4747,DE,63571,2020-10-17,13:00,Gelnhausen,Parkplatz am Uferweg/ Bleiche,Kundgebung,2020-10-06 12:33:30,
+4807,DE,97080,2020-10-17,14:00,Würzburg,Mainwiesen / Höhe Talavera,Kundgebung,2020-10-08 20:58:57,
 4796,DE,79215,2020-10-17,14:00,Elzach,Nikolausplatz,Demonstration,2020-10-08 13:06:28,
 4297,DE,26382,2020-10-17,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2020-09-15 11:34:32,
 4744,DE,56068,2020-10-17,15:00,Koblenz,Münzplatz,Kundgebung,2020-10-06 08:31:22,
