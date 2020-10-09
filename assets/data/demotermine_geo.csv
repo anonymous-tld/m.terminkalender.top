@@ -17,6 +17,7 @@ DE,2020-10-10,11:00:00,79312,Emmendingen,Kleiner Marktplatz,Kundgebung,,51.94616
 DE,2020-10-10,11:30:00,83435,Bad Reichenhall,Rathausplatz,Kundgebung,,47.722072,12.8764586
 DE,2020-10-10,11:55:00,10707,Berlin,Adenauer Platz,Spaziergang,,52.50056725,13.307020931213284
 DE,2020-10-10,11:59:00,10629,Berlin,Adenauerplatz Schweigemarsch,Sonstiges,,52.5170365,13.3888599
+DE,2020-10-10,11:59:00,10629,Berlin,Adenauer Platz,Demonstration,,52.50056725,13.307020931213284
 UK,2020-10-10,12:00:00,G1 5DB,Glasgow,Greendyke St / Obelisk,Demonstration,,55.853273976962626,-4.239484284389175
 DE,2020-10-10,13:00:00,50321,Brühl,Markt/Höhe Kreissparkasse,Kundgebung,,50.9332113,7.3235675
 DE,2020-10-10,13:00:00,83646,Bad Tölz,Marktstr. / beim Winzerer Denkmal,Kundgebung,,47.7610641,11.5582933
@@ -93,6 +94,7 @@ DE,2020-10-12,19:00:00,47906,Kempen,Buttermarkt,Spaziergang,,51.364228,6.4185212
 DE,2020-10-12,19:00:00,87600,Kaufbeuren,Altes Rathaus,Spaziergang,,47.87328765,10.625516300000001
 DE,2020-10-12,19:00:00,26441,Jever,Marktplatz,Spaziergang,,48.3965518,9.9939363
 DE,2020-10-12,19:00:00,88045,Friedrichshafen Bodensee,Kinderzeppelin vor dem Zeppeli,Spaziergang,,47.67727085,9.4765425
+DE,2020-10-12,19:00:00,09599,Freiberg,Albertpark - Springbrunnen,Spaziergang,,50.9043038,13.3808367
 DE,2020-10-12,19:00:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,51.022758,11.5134546
 DE,2020-10-12,19:00:00,52064,Aachen,Katschhof an den Treppen,Musik,,50.776351,6.083862
 DE,2020-10-14,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz,52.520045350000004,13.369133681226069
@@ -132,6 +134,7 @@ DE,2020-10-24,15:00:00,84130,Dingolfing,Marienplatz,Kundgebung,,48.6294028,12.49
 DE,2020-10-24,15:00:00,84130,Dingolfing,MARIENPLATZ,Kundgebung,,48.6294028,12.4988493
 DE,2020-10-24,15:00:00,22926,Ahrensburg,Parkplatz Schlossbrücke,Spaziergang,,53.6736529,10.2358999
 DE,2020-10-24,15:30:00,14471,Potsdam,Brandenburger Tor,Kundgebung,,52.39955055,13.048065746780047
+DE,2020-10-24,16:00:00,04109,Leipzig,Markt,Kundgebung,,51.3404043,12.37433
 DE,2020-10-24,16:00:00,67657,Kaiserslautern,Stiftsplatz (Marktplatz),Kundgebung,,49.4445761,7.772191651358115
 BE,2020-10-25,12:00:00,1000,Brüssel,Hauptbahnhof,Kundgebung,,52.4580188,13.5431614
 BE,2020-10-25,13:00:00,1000,Brüssel,Bolivar/Station North,Spaziergang,,50.8465573,4.351697
