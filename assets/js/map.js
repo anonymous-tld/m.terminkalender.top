@@ -12,6 +12,11 @@ var controlLayers = L.control.layers( null, null, {
 
 L.Control.geocoder().addTo(map);
 
+var maskIcon = L.icon({
+    iconUrl: '/assets/img/anti_mundschutz.png',
+    iconSize:     [20, 20], // size of the icon
+});
+
 // display Carto basemap tiles with light features and labels
 var light = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
   attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attribution">CARTO</a>'
@@ -39,7 +44,7 @@ $.get('/assets/data/demotermine_geo.csv', function(csvString) {
     var row = data[i]
 
     if (row['latitude'] != "") {
-      var marker = L.marker([row['latitude'], row['longitude']], {
+      var marker = L.marker([row['latitude'], row['longitude']], {icon: maskIcon}, {
         opacity: 1
       }).bindPopup("Stadt: " + row.stadt + "<br/>Datum: " + row.datum + "<br/>Uhrzeit: " + row.uhrzeit + "<br/>Treffpunkt: " + row.treffpunkt + "<br/>Protestform: " + row.protestform)
       marker.addTo(map)
