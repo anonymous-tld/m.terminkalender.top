@@ -42,11 +42,18 @@ $.get('/assets/data/demotermine_geo.csv', function(csvString) {
   // For each row, columns `Latitude`, `Longitude`, and `Title` are required
   for (var i in data) {
     var row = data[i]
+    var description = ""
 
+    if (row.livestream) {
+      var description = "Stadt: " + row.stadt + "<br/>Datum: " + row.datum + "<br/>Uhrzeit: " + row.uhrzeit + "<br/>Treffpunkt: " + row.treffpunkt + "<br/>Protestform: " + row.protestform + "<br/><a href='" + row.livestream + "'>Livestream</>"
+    } else {
+      var description = "Stadt: " + row.stadt + "<br/>Datum: " + row.datum + "<br/>Uhrzeit: " + row.uhrzeit + "<br/>Treffpunkt: " + row.treffpunkt + "<br/>Protestform: " + row.protestform
+    }
+    
     if (row['latitude'] != "") {
       var marker = L.marker([row['latitude'], row['longitude']], {icon: maskIcon}, {
         opacity: 1
-      }).bindPopup("Stadt: " + row.stadt + "<br/>Datum: " + row.datum + "<br/>Uhrzeit: " + row.uhrzeit + "<br/>Treffpunkt: " + row.treffpunkt + "<br/>Protestform: " + row.protestform)
+      }).bindPopup(description)
       marker.addTo(map)
     } else {
       console.log("Keine Koordinaten verfügbar");
