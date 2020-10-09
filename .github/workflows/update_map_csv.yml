@@ -7,7 +7,7 @@ name: Keep map.csv uptodate
 on:      
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '*/5 * * * *'
+    - cron:  '0 * * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -27,9 +27,9 @@ jobs:
         uses: TheLastProject/keep-remote-file-locally-up-to-date-action@v1
         with: 
           # The url of the file to download
-          url: https://demo.terminkalender.top/map.csv
+          url: https://maps.leylines.net/geodata/anonymous/demotermine_geo.csv
           # The location of the file in the repository to update if changed
-          file_in_repo: assets/data/map.csv
+          file_in_repo: /assets/data/demotermine_geo.csv
           # The name of the git user
           git_user: anonymous-tld
           # The email of the git user
