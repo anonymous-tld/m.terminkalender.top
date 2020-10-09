@@ -75,6 +75,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4730,DE,10117,2020-10-11,11:00,Berlin,Brandenburger Tor,Kundgebung,2020-10-05 10:21:11,
 4814,DE,90402,2020-10-11,14:00,Nürnberg,Jakobsplatz,Kundgebung,2020-10-09 06:59:55,
 4782,DE,25524,2020-10-11,14:00,Itzehoe,Berliner Platz,Vortrag,2020-10-08 00:48:17,
+4825,DE,50667,2020-10-11,14:30,Köln,Heumarkt,Mahnwache,2020-10-09 21:32:13,https://youtu.be/qGRHRvRWXRM
 4803,DE,54516,2020-10-11,15:00,Wittlich,Platz an der Lieser,Versammlung,2020-10-08 15:56:42,
 4729,DE,82140,2020-10-11,15:30,Olching (FFB),Nöscherplatz,Kundgebung,2020-10-05 09:26:43,
 4738,DE,90431,2020-10-11,15:30,Nürnberg,Westpark,Kundgebung,2020-10-05 17:51:00,
@@ -126,6 +127,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4802,DE,16321,2020-10-19,18:00,Bernau,Bahnhofsvorplatz/Marktplatz,Kundgebung,2020-10-08 15:53:54,
 4804,DE,02763,2020-10-19,18:30,Zittau,Markt,Spaziergang,2020-10-08 16:56:36,
 4742,DE,99510,2020-10-19,18:30,Apolda,Markt/ Rathaus,Spaziergang,2020-10-06 08:02:47,
+4826,DE,21465,2020-10-19,19:00,Reinbek / 
+ Wentorf,Reinbeker Schloß / Innenhof,Spaziergang,2020-10-09 21:34:27,
 4760,DE,47906,2020-10-19,19:00,Kempen,Buttermarkt,Spaziergang,2020-10-07 10:30:23,
 4157,DE,26441,2020-10-19,19:00,Jever,Marktplatz,Spaziergang,2020-09-06 19:38:35,
 4630,DE,69190,2020-10-19,20:00,Walldorf,Drehscheibe,Kundgebung,2020-09-30 18:43:09,
