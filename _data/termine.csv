@@ -17,6 +17,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4753,DE,83435,2020-10-10,11:30,Bad Reichenhall,Rathausplatz,Kundgebung,2020-10-07 00:21:07,
 4515,DE,10707,2020-10-10,11:55,Berlin,Adenauer Platz,Spaziergang,2020-09-24 06:46:51,
 4270,DE,10629,2020-10-10,11:59,Berlin,Adenauerplatz Schweigemarsch,Sonstiges,2020-09-13 15:32:23,
+4820,DE,10629,2020-10-10,11:59,Berlin,Adenauer Platz,Demonstration,2020-10-09 13:12:30,
 4800,UK,G1 5DB,2020-10-10,12:00,Glasgow,Greendyke St / Obelisk,Demonstration,2020-10-08 15:48:13,
 4645,DE,50321,2020-10-10,13:00,Brühl,Markt/Höhe Kreissparkasse,Kundgebung,2020-10-01 10:44:05,
 4794,DE,83646,2020-10-10,13:00,Bad Tölz,Marktstr. / beim Winzerer Denkmal,Kundgebung,2020-10-08 11:59:19,
@@ -93,6 +94,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4788,DE,87600,2020-10-12,19:00,Kaufbeuren,Altes Rathaus,Spaziergang,2020-10-08 10:33:06,
 4156,DE,26441,2020-10-12,19:00,Jever,Marktplatz,Spaziergang,2020-09-06 19:37:58,
 4773,DE,88045,2020-10-12,19:00,Friedrichshafen Bodensee,Kinderzeppelin vor dem Zeppeli,Spaziergang,2020-10-07 21:55:09,
+4818,DE,09599,2020-10-12,19:00,Freiberg,Albertpark - Springbrunnen,Spaziergang,2020-10-09 13:01:05,
 4618,DE,99510,2020-10-12,19:00,Apolda,Markt/ Rathaus,Spaziergang,2020-09-30 13:09:42,
 4682,DE,52064,2020-10-12,19:00,Aachen,Katschhof an den Treppen,Musik,2020-10-02 15:17:29,
 4718,DE,10117,2020-10-14,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-10-04 14:44:10,https://demo.stream/mariagoetz
@@ -132,6 +134,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4600,DE,84130,2020-10-24,15:00,Dingolfing,MARIENPLATZ,Kundgebung,2020-09-29 16:30:07,
 4708,DE,22926,2020-10-24,15:00,Ahrensburg,Parkplatz Schlossbrücke,Spaziergang,2020-10-03 19:10:54,
 4731,DE,14471,2020-10-24,15:30,Potsdam,Brandenburger Tor,Kundgebung,2020-10-05 11:17:05,
+4819,DE,04109,2020-10-24,16:00,Leipzig,Markt,Kundgebung,2020-10-09 13:05:30,
 4548,DE,67657,2020-10-24,16:00,Kaiserslautern,Stiftsplatz (Marktplatz),Kundgebung,2020-09-25 17:08:26,
 4677,BE,1000,2020-10-25,12:00,Brüssel,Hauptbahnhof,Kundgebung,2020-10-02 13:36:09,
 4369,BE,1000,2020-10-25,13:00,Brüssel,Bolivar/Station North,Spaziergang,2020-09-17 19:00:48,
