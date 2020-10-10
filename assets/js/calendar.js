@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
       addButton: {
         text: add_button_text,
         click: function() {
-          window.open('https://demo.terminkalender.top/add/' + lang');
+          window.open('https://demo.terminkalender.top/add/' + lang + '/');
         }
       }
     },
