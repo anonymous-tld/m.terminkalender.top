@@ -48,11 +48,11 @@ language:
     - Spenden: /pl/spenden.html
     - Kontakt: mailto:info@anonymous.support
   ru: 
-    - Sprache: /ru/index.html
-    - Karte:   /ru/map.html
-    - Info:    /ru/info.html 
-    - Spenden: /ru/spenden.html
-    - Kontakt: mailto:info@anonymous.support
+    - Язык: /ru/index.html
+    - Карта:   /ru/map.html
+    - Информация:    /ru/info.html 
+    - Пожертвовать: /ru/spenden.html
+    - Контакты: mailto:info@anonymous.support
   sv: 
     - Sprache: /sv/index.html
     - Karte:   /sv/map.html
