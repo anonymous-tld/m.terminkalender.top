@@ -13,7 +13,7 @@ language:
     - Kontakt: mailto:info@anonymous.support
   en: 
     - Language: /en-gb/index.html 
-    - Map:      /en_gb/map.html
+    - Map:      /en-gb/map.html
     - Info:     /en-gb/info.html
     - Donate:   /en-gb/spenden.html
     - Contact:  mailto:info@anonymous.support
