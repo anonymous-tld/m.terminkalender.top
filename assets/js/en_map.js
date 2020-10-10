@@ -13,7 +13,7 @@ var controlLayers = L.control.layers( null, null, {
 L.Control.geocoder().addTo(map);
 
 var maskIcon = L.icon({
-    iconUrl: '/assets/img/anti_mundschutz.png',
+    iconUrl: '/img/stopmask2.png',
     iconSize:     [20, 20], // size of the icon
 });
 
