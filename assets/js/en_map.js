@@ -45,9 +45,9 @@ $.get('/assets/data/demotermine_geo.csv', function(csvString) {
     var description = ""
 
     if (row.livestream) {
-      var description = "Stadt: " + row.stadt + "<br/>Date: " + row.datum + "<br/>Time: " + row.uhrzeit + "<br/>Location: " + row.treffpunkt + "<br/>Campaign: " + row.protestform + "<br/><a href='" + row.livestream + "'>Broadcast</>"
+      var description = "City: " + row.stadt + "<br/>Date: " + row.datum + "<br/>Time: " + row.uhrzeit + "<br/>Location: " + row.treffpunkt + "<br/>Campaign: " + row.protestform + "<br/><a href='" + row.livestream + "'>Broadcast</>"
     } else {
-      var description = "Stadt: " + row.stadt + "<br/>Date: " + row.datum + "<br/>Time: " + row.uhrzeit + "<br/>Location: " + row.treffpunkt + "<br/Campaign: " + row.protestform
+      var description = "City: " + row.stadt + "<br/>Date: " + row.datum + "<br/>Time: " + row.uhrzeit + "<br/>Location: " + row.treffpunkt + "<br/Campaign: " + row.protestform
     }
     
     if (row['latitude'] != "") {
