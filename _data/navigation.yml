@@ -1,0 +1,59 @@
+language: 
+  cs: 
+    - Sprache: /cs/index.html
+    - Karte:   /cs/map.html
+    - Info:    /cs/info.html 
+    - Spenden: /cs/spenden.html
+    - Kontakt: mailto:info@anonymous.support
+  de: 
+    - Sprache: /index.html
+    - Karte:   /de/map.html
+    - Info:    /de/info.html 
+    - Spenden: /de/spenden.html
+    - Kontakt: mailto:info@anonymous.support
+  en: 
+    - Language: /en-gb/index.html 
+    - Map:      /en_gb/map.html
+    - Info:     /en-gb/info.html
+    - Donate:   /en-gb/spenden.html
+    - Contact:  mailto:info@anonymous.support
+  es: 
+    - Sprache: /es/index.html
+    - Info:    /es/info.html 
+    - Spenden: /es/spenden.html
+    - Kontakt:  mailto:info@anonymous.support
+  fr: 
+    - Sprache: /fr/index.html
+    - Info:    /fr/info.html 
+    - Spenden: /fr/spenden.html
+    - Kontakt:  mailto:info@anonymous.support
+  hu: 
+    - Sprache: /hu/index.html
+    - Info:    /hu/info.html 
+    - Spenden: /hu/spenden.html
+    - Kontakt:  mailto:info@anonymous.support
+  it: 
+    - Sprache: /it/index.html
+    - Info:    /it/info.html 
+    - Spenden: /it/spenden.html
+    - Kontakt: mailto:info@anonymous.support
+  pl: 
+    - Sprache: /pl/index.html
+    - Info:    /pl/info.html 
+    - Spenden: /pl/spenden.html
+    - Kontakt: mailto:info@anonymous.support
+  ru: 
+    - Sprache: /ru/index.html
+    - Info:    /ru/info.html 
+    - Spenden: /ru/spenden.html
+    - Kontakt: mailto:info@anonymous.support
+  sv: 
+    - Sprache: /sv/index.html
+    - Info:    /sv/info.html 
+    - Spenden: /sv/spenden.html
+    - Kontakt: mailto:info@anonymous.support
+  tr: 
+    - Sprache: /tr/index.html
+    - Info:    /tr/info.html 
+    - Spenden: /tr/spenden.html
+    - Kontakt: mailto:info@anonymous.support
