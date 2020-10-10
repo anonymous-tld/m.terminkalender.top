@@ -19,7 +19,7 @@ var maskIcon = L.icon({
 
 // display Carto basemap tiles with light features and labels
 var light = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-  attribution: '&copy; <a href="https://terminkalender.top">terminkalender.top</a>, Enter protest <a href="https://demo.terminkalender.top/add/en.php">here</a> eintragen.'
+  attribution: '&copy; <a href="https://terminkalender.top">terminkalender.top</a>, Enter protest <a href="https://demo.terminkalender.top/add/en.php">here</a>.'
 }).addTo(map); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
 controlLayers.addBaseLayer(light, 'Simple Map');
 
