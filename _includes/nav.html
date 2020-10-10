@@ -23,7 +23,7 @@
                     {%- for link in lang[1] -%} 
                       {%- for childlink in link -%}
                         {%- if childlink[1] contains "index.html" and lang[0] != page.language -%}
-                          <a class="dropdown-item" href="{{ childlink[1] | relative_url }}"><img src="/img/{{ lang[0] }}.png"</img></a>
+                          <a class="dropdown-item" href="{{ childlink[1] | relative_url }}"><img src="/img/langmenu/{{ lang[0] }}.png"</img></a>
                         {%- endif -%}
                       {%- endfor -%}
                     {%- endfor -%}
