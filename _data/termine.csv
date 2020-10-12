@@ -34,6 +34,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4860,NL,2511CS,2020-10-12,19:00,Den Haag,Plein,Demonstration,2020-10-12 10:14:01,https://demo.stream/liveport
 4618,DE,99510,2020-10-12,19:00,Apolda,Markt/ Rathaus,Spaziergang,2020-09-30 13:09:42,
 4682,DE,52064,2020-10-12,19:00,Aachen,Katschhof an den Treppen,Musik,2020-10-02 15:17:29,
+4876,NL,2511CS,2020-10-13,09:32,Den Haag,Plein / 2.Kamer,Kundgebung,2020-10-12 22:34:31,https://demo.stream/liveport
 4718,DE,10117,2020-10-14,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-10-04 14:44:10,https://demo.stream/mariagoetz
 4611,DE,87776,2020-10-14,19:00,Sontheim/Schwaben,Dampfsäg/Westerheimer Str. 10,Vortrag,2020-09-30 11:01:00,
 4868,DE,91054,2020-10-15,10:30,Erlangen,Rathausplatz,Mahnwache,2020-10-12 20:34:21,
@@ -71,6 +72,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4660,DE,36433,2020-10-18,13:00,Bad Salzungen,Puschkinpark,Event,2020-10-01 21:15:05,
 4861,DE,44135,2020-10-18,14:00,Dortmund,Hansaplatz,Kundgebung,2020-10-12 10:44:48,
 4871,AT,6900,2020-10-18,14:00,Bregenz,Platz vor dem Festspielhaus,Kundgebung,2020-10-12 21:22:31,
+4875,DE,82140,2020-10-18,15:30,Olching (FFB),Nöscherplatz,Kundgebung,2020-10-12 22:33:58,
 4651,DE,63825,2020-10-19,17:00,Schöllkrippen,Marktplatz,Demonstration,2020-10-01 14:16:13,
 3898,DE,80331,2020-10-19,17:00,München,Marienplatz,Meditation,2020-08-19 02:14:46,http://www.mbsr-muenchen.net/openair
 4498,DE,50674,2020-10-19,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:22:06,
