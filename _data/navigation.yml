@@ -30,10 +30,10 @@ language:
     - Donaties: /nl/spenden.html
     - Contact: mailto:info@anonymous.support
   cs: 
-    - Sprache: /cs/index.html
-    - Karte:   /cs/map.html
-    - Info:    /cs/info.html 
-    - Spenden: /cs/spenden.html
+    - Jazyk: /cs/index.html
+    - Mapa:   /cs/map.html
+    - Informace:    /cs/info.html 
+    - Darovat: /cs/spenden.html
     - Kontakt: mailto:info@anonymous.support
   en: 
     - Language: /en-gb/index.html 
@@ -54,34 +54,34 @@ language:
     - Donate:   /en-gb/spenden.html
     - Contact:  mailto:info@anonymous.support
   es: 
-    - Sprache: /es/index.html
-    - Karte:   /es/map.html
-    - Info:    /es/info.html 
-    - Spenden: /es/spenden.html
-    - Kontakt:  mailto:info@anonymous.support
+    - Lengua: /es/index.html
+    - Mapa:   /es/map.html
+    - Información:    /es/info.html 
+    - Donaciones: /es/spenden.html
+    - Contacto:  mailto:info@anonymous.support
   fr: 
-    - Sprache: /fr/index.html
-    - Karte:   /fr/map.html
+    - Langue: /fr/index.html
+    - Carte:   /fr/map.html
     - Info:    /fr/info.html 
-    - Spenden: /fr/spenden.html
-    - Kontakt:  mailto:info@anonymous.support
+    - Dons: /fr/spenden.html
+    - Contactez:  mailto:info@anonymous.support
   hu: 
-    - Sprache: /hu/index.html
-    - Karte:   /hu/map.html
+    - Nyelv: /hu/index.html
+    - Térkép:   /hu/map.html
     - Info:    /hu/info.html 
-    - Spenden: /hu/spenden.html
-    - Kontakt:  mailto:info@anonymous.support
+    - Adományoz: /hu/spenden.html
+    - Kapcsolatok:  mailto:info@anonymous.support
   it: 
-    - Sprache: /it/index.html
-    - Karte:   /it/map.html
+    - Lingua: /it/index.html
+    - Mappa:   /it/map.html
     - Info:    /it/info.html 
-    - Spenden: /it/spenden.html
-    - Kontakt: mailto:info@anonymous.support
+    - Donazioni: /it/spenden.html
+    - Contatto: mailto:info@anonymous.support
   pl: 
-    - Sprache: /pl/index.html
-    - Karte:   /pl/map.html
+    - Język: /pl/index.html
+    - Mapa:   /pl/map.html
     - Info:    /pl/info.html 
-    - Spenden: /pl/spenden.html
+    - Darowizny: /pl/spenden.html
     - Kontakt: mailto:info@anonymous.support
   ru: 
     - Язык: /ru/index.html
