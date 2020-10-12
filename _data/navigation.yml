@@ -5,7 +5,25 @@ language:
     - Info:    /de/info.html 
     - Spenden: /de/spenden.html
     - Kontakt: mailto:info@anonymous.support
+  ch: 
+    - Sprache: /index.html
+    - Karte:   /de/map.html
+    - Info:    /de/info.html 
+    - Spenden: /de/spenden.html
+    - Kontakt: mailto:info@anonymous.support
+  li: 
+    - Sprache: /index.html
+    - Karte:   /de/map.html
+    - Info:    /de/info.html 
+    - Spenden: /de/spenden.html
+    - Kontakt: mailto:info@anonymous.support
   nl: 
+    - Taal: /nl/index.html
+    - Kaart:   /nl/map.html
+    - Info:    /nl/info.html 
+    - Donaties: /nl/spenden.html
+    - Contact: mailto:info@anonymous.support
+  be: 
     - Taal: /nl/index.html
     - Kaart:   /nl/map.html
     - Info:    /nl/info.html 
@@ -18,6 +36,18 @@ language:
     - Spenden: /cs/spenden.html
     - Kontakt: mailto:info@anonymous.support
   en: 
+    - Language: /en-gb/index.html 
+    - Map:      /en-gb/map.html
+    - Info:     /en-gb/info.html
+    - Donate:   /en-gb/spenden.html
+    - Contact:  mailto:info@anonymous.support
+  us: 
+    - Language: /en-gb/index.html 
+    - Map:      /en-gb/map.html
+    - Info:     /en-gb/info.html
+    - Donate:   /en-gb/spenden.html
+    - Contact:  mailto:info@anonymous.support
+  ca: 
     - Language: /en-gb/index.html 
     - Map:      /en-gb/map.html
     - Info:     /en-gb/info.html
