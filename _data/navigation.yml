@@ -1,15 +1,21 @@
 language: 
-  cs: 
-    - Sprache: /cs/index.html
-    - Karte:   /cs/map.html
-    - Info:    /cs/info.html 
-    - Spenden: /cs/spenden.html
-    - Kontakt: mailto:info@anonymous.support
   de: 
     - Sprache: /index.html
     - Karte:   /de/map.html
     - Info:    /de/info.html 
     - Spenden: /de/spenden.html
+    - Kontakt: mailto:info@anonymous.support
+  nl: 
+    - Taal: /nl/index.html
+    - Kaart:   /nl/map.html
+    - Info:    /nl/info.html 
+    - Donaties: /nl/spenden.html
+    - Contact: mailto:info@anonymous.support
+  cs: 
+    - Sprache: /cs/index.html
+    - Karte:   /cs/map.html
+    - Info:    /cs/info.html 
+    - Spenden: /cs/spenden.html
     - Kontakt: mailto:info@anonymous.support
   en: 
     - Language: /en-gb/index.html 
