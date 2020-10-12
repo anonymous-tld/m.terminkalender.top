@@ -1,5 +1,6 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 4531,DE,17489,2020-10-12,14:00,Greifswald,Domstr. 54 / Dom / A. Merkel,Gegenprotest,2020-09-24 20:24:18,
+4864,DE,47798,2020-10-12,16:00,Krefeld,Neumarkt,Versammlung,2020-10-12 14:51:08,https://demo.stream/kevingabbe
 4650,DE,63825,2020-10-12,17:00,Schöllkrippen,Marktplatz,Demonstration,2020-10-01 14:15:48,
 4767,DE,46045,2020-10-12,17:00,Oberhausen,Marktstr./ Elsässer Str.,Demonstration,2020-10-07 13:20:47,
 4771,DE,02727,2020-10-12,17:00,Neugersdorf,Hauptstraße gegenüber Edeka,Menschenkette,2020-10-07 15:14:50,
@@ -56,6 +57,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4817,DE,58455,2020-10-17,15:30,Witten,Rathausplatz,Meditation,2020-10-09 12:25:32,
 4732,DE,14471,2020-10-17,15:30,Potsdam,Brandenburger Tor,Kundgebung,2020-10-05 11:17:47,
 4679,DE,39104,2020-10-17,15:30,Magdeburg,Domplatz,Kundgebung,2020-10-02 14:01:00,
+4863,DE,44787,2020-10-17,15:30,Bochum,Husemannplatz,Kundgebung,2020-10-12 14:45:33,
 4736,DE,28211,2020-10-17,16:45,Bremen,Platz am Hauptbahnhof,Kundgebung,2020-10-05 13:48:16,
 4849,DE,28199,2020-10-17,16:45,Bremen,Bahnhofsvorplatz (Wiese),Kundgebung,2020-10-11 17:15:52,
 4853,DE,75015,2020-10-18,10:45,Bretten,Marktplatz,Meditation,2020-10-11 22:35:04,
