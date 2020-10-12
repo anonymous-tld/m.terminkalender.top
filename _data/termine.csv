@@ -30,6 +30,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4156,DE,26441,2020-10-12,19:00,Jever,Marktplatz,Spaziergang,2020-09-06 19:37:58,
 4773,DE,88045,2020-10-12,19:00,Friedrichshafen Bodensee,Kinderzeppelin vor dem Zeppeli,Spaziergang,2020-10-07 21:55:09,
 4818,DE,09599,2020-10-12,19:00,Freiberg,Albertpark - Springbrunnen,Spaziergang,2020-10-09 13:01:05,
+4860,NL,2511CS,2020-10-12,19:00,Den Haag,Plein,Demonstration,2020-10-12 10:14:01,https://demo.stream/liveport
 4618,DE,99510,2020-10-12,19:00,Apolda,Markt/ Rathaus,Spaziergang,2020-09-30 13:09:42,
 4682,DE,52064,2020-10-12,19:00,Aachen,Katschhof an den Treppen,Musik,2020-10-02 15:17:29,
 4718,DE,10117,2020-10-14,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-10-04 14:44:10,https://demo.stream/mariagoetz
@@ -99,6 +100,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4299,DE,26382,2020-10-31,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2020-09-15 11:35:40,
 4581,DE,01067,2020-10-31,15:00,Dresden,Theaterplatz,Kundgebung,2020-09-27 12:08:44,https://demo.stream/live
 4573,DE,38100,2020-10-31,15:00,Braunschweig,Bürgerpark Hinter der VW Halle,Kundgebung,2020-09-26 20:45:57,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
+4859,NL,8917EN,2020-11-01,01:20,Leeuwarden,Zwembad de blauwe golf,Demonstration,2020-10-12 10:11:02,https://demo.stream/liveport
 3901,DE,80331,2020-11-02,17:00,München,Max Joseph Platz/vor der Oper,Meditation,2020-08-19 02:17:35,http://www.mbsr-muenchen.net/openair
 4500,DE,50674,2020-11-02,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:23:17,
 4543,DE,10117,2020-11-05,18:00,Berlin,Brandenburger Tor,Kundgebung,2020-09-25 10:22:18,https://anonymous.support/tv
