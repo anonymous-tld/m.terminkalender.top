@@ -90,14 +90,14 @@ language:
     - Пожертвовать: /ru/spenden.html
     - Контакты: mailto:info@anonymous.support
   sv: 
-    - Sprache: /sv/index.html
-    - Karte:   /sv/map.html
+    - Språk: /sv/index.html
+    - Karta:   /sv/map.html
     - Info:    /sv/info.html 
-    - Spenden: /sv/spenden.html
+    - Donera: /sv/spenden.html
     - Kontakt: mailto:info@anonymous.support
   tr: 
-    - Sprache: /tr/index.html
-    - Karte:   /tr/map.html
-    - Info:    /tr/info.html 
-    - Spenden: /tr/spenden.html
-    - Kontakt: mailto:info@anonymous.support
+    - Dil: /tr/index.html
+    - Harita:   /tr/map.html
+    - Bilgi:    /tr/info.html 
+    - Bağış: /tr/spenden.html
+    - İletişim: mailto:info@anonymous.support
