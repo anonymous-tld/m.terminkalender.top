@@ -5,7 +5,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4868,DE,91054,2020-10-15,10:30,Erlangen,Rathausplatz,Mahnwache,2020-10-12 20:34:21,
 4837,DE,02625,2020-10-15,17:00,Bautzen,Reichenturm / Platte,Spaziergang,2020-10-10 13:20:41,
 4105,DE,85586,2020-10-15,18:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,2020-09-03 11:01:57,
+4881,DE,73033,2020-10-16,16:00,Göppingen,EWS-Arena,Sonstiges,2020-10-13 11:44:34,
 4687,DE,74889,2020-10-16,17:00,Sinsheim,Burgplatz,Kundgebung,2020-10-02 19:11:56,
+4882,DE,73033,2020-10-16,17:30,Göppingen,EWS Arena,Kundgebung,2020-10-13 11:45:31,
 4792,DE,89522,2020-10-17,11:00,Heidenheim,Bahnhof / Parkanlage,Kundgebung,2020-10-08 11:56:06,
 4663,DE,52525,2020-10-17,11:45,Heinsberg,Parkplatz Ostpromenade,Demonstration,2020-10-01 21:41:39,
 4799,DE,52525,2020-10-17,11:45,Heinsberg,Parkplatz Ostpromenade,Spaziergang,2020-10-08 15:19:35,https://www.youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
@@ -31,6 +33,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4732,DE,14471,2020-10-17,15:30,Potsdam,Brandenburger Tor,Kundgebung,2020-10-05 11:17:47,
 4880,DE,49074,2020-10-17,15:30,Osnabrück,Hauptbahnhof,Kundgebung,2020-10-13 10:13:19,
 4679,DE,39104,2020-10-17,15:30,Magdeburg,Domplatz,Kundgebung,2020-10-02 14:01:00,
+4883,DE,87600,2020-10-17,15:30,Kaufbeuren,Obstmarkt (Fußgängerzone),Meditation,2020-10-13 12:38:01,
 4878,DE,24558,2020-10-17,15:30,Henstedt-Ulzburg,CCU / Eingang,Spaziergang,2020-10-13 08:56:00,
 4873,DE,40213,2020-10-17,15:30,Düsseldorf,Grabbeplatz Kunstmuseum,Spaziergang,2020-10-12 21:37:09,
 4863,DE,44787,2020-10-17,15:30,Bochum,Husemannplatz,Kundgebung,2020-10-12 14:45:33,
@@ -48,9 +51,11 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4802,DE,16321,2020-10-19,18:00,Bernau,Bahnhofsvorplatz/Marktplatz,Kundgebung,2020-10-08 15:53:54,
 4804,DE,02763,2020-10-19,18:30,Zittau,Markt,Spaziergang,2020-10-08 16:56:36,
 4742,DE,99510,2020-10-19,18:30,Apolda,Markt/ Rathaus,Spaziergang,2020-10-06 08:02:47,
+4885,DE,52159,2020-10-19,19:00,Roetgen,Faulenbruchstr. 3 / Parkplatz,Spaziergang,2020-10-13 12:53:17,
 4826,DE,21465,2020-10-19,19:00,Reinbek-Wentorf,Schloß/Innenhof,Spaziergang,2020-10-09 21:34:27,
 4879,DE,17033,2020-10-19,19:00,Neubrandenburg,Marktplatz / Innenstadt,Spaziergang,2020-10-13 09:48:11,
 4760,DE,47906,2020-10-19,19:00,Kempen,Buttermarkt,Spaziergang,2020-10-07 10:30:23,
+4884,DE,87600,2020-10-19,19:00,Kaufbeuren,Altes Rathaus,Spaziergang,2020-10-13 12:38:52,
 4157,DE,26441,2020-10-19,19:00,Jever,Marktplatz,Spaziergang,2020-09-06 19:38:35,
 4630,DE,69190,2020-10-19,20:00,Walldorf,Drehscheibe,Kundgebung,2020-09-30 18:43:09,
 4719,DE,10117,2020-10-21,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-10-04 14:44:45,https://demo.stream/mariagoetz
@@ -74,6 +79,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4499,DE,50674,2020-10-26,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:22:40,
 4631,DE,69190,2020-10-26,18:00,Walldorf,Drehscheibe,Kundgebung,2020-09-30 18:43:36,
 4743,DE,99510,2020-10-26,18:30,Apolda,Markt/ Rathaus,Spaziergang,2020-10-06 08:04:42,
+4886,DE,52159,2020-10-26,19:00,Roetgen,Faulenbruchstr. 3 / Parkplatz,Spaziergang,2020-10-13 12:54:06,
 4158,DE,26441,2020-10-26,19:00,Jever,Marktplatz,Spaziergang,2020-09-06 19:39:08,
 4761,DE,47906,2020-10-26,19:30,Kempen,Buttermarkt,Spaziergang,2020-10-07 10:30:52,
 4720,DE,10117,2020-10-28,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-10-04 14:45:16,https://demo.stream/mariagoetz
@@ -88,6 +94,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4862,NL,8911,2020-11-01,13:30,Leeuwarden,Blauwe golf Leeuwarden,Demonstration,2020-10-12 11:06:16,https://www.facebook.com/groups/302712857518469/permalink/358939268562494/
 3901,DE,80331,2020-11-02,17:00,München,Max Joseph Platz/vor der Oper,Meditation,2020-08-19 02:17:35,http://www.mbsr-muenchen.net/openair
 4500,DE,50674,2020-11-02,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:23:17,
+4887,DE,52159,2020-11-02,19:00,Roetgen,Faulenbruchstr. 3 / Parkplatz,Kundgebung,2020-10-13 12:55:01,
 4543,DE,10117,2020-11-05,18:00,Berlin,Brandenburger Tor,Kundgebung,2020-09-25 10:22:18,https://anonymous.support/tv
 4725,DE,04105,2020-11-07,14:00,Leipzig,Rosental,Kundgebung,2020-10-04 20:44:58,
 4726,DE,04105,2020-11-07,14:00,Leipzig,Rosental,Kundgebung,2020-10-04 20:51:04,
@@ -95,6 +102,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3139,DE,24568,2020-11-07,15:30,Kaltenkirchen,Park ggü. Rathaus,Sonstiges,2020-07-10 12:21:49,
 3902,DE,80331,2020-11-09,17:00,München,Marienplatz,Meditation,2020-08-19 02:18:13,http://www.mbsr-muenchen.net/openair
 4501,DE,50674,2020-11-09,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:24:21,
+4888,DE,52159,2020-11-09,19:00,Roetgen,Faulenbruchstr. 3 / Parkplatz,Kundgebung,2020-10-13 12:55:37,
 4790,DE,14195,2020-11-11,11:00,Berlin,Finkenstr. 21 / Spahn-Villa,Versammlung,2020-10-08 11:31:06,
 4576,DE,14195,2020-11-11,11:00,Berlin,Finkenstraße 21,Flashmob,2020-09-26 23:04:41,
 3185,DE,04668,2020-11-13,19:00,Grimma,Marktplatz,Spaziergang,2020-07-12 19:57:26,
@@ -102,10 +110,13 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4577,DE,10117,2020-11-14,14:00,Berlin,Am Kupfergraben 6,Flashmob,2020-09-26 23:06:38,
 3903,DE,80331,2020-11-16,17:00,München,Marienplatz,Meditation,2020-08-19 02:18:45,http://www.mbsr-muenchen.net/openair
 4502,DE,50674,2020-11-16,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:25:37,
+4889,DE,52159,2020-11-16,19:00,Roetgen,Faulenbruchstr. 3 / Parkplatz,Spaziergang,2020-10-13 12:56:24,
 3904,DE,80331,2020-11-23,17:00,München,Marienplatz,Meditation,2020-08-19 02:19:17,http://www.mbsr-muenchen.net/openair
 4503,DE,50674,2020-11-23,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:26:11,
+4890,DE,52159,2020-11-23,19:00,Roetgen,Faulenbruchstr. 3 / Parkplatz,Kundgebung,2020-10-13 12:57:12,
 3905,DE,80331,2020-11-30,17:00,München,Marienplatz,Meditation,2020-08-19 02:19:56,http://www.mbsr-muenchen.net/openair
 4504,DE,50674,2020-11-30,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:26:50,
+4891,DE,52159,2020-11-30,19:00,Roetgen,Faulenbruchstr. 3 / Parkplatz,Kundgebung,2020-10-13 12:57:41,
 2053,AT,4020,2020-12-06,17:00,Linz,Hauptplatz,Kundgebung,2020-06-09 14:52:11,
 3906,DE,80331,2020-12-07,17:00,München,Max Joseph Platz/vor der Oper,Meditation,2020-08-19 02:20:38,http://www.mbsr-muenchen.net/openair
 3907,DE,80331,2020-12-14,17:00,München,Marienplatz,Meditation,2020-08-19 02:21:13,http://www.mbsr-muenchen.net/openair
