@@ -19,13 +19,13 @@ var maskIcon = L.icon({
 
 // display Carto basemap tiles with light features and labels
 var light = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-  attribution: '&copy; <a href="https://terminkalender.top">terminkalender.top</a>, Demo <a href="https://demo.terminkalender.top/add">hier</a> eintragen.'
+  attribution: '&copy; <a href="https://terminkalender.top">terminkalender.top</a>, Demo <a href="https://demo.terminkalender.top/add/de">hier</a> eintragen.'
 }).addTo(map); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
 controlLayers.addBaseLayer(light, 'Einfache Karte');
 
 /* Stamen colored terrain basemap tiles with labels */
 var terrain = L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png', {
-  attribution: '&copy; <a href="https://terminkalender.top">terminkalender.top</a>, Demo <a href="https://demo.terminkalender.top/add">hier</a> eintragen.'
+  attribution: '&copy; <a href="https://terminkalender.top">terminkalender.top</a>, Demo <a href="https://demo.terminkalender.top/add/de">hier</a> eintragen.'
 }); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
 controlLayers.addBaseLayer(terrain, 'Erweiterte Karte');
 
