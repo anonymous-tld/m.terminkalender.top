@@ -39,6 +39,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4885,DE,52159,2020-10-19,19:00,Roetgen,Faulenbruchstr. 3 / Parkplatz,Spaziergang,2020-10-13 12:53:17,
 4826,DE,21465,2020-10-19,19:00,Reinbek-Wentorf,Schloß/Innenhof,Spaziergang,2020-10-09 21:34:27,
 4994,DE,07381,2020-10-19,19:00,Pößneck,Marktplatz,Spaziergang,2020-10-18 13:14:33,
+5001,DE,33098,2020-10-19,19:00,Paderborn,Rathausplatz,Spaziergang,2020-10-18 17:11:29,
 4879,DE,17033,2020-10-19,19:00,Neubrandenburg,Marktplatz / Innenstadt,Spaziergang,2020-10-13 09:48:11,
 4976,DE,99974,2020-10-19,19:00,Mühlhausen / Thüringen,Postplatz,Spaziergang,2020-10-17 12:52:14,
 4971,DE,97828,2020-10-19,19:00,Marktheidenfeld,Busbahnhof,Spaziergang,2020-10-17 10:00:20,
@@ -67,6 +68,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4969,DE,60313,2020-10-24,14:00,Frankfurt,Goetheplatz,Kundgebung,2020-10-17 07:49:24,
 4298,DE,26382,2020-10-24,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2020-09-15 11:35:05,
 4917,DE,06484,2020-10-24,14:30,Quedlinburg,Markplatz,Kundgebung,2020-10-14 19:24:06,
+5002,DE,33098,2020-10-24,15:00,Paderborn,Domplatz,Kundgebung,2020-10-18 17:12:07,
 4925,DE,91301,2020-10-24,15:00,Forchheim,Paradeplatz,Kundgebung,2020-10-14 23:35:34,
 4596,DE,84130,2020-10-24,15:00,Dingolfing,Marienplatz,Kundgebung,2020-09-29 00:04:00,
 4600,DE,84130,2020-10-24,15:00,Dingolfing,MARIENPLATZ,Kundgebung,2020-09-29 16:30:07,
@@ -93,6 +95,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4689,DE,74889,2020-10-30,17:00,Sinsheim,Burgplatz,Kundgebung,2020-10-02 19:12:55,
 4571,DE,38100,2020-10-31,12:00,Braunschweig,Schlossplatz Reiterdenkmal,Kundgebung,2020-09-26 20:42:24,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
 4572,DE,38100,2020-10-31,13:00,Braunschweig,Schlossplatz Reiterdenkmal,Demonstration,2020-09-26 20:44:14,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
+5000,DE,67346,2020-10-31,14:00,Speyer,Berliner Platz,Kundgebung,2020-10-18 17:06:49,
 4299,DE,26382,2020-10-31,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2020-09-15 11:35:40,
 4918,DE,38855,2020-10-31,14:30,Wernigerode,Marktplatz,Kundgebung,2020-10-14 19:25:52,
 4935,DE,98574,2020-10-31,15:00,Schmalkalden,Altmakt,Kundgebung,2020-10-15 15:12:15,
