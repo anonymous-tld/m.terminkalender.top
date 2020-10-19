@@ -76,6 +76,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4980,DE,69231,2020-10-25,15:00,Rauenberg,Rathausplatz,Kundgebung,2020-10-17 14:10:48,
 4939,DE,88400,2020-10-25,15:00,Biberach,Gigelberg,Kundgebung,2020-10-15 15:46:01,
 5009,DE,10243,2020-10-25,15:00,Berlin,Karl-Marx-Allee 131A / Kosmos,Kundgebung,2020-10-19 10:03:48,
+5015,AT,1010,2020-10-26,14:00,Wien,Michaelerplatz,Kundgebung,2020-10-19 15:58:49,
 4652,DE,63825,2020-10-26,17:00,Schöllkrippen,Marktplatz,Demonstration,2020-10-01 14:16:37,
 4499,DE,50674,2020-10-26,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:22:40,
 4631,DE,69190,2020-10-26,18:00,Walldorf,Drehscheibe,Kundgebung,2020-09-30 18:43:36,
@@ -86,6 +87,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4158,DE,26441,2020-10-26,19:00,Jever,Marktplatz,Spaziergang,2020-09-06 19:39:08,
 4761,DE,47906,2020-10-26,19:30,Kempen,Buttermarkt,Spaziergang,2020-10-07 10:30:52,
 4720,DE,10117,2020-10-28,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-10-04 14:45:16,https://demo.stream/mariagoetz
+5013,DE,92237,2020-10-28,19:00,Sulzbach-Rosenberg,Luitpoldplatz,Versammlung,2020-10-19 15:02:46,
+5014,DE,92237,2020-10-28,19:00,Sulzbach-Rosenberg,Luitpoltplatz,Kundgebung,2020-10-19 15:03:31,
 4108,DE,85586,2020-10-29,18:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,2020-09-03 11:03:40,
 4689,DE,74889,2020-10-30,17:00,Sinsheim,Burgplatz,Kundgebung,2020-10-02 19:12:55,
 4571,DE,38100,2020-10-31,12:00,Braunschweig,Schlossplatz Reiterdenkmal,Kundgebung,2020-09-26 20:42:24,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
