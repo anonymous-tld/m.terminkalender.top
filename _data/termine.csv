@@ -64,8 +64,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5002,DE,33098,2020-10-24,15:00,Paderborn,Domplatz,Kundgebung,2020-10-18 17:12:07,
 5016,DE,50678,2020-10-24,15:00,Köln,Neumarkt,Demonstration,2020-10-19 16:38:13,
 4925,DE,91301,2020-10-24,15:00,Forchheim,Paradeplatz,Kundgebung,2020-10-14 23:35:34,
-4596,DE,84130,2020-10-24,15:00,Dingolfing,Marienplatz,Kundgebung,2020-09-29 00:04:00,
-4600,DE,84130,2020-10-24,15:00,Dingolfing,MARIENPLATZ,Kundgebung,2020-09-29 16:30:07,
+4600,DE,84130,2020-10-24,15:00,Dingolfing,Marienplatz,Kundgebung,2020-09-29 16:30:07,
 4708,DE,22926,2020-10-24,15:00,Ahrensburg,Parkplatz Schlossbrücke,Spaziergang,2020-10-03 19:10:54,
 4731,DE,14471,2020-10-24,15:30,Potsdam,Brandenburger Tor,Kundgebung,2020-10-05 11:17:05,
 5021,DE,85049,2020-10-24,15:30,Ingolstadt,Theatervorplatz,Kundgebung,2020-10-19 17:04:32,
@@ -75,6 +74,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4983,DE,15831,2020-10-25,10:00,Blankenfelde-Mahlow,B96 / KrügersLand / Fußgängerüberweg,Versammlung,2020-10-17 15:14:39,
 4968,DE,10178,2020-10-25,10:00,Berlin,Alexanderplatz,Kundgebung,2020-10-17 07:47:30,
 5022,DE,86633,2020-10-25,10:30,Neuburg a.d.Donau,Schrannenplatz,Kundgebung,2020-10-19 17:07:42,
+5033,DE,75015,2020-10-25,10:45,Bretten,Marktplatz,Meditation,2020-10-19 23:07:02,
 4677,BE,1000,2020-10-25,12:00,Brüssel,Centraal Station,Kundgebung,2020-10-02 13:36:09,
 5008,DE,10115,2020-10-25,12:00,Berlin,Alexanderplatz,Demonstration,2020-10-19 10:02:45,
 4369,BE,1000,2020-10-25,13:00,Brüssel,Bolivar/Station North,Spaziergang,2020-09-17 19:00:48,
@@ -105,7 +105,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5000,DE,67346,2020-10-31,14:00,Speyer,Berliner Platz,Kundgebung,2020-10-18 17:06:49,
 4299,DE,26382,2020-10-31,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2020-09-15 11:35:40,
 4918,DE,38855,2020-10-31,14:30,Wernigerode,Marktplatz,Kundgebung,2020-10-14 19:25:52,
-4935,DE,98574,2020-10-31,15:00,Schmalkalden,Altmakt,Kundgebung,2020-10-15 15:12:15,
+4935,DE,98574,2020-10-31,15:00,Schmalkalden,Altmarkt,Kundgebung,2020-10-15 15:12:15,
 4581,DE,01067,2020-10-31,15:00,Dresden,Theaterplatz,Kundgebung,2020-09-27 12:08:44,https://demo.stream/live
 4573,DE,38100,2020-10-31,15:00,Braunschweig,Bürgerpark Hinter der VW Halle,Kundgebung,2020-09-26 20:45:57,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
 4859,NL,8917EN,2020-11-01,01:20,Leeuwarden,Zwembad de blauwe golf,Demonstration,2020-10-12 10:11:02,https://demo.stream/liveport
