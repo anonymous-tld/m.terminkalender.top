@@ -9,6 +9,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5003,DE,18055,2020-10-19,18:00,Rostock,Neuer Markt,Spaziergang,2020-10-18 19:23:41,
 4870,DE,14467,2020-10-19,18:00,Potsdam,Platz am Filmmuseum,Mahnwache,2020-10-12 21:14:23,
 4907,DE,80331,2020-10-19,18:00,München,Marienplatz,Meditation,2020-10-14 08:33:46,http://www.mbsr-muenchen.net/demo
+5006,DE,87439,2020-10-19,18:00,Kempten,Hildegardplatz,Spaziergang,2020-10-19 07:07:49,
 4919,DE,09599,2020-10-19,18:00,Freiberg,Albertpark - Springbrunnen,Spaziergang,2020-10-14 21:27:04,
 4987,DE,09111,2020-10-19,18:00,Chemnitz,Rathaus,Spaziergang,2020-10-17 19:20:55,
 4802,DE,16321,2020-10-19,18:00,Bernau,Bahnhofsvorplatz/Marktplatz,Kundgebung,2020-10-08 15:53:54,
@@ -37,6 +38,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4978,DE,73728,2020-10-19,19:00,ESSLINGEN,Heugasse 10 / Delicantina,Treffpunkt,2020-10-17 14:03:15,
 4984,DE,03044,2020-10-19,19:00,Cottbus,Oberkirchplatz,Spaziergang,2020-10-17 16:30:41,
 4630,DE,69190,2020-10-19,20:00,Walldorf,Drehscheibe,Kundgebung,2020-09-30 18:43:09,
+5004,DE,55127,2020-10-20,14:15,Mainz,ZDF-Straße 1 / Zufahrt,Kundgebung,2020-10-19 01:15:05,
+5005,DE,55131,2020-10-20,16:15,Mainz,Freiligrathstr. 1 / Parkplatz BioNtech,Kundgebung,2020-10-19 01:16:26,
 4988,DE,40629,2020-10-21,18:00,Düsseldorf,Burgplatz,Spaziergang,2020-10-17 23:40:35,
 4719,DE,10117,2020-10-21,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-10-04 14:44:45,https://demo.stream/mariagoetz
 4850,DE,08261,2020-10-21,19:00,Schöneck/Vogtl.,Gaststätte Gartensparte,Zusammenkunft,2020-10-11 19:32:15,
@@ -72,6 +75,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4499,DE,50674,2020-10-26,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:22:40,
 4631,DE,69190,2020-10-26,18:00,Walldorf,Drehscheibe,Kundgebung,2020-09-30 18:43:36,
 4556,DE,80331,2020-10-26,18:00,München,Marienplatz,Meditation,2020-09-26 09:09:17,http://www.mbsr-muenchen.net/demo
+5007,DE,87439,2020-10-26,18:00,Kempten,Hildegardplatz,Spaziergang,2020-10-19 07:08:43,
 4743,DE,99510,2020-10-26,18:30,Apolda,Markt/ Rathaus,Spaziergang,2020-10-06 08:04:42,
 4886,DE,52159,2020-10-26,19:00,Roetgen,Faulenbruchstr. 3 / Parkplatz,Spaziergang,2020-10-13 12:54:06,
 4158,DE,26441,2020-10-26,19:00,Jever,Marktplatz,Spaziergang,2020-09-06 19:39:08,
