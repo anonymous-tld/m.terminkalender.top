@@ -1,6 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-5004,DE,55127,2020-10-20,14:15,Mainz,ZDF-Straße 1 / Zufahrt,Kundgebung,2020-10-19 01:15:05,
-5005,DE,55131,2020-10-20,16:15,Mainz,Freiligrathstr. 1 / Parkplatz BioNtech,Kundgebung,2020-10-19 01:16:26,
 5046,DE,48143,2020-10-21,11:00,Münster,Rathaus,Kundgebung,2020-10-20 14:11:27,
 4988,DE,40629,2020-10-21,18:00,Düsseldorf,Burgplatz,Spaziergang,2020-10-17 23:40:35,
 4719,DE,10117,2020-10-21,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-10-04 14:44:45,https://demo.stream/mariagoetz
@@ -70,6 +68,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5020,DE,07407,2020-10-26,19:00,Rudolstadt,Markt,Spaziergang,2020-10-19 17:03:52,
 4886,DE,52159,2020-10-26,19:00,Roetgen,Faulenbruchstr. 3 / Parkplatz,Spaziergang,2020-10-13 12:54:06,
 5039,DE,99974,2020-10-26,19:00,Mühlhausen/ Thüringen,Postplatz,Spaziergang,2020-10-20 11:08:38,
+5062,DE,04177,2020-10-26,19:00,Leipzig,Augustusplatz / Goldenes Ei,Spaziergang,2020-10-20 23:21:54,
 4158,DE,26441,2020-10-26,19:00,Jever,Marktplatz,Spaziergang,2020-09-06 19:39:08,
 4761,DE,47906,2020-10-26,19:30,Kempen,Buttermarkt,Spaziergang,2020-10-07 10:30:52,
 4720,DE,10117,2020-10-28,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-10-04 14:45:16,https://demo.stream/mariagoetz
