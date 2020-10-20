@@ -44,6 +44,12 @@ $.get('/assets/data/demotermine_geo.csv', function(csvString) {
     var row = data[i]
     var description = ""
 
+    if (i == 0) {
+      span = document.getElementById("created");
+      newdate = document.createTextNode(row['created']);
+      span.appendChild(newdate);
+    }
+
     if (row.livestream) {
       var description = "Stadt: " + row.stadt + "<br/>Datum: " + row.datum + "<br/>Uhrzeit: " + row.uhrzeit + "<br/>Treffpunkt: " + row.treffpunkt + "<br/>Protestform: " + row.protestform + "<br/><a href='" + row.livestream + "'>Livestream</>"
     } else {
