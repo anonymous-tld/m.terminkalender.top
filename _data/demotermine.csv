@@ -1,8 +1,4 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
-DE,2020-10-21,11:00:00,48143,Münster,Rathaus,Kundgebung,
-DE,2020-10-21,18:00:00,40629,Düsseldorf,Burgplatz,Spaziergang,
-DE,2020-10-21,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz
-DE,2020-10-21,19:00:00,08261,Schöneck/Vogtl.,Gaststätte Gartensparte,Zusammenkunft,
 DE,2020-10-22,00:00:15,55545,Bad Kreuznach,Kornmarkt,Kundgebung,
 DE,2020-10-22,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,
 DE,2020-10-22,16:00:00,09575,Eppendorf,Grosswaltersdorfer Str. 18 / Parkplatz,Kundgebung,
@@ -57,6 +53,7 @@ DE,2020-10-24,16:00:00,48143,Münster,Stubengasse / Karstadt Sport,Kundgebung,
 DE,2020-10-24,16:00:00,04109,Leipzig,Markt,Kundgebung,
 DE,2020-10-24,16:00:00,76829,Landau,Rathausplatz,Spaziergang,
 DE,2020-10-24,16:00:00,67657,Kaiserslautern,Stiftsplatz (Marktplatz),Kundgebung,
+DE,2020-10-24,16:30:00,79804,Waldshut,Viehmarktplatz,Kundgebung,
 NL,2020-10-24,16:30:00,2596AA,Den Haag,Malieveld,Demonstration,https://demo.stream/liveport
 DE,2020-10-25,10:00:00,15831,Blankenfelde-Mahlow,B96 / KrügersLand / Fußgängerüberweg,Versammlung,
 DE,2020-10-25,10:00:00,10178,Berlin,Alexanderplatz,Kundgebung,
