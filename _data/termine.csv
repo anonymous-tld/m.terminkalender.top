@@ -1,4 +1,5 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
+5073,DE,88255,2020-10-21,00:00,Bainfurt,Marktplatz,Demonstration,2020-10-21 11:23:15,
 5046,DE,48143,2020-10-21,11:00,Münster,Rathaus,Kundgebung,2020-10-20 14:11:27,
 4988,DE,40629,2020-10-21,18:00,Düsseldorf,Burgplatz,Spaziergang,2020-10-17 23:40:35,
 4719,DE,10117,2020-10-21,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-10-04 14:44:45,https://demo.stream/mariagoetz
@@ -8,6 +9,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4107,DE,85586,2020-10-22,18:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,2020-09-03 11:03:07,
 5056,DE,80539,2020-10-23,10:00,München,Odeonsplatz,Kundgebung,2020-10-20 18:09:57,
 5057,DE,80539,2020-10-23,11:00,München,Odeonsplatz,Demonstration,2020-10-20 18:10:42,
+5070,DE,69469,2020-10-23,15:00,Weinheim,Dürreplatz,Sonstiges,2020-10-21 10:48:28,
 5011,DE,32657,2020-10-23,16:00,Lemgo,Mittelstr. 59 / Marktplatz,Kundgebung,2020-10-19 11:16:43,
 4938,AT,1010,2020-10-23,16:45,Wien,Stubenring / Radetzkydenkmal,Menschenkette,2020-10-15 15:36:12,
 4688,DE,74889,2020-10-23,17:00,Sinsheim,Burgplatz,Kundgebung,2020-10-02 19:12:25,
@@ -42,11 +44,14 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4731,DE,14471,2020-10-24,15:30,Potsdam,Brandenburger Tor,Kundgebung,2020-10-05 11:17:05,
 5038,DE,21335,2020-10-24,15:30,Lüneburg,Clamartpark,Trauermarsch,2020-10-20 09:29:31,
 5021,DE,85049,2020-10-24,15:30,Ingolstadt,Theatervorplatz,Kundgebung,2020-10-19 17:04:32,
+5077,DE,24558,2020-10-24,15:30,Henstedt-Ulzburg,Hamburger Str. 8 / Eingang  CCU,Spaziergang,2020-10-21 12:54:57,
+5072,DE,21073,2020-10-24,15:30,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,2020-10-21 11:22:57,
 5018,DE,99084,2020-10-24,15:30,Erfurt,Domplatz,Kundgebung,2020-10-19 17:01:41,
 5035,CH,9004,2020-10-24,16:00,St. Gallen,Stadtpark,Kundgebung,2020-10-20 00:56:59,
 5045,DE,48143,2020-10-24,16:00,Münster,Stubengasse / Karstadt Sport,Kundgebung,2020-10-20 14:10:35,
 4819,DE,04109,2020-10-24,16:00,Leipzig,Markt,Kundgebung,2020-10-09 13:05:30,
 4548,DE,67657,2020-10-24,16:00,Kaiserslautern,Stiftsplatz (Marktplatz),Kundgebung,2020-09-25 17:08:26,
+5074,NL,2596AA,2020-10-24,16:30,Den Haag,Malieveld,Demonstration,2020-10-21 12:06:46,https://demo.stream/liveport
 4983,DE,15831,2020-10-25,10:00,Blankenfelde-Mahlow,B96 / KrügersLand / Fußgängerüberweg,Versammlung,2020-10-17 15:14:39,
 4968,DE,10178,2020-10-25,10:00,Berlin,Alexanderplatz,Kundgebung,2020-10-17 07:47:30,
 5022,DE,86633,2020-10-25,10:30,Neuburg a.d.Donau,Schrannenplatz,Kundgebung,2020-10-19 17:07:42,
@@ -55,6 +60,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5008,DE,10115,2020-10-25,12:00,Berlin,Alexanderplatz,Demonstration,2020-10-19 10:02:45,
 4369,BE,1000,2020-10-25,13:00,Brüssel,Bolivar/Station North,Spaziergang,2020-09-17 19:00:48,
 5051,NL,3521AL,2020-10-25,14:00,Utrecht,Jaarbeursplein,Demonstration,2020-10-20 14:41:47,
+5076,DE,90402,2020-10-25,14:00,Nürnberg,Magnus-Hirschfeld-Platz,Kundgebung,2020-10-21 12:12:40,
 5065,DE,68165,2020-10-25,14:00,Mannheim,Unterer Luisenpark,Kundgebung,2020-10-21 03:00:06,
 5055,DE,88131,2020-10-25,14:00,Lindau / Bodensee,Ludwig-Kick-Str. 19 / Parkplatz Penny,Kundgebung,2020-10-20 17:39:36,
 4980,DE,69231,2020-10-25,15:00,Rauenberg,Rathausplatz,Kundgebung,2020-10-17 14:10:48,
@@ -83,6 +89,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5042,NL,3077AA,2020-10-29,10:00,Rotterdam,Stadion De Kuip,Demonstration,2020-10-20 12:38:52,https://demo.stream/liveport
 4108,DE,85586,2020-10-29,18:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,2020-09-03 11:03:40,
 4689,DE,74889,2020-10-30,17:00,Sinsheim,Burgplatz,Kundgebung,2020-10-02 19:12:55,
+5075,DE,73614,2020-10-30,17:00,Schorndorf,Oberer Marktplatz,Kundgebung,2020-10-21 12:10:56,
 5026,AT,1010,2020-10-31,10:00,Wien,Albertinaplatz,Kundgebung,2020-10-19 20:55:07,
 5027,AT,1010,2020-10-31,12:00,Wien,Heldenplatz,Kundgebung,2020-10-19 20:56:13,
 4571,DE,38100,2020-10-31,12:00,Braunschweig,Schlossplatz Reiterdenkmal,Kundgebung,2020-09-26 20:42:24,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
@@ -94,6 +101,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4935,DE,98574,2020-10-31,15:00,Schmalkalden,Altmarkt,Kundgebung,2020-10-15 15:12:15,
 4581,DE,01067,2020-10-31,15:00,Dresden,Theaterplatz,Kundgebung,2020-09-27 12:08:44,https://demo.stream/live
 4573,DE,38100,2020-10-31,15:00,Braunschweig,Bürgerpark Hinter der VW Halle,Kundgebung,2020-09-26 20:45:57,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
+5071,AT,1010,2020-10-31,16:00,Wien,Volksgarten / Theseustempel,Zusammenkunft,2020-10-21 11:10:52,
 5047,DE,48143,2020-10-31,16:00,Münster,Stubengasse / Karstadt Sport,Kundgebung,2020-10-20 14:12:11,
 4859,NL,8917EN,2020-11-01,01:20,Leeuwarden,Zwembad de blauwe golf,Demonstration,2020-10-12 10:11:02,https://demo.stream/liveport
 5028,AT,1010,2020-11-01,10:00,Wien,Rathausplatz,Kundgebung,2020-10-19 20:57:37,
