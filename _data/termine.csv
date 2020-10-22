@@ -15,6 +15,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4963,DE,22926,2020-10-24,09:00,Ahrensburg,Manfred-Samusch-Straße 5,Kundgebung,2020-10-16 21:01:41,
 4951,DE,73525,2020-10-24,11:00,Schwäbisch Gmünd,Johannisplatz,Kundgebung,2020-10-15 23:36:11,
 5052,DE,80333,2020-10-24,12:00,München,Königsplatz / [Aufstehen],Konzert,2020-10-20 15:44:26,
+5115,DE,86899,2020-10-24,12:00,Landsberg / Lech,Georg-Hellmair-Platz,Kundgebung,2020-10-22 21:42:36,
 4999,DE,10117,2020-10-24,12:00,Berlin,Brandenburger Tor,Revolte,2020-10-18 14:35:29,
 4964,DE,26122,2020-10-24,12:30,Oldenburg,Schlossplatz,Demonstration,2020-10-16 21:56:55,
 4867,DE,50354,2020-10-24,13:00,Hürth,Berliner Platz am Hürth-Park,Kundgebung,2020-10-12 19:56:16,
@@ -61,6 +62,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4548,DE,67657,2020-10-24,16:00,Kaiserslautern,Stiftsplatz (Marktplatz),Kundgebung,2020-09-25 17:08:26,
 5098,DE,79804,2020-10-24,16:30,Waldshut,Viehmarktplatz,Kundgebung,2020-10-21 23:57:23,
 5074,NL,2596AA,2020-10-24,16:30,Den Haag,Malieveld,Demonstration,2020-10-21 12:06:46,https://demo.stream/liveport
+5117,DE,30169,2020-10-24,18:00,Hannover,Maschsee / Nordufer,Demonstration,2020-10-22 21:56:16,
 4983,DE,15831,2020-10-25,10:00,Blankenfelde-Mahlow,B96 / KrügersLand / Fußgängerüberweg,Versammlung,2020-10-17 15:14:39,
 4968,DE,10178,2020-10-25,10:00,Berlin,Alexanderplatz,Kundgebung,2020-10-17 07:47:30,
 5022,DE,86633,2020-10-25,10:30,Neuburg a.d.Donau,Schrannenplatz,Kundgebung,2020-10-19 17:07:42,
@@ -94,6 +96,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4158,DE,26441,2020-10-26,19:00,Jever,Marktplatz,Spaziergang,2020-09-06 19:39:08,
 5086,DE,09456,2020-10-26,19:00,Annaberg-Buchholz,Markt,Kundgebung,2020-10-21 20:04:24,
 4761,DE,47906,2020-10-26,19:30,Kempen,Buttermarkt,Spaziergang,2020-10-07 10:30:52,
+5116,DE,63,2020-10-27,14:30,Wiesbaden,Kultusministerium,Kundgebung,2020-10-22 21:50:23,
 4720,DE,10117,2020-10-28,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-10-04 14:45:16,https://demo.stream/mariagoetz
 5013,DE,92237,2020-10-28,19:00,Sulzbach-Rosenberg,Luitpoldplatz,Versammlung,2020-10-19 15:02:46,
 5014,DE,92237,2020-10-28,19:00,Sulzbach-Rosenberg,Luitpoltplatz,Kundgebung,2020-10-19 15:03:31,
