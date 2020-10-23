@@ -48,6 +48,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4731,DE,14471,2020-10-24,15:30,Potsdam,Brandenburger Tor,Kundgebung,2020-10-05 11:17:05,
 5112,DE,75175,2020-10-24,15:30,Pforzheim,Marktplatz,Kundgebung,2020-10-22 17:26:00,
 5038,DE,21335,2020-10-24,15:30,Lüneburg,Clamartpark,Trauermarsch,2020-10-20 09:29:31,
+5132,DE,87600,2020-10-24,15:30,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,2020-10-23 15:27:07,
 5122,DE,85049,2020-10-24,15:30,Ingolstadt,Theaterplatz,Kundgebung,2020-10-22 23:30:31,
 5021,DE,85049,2020-10-24,15:30,Ingolstadt,Theatervorplatz,Kundgebung,2020-10-19 17:04:32,
 5077,DE,24558,2020-10-24,15:30,Henstedt-Ulzburg,Hamburger Str. 8 / Eingang  CCU,Spaziergang,2020-10-21 12:54:57,
@@ -85,6 +86,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5100,DE,48143,2020-10-26,17:30,Münster,Prinzipalmarkt / Rathaus,Spaziergang,2020-10-22 09:23:51,
 4499,DE,50674,2020-10-26,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:22:40,
 4631,DE,69190,2020-10-26,18:00,Walldorf,Drehscheibe,Kundgebung,2020-09-30 18:43:36,
+5131,DE,98574,2020-10-26,18:00,Schmalkalden,Altmarkt,Spaziergang,2020-10-23 15:07:19,
 5068,DE,14467,2020-10-26,18:00,Potsdam,Breite Str. 1A,Mahnwache,2020-10-21 05:28:28,
 4556,DE,80331,2020-10-26,18:00,München,Marienplatz,Meditation,2020-09-26 09:09:17,http://www.mbsr-muenchen.net/demo
 5007,DE,87439,2020-10-26,18:00,Kempten,Hildegardplatz,Spaziergang,2020-10-19 07:08:43,
@@ -95,6 +97,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4886,DE,52159,2020-10-26,19:00,Roetgen,Faulenbruchstr. 3 / Parkplatz,Spaziergang,2020-10-13 12:54:06,
 5039,DE,99974,2020-10-26,19:00,Mühlhausen/ Thüringen,Postplatz,Spaziergang,2020-10-20 11:08:38,
 5062,DE,04177,2020-10-26,19:00,Leipzig,Augustusplatz / Goldenes Ei,Spaziergang,2020-10-20 23:21:54,
+5133,DE,87600,2020-10-26,19:00,Kaufbeuren,Altes Rathaus,Spaziergang,2020-10-23 15:28:01,
 4158,DE,26441,2020-10-26,19:00,Jever,Marktplatz,Spaziergang,2020-09-06 19:39:08,
 5086,DE,09456,2020-10-26,19:00,Annaberg-Buchholz,Markt,Kundgebung,2020-10-21 20:04:24,
 4761,DE,47906,2020-10-26,19:30,Kempen,Buttermarkt,Spaziergang,2020-10-07 10:30:52,
