@@ -12,6 +12,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4963,DE,22926,2020-10-24,09:00,Ahrensburg,Manfred-Samusch-Straße 5,Kundgebung,2020-10-16 21:01:41,
 4951,DE,73525,2020-10-24,11:00,Schwäbisch Gmünd,Johannisplatz,Kundgebung,2020-10-15 23:36:11,
 5135,DE,18273,2020-10-24,11:00,Güstrow,Am Wall,Meditation,2020-10-23 18:34:27,
+5141,DE,79312,2020-10-24,11:00,Emmendingen,Kleiner Marktplatz,Kundgebung,2020-10-23 23:03:56,
 5124,DE,83435,2020-10-24,11:00,Bad Reichenhall,Rathausplatz,Spaziergang,2020-10-23 00:34:21,
 5052,DE,80333,2020-10-24,12:00,München,Königsplatz / [Aufstehen],Konzert,2020-10-20 15:44:26,
 5115,DE,86899,2020-10-24,12:00,Landsberg / Lech,Georg-Hellmair-Platz,Kundgebung,2020-10-22 21:42:36,
@@ -35,6 +36,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4917,DE,06484,2020-10-24,14:30,Quedlinburg,Markplatz,Kundgebung,2020-10-14 19:24:06,
 5126,DE,79098,2020-10-24,14:30,Freiburg,Bertoldstr. 30 / Pl. alte Synagoge,Kundgebung,2020-10-23 11:39:54,
 5103,DE,40212,2020-10-24,14:30,Düsseldorf,Corneliusplatz ,Kundgebung,2020-10-22 15:00:00,
+5140,DE,14066,2020-10-24,14:30,Berlin,Hammarskjöldplatz 
+/ Masurenallee,Autokorso,2020-10-23 23:02:40,
 5067,DE,14467,2020-10-24,15:00,Potsdam,Brandenburger Tor,Kundgebung,2020-10-21 05:27:19,
 5002,DE,33098,2020-10-24,15:00,Paderborn,Domplatz,Kundgebung,2020-10-18 17:12:07,
 5016,DE,50678,2020-10-24,15:00,Köln,Neumarkt,Demonstration,2020-10-19 16:38:13,
