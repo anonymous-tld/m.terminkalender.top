@@ -34,6 +34,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5007,DE,87439,2020-10-26,18:00,Kempten,Hildegardplatz,Spaziergang,2020-10-19 07:08:43,
 5036,DE,09599,2020-10-26,18:00,Freiberg,Albertpark - Springbrunnen,Spaziergang,2020-10-20 00:57:33,
 5150,DE,09111,2020-10-26,18:00,Chemnitz,Rathaus,Spaziergang,2020-10-24 14:05:31,
+5180,DE,01067,2020-10-26,18:30,Dresden,Altmarkt,Kundgebung,2020-10-25 22:30:49,https://demo.stream/derdresdner
 4743,DE,99510,2020-10-26,18:30,Apolda,Markt/ Rathaus,Spaziergang,2020-10-06 08:04:42,
 5143,DE,07937,2020-10-26,19:00,Zeulenroda-Triebes,Markt,Spaziergang,2020-10-24 09:00:59,
 5145,DE,07819,2020-10-26,19:00,Triptis,Markt,Spaziergang,2020-10-24 09:07:09,
@@ -82,6 +83,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4859,NL,8917EN,2020-11-01,01:20,Leeuwarden,Zwembad de blauwe golf,Demonstration,2020-10-12 10:11:02,https://demo.stream/liveport
 5028,AT,1010,2020-11-01,10:00,Wien,Rathausplatz,Kundgebung,2020-10-19 20:57:37,
 5029,AT,1010,2020-11-01,10:00,Wien,Heldenplatz,Kundgebung,2020-10-19 20:58:24,
+5179,DE,75015,2020-11-01,10:45,Bretten,Marktplatz,Meditation,2020-10-25 21:56:42,
 4862,NL,8911,2020-11-01,13:30,Leeuwarden,Blauwe golf Leeuwarden,Demonstration,2020-10-12 11:06:16,https://www.facebook.com/groups/302712857518469/permalink/358939268562494/
 5023,DE,07318,2020-11-01,15:00,Saalfeld,Markt,Kundgebung,2020-10-19 18:08:17,
 4981,DE,69231,2020-11-01,15:00,Rauenberg,Rathausplatz,Kundgebung,2020-10-17 14:11:14,
