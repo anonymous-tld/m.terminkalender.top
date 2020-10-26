@@ -26,6 +26,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4886,DE,52159,2020-10-26,19:00,Roetgen,Faulenbruchstr. 3 / Parkplatz,Spaziergang,2020-10-13 12:54:06,
 5146,DE,07381,2020-10-26,19:00,Pößneck,Markt,Spaziergang,2020-10-24 09:10:16,
 5039,DE,99974,2020-10-26,19:00,Mühlhausen/ Thüringen,Postplatz,Spaziergang,2020-10-20 11:08:38,
+5183,DE,97828,2020-10-26,19:00,Marktheidenfeld,Busbahnhof,Spaziergang,2020-10-26 01:38:37,
 5062,DE,04177,2020-10-26,19:00,Leipzig,Augustusplatz / Goldenes Ei,Spaziergang,2020-10-20 23:21:54,
 5133,DE,87600,2020-10-26,19:00,Kaufbeuren,Altes Rathaus,Spaziergang,2020-10-23 15:28:01,
 4158,DE,26441,2020-10-26,19:00,Jever,Marktplatz,Spaziergang,2020-09-06 19:39:08,
@@ -60,6 +61,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4935,DE,98574,2020-10-31,15:00,Schmalkalden,Altmarkt,Kundgebung,2020-10-15 15:12:15,
 4581,DE,01067,2020-10-31,15:00,Dresden,Theaterplatz,Kundgebung,2020-09-27 12:08:44,https://demo.stream/live
 4573,DE,38100,2020-10-31,15:00,Braunschweig,Bürgerpark Hinter der VW Halle,Kundgebung,2020-09-26 20:45:57,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
+5184,DE,44787,2020-10-31,15:30,Bochum,Husemannplatz,Kundgebung,2020-10-26 04:15:16,
 5071,AT,1010,2020-10-31,16:00,Wien,Volksgarten / Theseustempel,Zusammenkunft,2020-10-21 11:10:52,
 5089,DE,79650,2020-10-31,16:00,Schopfheim,Marktplatz,Kundgebung,2020-10-21 23:29:05,
 5047,DE,48143,2020-10-31,16:00,Münster,Stubengasse / Karstadt Sport,Kundgebung,2020-10-20 14:12:11,
