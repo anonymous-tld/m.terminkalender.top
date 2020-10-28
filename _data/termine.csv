@@ -1,12 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-5197,CZ,11000,2020-10-28,11:55,Prag,Náměstí Republiky,Demonstration,2020-10-26 22:33:08,
-5222,CH,3000,2020-10-28,14:00,Bern,Bundesplatz,Mahnwache,2020-10-27 22:52:02,
-5119,DE,50667,2020-10-28,14:30,Köln,Heumarkt,Mahnwache,2020-10-22 22:15:15,
-5221,DE,01662,2020-10-28,15:00,Dresden,Prager Str.,Kundgebung,2020-10-27 22:02:56,https://demo.stream/derdresdner
-4720,DE,10117,2020-10-28,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-10-04 14:45:16,https://demo.stream/mariagoetz
-5013,DE,92237,2020-10-28,19:00,Sulzbach-Rosenberg,Luitpoldplatz,Versammlung,2020-10-19 15:02:46,
-5014,DE,92237,2020-10-28,19:00,Sulzbach-Rosenberg,Luitpoltplatz,Kundgebung,2020-10-19 15:03:31,
-5123,DE,86343,2020-10-28,19:00,Königsbrunn,Marktplatz,Vortrag,2020-10-22 23:52:02,https://www.youtube.com/c/Augsburgunmaskiert
 5230,DE,10117,2020-10-29,00:00,Berlin,Siegessäule,Kundgebung,2020-10-28 18:59:39,
 5042,NL,3077AA,2020-10-29,10:00,Rotterdam,Stadion De Kuip,Demonstration,2020-10-20 12:38:52,https://demo.stream/liveport
 5120,DE,91054,2020-10-29,10:30,Erlangen,Rathausplatz,Mahnwache,2020-10-22 22:15:20,
@@ -44,7 +36,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4918,DE,38855,2020-10-31,14:30,Wernigerode,Marktplatz,Kundgebung,2020-10-14 19:25:52,
 5238,DE,83278,2020-10-31,14:30,Traunstein,Stadtplatz,Kundgebung,2020-10-28 22:29:43,
 5225,DE,90403,2020-10-31,14:30,Nürnberg,Gewerbemuseumsplatz,Demonstration,2020-10-28 13:37:18,
-5223,DE,79100,2020-10-31,14:30,Freiburg i.Br,Bertoldstra�e 30,Kundgebung,2020-10-28 07:25:16,
+5223,DE,79100,2020-10-31,14:30,Freiburg i.Br,Bertoldstr. 30,Kundgebung,2020-10-28 07:25:16,
 5234,DE,28195,2020-10-31,14:30,Bremen,Überseemuseum,Demonstration,2020-10-28 20:30:22,
 5226,DE,53111,2020-10-31,14:55,Bonn,Kaiserplatz,Demonstration,2020-10-28 16:53:43,
 4935,DE,98574,2020-10-31,15:00,Schmalkalden,Altmarkt,Kundgebung,2020-10-15 15:12:15,
