@@ -7,6 +7,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4108,DE,85586,2020-10-29,18:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,2020-09-03 11:03:40,
 5233,DE,18055,2020-10-29,19:00,Rostock,Neuer Markt,Meditation,2020-10-28 20:01:30,
 5142,DE,71032,2020-10-30,15:00,Böblingen,Poststrasse 1 / Frechdax,Demonstration,2020-10-24 00:09:24,
+5239,DE,71032,2020-10-30,15:00,Böblingen,Festplatz beim Flugfeld,Kundgebung,2020-10-29 02:12:36,
 5206,DE,32657,2020-10-30,16:00,Lemgo,Marktplatz,Kundgebung,2020-10-27 14:49:24,
 4689,DE,74889,2020-10-30,17:00,Sinsheim,Burgplatz,Kundgebung,2020-10-02 19:12:55,
 5075,DE,73614,2020-10-30,17:00,Schorndorf,Oberer Marktplatz,Kundgebung,2020-10-21 12:10:56,
@@ -71,6 +72,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4908,DE,80331,2020-11-02,18:00,München,Max Joseph Platz / Oper,Meditation,2020-10-14 08:35:17,http://www.mbsr-muenchen.net/demo
 5220,DE,71672,2020-11-02,18:00,Marbach a. N.,Schillerhöhe,Versammlung,2020-10-27 21:44:40,
 5059,DE,02763,2020-11-02,18:30,Zittau,Markt,Spaziergang,2020-10-20 18:51:52,
+5240,DE,71332,2020-11-02,18:30,Waiblingen,Alter Postplatz,Spaziergang,2020-10-29 02:31:11,
 5081,DE,99510,2020-11-02,18:30,Apolda,Markt / Rathaus,Spaziergang,2020-10-21 18:12:53,
 5208,DE,07318,2020-11-02,19:00,Saalfeld,Markt / Apotheke,Spaziergang,2020-10-27 17:21:17,
 5209,DE,07407,2020-11-02,19:00,Rudolstadt,Markt,Spaziergang,2020-10-27 17:21:55,
