@@ -1,14 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-5230,DE,10117,2020-10-29,00:00,Berlin,Siegessäule,Kundgebung,2020-10-28 18:59:39,
-5042,NL,3077AA,2020-10-29,10:00,Rotterdam,Stadion De Kuip,Demonstration,2020-10-20 12:38:52,https://demo.stream/liveport
-5120,DE,91054,2020-10-29,10:30,Erlangen,Rathausplatz,Mahnwache,2020-10-22 22:15:20,
-5242,DE,10117,2020-10-29,14:00,Berlin,Bundeskanzleramt,Demonstration,2020-10-29 12:54:24,
-5214,DE,74072,2020-10-29,15:00,Heilbronn,Rollwagstr. 14,Kundgebung,2020-10-27 21:30:12,
-5215,DE,73240,2020-10-29,17:00,Wendlingen,Heinrich-Otto-Str. 16,Kundgebung,2020-10-27 21:32:34,
-4108,DE,85586,2020-10-29,18:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,2020-09-03 11:03:40,
-5233,DE,18055,2020-10-29,19:00,Rostock,Neuer Markt,Meditation,2020-10-28 20:01:30,
 5142,DE,71032,2020-10-30,15:00,Böblingen,Poststrasse 1 / Frechdax,Demonstration,2020-10-24 00:09:24,
 5239,DE,71032,2020-10-30,15:00,Böblingen,Festplatz beim Flugfeld,Kundgebung,2020-10-29 02:12:36,
+5261,DE,71034,2020-10-30,15:00,Böblingen,Festplatz Flugfeld,Demonstration,2020-10-29 23:48:24,
 5206,DE,32657,2020-10-30,16:00,Lemgo,Marktplatz,Kundgebung,2020-10-27 14:49:24,
 4689,DE,74889,2020-10-30,17:00,Sinsheim,Burgplatz,Kundgebung,2020-10-02 19:12:55,
 5075,DE,73614,2020-10-30,17:00,Schorndorf,Oberer Marktplatz,Kundgebung,2020-10-21 12:10:56,
@@ -145,6 +138,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4504,DE,50674,2020-11-30,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:26:50,
 4891,DE,52159,2020-11-30,19:00,Roetgen,Faulenbruchstr. 3 / Parkplatz,Kundgebung,2020-10-13 12:57:41,
 5094,DE,79650,2020-12-05,16:00,Schopfheim,Marktplatz,Mahnwache,2020-10-21 23:33:34,
+5260,DE,40721,2020-12-06,13:00,Düsseldorf,Altstadt,Demonstration,2020-10-29 23:26:05,
 2053,AT,4020,2020-12-06,17:00,Linz,Hauptplatz,Kundgebung,2020-06-09 14:52:11,
 5159,DE,55116,2020-12-07,11:30,Mainz,Bauhofstr. / Kaiserstr.,Kundgebung,2020-10-24 18:26:29,
 5095,DE,79650,2020-12-12,16:00,Schopfheim,Marktplatz,Mahnwache,2020-10-21 23:34:11,
