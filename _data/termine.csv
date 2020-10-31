@@ -25,6 +25,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5058,DE,76131,2020-10-31,14:00,Karlsruhe,Schlossplatz,Kundgebung,2020-10-20 18:20:54,
 5232,DE,95032,2020-10-31,14:00,Hof,Kugelbrunnen,Demonstration,2020-10-28 19:16:31,
 5246,DE,35390,2020-10-31,14:00,Gießen,Katharinengasse / Löwengasse,Kundgebung,2020-10-29 13:55:06,
+5283,DE,01662,2020-10-31,14:00,Dresden,Theaterplatz,Kundgebung,2020-10-31 08:49:11,
 5250,DE,10178,2020-10-31,14:00,Berlin,Alexanderplatz,Kundgebung,2020-10-29 14:33:19,
 4299,DE,26382,2020-10-31,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2020-09-15 11:35:40,
 4918,DE,38855,2020-10-31,14:30,Wernigerode,Marktplatz,Kundgebung,2020-10-14 19:25:52,
@@ -64,6 +65,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4862,NL,8911,2020-11-01,13:30,Leeuwarden,Blauwe golf Leeuwarden,Demonstration,2020-10-12 11:06:16,https://www.facebook.com/groups/302712857518469/permalink/358939268562494/
 5278,DE,79761,2020-11-01,14:00,Waldshut,Viehmarktplatz,Kundgebung,2020-10-30 20:07:03,
 5272,AT,6900,2020-11-01,14:00,Bregenz,Festspielhaus,Kundgebung,2020-10-30 15:54:12,
+5285,DE,10117,2020-11-01,14:00,Berlin,Brandenburger Tor / 18. Maerz,Spaziergang,2020-10-31 11:22:58,https://demo.stream/live
 5023,DE,07318,2020-11-01,15:00,Saalfeld,Markt,Kundgebung,2020-10-19 18:08:17,
 4981,DE,69231,2020-11-01,15:00,Rauenberg,Rathausplatz,Kundgebung,2020-10-17 14:11:14,
 5154,DE,55116,2020-11-02,11:30,Mainz,Bauhofstr. / Kaiserstr.,Kundgebung,2020-10-24 18:23:22,
@@ -78,6 +80,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5252,DE,09599,2020-11-02,18:00,Freiberg (Sachsen),Albertpark / Springbrunnen,Spaziergang,2020-10-29 16:21:13,
 5059,DE,02763,2020-11-02,18:30,Zittau,Markt,Spaziergang,2020-10-20 18:51:52,
 5240,DE,71332,2020-11-02,18:30,Waiblingen,Alter Postplatz,Spaziergang,2020-10-29 02:31:11,
+5284,DE,16515,2020-11-02,18:30,Oranienburg,Schloßplatz,Kundgebung,2020-10-31 11:19:51,
 5081,DE,99510,2020-11-02,18:30,Apolda,Markt / Rathaus,Spaziergang,2020-10-21 18:12:53,
 5208,DE,07318,2020-11-02,19:00,Saalfeld,Markt / Apotheke,Spaziergang,2020-10-27 17:21:17,
 5209,DE,07407,2020-11-02,19:00,Rudolstadt,Markt,Spaziergang,2020-10-27 17:21:55,
@@ -92,6 +95,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5257,DE,09757,2020-11-05,16:30,Eppendorf (Sachsen),Penny / Parkplatz,Kundgebung,2020-10-29 19:44:03,
 4543,DE,10117,2020-11-05,18:00,Berlin,Brandenburger Tor,Kundgebung,2020-09-25 10:22:18,https://anonymous.support/tv
 5279,DE,04109,2020-11-06,19:30,Leipzig,Marktplatz,Demonstration,2020-10-30 20:07:33,
+5282,DE,04103,2020-11-07,09:30,Leipzig,PP Alte Messe, Str.d.18. Okt,Autokorso,2020-10-31 07:28:57,
 5193,DE,52525,2020-11-07,11:11,Heinsberg,Parkplatz Ostpromenade,Demonstration,2020-10-26 19:55:47,
 5202,DE,52525,2020-11-07,11:11,Heinsberg,Ostpromenade / Parkplatz,Spaziergang,2020-10-27 11:15:32,https://www.youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
 4997,DE,04109,2020-11-07,13:00,Leipzig,Augustusplatz,Kundgebung,2020-10-18 14:07:02,
