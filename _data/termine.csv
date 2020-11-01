@@ -20,6 +20,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5224,DE,23843,2020-11-02,17:00,Bad Oldesloe,Markt,Kundgebung,2020-10-28 12:39:27,
 5101,DE,48143,2020-11-02,17:30,Münster,Prinzipalmarkt / Rathaus,Spaziergang,2020-10-22 09:26:13,
 4500,DE,50674,2020-11-02,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:23:17,
+5295,DE,70176,2020-11-02,18:00,Stuttgart,Karlsplatz,Treffpunkt,2020-11-01 19:20:03,
 5147,DE,14467,2020-11-02,18:00,Potsdam,Breite Str. 1A / Pl. am Filmmuseum,Mahnwache,2020-10-24 09:44:18,
 4908,DE,80331,2020-11-02,18:00,München,Max Joseph Platz / Oper,Meditation,2020-10-14 08:35:17,http://www.mbsr-muenchen.net/demo
 5220,DE,71672,2020-11-02,18:00,Marbach a. N.,Schillerhöhe,Versammlung,2020-10-27 21:44:40,
@@ -40,6 +41,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5212,DE,47906,2020-11-02,19:00,Kempen,Kuhtor,Spaziergang,2020-10-27 17:59:49,
 5271,DE,87600,2020-11-02,19:00,Kaufbeuren,Altes Rathaus,Spaziergang,2020-10-30 15:02:10,
 5191,DE,07356,2020-11-02,19:00,Bad Lobenstein,Marktplatz,Spaziergang,2020-10-26 15:16:25,
+5294,DE,73728,2020-11-02,19:09,Esslingen,Heugasse 10 / Delicantina,Treffpunkt,2020-11-01 18:09:37,
 5241,DE,15344,2020-11-04,18:00,Strausberg,Predigerstr. 2 / Marienkirche,Spaziergang,2020-10-29 09:53:50,
 5257,DE,09757,2020-11-05,16:30,Eppendorf (Sachsen),Penny / Parkplatz,Kundgebung,2020-10-29 19:44:03,
 4543,DE,10117,2020-11-05,18:00,Berlin,Brandenburger Tor,Kundgebung,2020-09-25 10:22:18,https://anonymous.support/tv
@@ -57,6 +59,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3139,DE,24568,2020-11-07,15:30,Kaltenkirchen,Park ggü. Rathaus,Sonstiges,2020-07-10 12:21:49,
 5090,DE,79650,2020-11-07,16:00,Schopfheim,Marktplatz,Mahnwache,2020-10-21 23:30:06,
 5048,DE,48143,2020-11-07,16:00,Münster,Stubengasse / Karstadt Sport,Kundgebung,2020-10-20 14:12:52,
+5292,DE,83536,2020-11-08,13:00,Gars,Marktplatz,Kundgebung,2020-11-01 16:58:38,
 5274,DE,69231,2020-11-08,15:00,Rauenberg,Rathausplatz,Kundgebung,2020-10-30 16:53:37,
 5247,DE,10117,2020-11-08,16:00,Berlin,Brandenburger Tor,Kundgebung,2020-10-29 14:04:19,
 5155,DE,55116,2020-11-09,11:30,Mainz,Bauhofstr. / Kaiserstr.,Kundgebung,2020-10-24 18:24:11,
@@ -77,6 +80,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5170,DE,52062,2020-11-14,15:00,Aachen,Monheimsallee 48 / Eurogress,Kundgebung,2020-10-25 00:21:07,
 5091,DE,79650,2020-11-14,16:00,Schopfheim,Marktplatz,Mahnwache,2020-10-21 23:31:02,
 5049,DE,48143,2020-11-14,16:00,Münster,Stubengasse / Karstadt Sport,Kundgebung,2020-10-20 14:13:47,
+5293,DE,83527,2020-11-15,13:00,Haag,Marktplatz,Kundgebung,2020-11-01 16:59:08,
 5275,DE,69231,2020-11-15,15:00,Rauenberg,Rathausplatz,Kundgebung,2020-10-30 16:53:58,
 5156,DE,55116,2020-11-16,11:30,Mainz,Bauhofstr. / Kaiserstr.,Kundgebung,2020-10-24 18:24:38,
 4502,DE,50674,2020-11-16,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:25:37,
