@@ -50,7 +50,7 @@ $.get('/assets/data/demotermine_geo.csv', function(csvString) {
       var description = "Город: " + row.stadt + "<br/>Дата: " + row.datum + "<br/>Время: " + row.uhrzeit + "<br/>Место встречи: " + row.treffpunkt + "<br/>Кампания: " + row.protestform
     }
     
-    if (row['latitude'] != "") {
+    if (row['latitude'] != null) {
       var marker = L.marker([row['latitude'], row['longitude']], {icon: maskIcon}, {
         opacity: 1
       }).bindPopup(description)

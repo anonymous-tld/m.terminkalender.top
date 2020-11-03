@@ -50,7 +50,7 @@ $.get('/assets/data/demotermine_geo.csv', function(csvString) {
       var description = "Város: " + row.stadt + "<br/>Dátum: " + row.datum + "<br/>Idő: " + row.uhrzeit + "<br/>Találkozási hely: " + row.treffpunkt + "<br/>A tiltakozás formája: " + row.protestform
     }
     
-    if (row['latitude'] != "") {
+    if (row['latitude'] != null) {
       var marker = L.marker([row['latitude'], row['longitude']], {icon: maskIcon}, {
         opacity: 1
       }).bindPopup(description)
