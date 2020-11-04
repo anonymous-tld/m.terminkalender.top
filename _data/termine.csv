@@ -42,6 +42,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5243,DE,50321,2020-11-07,13:00,Brühl,Markt 14 / Sparkasse,Kundgebung,2020-10-29 12:56:26,
 5360,CH,4058,2020-11-07,13:00,Basel,Messeplatz,Kundgebung,2020-11-03 21:24:53,
 5108,DE,32789,2020-11-07,13:15,Hameln,Pferdemarkt,Kundgebung,2020-10-22 17:20:32,
+5374,DE,31789,2020-11-07,13:15,Hameln,Bürgergarten,Kundgebung,2020-11-04 17:50:51,
 5320,DE,28203,2020-11-07,13:30,Bremen,Osterdeich,Kundgebung,2020-11-02 08:04:50,
 4725,DE,04105,2020-11-07,14:00,Leipzig,Rosental,Kundgebung,2020-10-04 20:44:58,
 5337,DE,78183,2020-11-07,14:00,Hüfingen,Rathausplatz,Spaziergang,2020-11-02 16:41:32,
@@ -87,6 +88,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5322,DE,74889,2020-11-13,17:00,Sinsheim,Burgplatz,Kundgebung,2020-11-02 09:19:01,
 3185,DE,04668,2020-11-13,19:00,Grimma,Marktplatz,Spaziergang,2020-07-12 19:57:26,
 5109,DE,31789,2020-11-14,03:15,Hameln,Pferdemarkt,Kundgebung,2020-10-22 17:21:21,
+5375,DE,31789,2020-11-14,13:15,Hameln,Bürgergarten,Kundgebung,2020-11-04 17:51:37,
 4791,DE,10117,2020-11-14,14:00,Berlin,Am Kupfergraben 6 / Merkel,Versammlung,2020-10-08 11:32:14,
 4577,DE,10117,2020-11-14,14:00,Berlin,Am Kupfergraben 6,Flashmob,2020-09-26 23:06:38,
 5173,DE,31141,2020-11-14,14:30,Hildesheim,Platz auf der Lilie,Spaziergang,2020-10-25 08:47:42,
@@ -107,6 +109,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5317,DE,10117,2020-11-18,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-11-02 07:36:31,https://demo.stream/mariagoetz
 4933,DE,02727,2020-11-19,17:00,Neugersdorf,Hauptstraße / Edeka,Menschenkette,2020-10-15 12:42:05,
 5043,DE,44777,2020-11-21,00:00,Bochum,wird noch bekannt gegeben,Kundgebung,2020-10-20 13:19:16,
+5376,DE,31789,2020-11-21,13:15,Hameln,Bürgergarten,Kundgebung,2020-11-04 17:52:18,
 5110,DE,31789,2020-11-21,13:15,Hameln,Pferdemarkt,Kundgebung,2020-10-22 17:22:00,
 5092,DE,79650,2020-11-21,16:00,Schopfheim,Marktplatz,Kundgebung,2020-10-21 23:32:02,
 5050,DE,48143,2020-11-21,16:00,Münster,Stubengasse / Karstadt Sport,Kundgebung,2020-10-20 14:14:20,
@@ -115,6 +118,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4503,DE,50674,2020-11-23,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:26:11,
 5084,DE,99510,2020-11-23,18:30,Apolda,Markt / Rathaus,Spaziergang,2020-10-21 18:16:29,
 5318,DE,10117,2020-11-25,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-11-02 07:36:51,https://demo.stream/mariagoetz
+5377,DE,31789,2020-11-28,13:15,Hameln,Bürgergarten,Kundgebung,2020-11-04 17:52:58,
 5111,DE,31789,2020-11-28,13:15,Hameln,Pferdemarkt,Kundgebung,2020-10-22 17:22:27,
 5093,DE,79650,2020-11-28,16:00,Schopfheim,Marktplatz,Kundgebung,2020-10-21 23:32:53,
 5158,DE,55116,2020-11-30,11:30,Mainz,Bauhofstr. / Kaiserstr.,Kundgebung,2020-10-24 18:25:53,
