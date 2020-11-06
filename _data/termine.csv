@@ -1,7 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-5335,DE,84453,2020-11-06,13:00,Mühldorf,Stadtplatz,Kundgebung,2020-11-02 15:06:40,
-5367,DE,88239,2020-11-06,19:00,Wangen,Marktplatz,Spaziergang,2020-11-04 10:56:56,
-5344,DE,04109,2020-11-06,19:30,Leipzig,Marktplatz,Demonstration,2020-11-03 07:21:39,
 5404,DE,55545,2020-11-07,00:00,Bad Kreuznach,Kornmarkt,Kundgebung,2020-11-05 16:55:17,
 5282,DE,04103,2020-11-07,09:30,Leipzig,PP Alte Messe / Str.d.18. Okt,Autokorso,2020-10-31 07:28:57,
 5359,DE,04317,2020-11-07,10:00,Leipzig,Strasse des 18 Oktober / Messe,Autokorso,2020-11-03 20:14:50,
@@ -25,6 +22,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5374,DE,31789,2020-11-07,13:15,Hameln,Bürgergarten,Kundgebung,2020-11-04 17:50:51,
 5320,DE,28203,2020-11-07,13:30,Bremen,Osterdeich,Kundgebung,2020-11-02 08:04:50,
 5400,DE,64385,2020-11-07,14:00,Reichelsheim,Ortseingang Aldi B 38,Kundgebung,2020-11-05 08:22:01,
+5426,DE,80274,2020-11-07,14:00,München,Innenstadt,Flashmob,2020-11-06 23:42:06,
 4725,DE,04105,2020-11-07,14:00,Leipzig,Rosental,Kundgebung,2020-10-04 20:44:58,
 5390,DE,56068,2020-11-07,14:00,Koblenz,Jesuitenplatz,Mahnwache,2020-11-04 22:51:56,
 5337,DE,78183,2020-11-07,14:00,Hüfingen,Rathausplatz,Spaziergang,2020-11-02 16:41:32,
