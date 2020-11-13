@@ -9,6 +9,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5534,NL,3012CL,2020-11-14,01:00,Rotterdam,Schouwburgplein,Kundgebung,2020-11-12 20:45:31,https://demo.stream/liveport
 5109,DE,31789,2020-11-14,03:15,Hameln,Pferdemarkt,Kundgebung,2020-10-22 17:21:21,
 5488,DE,24558,2020-11-14,11:00,Henstedt-Ulzburg,Hamburger Str. 8 / Eingang CCU,Spaziergang,2020-11-10 10:37:07,
+5568,DE,18273,2020-11-14,11:00,Güstrow,Am Wall,Meditation,2020-11-13 16:53:10,
 5499,DE,91301,2020-11-14,11:00,Forchheim,Streckerplatz Landratsamt,Kundgebung,2020-11-10 21:17:17,
 5549,DE,03046,2020-11-14,11:00,Cottbus,Heronsplatz / Stadtbrunnen,Kundgebung,2020-11-13 09:23:47,
 5449,DE,60329,2020-11-14,12:00,Frankfurt am Main,Kasierstrasse,Demonstration,2020-11-08 15:06:29,
@@ -40,6 +41,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5547,DE,10178,2020-11-14,15:00,Berlin,Alexanderplatz,Kundgebung,2020-11-13 09:22:07,
 5532,DE,55543,2020-11-14,15:00,Bad Kreuznach,Kornmarkt,Kundgebung,2020-11-12 20:24:18,
 5170,DE,52062,2020-11-14,15:00,Aachen,Monheimsallee 48 / Eurogress,Kundgebung,2020-10-25 00:21:07,
+5569,DE,18055,2020-11-14,15:30,Rostock,Neuer Markt,Meditation,2020-11-13 16:53:53,
 5437,DE,75175,2020-11-14,15:30,Pforzheim,Karl-Friedrich-Str. 2 / Altes Rathaus,Demonstration,2020-11-08 01:56:16,
 5512,DE,87600,2020-11-14,15:30,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,2020-11-11 11:33:16,
 5508,DE,21073,2020-11-14,15:30,Hamburg-Harburg,Museumsplatz 1 /  Brunnen,Meditation,2020-11-11 11:06:38,
@@ -78,6 +80,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5422,DE,02763,2020-11-16,18:30,Zittau,Markt,Kundgebung,2020-11-06 17:34:42,
 5527,DE,71332,2020-11-16,18:30,Waiblingen,Alter Postplatz,Demonstration,2020-11-12 00:34:10,
 5083,DE,99510,2020-11-16,18:30,Apolda,Markt / Rathaus,Spaziergang,2020-10-21 18:15:21,
+5567,DE,17192,2020-11-16,19:00,Waren /Müritz,Neuer Markt,Spaziergang,2020-11-13 16:04:38,
 5459,DE,88239,2020-11-16,19:00,Wangen,Marktplatz,Spaziergang,2020-11-08 22:02:15,
 5473,DE,07318,2020-11-16,19:00,Saalfeld,Markt / Apotheke,Spaziergang,2020-11-09 20:43:12,
 5474,DE,07407,2020-11-16,19:00,Rudolstadt,Markt,Spaziergang,2020-11-09 20:44:02,
