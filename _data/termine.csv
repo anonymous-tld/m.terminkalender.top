@@ -1,6 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 5534,NL,3012CL,2020-11-14,01:00,Rotterdam,Schouwburgplein,Kundgebung,2020-11-12 20:45:31,https://demo.stream/liveport
 5109,DE,31789,2020-11-14,03:15,Hameln,Pferdemarkt,Kundgebung,2020-10-22 17:21:21,
+5573,DE,25451,2020-11-14,11:00,Quickborn,Parkhaus gegenüber Rathaus,Kundgebung,2020-11-14 08:28:20,
 5488,DE,24558,2020-11-14,11:00,Henstedt-Ulzburg,Hamburger Str. 8 / Eingang CCU,Spaziergang,2020-11-10 10:37:07,
 5568,DE,18273,2020-11-14,11:00,Güstrow,Am Wall,Meditation,2020-11-13 16:53:10,
 5499,DE,91301,2020-11-14,11:00,Forchheim,Streckerplatz Landratsamt,Kundgebung,2020-11-10 21:17:17,
@@ -29,6 +30,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5464,DE,66313,2020-11-14,14:30,Frankfurt am Main,Goetheplatz,Kundgebung,2020-11-09 10:58:58,
 5501,DE,55595,2020-11-14,15:00,Wallhausen,Kornmarkt,Kundgebung,2020-11-10 22:19:45,
 5546,DE,33098,2020-11-14,15:00,Paderborn,Domplatz,Kundgebung,2020-11-13 09:07:21,
+5577,DE,07743,2020-11-14,15:00,Jena,Holzmarkt,Musik,2020-11-14 08:57:38,
 5510,DE,91054,2020-11-14,15:00,Erlangen,Rathausplatz,Kundgebung,2020-11-11 11:12:39,
 5538,DE,40210,2020-11-14,15:00,Düsseldorf,Corneliusplatz,Zusammenkunft,2020-11-12 22:54:54,https://www.youtube.com/channel/UC6MG9R-vSEEEGF0VADL_OhA/featured
 5448,DE,53111,2020-11-14,15:00,Bonn,Kaiserplatz,Zusammenkunft,2020-11-08 14:50:32,
@@ -48,6 +50,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5049,DE,48143,2020-11-14,16:00,Münster,Stubengasse / Karstadt Sport,Kundgebung,2020-10-20 14:13:47,
 5298,DE,96047,2020-11-14,16:00,Bamberg,Maxplatz,Kundgebung,2020-11-01 23:56:28,
 5457,DE,88239,2020-11-14,19:00,Wangen,Marktplatz,Spaziergang,2020-11-08 22:00:45,
+5579,DE,53111,2020-11-14,19:00,Bonn,Marktplatz,Vortrag,2020-11-14 10:07:52,
 5410,DE,25451,2020-11-15,09:00,Quickborn,Forumsplatz,Kundgebung,2020-11-05 19:09:59,
 5462,DE,75015,2020-11-15,10:45,Bretten,Marktplatz,Meditation,2020-11-09 10:44:58,
 5500,DE,91301,2020-11-15,11:00,Forchheim,Streckerplatz Landratsamt,Kundgebung,2020-11-10 21:17:41,
@@ -69,6 +72,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5434,DE,14467,2020-11-16,18:00,Potsdam,Breite Str. 1A / Filmmuseum,Kundgebung,2020-11-08 00:57:22,
 5530,DE,49074,2020-11-16,18:00,Osnabrück,Marktplatz,Mahnwache,2020-11-12 14:06:49,
 5542,DE,48143,2020-11-16,18:00,Münster,Dom / Eingang,Spaziergang,2020-11-13 06:31:15,
+5572,DE,87437,2020-11-16,18:00,Kempten / Allgäu,Hildegardplatz am Brunnen,Spaziergang,2020-11-14 07:52:49,
 5477,DE,73728,2020-11-16,18:00,Esslingen,Marktplatz,Spaziergang,2020-11-09 22:38:51,
 5520,DE,09111,2020-11-16,18:00,Chemnitz,Am Nischel,Spaziergang,2020-11-11 19:14:41,
 5422,DE,02763,2020-11-16,18:30,Zittau,Markt,Kundgebung,2020-11-06 17:34:42,
@@ -99,6 +103,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5388,AT,1070,2020-11-20,15:45,Wien,Platz der Menschenrechte,Menschenkette,2020-11-04 21:34:37,
 5467,DE,73614,2020-11-20,17:00,Schorndorf,Oberer Marktplatz,Demonstration,2020-11-09 14:03:57,
 5043,DE,44777,2020-11-21,00:00,Bochum,wird noch bekannt gegeben,Kundgebung,2020-10-20 13:19:16,
+5574,DE,25451,2020-11-21,11:00,Quickborn,Parkhaus gegenüber Rathaus,Kundgebung,2020-11-14 08:28:52,
 5414,DE,50126,2020-11-21,12:00,Bergheim,Hubert-Rheinfeld-Platz,Kundgebung,2020-11-06 10:55:03,
 5517,DE,84453,2020-11-21,13:00,Mühldorf,Stadtplatz,Kundgebung,2020-11-11 16:33:49,
 5523,DE,63571,2020-11-21,13:00,Gelnhausen,Parkplatz Uferweg,Kundgebung,2020-11-11 21:53:44,
@@ -121,6 +126,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5318,DE,10117,2020-11-25,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-11-02 07:36:51,https://demo.stream/mariagoetz
 5482,DE,51465,2020-11-27,16:00,Bergisch Gladbach,Trotzenburger Platz / Innenstadt,Kundgebung,2020-11-10 02:28:51,
 5565,DE,74889,2020-11-27,17:00,Sinsheim,Burgplatz,Kundgebung,2020-11-13 13:45:41,
+5575,DE,25451,2020-11-28,11:00,Quickborn,Parkhaus gegenüber Rathaus,Kundgebung,2020-11-14 08:29:15,
 5428,DE,89522,2020-11-28,11:00,Aalen,Aalen,Kundgebung,2020-11-07 10:53:52,
 5377,DE,31789,2020-11-28,13:15,Hameln,Bürgergarten,Kundgebung,2020-11-04 17:52:58,
 5111,DE,31789,2020-11-28,13:15,Hameln,Pferdemarkt,Kundgebung,2020-10-22 17:22:27,
