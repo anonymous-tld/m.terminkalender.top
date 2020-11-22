@@ -4,6 +4,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5612,DE,75015,2020-11-22,10:45,Bretten,Marktplatz,Meditation,2020-11-16 00:06:44,
 5737,DE,91301,2020-11-22,11:00,Forchheim,Park bei Ritter-von-Traitteur-,Kundgebung,2020-11-20 23:30:39,
 5723,DE,60314,2020-11-22,11:59,Frankfurt am Main,Weseler Werft,Mahnwache,2020-11-20 15:43:10,
+5754,DE,10439,2020-11-22,12:00,Berlin,Bornholmer Str.,Livestream,2020-11-22 05:50:34,https://demo.stream/berlinberlin
 5696,DE,85560,2020-11-22,13:00,Ebersberg,Marienplatz,Kundgebung,2020-11-19 22:17:49,
 5695,DE,84405,2020-11-22,13:00,Dorfen,Marienplatz,Kundgebung,2020-11-19 22:15:41,
 5714,DE,90403,2020-11-22,14:00,Nürnberg,Andreij-Sacharow-Platz,Kundgebung,2020-11-20 14:17:31,
@@ -62,6 +63,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5412,DE,25451,2020-11-29,09:00,Quickborn,Forumsplatz,Kundgebung,2020-11-05 19:10:34,
 5738,DE,91301,2020-11-29,11:00,Forchheim,Park Ritter-von-Traitteur-Schu,Kundgebung,2020-11-20 23:31:20,
 5558,DE,52525,2020-11-29,11:45,Heinsberg,Parkplatz Ostpromenade,Demonstration,2020-11-13 11:33:31,https://www.youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
+5753,DE,52525,2020-11-29,11:59,Heinsberg,Parkplatz Ostpromenade,Spaziergang,2020-11-22 00:02:59,https://www.youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
 5709,DE,94209,2020-11-29,13:00,Regen,Stadtplatz,Kundgebung,2020-11-20 11:54:06,
 5746,DE,69231,2020-11-29,14:00,Rauenberg,Rathausplatz,Kundgebung,2020-11-21 10:55:46,
 5727,DE,54516,2020-11-29,14:30,Wittlich,Platz an der Lieser,Kundgebung,2020-11-20 17:53:35,
