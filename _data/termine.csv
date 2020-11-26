@@ -1,8 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-5779,DE,91710,2020-11-26,09:00,Gunzenhausen,Glockenturm,Sonstiges,2020-11-23 23:27:27,
-5704,DE,76131,2020-11-26,14:00,Karlsruhe,Bundesverfassungsgericht,Kundgebung,2020-11-20 10:08:39,
-5741,DE,76131,2020-11-26,14:00,Karlsruhe,Schloßbezirk,Kundgebung,2020-11-21 00:35:19,
-5786,DE,99974,2020-11-26,17:00,Mühlhausen,Untermarkt / Amtsgericht,Lichterkette,2020-11-24 21:50:56,
 5829,DE,83543,2020-11-27,13:00,Rott,Kaisergarten,Kundgebung,2020-11-26 22:00:21,
 5830,DE,85354,2020-11-27,14:00,Freising,Marienplatz,Kundgebung,2020-11-26 22:08:32,
 5482,DE,51465,2020-11-27,16:00,Bergisch Gladbach,Trotzenburger Platz / Innenstadt,Kundgebung,2020-11-10 02:28:51,
@@ -52,6 +48,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5759,DE,80335,2020-11-29,01:00,München,Stachus,Revolte,2020-11-22 12:13:13,
 5412,DE,25451,2020-11-29,09:00,Quickborn,Forumsplatz,Kundgebung,2020-11-05 19:10:34,
 5770,DE,75015,2020-11-29,10:45,Bretten,Marktplatz,Meditation,2020-11-22 22:11:48,
+5836,DE,73614,2020-11-29,11:00,Schorndorf,Marktplatz,Musik,2020-11-26 23:46:06,
 5738,DE,91301,2020-11-29,11:00,Forchheim,Park Ritter-von-Traitteur-Schu,Kundgebung,2020-11-20 23:31:20,
 5558,DE,52525,2020-11-29,11:45,Heinsberg,Parkplatz Ostpromenade,Demonstration,2020-11-13 11:33:31,https://www.youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
 5753,DE,52525,2020-11-29,11:59,Heinsberg,Parkplatz Ostpromenade,Spaziergang,2020-11-22 00:02:59,https://www.youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
