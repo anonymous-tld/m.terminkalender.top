@@ -24,7 +24,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5780,DE,64283,2020-11-28,13:30,Darmstadt,Karolinenplatz,Kundgebung,2020-11-24 12:22:34,
 5787,DE,79761,2020-11-28,14:00,Waldshut,Viehmarktplatz,Kundgebung,2020-11-24 23:01:50,
 5793,DE,64385,2020-11-28,14:00,Reichelsheim,Ortseingang Aldi B 38,Kundgebung,2020-11-25 07:53:21,
+5814,DE,23730,2020-11-28,14:00,Neustadt Ostholstein,Fischereimuseum / Jungfernstieg,Spaziergang,2020-11-26 04:11:55,
 5794,DE,56068,2020-11-28,14:00,Koblenz,Münzplatz,Mahnwache,2020-11-25 08:03:01,
+5813,DE,36037,2020-11-28,14:00,Fulda,Universitätsplatz,Kundgebung,2020-11-26 00:09:56,
 5808,DE,77815,2020-11-28,14:00,Bühl,Europaplatz,Kundgebung,2020-11-25 21:50:04,
 5812,DE,77815,2020-11-28,14:00,Bühl,Europaplatz,Kundgebung,2020-11-25 23:05:36,
 5665,DE,71364,2020-11-28,14:30,Winnenden,Marktplatz / Brunnen,Mahnwache,2020-11-18 22:46:12,
@@ -71,6 +73,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5319,DE,10117,2020-12-02,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-11-02 07:37:11,https://demo.stream/mariagoetz
 5677,DE,63739,2020-12-05,10:00,Aschaffenburg,Würzburger Straße,Demonstration,2020-11-19 13:58:54,
 5769,DE,28195,2020-12-05,13:00,Bremen,Bürgerweide,Kundgebung,2020-11-22 20:15:11,
+5815,DE,23730,2020-12-05,14:00,Neustadt Ostholstein,Fischereimuseum / Jungfernstieg,Spaziergang,2020-11-26 04:13:23,
 5775,DE,76646,2020-12-05,15:00,Bruchsal,Kaiserstr. 66 / Rathausplatz,Kundgebung,2020-11-23 12:24:43,https://www.facebook.com/Aufbruch-Bruchsal-1004250733098594
 5795,DE,10245,2020-12-05,15:00,Berlin,Revaler Str. / R.A.W.-Gelände,Kundgebung,2020-11-25 09:14:30,
 5551,DE,10178,2020-12-05,15:00,Berlin,Alexanderplatz,Kundgebung,2020-11-13 09:24:16,
