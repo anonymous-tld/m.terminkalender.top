@@ -108,6 +108,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5717,DE,50667,2020-12-06,14:30,Köln,auf dem Heumarkt,Mahnwache,2020-11-20 14:24:22,
 2053,AT,4020,2020-12-06,17:00,Linz,Hauptplatz,Kundgebung,2020-06-09 14:52:11,
 5763,DE,63825,2020-12-07,17:00,Schöllkrippen,Marktplatz,Demonstration,2020-11-22 14:34:37,
+5848,DE,50968,2020-12-07,17:45,Köln,Rudolfplatz,Mahnwache,2020-11-27 18:28:59,
 5797,DE,14467,2020-12-07,18:00,Potsdam,Platz am Filmmuseum,Kundgebung,2020-11-25 13:55:42,
 5798,DE,14467,2020-12-07,18:00,Potsdam,Platz am Filmmuseum,Kundgebung,2020-11-25 13:55:48,
 5445,DE,01877,2020-12-07,19:00,Bischofswerda,Marktplatz,Spaziergang,2020-11-08 10:45:38,
@@ -119,6 +120,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5583,DE,01067,2020-12-12,17:00,Dresden,Messe,Kundgebung,2020-11-14 14:12:57,
 5718,DE,50667,2020-12-13,14:30,Köln,auf dem Heumarkt,Mahnwache,2020-11-20 14:26:50,
 5764,DE,63825,2020-12-14,17:00,Schöllkrippen,Marktplatz,Demonstration,2020-11-22 14:34:59,
+5849,DE,50968,2020-12-14,17:45,Köln,Rudolfplatz,Mahnwache,2020-11-27 18:30:05,
 5799,DE,14467,2020-12-14,18:00,Potsdam,Platz am Filmmuseum,Kundgebung,2020-11-25 13:56:48,
 5589,DE,72336,2020-12-14,19:00,Balingen,Marktplatz,Versammlung,2020-11-14 17:28:02,
 5679,DE,63739,2020-12-19,10:00,Aschaffenburg,Würzburger Straße,Demonstration,2020-11-19 13:59:50,
@@ -127,6 +129,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5096,DE,79650,2020-12-19,16:00,Schopfheim,Marktplatz,Kundgebung,2020-10-21 23:34:53,
 5719,DE,50667,2020-12-20,14:30,Köln,auf dem Heumarkt,Mahnwache,2020-11-20 14:27:45,
 5765,DE,63825,2020-12-21,17:00,Schöllkrippen,Marktplatz,Demonstration,2020-11-22 14:35:15,
+5850,DE,50968,2020-12-21,17:45,Köln,Rudolfplatz,Mahnwache,2020-11-27 18:30:53,
 5800,DE,14467,2020-12-21,18:00,Potsdam,Platz am Filmmuseum,Kundgebung,2020-11-25 13:57:48,
 4566,DE,10178,2020-12-24,12:00,Berlin,Alexanderplatz / Weltzeituhr,Charity,2020-09-26 11:25:32,https://demo.stream/anonymous
 5137,DE,00000,2020-12-24,16:00,Online,Weihnachts- Ringsendung,Livestream,2020-10-23 21:56:28,https://demo.stream/live
@@ -134,6 +137,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5554,DE,10178,2020-12-26,15:00,Berlin,Alexanderplatz,Kundgebung,2020-11-13 09:25:33,
 5720,DE,50667,2020-12-27,14:30,Köln,auf dem Heumarkt,Mahnwache,2020-11-20 14:28:28,
 5766,DE,63825,2020-12-28,17:00,Schöllkrippen,Marktplatz,Demonstration,2020-11-22 14:35:34,
+5851,DE,50968,2020-12-28,17:45,Köln,Rudolfplatz,Mahnwache,2020-11-27 18:31:43,
 5229,DE,20095,2020-12-31,13:00,Hamburg,Jungfernstieg,Demonstration,2020-10-28 18:23:52,
 4685,DE,10117,2020-12-31,15:00,Berlin,Straße des 17. Juni,Kundgebung,2020-10-02 16:52:11,
 2309,DE,94315,2021-06-20,16:30,Straubing,Ludwigsplatz,Mahnwache,2020-06-15 10:15:12,
