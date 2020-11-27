@@ -6,6 +6,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5565,DE,74889,2020-11-27,17:00,Sinsheim,Schwimmbadweg / Parkplatz Freibad,Sitzdemo,2020-11-13 13:45:41,
 5796,DE,17192,2020-11-28,09:30,Waren-Müritz,Parkplatz Zum Amtsbrink,Autokorso,2020-11-25 10:26:32,
 5784,DE,17192,2020-11-28,10:00,Waren-Müritz,Parkplatz Am Amtsbrink,Autokorso,2020-11-24 21:30:51,
+5840,DE,79379,2020-11-28,10:00,Müllheim,Markgräfler Platz,Demonstration,2020-11-27 13:05:13,
 5838,DE,21614,2020-11-28,10:00,Buxtehude,Lange Str. / Ritterstr.,Zusammenkunft,2020-11-27 12:37:20,
 5686,DE,86159,2020-11-28,10:00,Augsburg,Königsplatz,Aufstand,2020-11-19 17:16:07,
 5676,DE,63739,2020-11-28,10:00,Aschaffenburg,Würzburger Straße,Demonstration,2020-11-19 13:58:22,
@@ -33,6 +34,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5665,DE,71364,2020-11-28,14:30,Winnenden,Marktplatz / Brunnen,Mahnwache,2020-11-18 22:46:12,
 5564,DE,26382,2020-11-28,14:30,Wilhelmshaven,Virchowstr. 11 / Pacific Cafe,Spaziergang,2020-11-13 13:45:03,
 5783,DE,32423,2020-11-28,14:30,Minden,Parkplatz Kanzlers Weide,Autokorso,2020-11-24 20:21:14,
+5841,DE,79098,2020-11-28,14:30,Freiburg,Platz der alten Synagoge,Demonstration,2020-11-27 13:06:14,
 5810,DE,33098,2020-11-28,15:00,Paderborn,Herz-Jesu Kirche / Westerntor,Spaziergang,2020-11-25 22:13:59,
 5778,DE,53111,2020-11-28,15:00,Bonn,Kaiserplatz,Versammlung,2020-11-23 17:31:21,
 5550,DE,10178,2020-11-28,15:00,Berlin,Alexanderplatz,Kundgebung,2020-11-13 09:23:50,
@@ -90,6 +92,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5837,DE,69168,2020-12-02,18:00,Wiesloch,Adenauerplatz,Spaziergang,2020-11-27 08:05:41,
 5319,DE,10117,2020-12-02,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-11-02 07:37:11,https://demo.stream/mariagoetz
 5677,DE,63739,2020-12-05,10:00,Aschaffenburg,Würzburger Straße,Demonstration,2020-11-19 13:58:54,
+5842,DE,87527,2020-12-05,11:00,Sonthofen,Rathausplatz,Kundgebung,2020-11-27 13:48:23,
 5769,DE,28195,2020-12-05,13:00,Bremen,Bürgerweide,Kundgebung,2020-11-22 20:15:11,
 5815,DE,23730,2020-12-05,14:00,Neustadt Ostholstein,Fischereimuseum / Jungfernstieg,Spaziergang,2020-11-26 04:13:23,
 5775,DE,76646,2020-12-05,15:00,Bruchsal,Kaiserstr. 66 / Rathausplatz,Kundgebung,2020-11-23 12:24:43,https://www.facebook.com/Aufbruch-Bruchsal-1004250733098594
