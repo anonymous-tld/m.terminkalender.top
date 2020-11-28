@@ -31,6 +31,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5813,DE,36037,2020-11-28,14:00,Fulda,Universitätsplatz,Kundgebung,2020-11-26 00:09:56,
 5808,DE,77815,2020-11-28,14:00,Bühl,Europaplatz,Kundgebung,2020-11-25 21:50:04,
 5812,DE,77815,2020-11-28,14:00,Bühl,Europaplatz,Kundgebung,2020-11-25 23:05:36,
+5869,DE,84503,2020-11-28,14:00,Altötting,Tillyplatz,Kundgebung,2020-11-28 06:03:23,
 5665,DE,71364,2020-11-28,14:30,Winnenden,Marktplatz / Brunnen,Mahnwache,2020-11-18 22:46:12,
 5564,DE,26382,2020-11-28,14:30,Wilhelmshaven,Virchowstr. 11 / Pacific Cafe,Spaziergang,2020-11-13 13:45:03,
 5783,DE,32423,2020-11-28,14:30,Minden,Parkplatz Kanzlers Weide,Autokorso,2020-11-24 20:21:14,
@@ -64,6 +65,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5558,DE,52525,2020-11-29,11:45,Heinsberg,Parkplatz Ostpromenade,Demonstration,2020-11-13 11:33:31,https://www.youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
 5753,DE,52525,2020-11-29,11:59,Heinsberg,Parkplatz Ostpromenade,Spaziergang,2020-11-22 00:02:59,https://www.youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
 5709,DE,94209,2020-11-29,13:00,Regen,Stadtplatz,Kundgebung,2020-11-20 11:54:06,
+5870,DE,94209,2020-11-29,13:00,Regen,Stadtplatz,Kundgebung,2020-11-28 06:05:00,
 5828,DE,83527,2020-11-29,13:00,Haag,Marktplatz,Kundgebung,2020-11-26 21:26:22,
 5861,DE,40545,2020-11-29,13:00,Düsseldorf,Kaiser-Willhelm-Ring / Festwiese,Autokorso,2020-11-27 20:39:06,
 5746,DE,69231,2020-11-29,14:00,Rauenberg,Rathausplatz,Kundgebung,2020-11-21 10:55:46,
@@ -74,6 +76,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5773,DE,54516,2020-11-29,15:00,Wittlich,Platz an der Lieser,Kundgebung,2020-11-23 10:54:47,
 5332,DE,82362,2020-11-30,14:30,Weilheim,Marienplatz,Mahnwache,2020-11-02 13:11:06,
 5762,DE,63825,2020-11-30,17:00,Schöllkrippen,Marktplatz,Demonstration,2020-11-22 14:34:11,
+5873,DE,23847,2020-11-30,17:00,Bad Oldesloe,Markt,Kundgebung,2020-11-28 09:17:45,
 4504,DE,50674,2020-11-30,17:45,Köln,Aachener Weiher,Mahnwache,2020-09-23 21:26:50,
 5853,DE,50968,2020-11-30,17:45,Köln,Rudolfplatz,Mahnwache,2020-11-27 18:33:19,
 5387,DE,69190,2020-11-30,18:00,Walldorf,Drehscheibe,Kundgebung,2020-11-04 20:12:46,
@@ -107,6 +110,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5837,DE,69168,2020-12-02,18:00,Wiesloch,Adenauerplatz,Spaziergang,2020-11-27 08:05:41,
 5319,DE,10117,2020-12-02,18:00,Berlin,Bundeskanzleramt,Kundgebung,2020-11-02 07:37:11,https://demo.stream/mariagoetz
 5860,DE,84307,2020-12-04,14:00,Eggenfelden,Stadtplatz,Kundgebung,2020-11-27 20:18:01,
+5871,DE,84307,2020-12-04,14:00,Eggenfelden,Stadtplatz,Kundgebung,2020-11-28 06:07:53,
 5677,DE,63739,2020-12-05,10:00,Aschaffenburg,Würzburger Straße,Demonstration,2020-11-19 13:58:54,
 5842,DE,87527,2020-12-05,11:00,Sonthofen,Rathausplatz,Kundgebung,2020-11-27 13:48:23,
 5769,DE,28195,2020-12-05,13:00,Bremen,Bürgerweide,Kundgebung,2020-11-22 20:15:11,
@@ -123,6 +127,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5848,DE,50968,2020-12-07,17:45,Köln,Rudolfplatz,Mahnwache,2020-11-27 18:28:59,
 5797,DE,14467,2020-12-07,18:00,Potsdam,Platz am Filmmuseum,Kundgebung,2020-11-25 13:55:42,
 5798,DE,14467,2020-12-07,18:00,Potsdam,Platz am Filmmuseum,Kundgebung,2020-11-25 13:55:48,
+5872,DE,99510,2020-12-07,18:30,Apolda,Markt / Rathaus,Spaziergang,2020-11-28 08:56:59,
 5445,DE,01877,2020-12-07,19:00,Bischofswerda,Marktplatz,Spaziergang,2020-11-08 10:45:38,
 5588,DE,72336,2020-12-07,19:00,Balingen,Marktplatz,Versammlung,2020-11-14 17:27:32,
 5483,DE,51465,2020-12-11,16:31,Bergisch Gladbach,Trotzenburger Platz / Innenstadt,Kundgebung,2020-11-10 02:31:59,
