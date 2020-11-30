@@ -17,6 +17,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5886,DE,79098,2020-11-30,18:00,Freiburg,Platz der Alten Synagoge,Mahnwache,2020-11-29 01:59:20,
 5825,DE,73728,2020-11-30,18:00,Esslingen,Marktplatz,Lichterkette,2020-11-26 14:26:25,
 5908,DE,23795,2020-11-30,18:00,Bad Segeberg,Marktplatz,Kundgebung,2020-11-30 02:15:18,
+5913,DE,23795,2020-11-30,18:00,Bad Segeberg,Marktplatz,Spaziergang,2020-11-30 10:57:20,
 5697,DE,02763,2020-11-30,18:30,Zittau,Markt,Kundgebung,2020-11-19 22:43:24,
 5816,DE,71332,2020-11-30,18:30,Waiblingen,Alter Postplatz,Spaziergang,2020-11-26 09:00:42,
 5835,DE,71332,2020-11-30,18:30,Waiblingen,Alter Postplatz,Spaziergang,2020-11-26 23:27:07,
@@ -57,6 +58,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5859,DE,19053,2020-12-05,14:00,Schwerin,Berta-Klingberg-Platz,Demonstration,2020-11-27 20:11:28,
 5815,DE,23730,2020-12-05,14:00,Neustadt Ostholstein,Fischereimuseum / Jungfernstieg,Spaziergang,2020-11-26 04:13:23,
 5887,DE,94469,2020-12-05,14:30,Deggendorf,Oberer Stadtplatz,Demonstration,2020-11-29 10:54:30,
+5912,DE,55545,2020-12-05,14:30,Bad Kreuznach,Kornmarkt,Kundgebung,2020-11-30 09:41:26,
 5775,DE,76646,2020-12-05,15:00,Bruchsal,Kaiserstr. 66 / Rathausplatz,Kundgebung,2020-11-23 12:24:43,https://www.facebook.com/Aufbruch-Bruchsal-1004250733098594
 5795,DE,10245,2020-12-05,15:00,Berlin,Revaler Str. / R.A.W.-Gelände,Kundgebung,2020-11-25 09:14:30,
 5551,DE,10178,2020-12-05,15:00,Berlin,Alexanderplatz,Kundgebung,2020-11-13 09:24:16,
