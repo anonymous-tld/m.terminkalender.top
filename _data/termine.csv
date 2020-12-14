@@ -18,6 +18,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5878,DE,63225,2020-12-14,18:00,Langen,Bahnstr. /  Goethestr.,Mahnwache,2020-11-28 13:47:49,
 6063,DE,76829,2020-12-14,18:00,Landau in der Pfalz,Rathausplatz,Kundgebung,2020-12-07 15:26:37,
 6155,DE,63796,2020-12-14,18:00,Kahl am Main,Marktplatz,Treffpunkt,2020-12-12 23:16:29,
+6193,DE,06108,2020-12-14,18:00,Halle / Saale,Ulrichsbrunnen,Spaziergang,2020-12-14 14:06:39,
 6164,DE,07973,2020-12-14,18:00,Greiz,Markt,Kundgebung,2020-12-13 19:05:38,
 6151,DE,73728,2020-12-14,18:00,Esslingen,Marktplatz,Lichterkette,2020-12-12 10:23:20,
 6181,DE,36251,2020-12-14,18:00,Bad Hersfeld,Am Markt / Lullusfeuer,Spaziergang,2020-12-14 08:47:16,
@@ -77,9 +78,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6089,DE,10179,2020-12-20,14:00,Berlin Schweigemarsch,Stralauer Str. / Alexanderstr.,Spaziergang,2020-12-08 20:13:17,
 6102,DE,47441,2020-12-20,14:30,Moers Schweigemarsch,Hülsdonker Str. / Fasanenstr.,Spaziergang,2020-12-08 21:01:32,
 5719,DE,50667,2020-12-20,14:30,Köln,auf dem Heumarkt,Mahnwache,2020-11-20 14:27:45,
-6109,DE,82362,2020-12-20,15:00,Weilheim, Schweigemarsch,Volksfestplatz / Maske + Abst.,Spaziergang,2020-12-09 12:09:58,
+6109,DE,82362,2020-12-20,15:00,Weilheim,Volksfestplatz / Maske + Abst.,Schweigemarsch,2020-12-09 12:09:58,
 6170,DE,82140,2020-12-20,15:00,Olching (FFB),Volksfestplatz / Toni-März-Str,Kundgebung,2020-12-13 22:10:43,
-6106,DE,90443,2020-12-20,16:00,Nürnberg,Richard-Wagner-Platz,Versammlung,2020-12-09 07:55:56,www.der-schweigemarsch.de
+6106,DE,90443,2020-12-20,16:00,Nürnberg,Richard-Wagner-Platz,Versammlung,2020-12-09 07:55:56,https://www.der-schweigemarsch.de
 6192,DE,06712,2020-12-20,16:30,Zeitz,Altmarkt,Schweigemarsch,2020-12-14 13:35:04,
 6188,DE,88239,2020-12-20,18:00,Wangen,Marktplatz,Spaziergang,2020-12-14 09:32:20,
 5765,DE,63825,2020-12-21,17:00,Schöllkrippen,Marktplatz,Demonstration,2020-11-22 14:35:15,
