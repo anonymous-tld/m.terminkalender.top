@@ -1,4 +1,5 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
+6255,DE,64289,2020-12-19,11:00,Darmstadt,Karolinenplatz,Kundgebung,2020-12-18 18:06:07,
 6027,DE,79576,2020-12-19,12:00,Weil am Rhein,Basler Str. 45 / Dreiländerg,Kundgebung,2020-12-05 22:44:51,
 6215,DE,76131,2020-12-19,12:00,Karlsruhe,Bundesverfassungsgericht,Kundgebung,2020-12-16 22:29:29,
 6227,DE,24105,2020-12-19,13:00,Kiel,Reventlou Wiese,Schweigemarsch,2020-12-17 13:24:25,
@@ -77,6 +78,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5137,DE,00000,2020-12-24,16:00,Online,Weihnachts- Ringsendung,Livestream,2020-10-23 21:56:28,https://demo.stream/live
 6221,DE,75015,2020-12-24,16:00,Bretten,Marktplatz - Religionsfreiheit,Versammlung,2020-12-17 08:23:10,
 5899,DE,74080,2020-12-24,17:00,Heilbronn,Kiliansplatz,Musik,2020-11-29 21:41:18,
+6253,DE,90419,2020-12-25,17:00,Nürnberg,Hauptmarkt,Mahnwache,2020-12-18 15:42:00,
 6212,DE,90403,2020-12-25,18:00,Nürnberg,Hauptmarkt,Mahnwache,2020-12-16 15:14:24,
 6234,DE,64385,2020-12-26,14:00,Reichelsheim,B 38 Ortseingang Aldi,Kundgebung,2020-12-17 15:54:41,
 5554,DE,10178,2020-12-26,15:00,Berlin,Alexanderplatz,Kundgebung,2020-11-13 09:25:33,
