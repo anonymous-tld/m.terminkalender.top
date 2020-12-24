@@ -1,6 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 6092,DE,76131,2020-12-24,12:00,Karlsruhe,Schloßplatz / Religionsfreiheit,Versammlung,2020-12-08 20:14:54,
 4566,DE,10178,2020-12-24,12:00,Berlin,Alexanderplatz / Weltzeituhr,Charity,2020-09-26 11:25:32,https://demo.stream/berlinberlin
+6293,DE,74613,2020-12-24,14:00,Öhringen,Herrenwiese,Versammlung,2020-12-24 06:20:57,
 5137,DE,00000,2020-12-24,16:00,Online,Weihnachts- Ringsendung,Livestream,2020-10-23 21:56:28,https://demo.stream/live
 6221,DE,75015,2020-12-24,16:00,Bretten,Marktplatz - Religionsfreiheit,Versammlung,2020-12-17 08:23:10,
 6274,DE,02763,2020-12-24,16:30,Zittau,Markt,Kundgebung,2020-12-20 17:33:57,
@@ -24,7 +25,6 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6292,DE,49074,2020-12-28,18:00,Osnabrück,Rathaus,Mahnwache,2020-12-23 17:34:29,
 6024,DE,16515,2020-12-28,18:00,Oranienburg,Schloßplatz,Demonstration,2020-12-05 18:28:11,
 5880,DE,63225,2020-12-28,18:00,Langen,Bahnstr. / Goethestr.,Mahnwache,2020-11-28 13:48:34,
-5905,DE,71332,2020-12-28,18:30,Waiblingen,Alter Postplatz,Demonstration,2020-11-29 23:40:30,
 5962,DE,47906,2020-12-28,19:00,Kempen,Kuhtor,Spaziergang,2020-12-01 19:54:31,
 6287,DE,47533,2020-12-29,18:00,Kleve,Markt / Versöhnungskirche,Spaziergang,2020-12-22 08:02:50,
 5229,DE,20095,2020-12-31,13:00,Hamburg,Jungfernstieg,Demonstration,2020-10-28 18:23:52,
