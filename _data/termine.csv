@@ -33,7 +33,6 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6300,DE,90403,2021-01-03,17:00,Nürnberg,Hauptmarkt,Kundgebung,2020-12-24 07:36:54,
 6351,DE,88239,2021-01-03,18:00,Wangen,Marktplatz,Spaziergang,2020-12-29 21:17:49,
 6330,DE,23842,2021-01-04,17:00,Bad Oldesloe,Marktplatz,Kundgebung,2020-12-27 22:58:11,
-6352,DE,88239,2021-01-04,18:00,Wangen,Marktplatz,Spaziergang,2020-12-29 21:18:21,
 6353,DE,88239,2021-01-04,18:00,Wangen,Marktplatz,Spaziergang,2020-12-29 21:18:54,
 6301,DE,90402,2021-01-04,18:00,Nürnberg,Lorenzkirche,Kundgebung,2020-12-24 07:38:57,
 6326,DE,99510,2021-01-04,18:30,Apolda,Markt / Rathaus,Spaziergang,2020-12-27 18:20:57,
@@ -47,6 +46,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6358,DE,71364,2021-01-23,14:30,Winnenden,Marktbrunnen,Mahnwache,2020-12-29 22:17:23,
 6340,DE,80335,2021-01-30,13:00,München,Karlsplatz / Stachus,Charity,2020-12-29 08:43:22,https://anonymous.support/opsafewinter/muenchen
 6359,DE,71364,2021-02-06,14:30,Winnenden,Marktbrunnen,Mahnwache,2020-12-29 22:18:41,
+6360,DE,71364,2021-02-20,14:30,Winnenden,Marktbrunnen,Mahnwache,2020-12-29 22:19:29,
 2309,DE,94315,2021-06-20,16:30,Straubing,Ludwigsplatz,Mahnwache,2020-06-15 10:15:12,
 5032,DE,73728,2021-10-26,19:00,Esslingen,Heugasse 10 / Delicantina,Treffpunkt,2020-10-19 22:34:08,
 6341,DE,10178,2021-12-24,12:00,Berlin,Alexanderplatz / Weltzeituhr,Charity,2020-12-29 08:44:36,https://anonymous.support/opsafewinter/berlin
