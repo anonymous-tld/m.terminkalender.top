@@ -1,8 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 6315,DE,86343,2020-12-30,07:00,Königsbrunn,Markplatz Rathaus,Kundgebung,2020-12-25 15:24:41,
 6322,DE,40212,2020-12-30,14:00,Düsseldorf,Corneliusplatz,Spaziergang,2020-12-26 23:09:31,
-6344,DE,40210,2020-12-30,16:30,Düsseldorf,Marktplatz / 
- Stadtmitte,Demonstration,2020-12-29 12:40:29,
+6344,DE,40210,2020-12-30,16:30,Düsseldorf,Marktplatz / Stadtmitte,Demonstration,2020-12-29 12:40:29,
 6323,DE,70173,2020-12-30,17:15,Stuttgart,Karlsplatz,Kundgebung,2020-12-27 12:52:25,
 6333,DE,70173,2020-12-30,17:15,Stuttgart,Karlsplatz (Disco Demo),Demonstration,2020-12-28 13:32:57,
 6347,DE,88239,2020-12-30,18:00,Wangen,Marktplatz,Spaziergang,2020-12-29 21:15:09,
@@ -15,8 +14,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 5229,DE,20095,2020-12-31,13:00,Hamburg,Jungfernstieg,Demonstration,2020-10-28 18:23:52,
 4685,DE,10117,2020-12-31,15:00,Berlin,Straße des 17. Juni,Kundgebung,2020-10-02 16:52:11,
 6324,DE,70173,2020-12-31,16:00,Stuttgart,Wilhelmsplatz,Kundgebung,2020-12-27 12:56:19,
-6336,AT,6900,2020-12-31,16:00,Bregenz,Bregenz, Hafen vor Eispavillon,Demonstration,2020-12-28 14:58:00,
+6336,AT,6900,2020-12-31,16:00,Bregenz,Hafen vor Eispavillon,Demonstration,2020-12-28 14:58:00,
 6348,DE,88239,2020-12-31,18:00,Wangen,Marktplatz,Spaziergang,2020-12-29 21:15:36,
+6379,DE,63065,2020-12-31,18:00,Offenbach,Berliner Str. 109,Kundgebung,2020-12-30 20:22:19,
 6373,DE,76227,2020-12-31,20:00,Durlach Karlsburg,Karlsburgstr. / Pfinztalstr.,Spaziergang,2020-12-30 14:39:14,
 6349,DE,88239,2021-01-01,18:00,Wangen,Marktplatz,Spaziergang,2020-12-29 21:16:04,
 6345,DE,50126,2021-01-02,12:30,Bergheim,Willy Brand Platz 1,Autokorso,2020-12-29 20:54:04,
