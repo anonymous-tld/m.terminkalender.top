@@ -1,12 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-6437,DE,88662,2021-01-06,13:30,Überlingen,Bahnhofstr. / Bahnhof Therme,Demonstration,2021-01-04 16:04:46,
-6454,DE,80335,2021-01-06,16:00,München,Stachus,Kundgebung,2021-01-05 14:17:54,
-6402,DE,76131,2021-01-06,16:00,Karlsruhe,Schloßplatz / Karl-Fr-Denkmal,Versammlung,2021-01-03 07:43:47,
-6440,DE,70173,2021-01-06,17:15,Stuttgart,Karlsplatz,Demonstration,2021-01-04 16:49:17,
-6443,DE,88239,2021-01-06,18:00,Wangen,Marktplatz,Spaziergang,2021-01-05 06:51:16,
-6303,DE,90402,2021-01-06,18:00,Nürnberg,Lorenzkirche,Kundgebung,2020-12-24 07:42:32,
-6455,DE,63450,2021-01-06,18:00,Hanau,Marktplatz,Mahnwache,2021-01-05 17:19:21,
-6409,DE,83022,2021-01-06,19:00,Rosenheim,Ichikawa-Platz,Mahnwache,2021-01-03 12:33:44,
 6394,DE,91054,2021-01-07,10:30,Erlangen,Schlossplatz,Kundgebung,2021-01-01 20:18:13,
 6444,DE,88239,2021-01-07,18:00,Wangen,Marktplatz,Spaziergang,2021-01-05 06:51:41,
 6458,DE,85586,2021-01-07,18:00,Poing,Marktplatz / S-Bahn,Kundgebung,2021-01-06 12:21:50,
@@ -17,6 +9,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6445,DE,88239,2021-01-08,18:00,Wangen,Marktplatz,Spaziergang,2021-01-05 06:52:21,
 6407,DE,90402,2021-01-08,18:00,Nürnberg,Lorenzkirche,Kundgebung,2021-01-03 12:00:13,
 6304,DE,90402,2021-01-08,18:00,Nürnberg,Lorenzkirche,Kundgebung,2020-12-24 07:45:05,
+6468,DE,85049,2021-01-09,03:30,Ingolstadt,Theatervorplatz,Kundgebung,2021-01-06 22:14:29,
 6450,DE,42653,2021-01-09,13:00,Solingen-Gräfrath,Parkplatz Brandteich,Autokorso,2021-01-05 09:56:03,Bördy TV Youtube
 6457,DE,24558,2021-01-09,13:00,Henstedt-Ulzburg,Kirchweg 35 / Parkplatz CCU,Spaziergang,2021-01-06 10:18:52,
 6364,DE,31785,2021-01-09,13:15,Hameln,Marktkirche St. Nicolai,Kundgebung,2020-12-30 09:47:30,
@@ -24,6 +17,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6466,DE,36037,2021-01-09,14:00,Fulda,Universitätsplatz,Kundgebung,2021-01-06 14:48:43,
 6357,DE,71364,2021-01-09,14:30,Winnenden,Marktbrunnen,Mahnwache,2020-12-29 22:16:16,
 6426,DE,38640,2021-01-09,15:00,Goslar,Osterfeld / Schützenplatz,Autokorso,2021-01-04 09:08:58,
+6469,DE,91054,2021-01-09,15:00,Erlangen,Schlossplatz,Kundgebung,2021-01-06 22:38:19,
 6446,DE,88239,2021-01-09,18:00,Wangen,Marktplatz,Spaziergang,2021-01-05 06:52:48,
 6422,DE,75015,2021-01-10,10:45,Bretten,Marktplatz,Meditation,2021-01-03 22:59:07,
 6389,DE,83527,2021-01-10,13:00,Haag,Marktplatz,Kundgebung,2021-01-01 15:14:09,
