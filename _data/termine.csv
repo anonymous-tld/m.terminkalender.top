@@ -4,8 +4,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6508,DE,50321,2021-01-16,13:00,Brühl,Markt / Kreissparkasse,Kundgebung,2021-01-08 21:22:32,
 6365,DE,31785,2021-01-16,13:15,Hameln,Marktkirche St. Nicolai,Kundgebung,2020-12-30 09:48:08,
 6518,DE,65183,2021-01-16,14:00,Wiesbaden,Mauritiusplatz,Mahnwache,2021-01-09 11:06:40,
-6519,AT,1010,2021-01-16,14:00,Wien,Heldenplatz,Spaziergang,2021-01-09 11:21:17,
-6649,AT,1010,2021-01-16,14:00,Wien,Heldenplatz,Versammlung,2021-01-15 23:49:07,
+6519,AT,1010,2021-01-16,14:00,Wien,Heldenplatz,Spaziergang,2021-01-09 11:21:17,https://demo.stream/ntd
+6649,AT,1010,2021-01-16,14:00,Wien,Heldenplatz,Versammlung,2021-01-15 23:49:07,https://demo.stream/ntd
 6604,DE,64385,2021-01-16,14:00,Reichelsheim,Ortseingang Aldi B 38,Versammlung,2021-01-13 16:13:15,
 6648,DE,56068,2021-01-16,14:00,Koblenz,Jesuitenplatz,Mahnwache,2021-01-15 23:24:17,
 6597,DE,85049,2021-01-16,14:00,Ingolstadt,Theaterplatz,Kundgebung,2021-01-12 19:12:16,
@@ -60,6 +60,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6328,DE,99510,2021-01-18,18:30,Apolda,Markt / Rathaus,Spaziergang,2020-12-27 18:25:24,
 6637,DE,99974,2021-01-18,19:00,Mühlhausen / Thüringen,Postplatz,Spaziergang,2021-01-15 13:11:10,
 6643,DE,87600,2021-01-18,19:00,Kaufbeuren,Altes Rathaus,Spaziergang,2021-01-15 21:36:22,
+6659,DE,97070,2021-01-19,17:30,Würzburg,Unterer Markt,Spaziergang,2021-01-16 13:28:56,
 6638,DE,64720,2021-01-19,18:00,Michelstadt,Bienenmarktplatz,Spaziergang,2021-01-15 16:01:01,
 6653,DE,90402,2021-01-20,18:00,Nürnberg,Lorenzkirche,Kundgebung,2021-01-16 05:33:17,
 6559,DE,63450,2021-01-20,18:00,Hanau,Marktplatz,Mahnwache,2021-01-10 21:01:27,
