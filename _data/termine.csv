@@ -13,6 +13,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6725,DE,88239,2021-01-20,18:00,Wangen,Marktplatz,Spaziergang,2021-01-19 12:22:54,
 6653,DE,90402,2021-01-20,18:00,Nürnberg,Lorenzkirche,Kundgebung,2021-01-16 05:33:17,
 6559,DE,63450,2021-01-20,18:00,Hanau,Marktplatz,Mahnwache,2021-01-10 21:01:27,
+6732,DE,10117,2021-01-20,18:00,Berlin,Bundeskanzleramt,Kundgebung,2021-01-19 15:19:35,https://demo.stream/mariagoetz
 6722,DE,71149,2021-01-20,18:30,Bondorf,Kulturzentrum Zehntscheuer,Spaziergang,2021-01-19 11:24:51,
 6590,DE,83022,2021-01-20,19:00,Rosenheim,Ichikawa-Platz,Mahnwache,2021-01-12 17:45:15,
 6705,DE,91054,2021-01-21,10:30,Erlangen,Schlossplatz,Mahnwache,2021-01-18 19:04:10,
@@ -76,4 +77,5 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6465,DE,85586,2021-02-25,18:00,Poing,Marktplatz / S-Bahn,Kundgebung,2021-01-06 12:25:26,
 2309,DE,94315,2021-06-20,16:30,Straubing,Ludwigsplatz,Mahnwache,2020-06-15 10:15:12,
 5032,DE,73728,2021-10-26,19:00,Esslingen,Heugasse 10 / Delicantina,Treffpunkt,2020-10-19 22:34:08,
+6734,DE,10117,2021-11-05,18:00,Berlin,Brandenburger Tor,Kundgebung,2021-01-19 15:54:21,https://anonymous.support/live
 6341,DE,10178,2021-12-24,12:00,Berlin,Alexanderplatz / Weltzeituhr,Charity,2020-12-29 08:44:36,https://anonymous.support/opsafewinter/berlin
