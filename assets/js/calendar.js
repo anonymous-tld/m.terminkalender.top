@@ -53,10 +53,10 @@ document.addEventListener('DOMContentLoaded', function() {
     eventClick: function(info) {
       info.jsEvent.preventDefault(); // don't let the browser navigate
       //console.log(info);
-      if (info.event.url) {
-        window.open(info.event.url);
-      } else if (info.event.extendedProps.stream) {
+      if (info.event.extendedProps.stream) {
         window.open(info.event.extendedProps.stream);
+      } else if (info.event.url) {
+        window.open(info.event.url);
       }
     },
     navLinks: true,
