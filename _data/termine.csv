@@ -29,7 +29,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6677,DE,23843,2021-01-29,15:30,Bargteheide,Am Markt / Schulzentrum,Mahnwache,2021-01-17 13:24:55,
 6908,DE,76131,2021-01-29,17:30,Karlsruhe,Friedrichsplatz,Kundgebung,2021-01-27 05:25:44,
 6890,DE,88239,2021-01-29,18:00,Wangen,Marktplatz,Spaziergang,2021-01-26 15:35:06,
-6882,DE,12627,2021-01-29,18:00,Berlin,Hönow, Böhlener Str. / U-Hönow / P+R,Autokorso,2021-01-26 14:48:22,
+6882,DE,12627,2021-01-29,18:00,Berlin,Böhlener Str. / U-Hönow / P+R,Autokorso,2021-01-26 14:48:22,
 6903,DE,64720,2021-01-29,19:00,Michelstadt,Bienenmarkt-Platz,Mahnwache,2021-01-26 22:24:24,
 6876,DE,42377,2021-01-30,12:00,Wuppertal-Vohwinkel,P+R Parkplatz Bf. Vohwinkel,Autokorso,2021-01-26 12:13:30,
 6904,CH,8000,2021-01-30,13:00,Zürich,Fraumünster-Kirche,Spaziergang,2021-01-26 22:43:07,
@@ -83,6 +83,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6801,DE,86343,2021-02-03,19:00,Königsbrunn,Marktplatz / Rathaus,Kundgebung,2021-01-22 09:01:32,
 6462,DE,85586,2021-02-04,18:00,Poing,Marktplatz / S-Bahn,Kundgebung,2021-01-06 12:24:27,
 6913,DE,47051,2021-02-04,18:15,Duisburg,Bahnhofsvorplatz  HBF,Aufzug,2021-01-27 08:51:10,
+6929,DE,20359,2021-02-06,12:15,Hamburg,Glacischaussee,Autokorso,2021-01-27 22:10:11,
 6927,DE,85540,2021-02-06,13:00,Haar,Kirchplatz,Kundgebung,2021-01-27 21:44:18,
 6914,DE,94315,2021-02-06,14:00,Straubing,Theresienplatz,Demonstration,2021-01-27 10:39:06,https://www.youtube.com/channel/UC2LAeN7JqtOuUvz_8EaAXgA
 6359,DE,71364,2021-02-06,14:30,Winnenden,Marktbrunnen,Mahnwache,2020-12-29 22:18:41,
