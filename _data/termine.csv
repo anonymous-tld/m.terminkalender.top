@@ -48,10 +48,12 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6901,DE,44787,2021-01-30,15:00,Bochum,Dr.-Ruer-Platz,Demonstration,2021-01-26 21:13:29,
 6868,DE,33098,2021-01-30,15:30,Paderborn,Domplatz,Kundgebung,2021-01-26 00:49:34,
 6895,DE,96047,2021-01-30,16:30,Bamberg,Maxplatz,Kundgebung,2021-01-26 19:01:22,https://www.youtube.com/channel/UCUcAuJ1OxNIItJ5bM2mqAUA/live
+6909,DE,84130,2021-01-30,17:00,Dingolfing,Marienplatz,Kundgebung,2021-01-27 06:46:14,
 6891,DE,88239,2021-01-30,18:00,Wangen,Marktplatz,Spaziergang,2021-01-26 15:36:00,
 6765,DE,76287,2021-01-30,20:00,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,2021-01-21 07:09:34,
 6875,DE,40474,2021-01-31,12:30,Düsseldorf,Messeparkplatz P1 Feld 5 Nord,Autokorso,2021-01-26 12:09:51,
 6853,DE,17373,2021-01-31,14:00,Ueckermünde,Marktplatz,Spaziergang,2021-01-24 23:57:39,
+6910,DE,83308,2021-01-31,14:00,Trostberg,Chemiepark Parkplatz P8,Kundgebung,2021-01-27 06:50:09,
 6884,DE,84347,2021-01-31,14:00,Pfarrkirchen,Stadtplatz,Demonstration,2021-01-26 15:20:33,https://www.youtube.com/channel/UC2LAeN7JqtOuUvz_8EaAXgA
 6870,DE,58095,2021-01-31,14:00,Hagen,Friedrich Ebert Platz,Spaziergang,2021-01-26 07:53:25,
 6793,AT,6850,2021-01-31,14:00,Dornbirn,Marktplatz,Kundgebung,2021-01-22 06:50:04,
@@ -69,6 +71,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6462,DE,85586,2021-02-04,18:00,Poing,Marktplatz / S-Bahn,Kundgebung,2021-01-06 12:24:27,
 6359,DE,71364,2021-02-06,14:30,Winnenden,Marktbrunnen,Mahnwache,2020-12-29 22:18:41,
 6828,DE,26382,2021-02-06,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2021-01-23 23:15:15,
+6911,DE,85356,2021-02-07,13:00,Freising,Luitpoldanlage,Kundgebung,2021-01-27 07:20:40,
 6794,AT,6800,2021-02-07,14:00,Feldkirch,Marktplatz,Kundgebung,2021-01-22 06:51:02,
 6841,DE,82362,2021-02-08,14:30,Weilheim,Marienplatz,Mahnwache,2021-01-24 23:49:05,
 6647,DE,63225,2021-02-08,18:00,Langen,Bahnstr. / Goethestr.,Mahnwache,2021-01-15 22:33:29,
