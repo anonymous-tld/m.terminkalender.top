@@ -15,6 +15,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6798,DE,86343,2021-01-27,19:00,Königsbrunn,Marktplatz / Rathaus,Kundgebung,2021-01-22 08:52:43,
 6873,DE,91054,2021-01-28,10:30,Erlangen,Schlossplatz,Mahnwache,2021-01-26 10:33:51,
 6881,DE,59755,2021-01-28,17:00,Arnsberg,Neheimer Markt,Kundgebung,2021-01-26 14:45:28,
+6922,DE,97070,2021-01-28,17:30,Würzburg,Unterer Markt,Spaziergang,2021-01-27 19:38:48,
 6865,DE,97070,2021-01-28,17:30,Würzburg,Unterer Markt,Spaziergang,2021-01-25 21:35:42,
 6806,DE,90402,2021-01-28,17:30,Nürnberg,Lorenzkirche,Kundgebung,2021-01-22 09:27:17,
 6889,DE,88239,2021-01-28,18:00,Wangen,Marktplatz,Spaziergang,2021-01-26 15:34:40,
@@ -37,9 +38,11 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6340,DE,80335,2021-01-30,13:00,München,Karlsplatz / Stachus,Charity,2020-12-29 08:43:22,
 6902,DE,81829,2021-01-30,13:00,München,W.-Brandt-Pl. 5 / Riem-Arcaden,Kundgebung,2021-01-26 22:16:10,
 6817,DE,54290,2021-01-30,14:00,Trier,Hauptmarkt / Innenstadt,Demonstration,2021-01-22 23:26:57,
+6921,DE,64385,2021-01-30,14:00,Reichelsheim,B38 / Aldi / Ortseingang,Versammlung,2021-01-27 19:36:43,
 6900,DE,09484,2021-01-30,14:00,Oberwiesenthal,Vierenstraße 8 / Skihang,Kundgebung,2021-01-26 19:30:51,https://demo.stream/halleleaks
 6687,DE,30169,2021-01-30,14:00,Hannover,Schützenplatz / Gilde Tor,Autokorso,2021-01-17 14:35:56,
 6861,DE,91729,2021-01-30,14:00,Gunzenhausen,Parkplatz KiK /  AGIP-Tanke,Autokorso,2021-01-25 20:13:58,
+6923,DE,35390,2021-01-30,14:00,Gießen,Katharinengasse / Löwengasse,Demonstration,2021-01-27 19:48:46,
 6855,DE,10178,2021-01-30,14:00,Berlin,Alexanderplatz,Kundgebung,2021-01-25 08:55:13,
 6803,DE,95448,2021-01-30,14:00,Bayreuth,Volksfestplatz / Parkplatz,Kundgebung,2021-01-22 09:21:03,
 6827,DE,26382,2021-01-30,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2021-01-23 23:14:09,
@@ -60,8 +63,10 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6853,DE,17373,2021-01-31,14:00,Ueckermünde,Marktplatz,Spaziergang,2021-01-24 23:57:39,
 6910,DE,83308,2021-01-31,14:00,Trostberg,Chemiepark Parkplatz P8,Kundgebung,2021-01-27 06:50:09,
 6884,DE,84347,2021-01-31,14:00,Pfarrkirchen,Stadtplatz,Demonstration,2021-01-26 15:20:33,https://www.youtube.com/channel/UC2LAeN7JqtOuUvz_8EaAXgA
+6926,DE,63452,2021-01-31,14:00,Hanau / Lamboy,Am Tümpelgarten 21 / Bürgerhaus,Aufzug,2021-01-27 21:44:07,
 6870,DE,58095,2021-01-31,14:00,Hagen,Friedrich Ebert Platz,Spaziergang,2021-01-26 07:53:25,
 6793,AT,6850,2021-01-31,14:00,Dornbirn,Marktplatz,Kundgebung,2021-01-22 06:50:04,
+6924,DE,50667,2021-01-31,14:30,Köln,Alter Markt,Mahnwache,2021-01-27 19:54:19,
 6885,DE,82140,2021-01-31,15:30,Olching / FFB,Toni-März-Str. / Volksfestplatz,Kundgebung,2021-01-26 15:22:40,
 6892,DE,88239,2021-01-31,18:00,Wangen,Marktplatz,Spaziergang,2021-01-26 15:36:33,
 6363,DE,31785,2021-02-01,13:15,Hameln,Marktkirche St. Nicolai,Kundgebung,2020-12-30 09:46:36,
@@ -71,10 +76,14 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6872,DE,01067,2021-02-01,18:00,Dresden,Kreuzkirche,Spaziergang,2021-01-26 10:19:38,
 6906,DE,18057,2021-02-01,18:30,Rostock,Doberaner Platz,Demonstration,2021-01-27 01:36:18,https://www.youtube.com/channel/UC7-BzkIiQ4dpfFyuBxlJN3Q/live
 6907,DE,18055,2021-02-01,18:30,Rostock,Alter Markt,Demonstration,2021-01-27 01:40:21,https://www.youtube.com/channel/UC7-BzkIiQ4dpfFyuBxlJN3Q/live
+6928,DE,99510,2021-02-01,18:30,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,2021-01-27 22:01:44,
+6925,DE,38440,2021-02-01,19:00,Wolfsburg,Rathaus,Spaziergang,2021-01-27 20:47:30,
+6920,DE,99974,2021-02-01,19:00,Mühlhausen / Thüringen,Postplatz,Spaziergang,2021-01-27 18:33:08,
 6883,DE,10457,2021-02-01,19:00,Berlin,Messe Nord P3 Masurenallee,Autokorso,2021-01-26 14:57:20,
 6801,DE,86343,2021-02-03,19:00,Königsbrunn,Marktplatz / Rathaus,Kundgebung,2021-01-22 09:01:32,
 6462,DE,85586,2021-02-04,18:00,Poing,Marktplatz / S-Bahn,Kundgebung,2021-01-06 12:24:27,
 6913,DE,47051,2021-02-04,18:15,Duisburg,Bahnhofsvorplatz  HBF,Aufzug,2021-01-27 08:51:10,
+6927,DE,85540,2021-02-06,13:00,Haar,Kirchplatz,Kundgebung,2021-01-27 21:44:18,
 6914,DE,94315,2021-02-06,14:00,Straubing,Theresienplatz,Demonstration,2021-01-27 10:39:06,https://www.youtube.com/channel/UC2LAeN7JqtOuUvz_8EaAXgA
 6359,DE,71364,2021-02-06,14:30,Winnenden,Marktbrunnen,Mahnwache,2020-12-29 22:18:41,
 6828,DE,26382,2021-02-06,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2021-01-23 23:15:15,
