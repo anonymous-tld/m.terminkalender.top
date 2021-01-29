@@ -36,6 +36,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6874,DE,91054,2021-01-30,15:00,Erlangen,Schlossplatz,Kundgebung,2021-01-26 10:34:10,
 6971,DE,93413,2021-01-30,15:00,Cham,Volksfestplatz / Parkstr.,Autokorso,2021-01-29 08:33:45,
 6901,DE,44787,2021-01-30,15:00,Bochum,Dr.-Ruer-Platz,Demonstration,2021-01-26 21:13:29,
+6984,DE,75175,2021-01-30,15:30,Pforzheim,Marktplatz,Kundgebung,2021-01-29 16:37:37,
 6868,DE,33098,2021-01-30,15:30,Paderborn,Domplatz,Kundgebung,2021-01-26 00:49:34,
 6979,DE,87600,2021-01-30,15:30,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,2021-01-29 13:11:25,
 6919,DE,21073,2021-01-30,15:30,Hamburg-Harburg,Museumsplatz 1 / Brunnen,Meditation,2021-01-27 17:08:47,
@@ -54,6 +55,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6853,DE,17373,2021-01-31,14:00,Ueckermünde,Marktplatz,Spaziergang,2021-01-24 23:57:39,
 6910,DE,83308,2021-01-31,14:00,Trostberg,Chemiepark Parkplatz P8,Kundgebung,2021-01-27 06:50:09,
 6973,DE,75172,2021-01-31,14:00,Pforzheim,Habermehlstr. / Messplatz,Autokorso,2021-01-29 09:41:30,
+6985,DE,75172,2021-01-31,14:00,Pforzheim,Messplatz / Habermehlstr.,Autokorso,2021-01-29 16:38:51,
 6976,DE,84347,2021-01-31,14:00,Pfarrkirchen,P + R / Parkplatz,Kundgebung,2021-01-29 11:01:35,
 6884,DE,84347,2021-01-31,14:00,Pfarrkirchen,Stadtplatz,Demonstration,2021-01-26 15:20:33,https://www.youtube.com/channel/UC2LAeN7JqtOuUvz_8EaAXgA
 6926,DE,63452,2021-01-31,14:00,Hanau / Lamboy,Am Tümpelgarten 21 / Bürgerhaus,Aufzug,2021-01-27 21:44:07,
@@ -71,10 +73,12 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6949,DE,31655,2021-02-01,18:00,Stadthagen,Marktplatz,Kundgebung,2021-01-28 18:25:53,
 6946,DE,49071,2021-02-01,18:00,Osnabrück,Rathaus,Spaziergang,2021-01-28 16:00:04,
 6646,DE,63225,2021-02-01,18:00,Langen,Bahnstr. / Goethestr.,Mahnwache,2021-01-15 22:33:08,
+6989,DE,89150,2021-02-01,18:00,Laichingen,Marktplatz,Kundgebung,2021-01-29 17:29:37,
 6872,DE,01067,2021-02-01,18:00,Dresden,Kreuzkirche,Spaziergang,2021-01-26 10:19:38,
 6955,DE,18055,2021-02-01,18:30,Rostock,Hauptbahnhof Süd Parkplatz,Aufzug,2021-01-28 21:20:20,https://youtu.be/V9wjfIqk1GM
 6906,DE,18057,2021-02-01,18:30,Rostock,Doberaner Platz,Demonstration,2021-01-27 01:36:18,https://www.youtube.com/channel/UC7-BzkIiQ4dpfFyuBxlJN3Q/live
 6907,DE,18055,2021-02-01,18:30,Rostock,Alter Markt,Demonstration,2021-01-27 01:40:21,https://www.youtube.com/channel/UC7-BzkIiQ4dpfFyuBxlJN3Q/live
+6986,DE,75172,2021-02-01,18:30,Pforzheim,Kiehnlestr. 25,Aufzug,2021-01-29 16:40:46,
 6928,DE,99510,2021-02-01,18:30,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,2021-01-27 22:01:44,
 6925,DE,38440,2021-02-01,19:00,Wolfsburg,Rathaus,Spaziergang,2021-01-27 20:47:30,
 6920,DE,99974,2021-02-01,19:00,Mühlhausen / Thüringen,Postplatz,Spaziergang,2021-01-27 18:33:08,
@@ -84,6 +88,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6963,DE,76287,2021-02-01,20:00,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,2021-01-29 06:53:15,
 6935,DE,83714,2021-02-02,19:00,Miesbach,Unterer Markt,Kundgebung,2021-01-28 13:21:08,
 6954,DE,70173,2021-02-03,17:00,Stuttgart,Karlsplatz,Aufzug,2021-01-28 21:13:35,
+6987,DE,75172,2021-02-03,17:30,Pforzheim,Kiehnlestr. 25,Aufzug,2021-01-29 16:42:08,
 6956,DE,18109,2021-02-03,18:00,Rostock Groß Klein,Klenow Tor,Aufzug,2021-01-28 21:21:54,
 6936,DE,83022,2021-02-03,19:00,Rosenheim,Ichikawa-Platz,Kundgebung,2021-01-28 13:21:55,
 6801,DE,86343,2021-02-03,19:00,Königsbrunn,Marktplatz / Rathaus,Kundgebung,2021-01-22 09:01:32,
@@ -94,11 +99,13 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6960,DE,76316,2021-02-05,17:30,Karlsruhe,Friedrichsplatz,Kundgebung,2021-01-29 03:10:12,
 6929,DE,20359,2021-02-06,12:15,Hamburg,Glacischaussee,Autokorso,2021-01-27 22:10:11,
 6970,DE,20359,2021-02-06,12:15,Hamburg,Glacieschaussee,Autokorso,2021-01-29 08:07:36,
+6990,DE,24558,2021-02-06,13:00,Henstedt-Ulzburg,Hamburger Str. 8 / Parkplatz CCU,Spaziergang,2021-01-29 17:35:29,
 6927,DE,85540,2021-02-06,13:00,Haar,Kirchplatz,Kundgebung,2021-01-27 21:44:18,
 6914,DE,94315,2021-02-06,14:00,Straubing,Theresienplatz,Demonstration,2021-01-27 10:39:06,https://www.youtube.com/channel/UC2LAeN7JqtOuUvz_8EaAXgA
 6981,DE,09111,2021-02-06,14:00,Chemnitz,Karl-Marx-Kopf,Kundgebung,2021-01-29 16:02:52,
 6359,DE,71364,2021-02-06,14:30,Winnenden,Marktbrunnen,Mahnwache,2020-12-29 22:18:41,
 6828,DE,26382,2021-02-06,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2021-01-23 23:15:15,
+6988,DE,75175,2021-02-06,15:30,Pforzheim,Marktplatz,Kundgebung,2021-01-29 16:43:07,
 6978,DE,83395,2021-02-06,16:15,Freilassing,Grenzbrücke / DE-AT,Kundgebung,2021-01-29 11:45:56,
 6968,DE,76287,2021-02-06,20:00,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,2021-01-29 06:57:06,
 6911,DE,85356,2021-02-07,13:00,Freising,Luitpoldanlage,Kundgebung,2021-01-27 07:20:40,
