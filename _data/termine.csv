@@ -16,6 +16,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 7032,DE,18055,2021-02-01,18:00,Rostock,Universitätsplatz / Brunnen,Demonstration,2021-01-31 10:00:22,
 7020,DE,14467,2021-02-01,18:00,Potsdam,Breite Str. 1A / Filmmuseum,Kundgebung,2021-01-30 15:47:07,
 6946,DE,49071,2021-02-01,18:00,Osnabrück,Rathaus,Spaziergang,2021-01-28 16:00:04,
+7068,DE,90402,2021-02-01,18:00,Nürnberg,Lorenzkirche,Kundgebung,2021-02-01 10:36:43,
 7033,DE,19288,2021-02-01,18:00,Ludwigslust,Schloss,Spaziergang,2021-01-31 10:03:15,
 6646,DE,63225,2021-02-01,18:00,Langen,Bahnstr. / Goethestr.,Mahnwache,2021-01-15 22:33:08,
 6989,DE,89150,2021-02-01,18:00,Laichingen,Marktplatz,Kundgebung,2021-01-29 17:29:37,
@@ -84,6 +85,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6988,DE,75175,2021-02-06,15:30,Pforzheim,Marktplatz,Kundgebung,2021-01-29 16:43:07,
 6978,DE,83395,2021-02-06,16:15,Freilassing,Grenzbrücke / DE-AT,Kundgebung,2021-01-29 11:45:56,
 6968,DE,76287,2021-02-06,20:00,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,2021-01-29 06:57:06,
+7069,DE,40474,2021-02-07,12:30,Düsseldorf,Messeparkplatz P1 Feld 5 Nord,Autokorso,2021-02-01 11:15:33,
 7027,DE,85354,2021-02-07,13:00,Freising,Luitpoldanlage,Kundgebung,2021-01-31 03:54:32,https://www.youtube.com/channel/UCapsH7wkZU7no17Glj0J8pA/live
 6911,DE,85356,2021-02-07,13:00,Freising,Luitpoldanlage,Kundgebung,2021-01-27 07:20:40,
 7054,DE,69231,2021-02-07,14:00,Rauenberg,Rathausplatz,Kundgebung,2021-01-31 20:18:30,
