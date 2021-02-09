@@ -6,6 +6,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 7106,DE,18057,2021-02-10,18:00,Rostock,Parkplatz Ostseestadion Nord,Demonstration,2021-02-03 14:31:56,
 7239,DE,90402,2021-02-10,18:00,Nürnberg,Lorenzkirche,Kundgebung,2021-02-07 21:17:16,
 7190,DE,63450,2021-02-10,18:00,Hanau,Marktplatz,Mahnwache,2021-02-06 17:02:42,
+1000094,DE,10117,2021-02-10,18:00,Berlin,Bundeskanzleramt,Kundgebung,2021-02-10 00:02:13,https://demo.stream/mariagoetz
 1000071,DE,73525,2021-02-10,18:30,Schwäbisch Gmünd,Marktplatz,Kundgebung,2021-02-09 07:13:51,
 1000022,DE,83022,2021-02-10,19:00,Rosenheim,Ichikawa-Platz,Kundgebung,2021-02-08 14:07:49,
 7218,DE,91054,2021-02-11,10:30,Erlangen,Schlossplatz,Mahnwache,2021-02-07 12:04:48,
@@ -70,6 +71,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1000003,DE,33602,2021-02-15,17:00,Bielefeld,Rathaus,Spaziergang,2021-02-08 09:51:22,
 1000005,DE,33602,2021-02-15,17:00,Bielefeld,Rathaus,Spaziergang,2021-02-08 11:12:13,
 7046,DE,33602,2021-02-15,17:30,Bielefeld,Rathaus,Mahnwache,2021-01-31 12:16:40,
+1000095,DE,87700,2021-02-15,18:00,Memmingen,Marktplatz,Kundgebung,2021-02-10 00:11:50,
 1000035,DE,63225,2021-02-15,18:00,Langen,Bahnstr. / Goethestr.,Mahnwache,2021-02-08 19:48:46,
 7008,DE,87435,2021-02-15,18:00,Kempten,Hildegardplatz / Brunnen,Spaziergang,2021-01-30 08:31:32,
 7120,DE,63322,2021-02-15,19:00,Rödermark,Kath. Kirche Urberach,Spaziergang,2021-02-04 05:34:23,
@@ -106,6 +108,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 6843,DE,82362,2021-02-22,14:30,Weilheim,Marienplatz,Mahnwache,2021-01-24 23:50:07,
 1000004,DE,33602,2021-02-22,17:00,Bielefeld,Rathaus,Spaziergang,2021-02-08 09:51:51,
 7047,DE,33602,2021-02-22,17:30,Bielefeld,Rathaus,Mahnwache,2021-01-31 12:17:12,
+1000096,DE,87700,2021-02-22,18:00,Memmingen,Marktplatz,Kundgebung,2021-02-10 00:12:17,
 1000036,DE,63225,2021-02-22,18:00,Langen,Bahnstr. / Goethestr.,Mahnwache,2021-02-08 19:49:08,
 7009,DE,87435,2021-02-22,18:00,Kempten,Hildegardplatz / Brunnen,Spaziergang,2021-01-30 08:32:29,
 7121,DE,63322,2021-02-22,19:00,Rödermark,Kath. Kirche Urberach,Kundgebung,2021-02-04 05:35:17,
