@@ -10,6 +10,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1000209,DE,90402,2021-02-17,18:00,Nürnberg,Lorenzkirche,Kundgebung,2021-02-15 10:11:14,
 7191,DE,63450,2021-02-17,18:00,Hanau,Marktplatz,Mahnwache,2021-02-06 17:02:58,
 1000023,DE,83022,2021-02-17,19:00,Rosenheim,Ichikawa-Platz,Kundgebung,2021-02-08 14:08:10,
+1000222,AT,1010,2021-02-18,14:00,Wien,Freyung,Versammlung,2021-02-16 00:13:02,
 7194,DE,63457,2021-02-18,17:00,Großauheim,Rochusplatz,Mahnwache,2021-02-06 17:06:00,
 1000210,DE,90402,2021-02-18,17:30,Nürnberg,Lorenzkirche,Kundgebung,2021-02-15 10:12:12,
 1000181,DE,97070,2021-02-18,18:00,Würzburg,Unterer Markt,Spaziergang,2021-02-14 10:44:55,
@@ -23,6 +24,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1000213,DE,26506,2021-02-19,19:00,Norden,Marktplatz gegenüber Teemuseum,Mahnwache,2021-02-15 13:43:57,
 1000199,DE,15890,2021-02-20,10:30,Eisenhüttenstadt,Parkplatz Inselhalle,Autokorso,2021-02-14 23:57:24,
 1000208,DE,29223,2021-02-20,11:00,Celle,Schützenplatz,Spaziergang,2021-02-15 09:17:46,
+1000221,DE,20359,2021-02-20,12:15,Hamburg,Glacischaussee,Autokorso,2021-02-16 00:06:50,
 1000144,DE,17033,2021-02-20,12:45,Neubrandenburg,Stadthalle,Autokorso,2021-02-12 01:14:36,
 1000145,DE,17036,2021-02-20,12:45,Neubrandenburg,Am Waldfriedhof / Carlshöhe,Autokorso,2021-02-12 01:15:38,
 1000146,DE,17033,2021-02-20,12:45,Neubrandenburg,Augustabad / Minigolfanlage,Autokorso,2021-02-12 01:16:49,
@@ -50,6 +52,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1000178,DE,09456,2021-02-20,14:00,Annberg-Buchholz,Marktplatz,Kundgebung,2021-02-14 10:28:51,https://www.youtube.com/channel/UCYpr2o7I95RS6RmQfamH7ZQ/featured
 6360,DE,71364,2021-02-20,14:30,Winnenden,Marktbrunnen,Mahnwache,2020-12-29 22:19:29,
 6830,DE,26382,2021-02-20,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2021-01-23 23:17:15,
+1000223,DE,44787,2021-02-20,15:00,Bochum,Dr.-Ruer-Platz,Demonstration,2021-02-16 01:46:17,
 1000211,DE,21073,2021-02-20,15:30,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,2021-02-15 11:20:26,
 1000197,DE,75015,2021-02-21,10:45,Bretten,Marktplatz,Meditation,2021-02-14 22:58:56,
 1000214,DE,40474,2021-02-21,12:30,Düsseldorf,Messeparkplatz P1 Feld 5 Nord,Autokorso,2021-02-15 17:59:35,
