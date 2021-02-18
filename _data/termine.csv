@@ -65,6 +65,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1000178,DE,09456,2021-02-20,14:00,Annberg-Buchholz,Marktplatz,Kundgebung,2021-02-14 10:28:51,https://www.youtube.com/channel/UCYpr2o7I95RS6RmQfamH7ZQ/featured
 6360,DE,71364,2021-02-20,14:30,Winnenden,Marktbrunnen,Mahnwache,2020-12-29 22:19:29,
 6830,DE,26382,2021-02-20,14:30,Wilhelmshaven,Pacific Cafe,Spaziergang,2021-01-23 23:17:15,
+1000283,DE,91054,2021-02-20,14:30,Erlangen,Schlossplatz,Kundgebung,2021-02-18 19:44:27,
 1000249,DE,40213,2021-02-20,14:30,Düsseldorf,Johannes Rau Platz,Spaziergang,2021-02-17 13:46:36,
 1000223,DE,44787,2021-02-20,15:00,Bochum,Dr.-Ruer-Platz,Demonstration,2021-02-16 01:46:17,
 1000211,DE,21073,2021-02-20,15:30,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,2021-02-15 11:20:26,
@@ -106,6 +107,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1000224,DE,44139,2021-02-23,19:00,Dortmund,Parkplatz D1 Westfalenpark,Autokorso,2021-02-16 06:44:50,
 7192,DE,63450,2021-02-24,18:00,Hanau,Marktplatz,Mahnwache,2021-02-06 17:03:12,
 1000024,DE,83022,2021-02-24,19:00,Rosenheim,Ichikawa-Platz,Kundgebung,2021-02-08 14:08:31,
+1000284,DE,91054,2021-02-25,10:30,Erlangen,Schlossplatz,Mahnwache,2021-02-18 19:44:54,
 7195,DE,63457,2021-02-25,17:00,Großauheim,Rochusplatz,Mahnwache,2021-02-06 17:06:08,
 1000275,DE,72622,2021-02-25,17:30,Nürtingen,Ochsenbrunnen,Kundgebung,2021-02-18 14:52:14,
 6465,DE,85586,2021-02-25,18:00,Poing,Marktplatz / S-Bahn,Kundgebung,2021-01-06 12:25:26,
@@ -115,6 +117,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1000271,DE,63897,2021-02-27,10:00,Miltenberg,Miltenberg / Bürgstadt,Schilderwald,2021-02-18 12:53:08,
 1000184,DE,30159,2021-02-27,14:00,Hannover,Schützenplatz / Gilde Tor,Autokorso,2021-02-14 13:37:25,
 1000078,DE,95448,2021-02-27,14:00,Bayreuth,P beim Volksfestplatz,Kundgebung,2021-02-09 11:27:56,
+1000285,DE,91054,2021-02-27,14:30,Erlangen,Schlossplatz,Kundgebung,2021-02-18 19:45:18,
 6800,DE,86150,2021-02-27,14:30,Augsburg,Ulrichsplatz,Demonstration,2021-01-22 09:00:47,
 7057,DE,69231,2021-02-28,14:00,Rauenberg,Rathausplatz,Kundgebung,2021-01-31 20:22:37,
 1000130,AT,6850,2021-02-28,14:00,Dornbirn,Marktplatz,Kundgebung,2021-02-11 02:00:29,
