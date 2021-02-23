@@ -1,9 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-1000335,DE,70372,2021-02-23,17:30,Stuttgart,Cannstatter Wasen  P10,Autokorso,2021-02-20 21:22:02,
-1000349,DE,97070,2021-02-23,18:00,Würzburg,Grombühl Wagnerplatz,Spaziergang,2021-02-21 16:16:08,
-1000331,DE,79108,2021-02-23,18:00,Freiburg,Neues SC-Stadion/Flugplatz,Autokorso,2021-02-20 14:26:26,
-1000365,DE,73525,2021-02-23,18:30,Schwäbisch Gmünd,Marktplatz,Kundgebung,2021-02-22 07:21:23,
-1000224,DE,44139,2021-02-23,19:00,Dortmund,Parkplatz D1 Westfalenpark,Autokorso,2021-02-16 06:44:50,
 1000321,DE,26180,2021-02-24,15:00,Rastede,Marktplatz / Kleibroker Str.,Kundgebung,2021-02-20 02:03:17,
 1000314,DE,70173,2021-02-24,17:00,Stuttgart,Karlsplatz,Aufzug,2021-02-19 21:00:23,
 1000336,DE,70173,2021-02-24,17:00,Stuttgart,Karlsplatz,Demonstration,2021-02-20 21:26:12,
@@ -12,6 +7,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1000346,DE,90402,2021-02-24,18:00,Nürnberg,Lorenzkirche,Kundgebung,2021-02-21 12:50:09,
 7192,DE,63450,2021-02-24,18:00,Hanau,Marktplatz,Mahnwache,2021-02-06 17:03:12,
 1000380,DE,59071,2021-02-24,18:00,Hamm,Maximilianstr. / P Ammerweg,Autokorso,2021-02-23 08:57:45,
+1000394,DE,10117,2021-02-24,18:00,Berlin,Bundeskanzleramt,Kundgebung,2021-02-24 00:01:50,https://demo.stream/mariagoetz
 1000379,DE,73525,2021-02-24,18:30,Schwäbisch Gmünd,Marktplatz,Kundgebung,2021-02-23 07:10:25,
 1000024,DE,83022,2021-02-24,19:00,Rosenheim,Ichikawa-Platz,Kundgebung,2021-02-08 14:08:31,
 1000284,DE,91054,2021-02-25,10:30,Erlangen,Schlossplatz,Mahnwache,2021-02-18 19:44:54,
