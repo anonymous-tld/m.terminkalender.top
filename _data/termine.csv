@@ -1,6 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 1000398,DE,64283,2021-02-26,16:00,Darmstadt,Rheinstr. vor der Kunsthalle,Schilderwald,2021-02-24 14:31:54,
 1000313,DE,70372,2021-02-26,16:45,Stuttgart,Cannstatter Wasen  P10,Autokorso,2021-02-19 20:58:20,
+1000433,DE,09599,2021-02-26,17:00,Freiberg,Obermarkt,Versammlung,2021-02-26 08:41:17,
 1000265,DE,10245,2021-02-26,17:00,Berlin,Warschauer Str. / RAW-Gelände,Versammlung,2021-02-18 09:16:56,
 1000381,DE,96052,2021-02-26,17:00,Bamberg,Maxplatz,Kundgebung,2021-02-23 09:17:09,
 1000387,DE,59755,2021-02-26,17:00,Arnsberg,Goethestr. / BusBhf /  Schulhof,Spaziergang,2021-02-23 16:18:20,
@@ -16,6 +17,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1000260,DE,06268,2021-02-26,19:00,Querfurt,Burgring 4,Autokorso,2021-02-18 07:23:10,
 1000378,DE,26506,2021-02-26,19:00,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,2021-02-23 02:20:34,
 1000271,DE,63897,2021-02-27,10:00,Miltenberg,Miltenberg / Bürgstadt,Schilderwald,2021-02-18 12:53:08,
+1000432,DE,78628,2021-02-27,13:00,Rottweil,Parkplatz Freibad,Autokorso,2021-02-26 07:58:31,
 1000310,DE,77635,2021-02-27,13:00,Baden-Baden,Lange Str. 2 / Blumen-Brunnen,Kundgebung,2021-02-19 19:15:10,
 1000342,AT,1010,2021-02-27,14:00,Wien,Maria-Theresien-Platz,Kundgebung,2021-02-21 10:44:32,
 1000403,DE,64385,2021-02-27,14:00,Reichelsheim,B 38 Ortseingang Aldi,Versammlung,2021-02-24 16:49:56,
@@ -42,6 +44,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1000412,DE,33098,2021-02-27,16:00,Paderborn,Domplatz,Kundgebung,2021-02-25 06:15:55,
 1000390,DE,31785,2021-02-27,16:00,Hameln,Weserbergland Stadion / Pplatz,Autokorso,2021-02-23 18:27:06,
 1000406,DE,84028,2021-02-27,18:00,Landshut,Grieserwiese Aufstellung 17:00,Autokorso,2021-02-24 17:07:42,
+1000431,DE,73525,2021-02-27,18:30,Schwäbisch Gmünd,Marktplatz,Kundgebung,2021-02-26 07:10:22,
 1000424,DE,02763,2021-02-28,10:00,Zittau,B 96,Menschenkette,2021-02-25 20:39:39,
 1000409,DE,75015,2021-02-28,10:45,Bretten,Marktplatz,Meditation,2021-02-25 00:04:27,
 1000393,DE,40474,2021-02-28,12:30,Düsseldorf,Messeparkplatz P1 Feld 5 Nord,Autokorso,2021-02-23 21:00:50,
