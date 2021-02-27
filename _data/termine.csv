@@ -18,6 +18,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1000402,DE,40213,2021-02-27,14:30,Düsseldorf,Johannes-Rau-Platz,Spaziergang,2021-02-24 16:33:06,
 6800,DE,86150,2021-02-27,14:30,Augsburg,Ulrichsplatz,Demonstration,2021-01-22 09:00:47,
 1000411,DE,33098,2021-02-27,15:00,Paderborn,Herz-Jesu Kirche / Westerntor/B,Schweigemarsch,2021-02-25 06:15:23,
+1000451,DE,39104,2021-02-27,15:00,Magdeburg,Domplatz,Kundgebung,2021-02-27 00:28:28,http://www.MitteldeutschlandTV.de
 1000400,DE,91207,2021-02-27,15:00,Lauf,Marktplatz,Kundgebung,2021-02-24 14:40:59,
 1000343,DE,50679,2021-02-27,15:00,Köln Mühlheim,Wiener Platz,Demonstration,2021-02-21 11:09:49,
 1000315,DE,70597,2021-02-27,15:00,Degerloch,Marktplatz,Kundgebung,2021-02-19 22:45:20,
@@ -52,6 +53,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1000373,DE,06406,2021-03-01,17:30,Bernburg,Karlsplatz Weltzeituhr,Spaziergang,2021-02-22 19:37:11,
 1000449,DE,96052,2021-03-01,17:30,Bamberg,Bahnhof / ggü.,Spaziergang,2021-02-26 22:40:37,
 1000188,DE,30159,2021-03-01,18:00,Stadthagen,Marktplatz,Kundgebung,2021-02-14 13:41:36,
+1000450,DE,63500,2021-03-01,18:00,Seligenstadt,Basilika,Treffpunkt,2021-02-27 00:19:07,
 1000388,DE,92421,2021-03-01,18:00,Schwandorf,Oberer Marktplatz,Mahnwache,2021-02-23 16:53:20,
 1000352,DE,08523,2021-03-01,18:00,Plauen,Wendedenkmal,Kundgebung,2021-02-21 16:18:35,
 1000425,DE,49074,2021-03-01,18:00,Osnabrück,Rathaus,Demonstration,2021-02-25 21:10:00,
