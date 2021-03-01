@@ -1,4 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
+1000528,DE,70173,2021-03-03,17:00,Stuttgart,Karlsplatz,Aufzug,2021-03-01 20:27:47,
+1000529,DE,70173,2021-03-05,17:00,Stuttgart,Königstraße 78 (Jack Wolfskin),Kundgebung,2021-03-01 20:30:18,
+1000530,DE,70173,2021-03-05,17:00,Stuttgart,Königstraße 78 (Jack Wolfskin),Kundgebung,2021-03-01 20:30:20,
 1000516,AT,1010,2021-03-06,14:00,Wien,Maria-Theresien-Platz,Versammlung,2021-03-01 12:11:35,
 1000517,AT,1010,2021-03-06,15:15,Wien,Maria-Theresien-Platz,Versammlung,2021-03-01 12:13:08,
 1000519,DE,29510,2021-03-06,15:30,Uelzen,Herzogenplatz,Kundgebung,2021-03-01 15:41:46,
@@ -7,6 +10,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1000524,DE,82140,2021-03-07,15:30,Olching (FFB),Volksfestplatz, Toni-März-Str.,Kundgebung,2021-03-01 16:15:06,
 1000523,DE,06406,2021-03-08,17:30,Bernburg,Karlsplatz Weltzeituhr,Spaziergang,2021-03-01 16:09:14,
 1000525,DE,47906,2021-03-08,19:00,Kempen,Kuhtor,Demonstration,2021-03-01 17:20:51,
+1000527,DE,70174,2021-03-13,13:00,Stuttgart,Oberer Schloßgarten,Demonstration,2021-03-01 20:26:41,
 1000520,DE,29510,2021-03-13,15:30,Uelzen,Herzogenplatz,Kundgebung,2021-03-01 15:42:43,
 1000521,DE,29510,2021-03-20,15:30,Uelzen,Herzogenplatz,Kundgebung,2021-03-01 15:43:21,
 1000526,DE,47906,2021-03-22,19:00,Kempen,Kuhtor,Demonstration,2021-03-01 17:21:28,
