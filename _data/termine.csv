@@ -20,6 +20,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1787,DE,24103,2021-03-25,18:30,Kiel,Exerzierplatz,Versammlung,2021-03-17 09:50:02,
 1722,DE,63457,2021-03-25,18:30,Großauheim,Rochusplatz,Mahnwache,2021-03-13 12:47:12,
 1850,DE,78467,2021-03-25,19:30,Konstanz,Braschenplatz,Sport,2021-03-19 11:55:12,
+1958,DE,64287,2021-03-26,16:00,Darmstadt,Landgraf-Georg-Str. 128,Schilderwald,2021-03-24 18:03:20,
 1851,DE,64625,2021-03-26,16:00,Bensheim,Platanenallee / Parkhaus,Schilderwald,2021-03-19 12:21:32,
 1887,DE,97070,2021-03-26,17:00,Würzburg,Unterer Markt,Spaziergang,2021-03-21 17:05:27,
 1838,DE,02943,2021-03-26,17:30,Weisswasser,Marktplatz,Aufzug,2021-03-18 23:40:50,
@@ -74,6 +75,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1930,AT,6800,2021-03-28,14:00,Feldkirch,Montfortplatz / Montforthaus,Kundgebung,2021-03-23 13:45:27,
 1946,DE,84307,2021-03-28,14:00,Eggenfelden,Rathausplatz,Kundgebung,2021-03-24 11:25:58,
 1865,DE,95050,2021-03-28,14:00,Bamberg,Fuchsparkstadion,Autokorso,2021-03-20 07:33:52,
+1959,DE,48341,2021-03-28,15:00,Münster,Schloßplatz / Parkplatz,Autokorso,2021-03-24 18:09:44,
 1938,DE,63897,2021-03-28,16:00,Miltenberg,Jahnstr. / Busparkplatz,Aufzug,2021-03-23 18:47:50,
 1939,DE,06333,2021-03-29,17:00,Hettstedt,Markt / Denkmal,Kundgebung,2021-03-23 21:00:09,
 1690,DE,06406,2021-03-29,17:30,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,2021-03-12 11:30:44,
@@ -98,4 +100,6 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1903,DE,63225,2021-04-19,18:00,Langen,Bahnstrasse / Goethestrasse,Mahnwache,2021-03-22 06:14:08,
 1807,DE,84036,2021-04-24,17:00,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,2021-03-17 20:53:44,
 1904,DE,63225,2021-04-26,18:00,Langen,Bahnstrasse / Goethestrasse,Mahnwache,2021-03-22 06:14:27,
+1960,DE,10117,2021-11-05,18:00,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,2021-03-24 18:33:13,https://anonymous.support/live
+1963,DE,10178,2021-12-24,12:00,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,2021-03-24 18:35:35,https://anonymous.support/live
 1617,DE,10117,2021-12-31,23:59,Berlin,Brandenburger Tor,Event,2021-03-11 09:41:03,
