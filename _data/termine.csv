@@ -44,10 +44,12 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2229,DE,79108,2021-04-06,18:30,Freiburg,Neues SC-Stadion / Flugplatz,Autokorso,2021-04-05 00:19:40,
 2220,DE,70184,2021-04-07,16:00,Stuttgart,Dobelstr. / Hohenheimer Str.,Kundgebung,2021-04-04 11:27:24,
 2252,DE,18196,2021-04-07,17:00,Dummerstorf,Rathaus,Kundgebung,2021-04-05 12:09:17,
+2266,DE,90402,2021-04-07,17:30,Nürnberg,Lorenzkirche,Kundgebung,2021-04-05 19:39:59,
 2171,DE,63450,2021-04-07,18:00,Hanau,Marktplatz,Mahnwache,2021-04-01 21:13:14,
 2128,DE,91054,2021-04-08,11:30,Erlangen,Schlossplatz,Mahnwache,2021-03-30 21:00:21,
 2255,DE,18057,2021-04-08,16:00,Rostock,Neuer Markt / am Rathaus,Kundgebung,2021-04-05 12:17:04,
 2248,DE,83278,2021-04-08,17:00,Traunstein,Stadtplatz,Versammlung,2021-04-05 12:03:04,https://dlive.tv/861Querdenken-TS?ref=papageienumschau
+2267,DE,90402,2021-04-08,17:00,Nürnberg,Lorenzkirche,Kundgebung,2021-04-05 19:41:08,
 2223,DE,06295,2021-04-08,17:00,Lutherstadt Eisleben,Markt / Denkmal,Kundgebung,2021-04-04 17:10:19,
 2196,DE,72622,2021-04-08,17:30,Nürtingen,Ochsenbrunnen - Schillerplatz,Kundgebung,2021-04-02 13:47:59,
 2176,DE,63457,2021-04-08,18:30,Großauheim,Rochusplatz,Mahnwache,2021-04-01 21:41:29,
@@ -56,6 +58,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2250,DE,83301,2021-04-09,17:00,Traunreut,Rathausplatz,Kundgebung,2021-04-05 12:04:58,https://dlive.tv/861Querdenken-TS?ref=papageienumschau
 2221,DE,70372,2021-04-09,17:00,Stuttgart / Bad Cannstatt,Cannstatter Wasen Parkpl. P10,Fahrraddemo,2021-04-04 11:30:46,
 2226,DE,78713,2021-04-09,17:15,Schramberg,Parkplatz am Schloss / Talstadt,Kundgebung,2021-04-04 18:39:40,
+2269,DE,90402,2021-04-09,17:30,Nürnberg,Lorenzkirche,Kundgebung,2021-04-05 19:42:22,
 2257,DE,96052,2021-04-09,17:45,Bamberg,Fuchsparkstadion,Autokorso,2021-04-05 12:58:40,
 2227,DE,79271,2021-04-10,10:30,St. Peter,Zähringer Eck / Rossweiher,Versammlung,2021-04-04 23:46:29,
 2260,CH,8645,2021-04-10,13:00,Rapperswil / SG,Fischmarktplatz,Spaziergang,2021-04-05 13:52:18,
@@ -68,6 +71,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2217,DE,67346,2021-04-10,14:30,Speyer,Domplatz / Dom,Demonstration,2021-04-04 07:43:19,
 2151,DE,13597,2021-04-10,14:30,Berlin,S-Bahnhof Spandau,Aufzug,2021-03-31 22:19:07,
 2192,DE,50678,2021-04-10,15:00,Köln,Köln Rudolfplatz,Demonstration,2021-04-02 11:58:32,
+2265,DE,67657,2021-04-10,15:00,Kaiserslautern,Mitfahrerparkplatz Holtzendorf,Autokorso,2021-04-05 19:28:52,
+2270,DE,85049,2021-04-10,15:00,Ingolstadt,Theaterplatz,Kundgebung,2021-04-05 21:27:57,
 2242,DE,21073,2021-04-10,15:30,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,2021-04-05 11:16:26,
 1806,DE,84036,2021-04-10,17:00,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,2021-03-17 20:52:00,
 2193,DE,50678,2021-04-10,17:30,Köln,Köln Rudolfplatz,Spaziergang,2021-04-02 12:00:24,
@@ -84,11 +89,13 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2237,DE,14467,2021-04-12,18:00,Potsdam,Am Kanal,Spaziergang,2021-04-05 10:53:11,
 1902,DE,63225,2021-04-12,18:00,Langen,Bahnstrasse / Goethestrasse,Mahnwache,2021-03-22 06:13:51,
 2222,DE,33330,2021-04-12,18:00,Gütersloh,Berliner Platz,Spaziergang,2021-04-04 11:46:50,
+2264,DE,46242,2021-04-12,18:30,Bottrop,Cyriakus Kirche,Spaziergang,2021-04-05 19:11:09,
 2233,DE,17033,2021-04-12,19:00,Neubrandenburg,Marktplatz,Aufzug,2021-04-05 01:57:03,
 2188,DE,99510,2021-04-12,19:00,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,2021-04-02 06:12:16,
 2172,DE,63450,2021-04-14,18:00,Hanau,Marktplatz,Mahnwache,2021-04-01 21:13:37,
 2177,DE,63457,2021-04-15,18:30,Großauheim,Rochusplatz,Mahnwache,2021-04-01 21:41:39,
 2096,DE,22941,2021-04-16,15:30,Bargteheide,Am Markt / Schulzentrum,Mahnwache,2021-03-29 12:06:57,
+2268,DE,69126,2021-04-17,13:00,Heidelberg,Schwanenteichanlage,Aufzug,2021-04-05 19:41:47,
 2117,DE,78713,2021-04-17,14:00,Schramberg,St. Maria Kirche,Demonstration,2021-03-30 00:43:08,
 2231,DE,19370,2021-04-17,16:00,Parchim,Exerzierplatz,Kundgebung,2021-04-05 01:56:05,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured
 2258,CH,1719,2021-04-18,11:00,Schwarzsee,Rund um den See,Meditation,2021-04-05 12:59:09,
@@ -107,6 +114,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2026,DE,80336,2021-05-01,14:00,München,Theresienwiese,Aufzug,2021-03-26 06:53:44,
 2027,DE,80336,2021-05-01,17:00,München,Theresienwiese,Kundgebung,2021-03-26 06:56:02,
 2251,DE,83278,2021-05-08,14:00,Traunstein,Salinenpark,Aufzug,2021-04-05 12:07:41,https://dlive.tv/861Querdenken-TS?ref=papageienumschau
+2271,DE,06232,2021-10-04,14:30,Speyer,Domplatz,Kundgebung,2021-04-05 21:39:19,https://dlive.tv/Live-Reports-DUEW
 1960,DE,10117,2021-11-05,18:00,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,2021-03-24 18:33:13,https://anonymous.support/live
 1963,DE,10178,2021-12-24,12:00,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,2021-03-24 18:35:35,https://anonymous.support/live
 1617,DE,10117,2021-12-31,23:59,Berlin,Brandenburger Tor,Event,2021-03-11 09:41:03,
