@@ -7,6 +7,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2324,DE,83395,2021-04-11,13:00,Freilassing,Hauptstr. / Fußgängerzone,Kundgebung,2021-04-07 22:28:57,
 2224,DE,63741,2021-04-11,13:00,Aschaffenburg,Volksfestplatz,Autokorso,2021-04-04 17:45:38,
 1871,DE,69231,2021-04-11,14:00,Rauenberg,Rathausplatz,Kundgebung,2021-03-20 12:13:26,
+2406,DE,74182,2021-04-11,14:00,Obersulm-Willsbach,Marktplatz,Kundgebung,2021-04-11 12:22:14,
 2301,DE,74182,2021-04-11,14:00,Obersulm / Willsbach,Marktplatz,Kundgebung,2021-04-06 23:31:11,
 2323,DE,84028,2021-04-11,14:00,Landshut,Ringelstecherwiese,Kundgebung,2021-04-07 21:54:16,
 2387,DE,60486,2021-04-11,14:00,Frankfurt / Main,Rebstockpark,Kundgebung,2021-04-10 22:31:46,
@@ -22,6 +23,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2347,DE,74613,2021-04-11,16:00,Öhringen,P9 / Alte Turnhalle,Kundgebung,2021-04-08 19:57:23,
 2328,DE,80333,2021-04-11,17:00,München,Königsplatz,Kundgebung,2021-04-08 05:16:30,
 1806,DE,84036,2021-04-11,17:00,Landshut,Grieserwiese,Autokorso,2021-03-17 20:52:00,
+2405,DE,97422,2021-04-12,08:00,Schweinfurt,Landratsamt,Zusammenkunft,2021-04-11 12:01:27,
 2399,DE,10117,2021-04-12,15:00,Berlin,Brandenburger Tor,Kundgebung,2021-04-11 07:47:50,https://www.twitch.tv/demokratievs1984
 2298,DE,82362,2021-04-12,15:30,Weilheim,Marienplatz,Mahnwache,2021-04-06 22:05:48,
 2350,DE,17166,2021-04-12,17:00,Teterow,Marktplatz,Kundgebung,2021-04-08 22:29:32,
@@ -52,6 +54,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2281,DE,99974,2021-04-12,19:00,Mühlhausen / Thüringen,Postplatz,Spaziergang,2021-04-06 14:50:34,
 2370,DE,87600,2021-04-12,19:00,Kaufbeuren,Altes Rathaus,Spaziergang,2021-04-09 20:08:40,
 2356,DE,09661,2021-04-12,19:00,Hainichen,Marktplatz,Kundgebung,2021-04-09 12:17:54,https://dlive.tv/SAXO_ICA
+2404,DE,29221,2021-04-12,19:00,Celle,Stechbahn,Spaziergang,2021-04-11 11:53:40,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 2367,DE,21614,2021-04-12,19:00,Buxtehude,Rathaus,Spaziergang,2021-04-09 17:24:59,
 2188,DE,99510,2021-04-12,19:00,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,2021-04-02 06:12:16,
 2329,DE,14471,2021-04-13,17:00,Potsdam,Bhf Pirschheide,Kundgebung,2021-04-08 08:07:19,
