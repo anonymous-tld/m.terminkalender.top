@@ -38,6 +38,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2189,DE,2021-04-19,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2464,DE,2021-04-20,18:00:00,14467,Potsdam,Schiffbauergasse 7,Autokorso,,unbekannt,
 2468,DE,2021-04-20,18:00:00,64711,Erbach,Marktplatz / am Schloss,Spaziergang,,unbekannt,
+2529,DE,2021-04-20,18:30:00,60385,Frankfurt / Main,Uhrtürmchen,Spaziergang,,unbekannt,
 2504,DE,2021-04-20,19:00:00,83043,Bad Aibling,Ausstellungshalle Viehhalle,Kundgebung,,Zukunftsrunde e.V. in Gründung Kolbermoor,https://zukunftsrunde.de/veranstaltungen/
 2474,DE,2021-04-21,09:00:00,10117,Berlin,Reichstag / Paul-Löbe-Haus,Aufstand,,Sturm auf den Reichstag,
 2483,DE,2021-04-21,10:00:00,10117,Berlin,Str. des 17. Juni,Kundgebung,,Querdenken 30,https://querdenken-30.de
@@ -58,6 +59,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2454,DE,2021-04-24,15:00:00,50678,Köln,Rudolfplatz,Demonstration,,Koeln-ist-aktiv,https://koelnistaktiv.de
 2456,DE,2021-04-24,17:00:00,50678,Köln,Rudolfplatz,Spaziergang,,Koeln-ist-aktiv,https://koelnistaktiv.de
 2416,DE,2021-04-25,14:00:00,63454,Hanau/Kesselstadt,Mainwiese / Schloss Philippsruhe,Spaziergang,,Hanau steht auf,https://www.hanau-steht-auf.de
+2530,DE,2021-04-25,14:00:00,63454,Hanau,Schlosspark Philippsruhe,Spaziergang,,unbekannt,
 2371,AT,2021-04-25,14:00:00,6800,Feldkirch,Montfortplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2440,DE,2021-04-25,14:00:00,84307,Eggenfelden,Rathausplatz,Versammlung,https://dlive.tv/SelbstDenken21,SelbstDenken21,http://shop.selbstdenken21.de
 2393,DE,2021-04-25,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
