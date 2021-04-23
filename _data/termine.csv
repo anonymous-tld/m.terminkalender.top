@@ -34,6 +34,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1968,DE,52064,2021-04-24,14:00,Aachen,Eurogress Monheimsallee 48,Kundgebung,2021-03-24 22:36:05,
 2704,DE,56068,2021-04-24,14:09,Koblenz,Jesuitenplatz,Mahnwache,2021-04-22 16:10:12,
 2684,DE,83022,2021-04-24,15:00,Rosenheim,Max Josefs Platz,Kundgebung,2021-04-21 10:37:34,
+2726,DE,90402,2021-04-24,15:00,Nürnberg,Jakobsplatz,Kundgebung,2021-04-23 12:52:33,
 2454,DE,50678,2021-04-24,15:00,Köln,Rudolfplatz,Demonstration,2021-04-14 09:46:25,
 2545,DE,50678,2021-04-24,15:00,Köln,Rudolfplatz,Demonstration,2021-04-18 20:54:27,
 2719,DE,06108,2021-04-24,15:00,Halle,Markt / Ostseite,Kundgebung,2021-04-23 06:34:11,https://www.twitch.tv/svenliebich
@@ -44,6 +45,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2658,DE,29525,2021-04-24,15:30,Uelzen,Herzogenplatz,Kundgebung,2021-04-20 07:59:08,
 2543,DE,29525,2021-04-24,15:30,Uelzen,Herzogenplatz,Kundgebung,2021-04-18 19:24:08,
 2657,DE,39104,2021-04-24,15:30,Magdeburg,Domplatz,Kundgebung,2021-04-20 04:16:58,
+2727,DE,87600,2021-04-24,15:30,Kaufbeuren,Obstmarkt / Fußgängerzone,Kundgebung,2021-04-23 12:57:39,
 2701,DE,85049,2021-04-24,15:30,Ingolstadt,Theatervorplatz,Kundgebung,2021-04-22 14:10:41,
 2655,DE,21073,2021-04-24,15:30,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,2021-04-20 00:12:21,
 2456,DE,50678,2021-04-24,17:00,Köln,Rudolfplatz,Spaziergang,2021-04-14 09:56:37,
@@ -79,6 +81,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2563,CH,6004,2021-04-26,19:00,Luzern,Schwanenplatz,Spaziergang,2021-04-19 15:15:08,
 2682,DE,71,2021-04-26,19:00,Ludwigsburg,Marktplatz,Spaziergang,2021-04-21 08:22:06,
 2690,DE,89150,2021-04-26,19:00,Laichingen,Marktplatz,Kundgebung,2021-04-21 19:46:45,
+2728,DE,87600,2021-04-26,19:00,Kaufbeuren,Tänzelfestplatz,Kundgebung,2021-04-23 12:59:21,
 2190,DE,99510,2021-04-26,19:00,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,2021-04-02 06:14:21,
 2720,DE,06108,2021-04-26,22:00,Halle,Markt / Ostseite,Kundgebung,2021-04-23 06:35:22,https://www.twitch.tv/svenliebich
 2707,DE,14467,2021-04-27,17:00,Potsdam,Schiffbauergasse,Autokorso,2021-04-22 18:51:06,
