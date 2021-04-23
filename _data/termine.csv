@@ -17,14 +17,17 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2383,DE,26506,2021-04-23,19:00,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,2021-04-10 14:39:01,
 2627,CH,2503,2021-04-23,19:00,Biel-Bienne,Bahnhof,Spaziergang,2021-04-19 16:56:57,
 2718,DE,06107,2021-04-23,21:30,Halle,Markt / Ostseite,Kundgebung,2021-04-23 06:32:36,https://www.twitch.tv/svenliebich
+2735,DE,65479,2021-04-23,21:45,Raunheim,Am Stadtzentrum 1,Mahnwache,2021-04-23 19:42:10,
 2698,DE,22941,2021-04-24,09:00,Ahrensburg,Rathaus / Vorplatz,Kundgebung,2021-04-22 12:08:31,
 2501,DE,10557,2021-04-24,10:00,Berlin,Straße des 17. Juni,Kundgebung,2021-04-16 17:21:12,
 2678,DE,79271,2021-04-24,10:30,St. Peter,Zähringer Eck / Rossweiher,Versammlung,2021-04-20 17:55:57,
 2703,DE,78532,2021-04-24,12:00,Tuttlingen,Marktplatz / beim Brunnen,Kundgebung,2021-04-22 14:32:57,
 2561,CH,8640,2021-04-24,13:00,Rapperswil,Fischmarktplatz,Kundgebung,2021-04-19 15:12:39,
 2702,DE,45711,2021-04-24,13:00,Datteln,Rathaus,Kundgebung,2021-04-22 14:15:04,
+2734,DE,76530,2021-04-24,13:00,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,2021-04-23 19:20:49,
 2659,DE,03172,2021-04-24,13:30,Guben,Flemmingplatz,Autokorso,2021-04-20 08:37:44,
 2686,AT,1010,2021-04-24,14:00,Wien,Graben Pestsäule,Versammlung,2021-04-21 12:59:10,
+2732,DE,29664,2021-04-24,14:00,Walsrode,Klostersee,Zusammenkunft,2021-04-23 19:09:34,
 2653,DE,54294,2021-04-24,14:00,Trier,Viehmarkt,Spaziergang,2021-04-19 23:32:57,https://de-de.facebook.com/team.freiheit.trier
 2725,DE,64385,2021-04-24,14:00,Reichelsheim,B38 / Aldi / Ortseingang,Versammlung,2021-04-23 09:45:28,
 2497,DE,26122,2021-04-24,14:00,Oldenburg,Schloßplatz,Aufzug,2021-04-16 16:22:09,https://dlive.tv/QD421
@@ -51,6 +54,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2655,DE,21073,2021-04-24,15:30,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,2021-04-20 00:12:21,
 2456,DE,50678,2021-04-24,17:00,Köln,Rudolfplatz,Spaziergang,2021-04-14 09:56:37,
 2710,DE,96052,2021-04-24,17:00,Bamberg,Maxplatz,Kundgebung,2021-04-22 22:08:56,
+2736,DE,65479,2021-04-24,21:45,Raunheim,Am Stadtzentrum 1,Mahnwache,2021-04-23 19:48:09,
 2548,DE,75015,2021-04-25,10:45,Bretten,Marktplatz,Meditation,2021-04-18 23:34:08,
 2683,DE,42277,2021-04-25,14:00,Wuppertal,Berliner platz,Aufstand,2021-04-21 08:51:14,
 2416,DE,63454,2021-04-25,14:00,Hanau/Kesselstadt,Mainwiese / Schloss Philippsruhe,Spaziergang,2021-04-11 19:52:58,
@@ -111,6 +115,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2451,DE,02763,2021-05-01,14:00,Zittau,Markt,Kundgebung,2021-04-13 23:17:09,
 2027,DE,80336,2021-05-01,14:00,München,Theresienwiese,Kundgebung,2021-03-26 06:56:02,
 2673,DE,06846,2021-05-01,17:00,Dessau-Roßlau,Alte Landebahn,Autokorso,2021-04-20 15:12:30,
+2733,DE,06846,2021-05-01,17:00,Dessau,Alte Landebahn,Autokorso,2021-04-23 19:10:41,https://www.twitch.tv/svenliebich
 2372,AT,6850,2021-05-02,14:00,Dornbirn,Marktplatz,Kundgebung,2021-04-09 21:16:29,
 2646,CH,9450,2021-05-02,14:00,Altstätten / SG,Reformierte Kirche,Spaziergang,2021-04-19 17:08:58,
 2394,DE,27472,2021-05-02,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2021-04-10 23:38:02,
