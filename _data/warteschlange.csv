@@ -1,18 +1,22 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
+3017,DE,96052,2021-05-07,17:45,Bamberg,Fuchsparkstadion,Autokorso,2021-05-07 23:26:48,
 3005,DE,46483,2021-05-08,11:00,Wesel,Kornmarkt,Schilderwald,2021-05-07 18:44:16,
 3000,DE,21029,2021-05-08,13:15,Hamburg,Frascati-Platz,Autokorso,2021-05-07 18:19:06,
 3014,DE,36037,2021-05-08,14:00,Fulda,Universitätsplatz,Kundgebung,2021-05-07 22:51:40,
-2998,DE,10177,2021-05-10,15:00,Berlin,Brandenburger Tor,Kundgebung,2021-05-07 18:15:14,www.twitch.tv/demokratievs1984
-2999,DE,10177,2021-05-10,15:00,Berlin,Brandenburger Tor,Livestream,2021-05-07 18:17:59,www.facebook.com/Demokratievs1984
+3015,DE,87600,2021-05-08,15:30,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,2021-05-07 23:20:16,
+2998,DE,10177,2021-05-10,15:00,Berlin,Brandenburger Tor,Kundgebung,2021-05-07 18:15:14,https://www.twitch.tv/demokratievs1984
+2999,DE,10177,2021-05-10,15:00,Berlin,Brandenburger Tor,Livestream,2021-05-07 18:17:59,https://www.facebook.com/Demokratievs1984
 3006,DE,32756,2021-05-10,17:30,Detmold,Marktplatz,Meditation,2021-05-07 19:41:31,
 3008,DE,32756,2021-05-10,18:00,Detmold,Marktplatz,Spaziergang,2021-05-07 19:42:24,
+3018,DE,96052,2021-05-10,18:00,Bamberg,Bahnhof / ggü.,Spaziergang,2021-05-07 23:27:22,
+3016,DE,87600,2021-05-10,19:00,Kaufbeuren-Neugablonz,Markt / Neugablonz,Kundgebung,2021-05-07 23:20:53,
 3007,DE,74906,2021-05-11,18:00,Bad Rappenau,Kirchplatz,Kundgebung,2021-05-07 19:42:24,
-3011,DE,10875,2021-05-12,13:00,Berlin,Potsdamer Platz/Ecke Ebertstr.,Mahnwache,2021-05-07 21:10:58,
+3011,DE,10875,2021-05-12,13:00,Berlin,Potsdamer Platz / Ebertstr.,Mahnwache,2021-05-07 21:10:58,
 3013,DE,86152,2021-05-15,15:00,Augsburg,Königsplatz,Revolte,2021-05-07 22:43:17,
-3001,DE,10177,2021-05-17,15:00,Berlin,Brandenburger Tor,Kundgebung,2021-05-07 18:19:59,www.facebook.com/Demokratievs1984
-3002,DE,10177,2021-05-17,15:00,Berlin,Brandenburger Tor,Livestream,2021-05-07 18:22:06,www.facebook.com/Demokratievs1984
+3001,DE,10177,2021-05-17,15:00,Berlin,Brandenburger Tor,Kundgebung,2021-05-07 18:19:59,https://www.facebook.com/Demokratievs1984
+3002,DE,10177,2021-05-17,15:00,Berlin,Brandenburger Tor,Livestream,2021-05-07 18:22:06,https://www.facebook.com/Demokratievs1984
 3009,DE,32756,2021-05-19,17:30,Detmold,Marktplatz,Kundgebung,2021-05-07 19:43:12,
 3010,DE,32756,2021-05-19,18:00,Detmold,Marktplatz,Spaziergang,2021-05-07 19:45:01,
-3003,DE,10117,2021-05-24,15:00,Berlin,Brandenburger Tor,Kundgebung,2021-05-07 18:24:06,www.twitch.tv/demokratievs1984
-3004,DE,10117,2021-05-24,15:00,Berlin,Brandenburger Tor,Livestream,2021-05-07 18:25:59,www.facebook.com/Demokratievs1984
+3003,DE,10117,2021-05-24,15:00,Berlin,Brandenburger Tor,Kundgebung,2021-05-07 18:24:06,https://www.twitch.tv/demokratievs1984
+3004,DE,10117,2021-05-24,15:00,Berlin,Brandenburger Tor,Livestream,2021-05-07 18:25:59,https://www.facebook.com/Demokratievs1984
 3012,DE,86152,2021-05-29,15:00,Augsburg,Jakobertor,Festival,2021-05-07 22:39:27,
