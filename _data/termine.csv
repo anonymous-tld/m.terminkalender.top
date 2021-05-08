@@ -7,6 +7,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2903,DE,79271,2021-05-08,10:30,St. Peter,Zähringer Eck / Rossweiher,Versammlung,2021-05-02 07:20:04,
 3005,DE,46483,2021-05-08,11:00,Wesel,Kornmarkt,Schilderwald,2021-05-07 18:44:16,
 2958,DE,29223,2021-05-08,11:00,Celle,Schützenplatz,Spaziergang,2021-05-04 18:45:45,
+3019,DE,11011,2021-05-08,11:00,Berlin,Reichstag,Kundgebung,2021-05-08 03:24:25,https://youtube.com/user/cheeta030
 2571,CH,8001,2021-05-08,13:00,Zürich,Fraumünster-Kirche,Spaziergang,2021-04-19 15:59:51,
 2951,DE,98527,2021-05-08,13:00,Suhl,Platz der Deutschen Einheit,Autokorso,2021-05-04 10:42:38,
 2922,DE,84036,2021-05-08,13:00,Landshut,Wittstr. 9 / Grieserwiese,Autokorso,2021-05-03 10:25:37,
@@ -24,6 +25,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2961,DE,76829,2021-05-08,14:30,Landau in der Pfalz,Rathausplatz,Demonstration,2021-05-04 20:24:27,
 2950,DE,30169,2021-05-08,14:30,Hannover,Schützenplatz,Autokorso,2021-05-04 10:31:23,
 2989,DE,90402,2021-05-08,15:00,Nürnberg,Jakobsplatz,Kundgebung,2021-05-07 10:23:43,
+3023,DE,48143,2021-05-08,15:00,Münster,Aasee / Kugeln,Kundgebung,2021-05-08 09:55:15,
 2925,DE,51065,2021-05-08,15:00,Köln,Wiener Platz,Demonstration,2021-05-03 10:52:33,
 2430,DE,95183,2021-05-08,15:00,Hof,Kugelbrunnen,Kundgebung,2021-04-12 14:52:30,
 2444,DE,95032,2021-05-08,15:00,Hof,Kugelbrunnen,Kundgebung,2021-04-13 15:34:05,
@@ -31,6 +33,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2963,DE,91522,2021-05-08,15:00,Ansbach,Inselwiese,Autokorso,2021-05-05 06:11:48,
 2964,DE,295252,2021-05-08,15:30,Uelzen,Herzogenplatz,Kundgebung,2021-05-05 08:04:59,
 2991,DE,75175,2021-05-08,15:30,Pforzheim,Marktplatz / vor dem Rathaus,Kundgebung,2021-05-07 12:19:12,
+3021,DE,39104,2021-05-08,15:30,Magdeburg,Domplatz,Kundgebung,2021-05-08 08:58:41,
 3015,DE,87600,2021-05-08,15:30,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,2021-05-07 23:20:16,
 2971,DE,21073,2021-05-08,15:30,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,2021-05-05 13:06:09,
 2979,DE,45128,2021-05-08,15:30,Essen,Willy-Brandt-Platz,Kundgebung,2021-05-06 02:04:16,
@@ -44,6 +47,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2969,DE,74182,2021-05-09,14:00,Obersulm / Willsbach,Marktplatz,Kundgebung,2021-05-05 12:17:54,
 2948,DE,84489,2021-05-09,14:00,Burghausen,Messeplatz,Kundgebung,2021-05-04 08:18:04,
 2547,AT,6900,2021-05-09,14:00,Bludenz,Riedmillerplatz,Kundgebung,2021-04-18 22:39:21,
+3024,DE,54634,2021-05-09,14:00,Bitburg,Bedaplatz,Demonstration,2021-05-08 10:14:11,
 2647,CH,9450,2021-05-09,14:00,Altstätten / SG,Reformierte Kirche,Spaziergang,2021-04-19 17:09:20,
 2869,DE,73230,2021-05-09,15:00,Kirchheim unter Teck,Ziegelwasen,Kundgebung,2021-04-29 18:58:05,
 2973,DE,73230,2021-05-09,15:00,Kirchheim unter Teck,Ziegelwasen,Kundgebung,2021-05-05 14:34:00,
@@ -53,6 +57,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2999,DE,10177,2021-05-10,15:00,Berlin,Brandenburger Tor,Livestream,2021-05-07 18:17:59,https://www.facebook.com/Demokratievs1984
 3006,DE,32756,2021-05-10,17:30,Detmold,Marktplatz,Meditation,2021-05-07 19:41:31,
 2975,DE,69190,2021-05-10,18:00,Walldorf,Marktplatz / Hauptstr.,Kundgebung,2021-05-05 21:30:14,
+3022,DE,69190,2021-05-10,18:00,Walldorf,Marktplatz,Kundgebung,2021-05-08 09:46:35,
 2580,CH,8636,2021-05-10,18:00,Wald / ZH,Hallenbad / Windegg,Spaziergang,2021-04-19 16:10:51,
 2574,CH,6362,2021-05-10,18:00,Stansstad,Hafen,Spaziergang,2021-04-19 16:05:56,
 2947,DE,14467,2021-05-10,18:00,Potsdam,Platz zwischen Filmmuseum und,Mahnwache,2021-05-04 07:21:26,
@@ -91,6 +96,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2618,CH,6170,2021-05-13,19:00,Schüpfheim,Bahnhof,Spaziergang,2021-04-19 16:51:09,
 2606,CH,8750,2021-05-13,20:00,Glarus,Rathausplatz,Spaziergang,2021-04-19 16:31:38,
 2966,DE,76131,2021-05-14,17:30,Karlsruhe,Marktplatz,Kundgebung,2021-05-05 10:06:55,
+3020,DE,06366,2021-05-14,18:00,Köthen,Marktplatz,Kundgebung,2021-05-08 07:29:41,https://www.twitch.tv/svenliebich
 2636,CH,3186,2021-05-14,18:00,Düdingen,Bahnhof,Spaziergang,2021-04-19 17:01:23,
 2624,CH,7320,2021-05-14,19:00,Sargans,Bahnhof,Spaziergang,2021-04-19 16:54:17,
 2916,DE,26506,2021-05-14,19:00,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,2021-05-03 01:03:49,
