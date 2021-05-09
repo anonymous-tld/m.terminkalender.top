@@ -49,6 +49,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2600,CH,2542,2021-05-12,18:00,Pieterlen,Bahnhof,Spaziergang,2021-04-19 16:25:05,
 2738,DE,63450,2021-05-12,18:00,Hanau,Marktplatz,Mahnwache,2021-04-23 21:20:18,
 2941,DE,09669,2021-05-12,18:00,Frankenberg,Markt,Kundgebung,2021-05-03 21:34:19,
+3029,DE,10557,2021-05-12,18:00,Berlin,Bundeskanzleramt,Kundgebung,2021-05-09 06:32:04,https://youtube.com/user/cheeta030
 2593,CH,9470,2021-05-12,18:30,Buchs / SG,Lokremise,Spaziergang,2021-04-19 16:20:20,
 2956,DE,82481,2021-05-13,13:00,Mittenwald,Festplatz / Rathaus,Kundgebung,2021-05-04 16:16:51,
 2453,DE,84503,2021-05-13,15:00,Altötting,Volksfestplatz,Versammlung,2021-04-14 07:40:14,
@@ -67,6 +68,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3013,DE,86152,2021-05-15,15:00,Augsburg,Königsplatz,Revolte,2021-05-07 22:43:17,
 2691,AT,6900,2021-05-16,14:00,Bregenz,Kornmarktplatz,Kundgebung,2021-04-21 22:22:37,
 2648,CH,9450,2021-05-16,14:00,Altstätten / SG,Reformierte Kirche,Spaziergang,2021-04-19 17:09:50,
+3030,DE,06682,2021-05-16,16:00,Teuchern,Mühlstr. / RTS Platz,Spaziergang,2021-05-09 07:04:05,
 2642,LI,9490,2021-05-16,18:00,Vaduz,Peter-Kaiser-Platz,Spaziergang,2021-04-19 17:05:42,
 3001,DE,10177,2021-05-17,15:00,Berlin,Brandenburger Tor,Kundgebung,2021-05-07 18:19:59,https://www.facebook.com/Demokratievs1984
 3002,DE,10177,2021-05-17,15:00,Berlin,Brandenburger Tor,Livestream,2021-05-07 18:22:06,https://www.facebook.com/Demokratievs1984
@@ -77,6 +79,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2675,DE,06844,2021-05-17,18:00,Dessau-Roßlau,Rathaus / Friedensglocke,Spaziergang,2021-04-20 15:17:31,
 2899,DE,26382,2021-05-17,19:00,Wilhelmshaven,Rathausplatz,Spaziergang,2021-05-01 20:30:52,
 2890,DE,06682,2021-05-17,19:00,Teuchern,RTS Platz Mühlstraße,Spaziergang,2021-05-01 08:28:08,
+3031,DE,06682,2021-05-17,19:00,Teuchern,Mühlstr. / RTS Platz,Spaziergang,2021-05-09 07:05:12,
 2566,CH,6004,2021-05-17,19:00,Luzern,Schwanenplatz,Spaziergang,2021-04-19 15:16:34,
 2939,DE,09661,2021-05-17,19:00,Hainichen,Markt,Kundgebung,2021-05-03 21:33:31,
 2588,CH,4410,2021-05-19,14:00,Liestal,Bahnhof,Spaziergang,2021-04-19 16:17:06,
