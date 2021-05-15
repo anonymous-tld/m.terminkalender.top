@@ -12,6 +12,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3097,DE,30169,2021-05-15,14:00,Hannover,Maschsee / am Nordufer,Kundgebung,2021-05-12 15:21:34,https://twitch.tv/demokratievs1984
 3130,DE,36037,2021-05-15,14:00,Fulda,Universitätsplatz,Kundgebung,2021-05-14 21:31:43,
 3055,DE,40211,2021-05-15,14:00,Düsseldorf,Hofgarten,Kundgebung,2021-05-10 11:35:00,
+3136,CH,3000,2021-05-15,14:00,Bern,Stadtzentrum,Spaziergang,2021-05-15 09:28:36,
 3078,CH,9050,2021-05-15,14:00,Appenzell,Brauereiplatz,Spaziergang,2021-05-11 17:54:58,
 3113,DE,90402,2021-05-15,14:15,Nürnberg,Lorenzkirche,Kundgebung,2021-05-14 10:39:21,
 3112,DE,30169,2021-05-15,14:30,Hannover,Schützenplatz,Autokorso,2021-05-14 10:26:44,
@@ -69,6 +70,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2739,DE,63450,2021-05-19,18:00,Hanau,Marktplatz,Mahnwache,2021-04-23 21:20:28,
 3010,DE,32756,2021-05-19,18:00,Detmold,Marktplatz,Spaziergang,2021-05-07 19:45:01,
 2595,CH,9470,2021-05-19,18:30,Buchs / SG,Lokremise,Spaziergang,2021-04-19 16:22:06,
+3137,DE,72622,2021-05-20,17:30,Nürtingen,Ochsenbrunnen,Kundgebung,2021-05-15 11:59:16,
 2840,DE,85586,2021-05-20,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-04-28 09:57:59,
 2993,DE,76131,2021-05-20,18:00,Karlsruhe,Schlossbezirk 3 / Bundesverfassungsgericht,Kundgebung,2021-05-07 12:23:36,
 3085,DE,42579,2021-05-20,18:00,Heiligenhaus,Rathausplatz,Spaziergang,2021-05-11 20:49:25,
@@ -91,6 +93,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3106,DE,02943,2021-05-22,15:30,Weißwasser,Fanmeile am Eisstadion,Kundgebung,2021-05-13 09:30:58,
 3128,HU,1146,2021-05-23,12:00,Budapest,Hösök tere / Heldenplatz,Demonstration,2021-05-14 17:39:07,
 2649,CH,9450,2021-05-23,14:00,Altstätten / SG,Reformierte Kirche,Spaziergang,2021-04-19 17:10:16,
+3138,DE,73230,2021-05-23,15:00,Kirchheim Teck,Ziegelwasen,Kundgebung,2021-05-15 11:59:45,
 2643,LI,9490,2021-05-23,18:00,Vaduz,Peter-Kaiser-Platz,Spaziergang,2021-04-19 17:06:02,
 3095,DE,02763,2021-05-24,14:00,Zittau,Markt,Kundgebung,2021-05-12 13:26:42,
 3003,DE,10117,2021-05-24,15:00,Berlin,Brandenburger Tor,Kundgebung,2021-05-07 18:24:06,https://www.twitch.tv/demokratievs1984
