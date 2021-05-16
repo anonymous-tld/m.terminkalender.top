@@ -1,9 +1,12 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 3178,DE,10117,2021-05-17,15:00,Berlin,Brandenburger Tor,Mahnwache,2021-05-16 19:48:54,https://demo.stream/kanal/embed/?id=18
 3223,DE,23843,2021-05-17,17:00,Bad Oldesloe,Bahnhofsvorplatz,Kundgebung,2021-05-16 21:35:56,
+3241,DE,04758,2021-05-17,17:30,Oschatz,Döllnitzsporthalle,Spaziergang,2021-05-16 21:50:22,
 3176,DE,17033,2021-05-17,17:30,Neubrandenburg,Marktplatz / Innenstadt,Aufzug,2021-05-16 19:17:17,
 3212,DE,01909,2021-05-17,17:30,Großharthau,Eisenbahnbrücke,Spaziergang,2021-05-16 21:26:43,
 3181,DE,70173,2021-05-17,18:00,Stuttgart,Schloßplatz,Spaziergang,2021-05-16 20:08:03,
+3244,DE,08525,2021-05-17,18:00,Plauen,Wendedenkmal,Spaziergang,2021-05-16 21:52:40,
+3240,DE,09526,2021-05-17,18:00,Olbernhau,Gessingplatz,Spaziergang,2021-05-16 21:49:24,
 3232,DE,02727,2021-05-17,18:00,Neugersdorf,Markt,Spaziergang,2021-05-16 21:42:38,
 3230,DE,09306,2021-05-17,18:00,Milkau,Busplatz,Spaziergang,2021-05-16 21:41:27,
 3220,DE,08349,2021-05-17,18:00,Johanngeorgenstadt,Platz des Bergmanns,Spaziergang,2021-05-16 21:33:33,
@@ -28,6 +31,10 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3236,DE,04567,2021-05-17,18:30,Kitzscher,Busplatz,Spaziergang,2021-05-16 21:45:47,
 3227,DE,01936,2021-05-17,18:30,Königsbrück,Markt,Spaziergang,2021-05-16 21:38:31,
 3210,DE,02826,2021-05-17,18:30,Görlitz,Postplatz,Spaziergang,2021-05-16 21:25:06,
+3243,DE,04523,2021-05-17,19:00,Pegau,Markt,Spaziergang,2021-05-16 21:51:57,
+3242,DE,01458,2021-05-17,19:00,Ottendorf-Okrilla,Rathaus,Spaziergang,2021-05-16 21:51:16,
+3239,DE,08606,2021-05-17,19:00,Oelsnitz/Vogtland,Markt,Spaziergang,2021-05-16 21:48:38,
+3238,DE,09376,2021-05-17,19:00,Oelsnitz/Erzgebirge,Markt,Spaziergang,2021-05-16 21:47:43,
 3235,DE,01683,2021-05-17,19:00,Nossen,Markt,Spaziergang,2021-05-16 21:45:20,
 3234,DE,01844,2021-05-17,19:00,Neukirchen/Erzgebirge,Penny Markt,Spaziergang,2021-05-16 21:44:32,
 3148,DE,90402,2021-05-17,19:00,Nürnberg,Lorenzkirche,Kundgebung,2021-05-16 17:24:21,
