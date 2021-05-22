@@ -60,6 +60,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3281,DE,29221,2021-05-24,18:30,Celle,Stechbahn,Spaziergang,2021-05-18 09:53:30,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 2900,DE,26382,2021-05-24,19:00,Wilhelmshaven,Rathausplatz,Spaziergang,2021-05-01 20:32:13,
 3304,DE,87600,2021-05-24,19:00,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,2021-05-21 05:35:02,
+3317,DE,10875,2021-05-26,13:00,Berlin,Potsdamer Platz / Ebertstr.,Mahnwache,2021-05-22 00:54:24,
 2589,CH,4410,2021-05-26,14:00,Liestal,Bahnhof,Spaziergang,2021-04-19 16:17:34,
 2602,CH,2542,2021-05-26,18:00,Pieterlen,Bahnhof,Spaziergang,2021-04-19 16:26:00,
 2740,DE,63450,2021-05-26,18:00,Hanau,Marktplatz,Mahnwache,2021-04-23 21:20:37,
@@ -99,6 +100,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2996,DE,35037,2021-06-12,12:05,Marburg,Stadthalle / davor,Kundgebung,2021-05-07 14:32:32,
 2792,CH,6004,2021-06-12,14:00,Luzern,Kapellplatz,Kundgebung,2021-04-25 21:22:33,
 2990,DE,52062,2021-06-12,14:00,Aachen,Elisenbrunnen,Festival,2021-05-07 11:08:25,
+3316,DE,52062,2021-06-12,14:00,Aachen,Marktplatz,Event,2021-05-21 23:08:41,https://dlive.tv/edy.skynet
 2288,DE,63225,2021-06-14,18:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-04-06 15:10:43,
 3310,DE,06844,2021-06-14,18:00,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,2021-05-21 16:43:06,
 2844,DE,85586,2021-06-17,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-04-28 09:59:31,
