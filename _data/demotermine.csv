@@ -16,6 +16,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3319,DE,2021-05-26,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander.,
 3340,DE,2021-05-26,18:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2596,CH,2021-05-26,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,
+3352,DE,2021-05-27,17:30:00,72188,Wittershausen,Turn- und Festhalle,Autokorso,,unbekannt,
 2841,DE,2021-05-27,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3086,DE,2021-05-27,18:00:00,42579,Heiligenhaus,Rathausplatz,Spaziergang,,Coronakritik_Velbert Heiligenhaus,
 2744,DE,2021-05-27,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
@@ -41,6 +42,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3343,DE,2021-05-29,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3012,DE,2021-05-29,15:00:00,86152,Augsburg,Jakobertor,Festival,,unbekannt,
 3083,DE,2021-05-29,16:00:00,06217,Merseburg,An der Kliaplatte,Kundgebung,https://www.twitch.tv/svenliebich,AfD,https://afd-lsa.de/veranstaltungen/kundgebung-mit-bjoern-hoecke-am-29-05-2021-in-merseburg/
+3351,DE,2021-05-29,17:00:00,30169,Hannover,Schützenplatz,Autokorso,,Autocorso Hannover,Telegram
 2650,CH,2021-05-30,14:00:00,9450,Altstätten / SG,Reformierte Kirche,Spaziergang,,unknown,
 3338,DE,2021-05-30,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 2644,LI,2021-05-30,18:00:00,9490,Vaduz,Peter-Kaiser-Platz,Spaziergang,,unknown,
