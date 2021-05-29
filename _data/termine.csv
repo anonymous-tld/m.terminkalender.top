@@ -24,6 +24,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3381,DE,75015,2021-05-30,10:45,Bretten,Stadtpark,Meditation,2021-05-27 23:59:22,
 3360,DE,83527,2021-05-30,13:00,Haag / Oberbayern,Marktplatz,Kundgebung,2021-05-26 09:46:00,
 3407,DE,54516,2021-05-30,14:00,Wittlich,Platz an der Lieser,Demonstration,2021-05-29 09:27:51,
+3415,DE,69231,2021-05-30,14:00,Rauenberg,Rathausplatz,Kundgebung,2021-05-29 16:07:59,
 2650,CH,9450,2021-05-30,14:00,Altstätten / SG,Reformierte Kirche,Spaziergang,2021-04-19 17:10:40,
 3338,DE,27472,2021-05-30,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2021-05-24 12:22:57,
 3406,DE,69190,2021-05-30,18:00,Walldorf,Marktplatz,Mahnwache,2021-05-29 08:24:24,
@@ -31,6 +32,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3358,DE,17166,2021-05-31,17:00,Teterow,Marktplatz,Kundgebung,2021-05-26 02:28:42,https://dlive.tv/MV1
 3329,DE,72810,2021-05-31,17:00,Gomaringen,Hechinger Str. / Am Parkhaus,Schilderwald,2021-05-23 12:46:17,
 3408,DE,23843,2021-05-31,17:00,Bad Oldesloe,Bahnhofsvorplatz,Kundgebung,2021-05-29 10:35:43,
+3410,DE,07973,2021-05-31,17:59,Greiz,Markt,Spaziergang,2021-05-29 13:59:44,
 2583,CH,8636,2021-05-31,18:00,Wald / ZH,Hallenbad/Windegg,Spaziergang,2021-04-19 16:12:22,
 2577,CH,6362,2021-05-31,18:00,Stansstad,Hafen,Spaziergang,2021-04-19 16:07:30,
 3349,DE,92421,2021-05-31,18:00,Schwandorf,Unterer Marktplatz,Kundgebung,2021-05-25 09:21:25,
@@ -41,6 +43,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3308,DE,06844,2021-05-31,18:00,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,2021-05-21 16:41:21,
 3385,DE,02625,2021-05-31,18:00,Bautzen,Kornmarkt,Mahnwache,2021-05-28 10:14:15,
 3409,DE,96052,2021-05-31,18:00,Bamberg,Bahnhof / ggü.,Spaziergang,2021-05-29 10:58:47,
+3414,DE,90402,2021-05-31,18:30,Nürnberg,Jakobsplatz,Aufzug,2021-05-29 14:27:30,
 3364,DE,29221,2021-05-31,18:30,Celle,Stechbahn,Spaziergang,2021-05-26 17:33:10,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 3399,DE,08056,2021-05-31,19:00,Zwickau,Hauptmarkt,Kundgebung,2021-05-28 16:41:19,
 3375,DE,17033,2021-05-31,19:00,Neubrandenburg,Marktplatz / Innenstadt,Aufzug,2021-05-27 18:42:41,
@@ -56,9 +59,11 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3367,DE,21029,2021-06-05,13:15,Hamburg-Bergedorf,Frascati-Platz,Autokorso,2021-05-26 22:06:05,
 3350,DE,26789,2021-06-05,13:30,Leer,Denkmalplatz,Demonstration,2021-05-25 11:20:06,
 2791,CH,9050,2021-06-05,13:30,Appenzell,Landesgemeindeplatz,Kundgebung,2021-04-25 21:21:25,
+3416,DE,68723,2021-06-05,14:00,Schwetzingen,Neuer Messplatz / Kolpingstr.,Aufzug,2021-05-29 16:10:13,
 3374,DE,13088,2021-06-05,14:00,Berlin,Buschallee 52,Aufzug,2021-05-27 18:40:51,
 3377,DE,40213,2021-06-05,15:00,Düsseldorf,Johannes-Rau-Platz,Kundgebung,2021-05-27 20:22:44,
 3380,DE,17166,2021-06-07,17:00,Teterow,Marktplatz,Kundgebung,2021-05-27 23:39:52,https://dlive.tv/MV1
+3411,DE,07973,2021-06-07,17:59,Greiz,Markt,Spaziergang,2021-05-29 14:00:14,
 2287,DE,63225,2021-06-07,18:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-04-06 15:10:24,
 3309,DE,06844,2021-06-07,18:00,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,2021-05-21 16:42:11,
 3388,DE,32756,2021-06-09,17:30,Detmold,Marktplatz,Meditation,2021-05-28 12:45:00,
@@ -72,7 +77,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3316,DE,52062,2021-06-12,14:00,Aachen,Marktplatz,Event,2021-05-21 23:08:41,https://dlive.tv/edy.skynet
 3322,DE,52062,2021-06-12,14:00,Aachen,Holzgraben Platz,Event,2021-05-23 00:19:29,https://dlive.tv/front_Wolf2020
 3378,DE,40212,2021-06-12,15:00,Düsseldorf,Corneliusplatz,Spaziergang,2021-05-27 20:23:36,
+3412,DE,07973,2021-06-13,14:00,Greiz,Markt,Schweigemarsch,2021-05-29 14:01:02,
 2288,DE,63225,2021-06-14,18:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-04-06 15:10:43,
+3413,DE,07973,2021-06-14,18:00,Greiz,Markt,Spaziergang,2021-05-29 14:01:31,
 3310,DE,06844,2021-06-14,18:00,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,2021-05-21 16:43:06,
 3389,DE,32756,2021-06-16,17:30,Detmold,Marktplatz,Meditation,2021-05-28 12:46:26,
 3393,DE,32756,2021-06-16,18:00,Detmold,Marktplatz,Spaziergang,2021-05-28 12:50:27,
