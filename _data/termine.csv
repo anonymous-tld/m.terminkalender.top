@@ -1,5 +1,6 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 3358,DE,17166,2021-05-31,17:00,Teterow,Marktplatz,Kundgebung,2021-05-26 02:28:42,https://dlive.tv/MV1
+3438,DE,18055,2021-05-31,17:00,Rostock,Am Strande / Parkplatz,Aufzug,2021-05-31 07:03:47,
 3329,DE,72810,2021-05-31,17:00,Gomaringen,Hechinger Str. / Am Parkhaus,Schilderwald,2021-05-23 12:46:17,
 3408,DE,23843,2021-05-31,17:00,Bad Oldesloe,Bahnhofsvorplatz,Kundgebung,2021-05-29 10:35:43,
 3410,DE,07973,2021-05-31,17:59,Greiz,Markt,Spaziergang,2021-05-29 13:59:44,
@@ -7,6 +8,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2577,CH,6362,2021-05-31,18:00,Stansstad,Hafen,Spaziergang,2021-04-19 16:07:30,
 3349,DE,92421,2021-05-31,18:00,Schwandorf,Unterer Marktplatz,Kundgebung,2021-05-25 09:21:25,
 3361,DE,92421,2021-05-31,18:00,Schwandorf,Unterer Marktplatz,Kundgebung,2021-05-26 15:03:59,
+3439,DE,18055,2021-05-31,18:00,Rostock,Neuer Markt,Mahnwache,2021-05-31 07:04:41,
+3440,DE,18055,2021-05-31,18:00,Rostock,Neuer Markt,Aufzug,2021-05-31 07:05:18,
 3424,DE,14467,2021-05-31,18:00,Potsdam,Platz zwischen Filmmuseum und,Kundgebung,2021-05-29 20:55:45,
 3398,DE,49074,2021-05-31,18:00,Osnabrück,Rathaus,Demonstration,2021-05-28 13:17:18,
 2286,DE,63225,2021-05-31,18:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-04-06 15:10:07,
