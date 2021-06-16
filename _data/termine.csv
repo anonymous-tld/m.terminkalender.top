@@ -4,6 +4,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3589,DE,90402,2021-06-16,18:00,Nürnberg,Lorenzkirche,Kundgebung,2021-06-14 15:25:30,
 3578,DE,80539,2021-06-16,18:00,München,Wittelsbacher Platz,Aufzug,2021-06-14 07:16:11,
 3393,DE,32756,2021-06-16,18:00,Detmold,Marktplatz,Spaziergang,2021-05-28 12:50:27,
+3601,DE,10115,2021-06-16,18:00,Berlin,Bundeskanzleramt,Kundgebung,2021-06-16 00:31:39,https://www.twitch.tv/MariaGoetz
+3605,DE,10115,2021-06-16,18:00,Berlin,Bundeskanzleramt,Kundgebung,2021-06-16 14:07:19,https://youtube.com/user/cheeta030
 3584,DE,83022,2021-06-16,19:00,Rosenheim,Schönfeldstr. 19 / Ichikawa-Platz,Mahnwache,2021-06-14 13:49:44,
 3579,DE,72622,2021-06-17,17:30,Nürtingen,Ochsenbrunnen,Kundgebung,2021-06-14 10:09:58,
 2844,DE,85586,2021-06-17,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-04-28 09:59:31,
@@ -12,6 +14,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3599,DE,13089,2021-06-18,18:00,Berlin,Am Feuchten Winkel 15 / P+R,Autokorso,2021-06-15 17:54:19,
 3596,DE,72336,2021-06-18,18:00,Balingen,Marktplatz,Kundgebung,2021-06-15 15:48:31,
 3591,DE,90402,2021-06-18,19:00,Nürnberg,Jakobsplatz,Kundgebung,2021-06-14 15:27:31,
+3600,DE,78628,2021-06-19,10:00,Rottweil,Landratsamt,Menschenkette,2021-06-15 23:39:38,
 3558,DE,10117,2021-06-19,10:00,Berlin,Regierungsviertel umzingeln,Zusammenkunft,2021-06-11 11:30:28,https://t.me/Berlin19Juni2021
 3541,DE,18439,2021-06-19,11:00,Stralsund,Mahnkesche Wiese,Autokorso,2021-06-10 01:15:03,
 2823,DE,34117,2021-06-19,12:00,Kassel,Friedrichsplatz,Demonstration,2021-04-27 03:33:34,
@@ -20,6 +23,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3542,DE,18439,2021-06-19,13:00,Stralsund,Hansawiese,Kundgebung,2021-06-10 01:15:49,
 3543,DE,18439,2021-06-19,13:30,Stralsund,Langenstr. / Tribseer Str.,Aufzug,2021-06-10 01:17:12,
 3587,DE,68723,2021-06-19,14:00,Schwetzingen,Bahnhofsanlage,Kundgebung,2021-06-14 15:23:56,
+3604,DE,56068,2021-06-19,14:00,Koblenz,Jesuitenplatz,Mahnwache,2021-06-16 13:11:52,
+3602,DE,30169,2021-06-19,14:30,Hannover,Ritter-Brüning-Straße / Parking,Autokorso,2021-06-16 09:42:17,
 3592,DE,90402,2021-06-19,15:00,Nürnberg,Jakobsplatz,Kundgebung,2021-06-14 15:28:23,
 3595,DE,48143,2021-06-19,15:00,Münster,Aasee / Kugeln,Kundgebung,2021-06-15 11:54:30,
 3566,DE,06108,2021-06-19,15:00,Halle,Markt / Ostseite,Kundgebung,2021-06-12 10:00:19,https://vk.com/halle_leaks
@@ -28,6 +33,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3544,DE,18439,2021-06-19,16:00,Stralsund,Hansawiese,Kundgebung,2021-06-10 01:18:12,
 3583,DE,83043,2021-06-19,16:00,Bad Aibling,Ausstellungshalle Viehhalle,Kundgebung,2021-06-14 12:13:01,
 3574,DE,21514,2021-06-20,11:00,Siebeneichen,Dorfplatz,Musik,2021-06-13 12:59:10,
+3603,DE,73655,2021-06-20,11:00,Plüderhausen,Marktplatz,Musik,2021-06-16 11:57:37,
 3487,DE,46485,2021-06-20,13:00,Wesel,Niederrheinhalle,Demonstration,2021-06-04 17:52:45,
 3571,DE,46485,2021-06-20,13:00,Wesel,Niederrheinhalle,Demonstration,2021-06-13 12:07:37,
 3559,AT,5020,2021-06-20,14:00,Salzburg,Kapitelplatz,Demonstration,2021-06-11 11:34:38,
