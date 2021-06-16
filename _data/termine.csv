@@ -18,6 +18,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3600,DE,78628,2021-06-19,10:00,Rottweil,Landratsamt,Menschenkette,2021-06-15 23:39:38,
 3558,DE,10117,2021-06-19,10:00,Berlin,Regierungsviertel umzingeln,Zusammenkunft,2021-06-11 11:30:28,https://t.me/Berlin19Juni2021
 3541,DE,18439,2021-06-19,11:00,Stralsund,Mahnkesche Wiese,Autokorso,2021-06-10 01:15:03,
+3612,DE,29223,2021-06-19,11:00,Celle,Neumarkt,Spaziergang,2021-06-16 22:57:42,
+3613,DE,29223,2021-06-19,11:45,Celle,Schloß,Festival,2021-06-16 22:59:06,
 2823,DE,34117,2021-06-19,12:00,Kassel,Friedrichsplatz,Demonstration,2021-04-27 03:33:34,
 3493,DE,63897,2021-06-19,12:30,Miltenberg,Mainzer Str. / Alter Bahnhof,Autokorso,2021-06-05 16:02:25,
 3485,DE,76530,2021-06-19,12:30,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,2021-06-04 10:48:21,
@@ -64,6 +66,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3395,DE,32756,2021-06-30,18:00,Detmold,Marktplatz,Spaziergang,2021-05-28 12:52:34,
 3586,DE,83022,2021-06-30,19:00,Rosenheim,Schönfeldstr. 19 / Ichikawa-Platz,Mahnwache,2021-06-14 13:53:08,
 3569,DE,63571,2021-07-03,03:00,Gelnhausen,Müllerwiese,Kundgebung,2021-06-12 23:00:53,
+3611,DE,10117,2021-07-03,12:00,Berlin,Platz des 18. März,Spaziergang,2021-06-16 22:35:37,
 3068,DE,44787,2021-07-03,15:00,Bochum,Kirmesplatz,Demonstration,2021-05-11 02:19:47,
 3580,DE,44791,2021-07-03,15:00,Bochum,Kirmesplatz,Kundgebung,2021-06-14 10:30:10,
 3419,DE,63225,2021-07-05,18:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-05-29 18:10:55,
