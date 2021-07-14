@@ -5,6 +5,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3857,DE,90402,2021-07-14,18:00,Nürnberg,Lorenzkirche,Kundgebung,2021-07-12 14:32:19,
 3852,DE,80333,2021-07-14,18:00,München,Wittelsbacher Platz,Aufzug,2021-07-12 11:03:34,
 3855,DE,32756,2021-07-14,18:00,Detmold,Marktplatz,Spaziergang,2021-07-12 11:58:11,
+3866,DE,10115,2021-07-14,18:00,Berlin,Bundeskanzleramt,Kundgebung,2021-07-13 21:44:38,https://youtube.com/user/cheeta030
 3792,DE,85586,2021-07-15,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:19:31,
 3828,DE,69177,2021-07-15,18:00,Heidelberg,Karlsplatz,Kundgebung,2021-07-09 09:43:22,https://www.facebook.com/events/503946164244379/
 3838,DE,80539,2021-07-15,18:30,München,Odeonsplatz,Kundgebung,2021-07-11 08:28:07,
@@ -37,6 +38,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3650,DE,26382,2021-07-26,19:00,Wilhelmshaven,Rathaus,Spaziergang,2021-06-21 13:00:58,
 3794,DE,85586,2021-07-29,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:19:44,
 3701,DE,63457,2021-07-29,18:30,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,2021-06-25 17:31:27,
+3863,DE,10117,2021-08-01,11:30,Berlin,Unter den Linden / Friedrichstr.,Spaziergang,2021-07-13 11:03:48,
 3826,DE,10117,2021-08-01,11:30,Berlin,Unter den Linden / Friedrichstr.,Spaziergang,2021-07-08 23:40:29,
 3675,DE,63225,2021-08-02,18:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-06-24 19:23:03,
 3795,DE,85586,2021-08-05,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:20:14,
