@@ -5,6 +5,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 2942,DE,17207,2021-07-17,12:00,Röbel Müritz,ZOB,Spaziergang,2021-05-03 21:37:21,
 3882,DE,64385,2021-07-17,14:00,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,2021-07-15 21:36:55,
 3871,DE,56068,2021-07-17,14:00,Koblenz,Jesuitenplatz,Mahnwache,2021-07-14 22:48:36,
+3893,DE,56068,2021-07-17,14:00,Koblenz,Jesuitenplatz,Mahnwache,2021-07-17 19:08:51,
 3885,DE,36037,2021-07-17,14:00,Fulda,Universitätsplatz,Kundgebung,2021-07-16 13:48:07,
 3844,DE,28195,2021-07-17,14:00,Bremen,Bahnhofsvorplatz,Aufzug,2021-07-11 19:44:33,
 3868,DE,30449,2021-07-17,14:30,Hannover,Ritter-Brüning-Str. / Parking,Autokorso,2021-07-14 09:40:12,
@@ -22,10 +23,12 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3848,DE,27472,2021-07-18,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2021-07-12 10:57:57,
 3876,DE,02421,2021-07-19,18:00,Schwandorf / Haslbach,Kirchawirt,Zusammenkunft,2021-07-15 15:24:40,
 3421,DE,63225,2021-07-19,18:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-05-29 18:11:36,
+3892,DE,02633,2021-07-19,18:00,Gaußig,Kornmarkt,Mahnwache,2021-07-17 19:06:37,
 3862,DE,29221,2021-07-19,18:30,Celle,Stechbahn / Schloß,Spaziergang,2021-07-13 00:24:52,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 3864,DE,46236,2021-07-19,18:30,Bottrop,Kirchplatz 1,Spaziergang,2021-07-13 13:23:54,
 3872,DE,08056,2021-07-19,19:00,Zwickau,Domhof,Kundgebung,2021-07-15 10:01:33,
 3649,DE,26382,2021-07-19,19:00,Wilhelmshaven,Rathaus,Spaziergang,2021-06-21 12:59:40,
+3891,DE,99974,2021-07-19,19:00,Mühlhausen / Thüringen,Untermarkt,Spaziergang,2021-07-17 18:38:18,
 3881,DE,87600,2021-07-19,19:00,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,2021-07-15 21:04:34,
 3873,DE,08056,2021-07-19,20:00,Zwickau,Domhof,Vortrag,2021-07-15 10:03:39,
 3786,DE,06108,2021-07-21,12:18,Halle,An der Schleuse / Würfelwiese,Kundgebung,2021-07-07 12:34:22,
@@ -87,3 +90,4 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 1963,DE,10178,2021-12-24,12:00,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,2021-03-24 18:35:35,https://anonymous.support/live
 3816,DE,85586,2021-12-30,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:22:14,
 1617,DE,10117,2021-12-31,23:59,Berlin,Brandenburger Tor,Event,2021-03-11 09:41:03,
+3890,DE,33098,2022-07-19,18:00,Paderborn,Rathausplatz,Kundgebung,2021-07-17 08:56:52,
