@@ -1,10 +1,9 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 3939,IT,00000,2021-07-23,17:30,Pordenone (Friuli),piazza XX SETTEMBRE,Kundgebung,2021-07-23 17:12:41,
 3919,DE,72622,2021-07-23,18:00,Nürtingen,Ochsenbrunnen-Schillerplatz,Kundgebung,2021-07-23 08:58:18,
-3917,DE,79100,2021-07-24,14:00,Freiburg,Kalsplatz,Kundgebung,2021-07-23 04:11:43,
 3918,DE,30449,2021-07-24,14:30,Hannover,Ritter-Brüning-Straße,Autokorso,2021-07-23 08:34:17,
 3938,IT,00000,2021-07-24,15:00,OSTIA,VIALE MEDITERRANEO 85,Kundgebung,2021-07-23 17:11:02,
-3920,DE,87600,2021-07-24,15:30,Kaufbeuren,Obstmarkt (Fußgängerzone),Meditation,2021-07-23 10:26:30,
+3920,DE,87600,2021-07-24,15:30,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,2021-07-23 10:26:30,
 3937,IT,00000,2021-07-24,17:30,VARESE,Piazza Monte Grappa,Kundgebung,2021-07-23 17:08:40,
 3925,IT,00000,2021-07-24,17:30,TORINO,PIAZZA CASTELLO,Kundgebung,2021-07-23 13:42:18,
 3922,IT,00000,2021-07-24,17:30,Roma,PIAZZA DEL POPOLO,Kundgebung,2021-07-23 13:37:23,
@@ -25,6 +24,6 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3928,IT,00000,2021-07-24,17:30,BOLOGNA,Piazza Maggiore,Kundgebung,2021-07-23 13:48:10,
 3934,IT,00000,2021-07-24,17:30,BIELLA,Piazza Martiri della Libertà,Kundgebung,2021-07-23 17:03:35,
 3931,IT,00000,2021-07-24,17:30,BERGAMO,Davanti la Procura,Kundgebung,2021-07-23 13:54:08,
-3916,DE,99974,2021-07-26,19:00,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,2021-07-22 22:40:39,
+3916,DE,99974,2021-07-26,19:00,Mühlhausen / Thüringen,Untermarkt,Spaziergang,2021-07-22 22:40:39,
 3921,DE,87600,2021-07-26,19:00,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,2021-07-23 10:26:55,
 3944,DE,68159,2021-08-12,17:30,Mannheim,Marktplatz, G1,Kundgebung,2021-07-23 17:34:16,https://youtu.be/Wyqc5BhfQwE
