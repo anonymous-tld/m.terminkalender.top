@@ -13,11 +13,14 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4201,DE,50678,2021-09-10,19:00,Köln,Heumarkt,Demonstration,2021-09-02 09:33:58,
 4215,DE,50667,2021-09-10,19:00,Köln,Heumarkt,Demonstration,2021-09-06 03:20:25,
 4230,DE,04668,2021-09-10,19:00,Grimma,Markt,Spaziergang,2021-09-07 15:45:28,
+4237,DE,29221,2021-09-11,11:00,Celle,Neumarkt,Aufzug,2021-09-08 16:50:28,
 4104,DE,11011,2021-09-11,11:00,Berlin,Platz der Republik,Kundgebung,2021-08-20 23:40:20,https://www.twitch.tv/echtzeiteubertragung
+4238,DE,29221,2021-09-11,11:45,Celle,Großer Plan,Kundgebung,2021-09-08 16:51:26,
 4210,AT,1100,2021-09-11,13:00,Wien,gesamte Innenstadt,Versammlung,2021-09-04 08:23:01,
 4134,DE,76530,2021-09-11,13:00,Baden-Baden,Sophienstr. 1B,Kundgebung,2021-08-24 16:13:10,
 4219,DE,70173,2021-09-11,14:00,Stuttgart,Am Landtag,Aufzug,2021-09-06 17:48:22,
 4227,DE,30449,2021-09-11,14:30,Hannover,Ritter-Brüning-Straße / Parking,Autokorso,2021-09-07 11:09:48,
+4239,DE,38518,2021-09-11,15:00,Gifhorn,Marktplatz,Kundgebung,2021-09-08 16:55:43,
 4189,BE,1000,2021-09-11,15:00,Brüssel,Jubelpark,Demonstration,2021-08-31 22:23:48,
 4216,DE,45128,2021-09-11,15:30,Essen,Willy-Brandt-Platz,Kundgebung,2021-09-06 07:45:04,
 4020,DE,80331,2021-09-11,17:00,München,Marienplatz,Kundgebung,2021-08-07 08:21:05,
@@ -29,6 +32,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4235,DE,92421,2021-09-13,18:00,Schwandorf / Haselbach,Kirchawirt,Zusammenkunft,2021-09-08 08:16:47,
 3681,DE,63225,2021-09-13,18:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-06-24 19:24:55,
 4228,DE,67098,2021-09-13,18:00,Bad Dürkheim,Vor dem Riesenfass,Kundgebung,2021-09-07 12:26:29,
+4240,DE,29221,2021-09-13,18:30,Celle,Stechbahn / Schloß,Spaziergang,2021-09-08 16:57:19,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 4234,DE,46236,2021-09-13,18:30,Bottrop,Kirchplatz 1,Spaziergang,2021-09-07 23:33:05,
 4167,DE,26382,2021-09-13,19:00,Wilhelmshaven,Rathaus,Spaziergang,2021-08-30 07:31:43,
 4197,DE,70178,2021-09-14,16:30,Stuttgart,Marienplatz,Gegenprotest,2021-09-01 22:05:13,
