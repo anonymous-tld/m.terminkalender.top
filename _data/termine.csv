@@ -8,6 +8,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4267,DE,90402,2021-09-17,19:00,Nürnberg,Lorenzkirche,Kundgebung,2021-09-12 13:58:47,
 4294,CH,3296,2021-09-17,19:00,Arch,Aarebrücke / Archer Seite,Spaziergang,2021-09-15 21:25:26,
 4299,DE,42651,2021-09-18,10:00,Solingen,Walder Marktplatz,Autokorso,2021-09-16 06:00:15,
+4307,DE,29221,2021-09-18,11:00,Celle,Neumarkt,Aufzug,2021-09-16 18:15:55,
+4308,DE,29221,2021-09-18,11:45,Celle,Großer Plan,Kundgebung,2021-09-16 18:16:55,
 4282,CH,8400,2021-09-18,13:00,Winterthur,Neumarkt,Spaziergang,2021-09-13 23:23:31,
 4135,DE,76530,2021-09-18,13:00,Baden-Baden,Sophienstr. 1B,Kundgebung,2021-08-24 16:13:58,
 4298,FR,67000,2021-09-18,13:30,Straßburg,Place Kleber,Aufzug,2021-09-16 04:07:40,
@@ -18,6 +20,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4243,DE,40545,2021-09-18,15:00,Düsseldorf,Kaiser-Wilhelm-Ring / Festwiese,Aufzug,2021-09-09 09:03:11,
 4300,DE,89539,2021-09-18,15:30,München,Maxmonument,Aufzug,2021-09-16 09:19:17,
 4290,DE,87600,2021-09-18,15:30,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,2021-09-15 15:46:48,
+4309,DE,45127,2021-09-18,15:30,Essen,Willy-Brandt-Platz,Kundgebung,2021-09-16 19:58:16,
 4297,DE,79098,2021-09-18,16:00,Freiburg,Alter Messplatz,Kundgebung,2021-09-16 04:05:51,
 4021,DE,80802,2021-09-18,17:00,München,Münchner Freiheit,Kundgebung,2021-08-07 08:23:39,
 4281,DE,80339,2021-09-18,17:00,München,Theresienwiese,Kundgebung,2021-09-13 20:57:55,
@@ -35,6 +38,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3682,DE,63225,2021-09-20,18:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-06-24 19:25:13,
 4229,DE,67098,2021-09-20,18:00,Bad Dürkheim,Vor dem Riesenfass,Kundgebung,2021-09-07 12:28:24,
 4302,DE,67098,2021-09-20,18:00,Bad Dürkheim,Vor dem Riesenfass,Versammlung,2021-09-16 10:29:23,DLIVE
+4306,DE,29221,2021-09-20,18:30,Celle,Stechbahn / Schloß,Spaziergang,2021-09-16 18:14:29,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 4289,DE,46236,2021-09-20,18:30,Bottrop,Kirchplatz 1,Spaziergang,2021-09-15 14:21:29,
 4262,DE,99510,2021-09-20,18:30,Apolda,Rathaus / Markt,Spaziergang,2021-09-12 10:20:56,
 4287,DE,02763,2021-09-20,18:45,Zittau,Markt,Kundgebung,2021-09-15 13:01:05,
