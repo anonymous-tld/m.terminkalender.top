@@ -1,12 +1,12 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 21309,DE,70173,2021-10-03,11:00,Stuttgart,Sozialministerium,Kundgebung,2021-09-28 14:00:57,
-21290,DE,11011,2021-10-03,11:00,Berlin,Platz der Republik,Kundgebung,2021-09-26 21:41:29,https://www.twitch.tv/echtzeiteubertragung
 21312,DE,14057,2021-10-03,11:00,Berlin,Masurenallee / Theodor-Heuss-Platz,Autokorso,2021-09-29 01:06:49,
+21290,DE,11011,2021-10-03,11:00,Berlin,Platz der Republik,Kundgebung,2021-09-26 21:41:29,https://www.twitch.tv/echtzeiteubertragung
 21331,DE,55116,2021-10-03,13:30,Mainz,Malakoff-Terasse,Schilderwald,2021-10-01 16:02:35,
 21343,DE,96050,2021-10-03,14:30,Bamberg,Fuchsparkstadion,Autokorso,2021-10-02 10:04:40,
 21329,DE,64720,2021-10-03,15:00,Michelstadt / Odenwald,Bienenmarkt-Platz,Aufzug,2021-10-01 14:03:49,
-21291,DE,89150,2021-10-03,15:00,Laichingen,Marktplatz,Aufzug,2021-09-26 21:42:09,
 21302,DE,89150,2021-10-03,15:00,Laichingen,Marktplatz,Aufzug,2021-09-27 22:20:33,
+21291,DE,89150,2021-10-03,15:00,Laichingen,Marktplatz,Aufzug,2021-09-26 21:42:09,
 21342,DE,27472,2021-10-03,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2021-10-02 10:00:44,
 21315,DE,86150,2021-10-03,16:00,Augsburg,Wittelsbacher Park,Kundgebung,2021-09-29 09:42:21,
 2271,DE,06232,2021-10-04,14:30,Speyer,Domplatz,Kundgebung,2021-04-05 21:39:19,https://dlive.tv/Live-Reports-DUEW
@@ -16,6 +16,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4183,DE,02625,2021-10-04,18:00,Bautzen,Kornmarkt,Schweigemarsch,2021-08-31 10:43:08,https://gesichtzeigen.digital/brandneu/vendijo-ist-offiziell-online-willkommen-deutschland-oesterreich-schweiz/
 21318,DE,29221,2021-10-04,18:30,Celle,Stechbahn / SchloÃŸ,Spaziergang,2021-09-29 10:41:24,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 21300,DE,46236,2021-10-04,18:30,Bottrop,Kirchplatz 1,Spaziergang,2021-09-27 21:19:58,
+21346,DE,99510,2021-10-04,18:30,Apolda,Markt / Rathaus,Spaziergang,2021-10-03 08:24:44,
 21275,DE,02763,2021-10-04,18:45,Zittau,Markt,Kundgebung,2021-09-23 17:00:12,
 21330,DE,17033,2021-10-04,19:00,Neubrandenburg,Marktplatz / Innenstadt,Kundgebung,2021-10-01 15:15:10,
 21333,DE,87600,2021-10-04,19:00,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,2021-10-01 19:47:42,
@@ -29,14 +30,17 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 4276,DE,33602,2021-10-11,17:30,Bielefeld,Am alten Rathaus,Mahnwache,2021-09-13 10:22:57,
 21335,DE,63450,2021-10-11,18:00,Hanau,Marktplatz,Mahnwache,2021-10-01 21:29:00,
 21310,DE,67098,2021-10-11,18:00,Bad DÃ¼rkheim,Wurstmarkt / Parkplatz,Kundgebung,2021-09-28 18:20:30,https://dlive.tv/Live-Reports-DUEW?ref=duew2020
+21347,DE,99510,2021-10-11,18:30,Apolda,Markt / Rathaus,Spaziergang,2021-10-03 08:26:24,
 21339,DE,63457,2021-10-14,17:30,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,2021-10-01 21:39:42,
 3805,DE,85586,2021-10-14,18:00,Poing,Friedensstr. 9 / UnterfÃ¼hrung,Kundgebung,2021-07-07 19:21:19,
 21299,DE,69177,2021-10-17,14:00,Heidelberg,UniversitÃ¤tsplatz,Kundgebung,2021-09-27 13:28:15,
 4277,DE,33602,2021-10-18,17:30,Bielefeld,Am alten Rathaus,Mahnwache,2021-09-13 10:23:40,
+21348,DE,99510,2021-10-18,18:30,Apolda,Markt / Rathaus,Spaziergang,2021-10-03 08:27:28,
 21340,DE,63457,2021-10-21,17:30,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,2021-10-01 21:39:52,
 3806,DE,85586,2021-10-21,18:00,Poing,Friedensstr. 9 / UnterfÃ¼hrung,Kundgebung,2021-07-07 19:21:24,
 4278,DE,33602,2021-10-25,17:30,Bielefeld,Am alten Rathaus,Mahnwache,2021-09-13 10:24:18,
 21337,DE,63450,2021-10-25,18:00,Hanau,Marktplatz,Mahnwache,2021-10-01 21:32:05,
+21349,DE,99510,2021-10-25,18:30,Apolda,Markt / Rathaus,Spaziergang,2021-10-03 08:28:34,
 21341,DE,63457,2021-10-28,17:30,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,2021-10-01 21:40:01,
 3807,DE,85586,2021-10-28,18:00,Poing,Friedensstr. 9 / UnterfÃ¼hrung,Kundgebung,2021-07-07 19:21:28,
 3808,DE,85586,2021-11-04,18:00,Poing,Friedensstr. 9 / UnterfÃ¼hrung,Kundgebung,2021-07-07 19:21:33,
