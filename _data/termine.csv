@@ -14,6 +14,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21410,DE,99974,2021-10-11,19:00,Mühlhausen / Thüringen,Untermarkt,Spaziergang,2021-10-08 11:18:38,
 21406,DE,87600,2021-10-11,19:00,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,2021-10-07 23:35:42,
 21404,DE,20354,2021-10-12,09:00,Hamburg,ABC-Straße 19,Kundgebung,2021-10-07 22:28:28,
+21416,DE,70184,2021-10-13,16:30,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,2021-10-10 23:09:24,
 21408,DE,32756,2021-10-13,18:00,Detmold,Marktplatz,Spaziergang,2021-10-08 11:15:41,
 21374,DE,86343,2021-10-13,19:00,Königsbrunn,Marktplatz / vor dem Rathaus,Kundgebung,2021-10-06 10:53:04,
 21339,DE,63457,2021-10-14,17:30,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,2021-10-01 21:39:42,
@@ -25,6 +26,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21390,DE,29221,2021-10-16,11:45,Celle,Großer Plan,Versammlung,2021-10-06 18:35:46,
 21394,DE,76530,2021-10-16,13:00,Baden-Baden,Reinhard-Fieser-Brücke,Kundgebung,2021-10-06 20:50:07,
 21299,DE,69177,2021-10-17,14:00,Heidelberg,Universitätsplatz,Kundgebung,2021-09-27 13:28:15,
+21417,DE,27472,2021-10-17,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2021-10-10 23:33:47,
 4277,DE,33602,2021-10-18,17:30,Bielefeld,Am alten Rathaus,Mahnwache,2021-09-13 10:23:40,
 21364,DE,06844,2021-10-18,18:00,Dessau-Roßlau,Friedensglocke,Mahnwache,2021-10-04 14:51:52,
 21382,DE,29221,2021-10-18,18:30,Celle,Stechbahn / Schloß,Spaziergang,2021-10-06 18:29:51,https://www.celle-tourismus.de/planen-buchen/webcam-celle
@@ -37,6 +39,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21389,DE,29221,2021-10-23,11:45,Celle,Großer Plan,Versammlung,2021-10-06 18:35:03,
 21395,DE,76530,2021-10-23,13:00,Baden-Baden,Reinhard-Fieser-Brücke,Kundgebung,2021-10-06 20:51:18,
 21380,DE,86150,2021-10-23,17:00,Augsburg,Ulrichsplatz,Aufzug,2021-10-06 10:57:12,
+21418,DE,27472,2021-10-24,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2021-10-10 23:35:00,
 4278,DE,33602,2021-10-25,17:30,Bielefeld,Am alten Rathaus,Mahnwache,2021-09-13 10:24:18,
 21337,DE,63450,2021-10-25,18:00,Hanau,Marktplatz,Mahnwache,2021-10-01 21:32:05,
 21383,DE,29221,2021-10-25,18:30,Celle,Stechbahn / Schloß,Spaziergang,2021-10-06 18:30:05,https://www.celle-tourismus.de/planen-buchen/webcam-celle
@@ -47,6 +50,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21387,DE,29221,2021-10-30,11:00,Celle,Neumarkt,Aufzug,2021-10-06 18:33:22,
 21388,DE,29221,2021-10-30,11:45,Celle,Großer Plan,Versammlung,2021-10-06 18:34:32,
 21396,DE,76530,2021-10-30,13:00,Baden-Baden,Reinhard-Fieser-Brücke,Kundgebung,2021-10-06 20:52:36,
+21419,DE,27472,2021-10-31,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2021-10-10 23:35:55,
 3808,DE,85586,2021-11-04,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:21:33,
 1960,DE,10117,2021-11-05,18:00,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,2021-03-24 18:33:13,https://anonymous.support/live
 3809,DE,85586,2021-11-11,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:21:38,
