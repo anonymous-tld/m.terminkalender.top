@@ -1,8 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-21339,DE,63457,2021-10-14,17:30,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,2021-10-01 21:39:42,
-3805,DE,85586,2021-10-14,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:21:19,
-21429,DE,90402,2021-10-14,18:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2021-10-11 12:53:21,
-21435,DE,42579,2021-10-14,18:00,Heiligenhaus,Rathausplatz,Spaziergang,2021-10-11 21:46:35,
 21372,DE,16775,2021-10-15,16:00,Gransee,Berliner Str. 21 / Aldi Parkplatz,Schilderwald,2021-10-05 22:11:52,
 21434,DE,70190,2021-10-15,17:00,Stuttgart,Neckarstraße 230 / SWR Funkhaus,Kundgebung,2021-10-11 20:47:52,
 21379,DE,86150,2021-10-15,18:00,Augsburg,Rathausplatz,Kundgebung,2021-10-06 10:56:33,
@@ -28,6 +24,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21417,DE,27472,2021-10-17,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2021-10-10 23:33:47,
 4277,DE,33602,2021-10-18,17:30,Bielefeld,Am alten Rathaus,Mahnwache,2021-09-13 10:23:40,
 21364,DE,06844,2021-10-18,18:00,Dessau-Roßlau,Friedensglocke,Mahnwache,2021-10-04 14:51:52,
+21454,DE,67098,2021-10-18,18:00,Bad Dürkheim,Wurstmarkt / Parkplatz,Kundgebung,2021-10-14 22:55:17,https://dlive.tv/Live-Reports-DUEW?ref=duew2020
 21382,DE,29221,2021-10-18,18:30,Celle,Stechbahn / Schloß,Spaziergang,2021-10-06 18:29:51,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 21440,DE,46236,2021-10-18,18:30,Bottrop,Kirchplatz 1,Kundgebung,2021-10-12 17:33:14,
 21348,DE,99510,2021-10-18,18:30,Apolda,Markt / Rathaus,Spaziergang,2021-10-03 08:27:28,
@@ -54,12 +51,14 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21376,DE,86343,2021-10-27,19:00,Königsbrunn,Marktplatz / vor dem Rathaus,Kundgebung,2021-10-06 10:54:27,
 21341,DE,63457,2021-10-28,17:30,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,2021-10-01 21:40:01,
 3807,DE,85586,2021-10-28,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:21:28,
+21456,DE,24558,2021-10-30,11:00,Henstedt-Ulzburg,Am Bahnbogen 2 / bei KFC,Schilderwald,2021-10-14 23:34:15,
 21387,DE,29221,2021-10-30,11:00,Celle,Neumarkt,Aufzug,2021-10-06 18:33:22,
 21388,DE,29221,2021-10-30,11:45,Celle,Großer Plan,Versammlung,2021-10-06 18:34:32,
 21396,DE,76530,2021-10-30,13:00,Baden-Baden,Reinhard-Fieser-Brücke,Kundgebung,2021-10-06 20:52:36,
 21419,DE,27472,2021-10-31,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2021-10-10 23:35:55,
 3808,DE,85586,2021-11-04,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:21:33,
 1960,DE,10117,2021-11-05,18:00,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,2021-03-24 18:33:13,https://anonymous.support/live
+21453,DE,04109,2021-11-06,15:00,Leipzig,Augustusplatz,Aufzug,2021-10-14 20:46:56,
 3809,DE,85586,2021-11-11,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:21:38,
 3810,DE,85586,2021-11-18,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:21:43,
 3811,DE,85586,2021-11-25,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:21:48,
