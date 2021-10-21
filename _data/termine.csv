@@ -21,6 +21,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21426,DE,20099,2021-10-23,16:00,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,2021-10-11 11:55:15,
 21458,DE,38518,2021-10-23,16:00,Gifhorn,Marktplatz 1,Aufzug,2021-10-15 12:36:20,
 21380,DE,86150,2021-10-23,17:00,Augsburg,Ulrichsplatz,Aufzug,2021-10-06 10:57:12,
+21493,DE,72764,2021-10-23,18:00,Reutlingen,Marktplatz,Kundgebung,2021-10-21 08:33:36,
 21472,DE,90402,2021-10-23,18:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2021-10-17 13:17:25,
 21466,DE,38518,2021-10-23,18:00,Gifhorn,Braunschweigerstraße,Gebet,2021-10-16 22:59:53,
 21467,DE,38518,2021-10-23,19:00,Gifhorn,Braunschweigerstraße,Schweigemarsch,2021-10-16 23:04:20,
@@ -29,6 +30,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21418,DE,27472,2021-10-24,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2021-10-10 23:35:00,
 4278,DE,33602,2021-10-25,17:30,Bielefeld,Am alten Rathaus,Mahnwache,2021-09-13 10:24:18,
 21337,DE,63450,2021-10-25,18:00,Hanau,Marktplatz,Mahnwache,2021-10-01 21:32:05,
+21495,DE,06844,2021-10-25,18:00,Dessau-Roßlau,Friedensglocke,Kundgebung,2021-10-21 10:44:29,
 21383,DE,29221,2021-10-25,18:30,Celle,Stechbahn / Schloß,Spaziergang,2021-10-06 18:30:05,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 21485,DE,46236,2021-10-25,18:30,Bottrop,Kirchplatz 1,Spaziergang,2021-10-20 12:47:06,
 21349,DE,99510,2021-10-25,18:30,Apolda,Markt / Rathaus,Spaziergang,2021-10-03 08:28:34,
@@ -42,6 +44,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21387,DE,29221,2021-10-30,11:00,Celle,Neumarkt,Aufzug,2021-10-06 18:33:22,
 21388,DE,29221,2021-10-30,11:45,Celle,Großer Plan,Versammlung,2021-10-06 18:34:32,
 21396,DE,76530,2021-10-30,13:00,Baden-Baden,Reinhard-Fieser-Brücke,Kundgebung,2021-10-06 20:52:36,
+21494,DE,06846,2021-10-30,16:00,Dessau-Roßlau,Alte Landebahn,Autokorso,2021-10-21 10:40:32,
 21419,DE,27472,2021-10-31,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2021-10-10 23:35:55,
 3808,DE,85586,2021-11-04,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:21:33,
 1960,DE,10117,2021-11-05,18:00,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,2021-03-24 18:33:13,https://anonymous.support/live
