@@ -1,6 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-21588,DE,90402,2021-11-03,16:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2021-11-02 06:42:01,
-21585,DE,80333,2021-11-03,18:00,München,Wittelsbacher Platz,Aufzug,2021-11-01 19:36:51,
 21589,DE,90402,2021-11-04,17:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2021-11-02 06:43:00,
 21593,DE,95326,2021-11-05,16:00,Kulmbach,Marktplatz,Kundgebung,2021-11-02 15:39:36,
 21590,DE,90402,2021-11-05,19:45,Nürnberg,Hallplatz / Königstraße,Kundgebung,2021-11-02 06:43:57,
@@ -24,7 +22,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21583,DE,20099,2021-11-20,15:00,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,2021-11-01 13:20:08,
 21607,DE,29221,2021-11-22,18:30,Celle,Stechbahn vor Kirche,Spaziergang,2021-11-03 20:53:23,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 21612,DE,29221,2021-11-27,11:00,Celle,Neumarkt,Aufzug,2021-11-03 20:58:19,
-21603,DE,46049,2021-11-27,14:30,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,2021-11-03 18:40:48,
 21599,DE,46049,2021-11-27,14:30,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,2021-11-02 21:44:42,
+21603,DE,46049,2021-11-27,14:30,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,2021-11-03 18:40:48,
 21584,DE,20099,2021-11-27,15:00,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,2021-11-01 13:20:41,
 21608,DE,29221,2021-11-29,18:30,Celle,Stechbahn vor Kirche,Spaziergang,2021-11-03 20:53:39,https://www.celle-tourismus.de/planen-buchen/webcam-celle
