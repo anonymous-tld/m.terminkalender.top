@@ -3,6 +3,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21626,DE,79108,2021-11-09,17:30,Freiburg im Breisgau,Suwonalle 1,Autokorso,2021-11-06 18:41:35,
 21627,DE,70184,2021-11-10,16:30,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,2021-11-07 10:03:02,
 21640,DE,90402,2021-11-10,17:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2021-11-08 23:17:31,
+21650,DE,79108,2021-11-10,17:00,Freiburg,Zähringer Str. 295,Schilderwald,2021-11-09 21:35:15,
 21601,DE,50679,2021-11-11,15:00,Köln,Chlodwigplatz,Demonstration,2021-11-03 15:52:32,
 21641,DE,90402,2021-11-11,17:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2021-11-08 23:19:24,
 21635,DE,63457,2021-11-11,17:30,Großauheim,Rochusplatz,Mahnwache,2021-11-08 14:47:22,
@@ -24,6 +25,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21606,DE,29221,2021-11-15,18:30,Celle,Stechbahn vor Kirche,Spaziergang,2021-11-03 20:52:57,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 21644,DE,46236,2021-11-15,18:30,Bottrop,Kirchplatz 1,Spaziergang,2021-11-08 23:49:33,
 21629,DE,26382,2021-11-15,19:00,Wilhelmshaven,Rathaus,Spaziergang,2021-11-07 11:59:11,
+21649,DE,99974,2021-11-15,19:00,Mühlhausen / Thüringen,Untermarkt,Spaziergang,2021-11-09 20:42:11,
 21636,DE,63457,2021-11-18,17:30,Großauheim,Rochusplatz,Mahnwache,2021-11-08 14:47:29,
 3810,DE,85586,2021-11-18,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:21:43,
 21594,DE,95326,2021-11-19,16:00,Kulmbach,Marktplatz,Kundgebung,2021-11-02 15:40:14,
@@ -37,9 +39,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3811,DE,85586,2021-11-25,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:21:48,
 21365,DE,06844,2021-11-25,18:00,Dessau-Roßlau,Friedensglocke,Mahnwache,2021-10-04 14:52:47,
 21612,DE,29221,2021-11-27,11:00,Celle,Neumarkt,Aufzug,2021-11-03 20:58:19,
+21603,DE,46049,2021-11-27,14:30,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,2021-11-03 18:40:48,
 21599,DE,46049,2021-11-27,14:30,Oberhausen,Duisburgerstr. 
 / Niebuhrstr,Versammlung,2021-11-02 21:44:42,
-21603,DE,46049,2021-11-27,14:30,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,2021-11-03 18:40:48,
 21584,DE,20099,2021-11-27,15:00,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,2021-11-01 13:20:41,
 21553,DE,63450,2021-11-29,18:00,Hanau,Freiheitsplatz,Mahnwache,2021-10-27 15:13:36,
 21608,DE,29221,2021-11-29,18:30,Celle,Stechbahn vor Kirche,Spaziergang,2021-11-03 20:53:39,https://www.celle-tourismus.de/planen-buchen/webcam-celle
