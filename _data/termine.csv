@@ -11,6 +11,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21487,DE,23795,2021-11-13,11:00,Bad Segeberg,Rennkoppel,Autokorso,2021-10-20 15:58:34,
 21651,DE,29221,2021-11-13,11:45,Celle,Brandplatz,Kundgebung,2021-11-10 10:31:52,
 21654,DE,64385,2021-11-13,14:00,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,2021-11-10 20:38:56,
+21655,DE,56068,2021-11-13,14:00,Koblenz,Herz-Jesu-Kirche,Mahnwache,2021-11-10 21:49:21,
 21647,DE,30169,2021-11-13,14:00,Hannover,Ritter-Brüning-Str. / Parkplatz,Autokorso,2021-11-09 11:05:16,
 21652,DE,79098,2021-11-13,14:00,Freiburg,Platz der alten Synagoge,Aufzug,2021-11-10 11:10:27,
 21638,DE,26954,2021-11-13,15:00,Nordenham,Marktplatz,Autokorso,2021-11-08 22:36:39,
@@ -18,6 +19,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21574,DE,40213,2021-11-13,15:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2021-10-29 23:35:05,
 21578,DE,30169,2021-11-13,16:00,Hannover,Schützenplatz,Kundgebung,2021-10-31 15:02:40,
 21643,DE,90402,2021-11-13,18:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2021-11-08 23:20:44,
+21657,DE,71672,2021-11-14,11:00,Marbach am Neckar,Marktplatz,Musik,2021-11-11 00:18:53,
 21551,DE,63450,2021-11-15,18:00,Hanau,Freiheitsplatz,Mahnwache,2021-10-27 15:13:08,
 21648,DE,06844,2021-11-15,18:00,Dessau-Roßlau,Schloßplatz,Mahnwache,2021-11-09 13:05:24,
 21606,DE,29221,2021-11-15,18:30,Celle,Stechbahn vor Kirche,Spaziergang,2021-11-03 20:52:57,https://www.celle-tourismus.de/planen-buchen/webcam-celle
@@ -29,6 +31,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21594,DE,95326,2021-11-19,16:00,Kulmbach,Marktplatz,Kundgebung,2021-11-02 15:40:14,
 21611,DE,29221,2021-11-20,11:00,Celle,Neumarkt,Aufzug,2021-11-03 20:58:00,
 21598,DE,39104,2021-11-20,12:00,Magdeburg,Innenstadt,Kundgebung,2021-11-02 16:53:58,
+21656,DE,60311,2021-11-20,13:00,Frankfurt,Willy-Brandt-Platz,Spaziergang,2021-11-10 23:25:28,
 21583,DE,20099,2021-11-20,15:00,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,2021-11-01 13:20:08,
 21552,DE,63450,2021-11-22,18:00,Hanau,Freiheitsplatz,Mahnwache,2021-10-27 15:13:23,
 21607,DE,29221,2021-11-22,18:30,Celle,Stechbahn vor Kirche,Spaziergang,2021-11-03 20:53:23,https://www.celle-tourismus.de/planen-buchen/webcam-celle
