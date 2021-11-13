@@ -1,20 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-21610,DE,29221,2021-11-13,11:00,Celle,Neumarkt,Aufzug,2021-11-03 20:57:34,
-21487,DE,23795,2021-11-13,11:00,Bad Segeberg,Rennkoppel,Autokorso,2021-10-20 15:58:34,
-21651,DE,29221,2021-11-13,11:45,Celle,Brandplatz,Kundgebung,2021-11-10 10:31:52,
-21672,DE,10623,2021-11-13,12:00,Berlin,Str. d. 17. Juni 144 / Parkplatz,Autokorso,2021-11-12 08:01:12,Autokorso Berlin
-21654,DE,64385,2021-11-13,14:00,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,2021-11-10 20:38:56,
-21655,DE,56068,2021-11-13,14:00,Koblenz,Herz-Jesu-Kirche,Mahnwache,2021-11-10 21:49:21,
-21647,DE,30169,2021-11-13,14:00,Hannover,Ritter-Brüning-Str. / Parkplatz,Autokorso,2021-11-09 11:05:16,
-21667,DE,36037,2021-11-13,14:00,Fulda,Bahnhof,Demonstration,2021-11-11 11:38:18,
-21652,DE,79098,2021-11-13,14:00,Freiburg,Platz der alten Synagoge,Aufzug,2021-11-10 11:10:27,
-21638,DE,26954,2021-11-13,15:00,Nordenham,Marktplatz,Autokorso,2021-11-08 22:36:39,
-21569,DE,20099,2021-11-13,15:00,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,2021-10-29 19:41:34,
-21574,DE,40213,2021-11-13,15:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2021-10-29 23:35:05,
-21669,DE,45127,2021-11-13,15:30,Essen,Kettwiger Straße 42,Kundgebung,2021-11-11 17:46:31,
-21578,DE,30169,2021-11-13,16:00,Hannover,Schützenplatz,Kundgebung,2021-10-31 15:02:40,
-21658,DE,18546,2021-11-13,17:00,Sassnitz,Brückenplatz, Hauptstr. 68/69,Spaziergang,2021-11-11 08:20:55,
-21643,DE,90402,2021-11-13,18:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2021-11-08 23:20:44,
 21657,DE,71672,2021-11-14,11:00,Marbach am Neckar,Marktplatz,Musik,2021-11-11 00:18:53,
 21671,DE,27356,2021-11-15,18:00,Rotenburg,Am Neuen Markt,Spaziergang,2021-11-11 22:47:49,
 21551,DE,63450,2021-11-15,18:00,Hanau,Freiheitsplatz,Mahnwache,2021-10-27 15:13:08,
@@ -43,9 +27,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21668,DE,77694,2021-11-27,13:30,Kehl,Europabücke Kehl / Straßburg,Aufzug,2021-11-11 11:38:54,
 21670,DE,27356,2021-11-27,14:00,Rotenburg,Pferdemarkt,Aufzug,2021-11-11 22:46:43,
 21674,DE,76133,2021-11-27,14:00,Karlsruhe,Kronenplatz,Kundgebung,2021-11-12 21:37:16,
-21603,DE,46049,2021-11-27,14:30,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,2021-11-03 18:40:48,
 21599,DE,46049,2021-11-27,14:30,Oberhausen,Duisburgerstr. 
 / Niebuhrstr,Versammlung,2021-11-02 21:44:42,
+21603,DE,46049,2021-11-27,14:30,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,2021-11-03 18:40:48,
 21584,DE,20099,2021-11-27,15:00,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,2021-11-01 13:20:41,
 21553,DE,63450,2021-11-29,18:00,Hanau,Freiheitsplatz,Mahnwache,2021-10-27 15:13:36,
 21608,DE,29221,2021-11-29,18:30,Celle,Stechbahn vor Kirche,Spaziergang,2021-11-03 20:53:39,https://www.celle-tourismus.de/planen-buchen/webcam-celle
