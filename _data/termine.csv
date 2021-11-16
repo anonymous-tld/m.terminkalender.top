@@ -1,6 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-21686,DE,90402,2021-11-16,17:00,Nürnberg,Hallplatz / Pfannenschmiedsgasse,Kundgebung,2021-11-15 17:38:51,
-21683,DE,79108,2021-11-16,17:30,Freiburg im Breisgau,Parkplatz SC Stadion,Autokorso,2021-11-14 19:07:44,
 21693,DE,70182,2021-11-17,17:00,Stuttgart,Wilhelmplatz,Aufzug,2021-11-16 08:56:25,
 21687,DE,90402,2021-11-17,17:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2021-11-15 17:39:52,
 21692,DE,10777,2021-11-18,11:00,Berlin,Brandenburger Tor / Pl. d. 18. März,Livestream,2021-11-16 01:47:30,https://dlive.tv/IKB_ungelogen_tv
@@ -32,13 +30,13 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 3811,DE,85586,2021-11-25,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:21:48,
 21365,DE,06844,2021-11-25,18:00,Dessau-Roßlau,Friedensglocke,Mahnwache,2021-10-04 14:52:47,
 21612,DE,29221,2021-11-27,11:00,Celle,Neumarkt,Aufzug,2021-11-03 20:58:19,
-21685,DE,77694,2021-11-27,13:30,Kehl,Europabücke / Kehl / Straßburg,Aufzug,2021-11-15 08:10:27,
 21668,DE,77694,2021-11-27,13:30,Kehl,Europabücke Kehl / Straßburg,Aufzug,2021-11-11 11:38:54,
+21685,DE,77694,2021-11-27,13:30,Kehl,Europabücke / Kehl / Straßburg,Aufzug,2021-11-15 08:10:27,
 21670,DE,27356,2021-11-27,14:00,Rotenburg,Pferdemarkt,Aufzug,2021-11-11 22:46:43,
 21674,DE,76133,2021-11-27,14:00,Karlsruhe,Kronenplatz,Kundgebung,2021-11-12 21:37:16,
-21603,DE,46049,2021-11-27,14:30,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,2021-11-03 18:40:48,
 21599,DE,46049,2021-11-27,14:30,Oberhausen,Duisburgerstr. 
 / Niebuhrstr,Versammlung,2021-11-02 21:44:42,
+21603,DE,46049,2021-11-27,14:30,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,2021-11-03 18:40:48,
 21584,DE,20099,2021-11-27,15:00,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,2021-11-01 13:20:41,
 21677,DE,27472,2021-11-28,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2021-11-13 15:27:08,
 21553,DE,63450,2021-11-29,18:00,Hanau,Freiheitsplatz,Mahnwache,2021-10-27 15:13:36,
