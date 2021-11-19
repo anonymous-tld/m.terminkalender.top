@@ -1,10 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-21594,DE,95326,2021-11-19,16:00,Kulmbach,Marktplatz,Kundgebung,2021-11-02 15:40:14,
-21710,DE,95326,2021-11-19,16:00,Kulmbach,Marktplatz,Kundgebung,2021-11-18 13:16:53,
-21717,AT,6900,2021-11-19,17:00,Bregenz,Landhaus,Kundgebung,2021-11-19 00:24:32,
-21706,DE,10315,2021-11-19,17:00,Berlin,Alt-Friedrichsfelde 78 Parkpl.,Autokorso,2021-11-17 22:28:52,
-21709,DE,76133,2021-11-19,17:30,Karlsruhe,Stephansplatz,Versammlung,2021-11-18 11:40:53,
-21714,DE,91126,2021-11-19,18:00,Schwabach,Martin-Luther-platz,Kundgebung,2021-11-18 20:02:03,
 21611,DE,29221,2021-11-20,11:00,Celle,Neumarkt,Aufzug,2021-11-03 20:58:00,
 21711,DE,29221,2021-11-20,11:45,Celle,Brandplatz,Kundgebung,2021-11-18 16:46:37,
 21726,AT,1010,2021-11-20,12:00,Wien,Innere Stadt / Burgring,Demonstration,2021-11-19 13:19:17,
@@ -49,9 +43,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21685,DE,77694,2021-11-27,13:30,Kehl,Europabücke / Kehl / Straßburg,Aufzug,2021-11-15 08:10:27,
 21670,DE,27356,2021-11-27,14:00,Rotenburg,Pferdemarkt,Aufzug,2021-11-11 22:46:43,
 21674,DE,76133,2021-11-27,14:00,Karlsruhe,Kronenplatz,Kundgebung,2021-11-12 21:37:16,
+21603,DE,46049,2021-11-27,14:30,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,2021-11-03 18:40:48,
 21599,DE,46049,2021-11-27,14:30,Oberhausen,Duisburgerstr. 
 / Niebuhrstr,Versammlung,2021-11-02 21:44:42,
-21603,DE,46049,2021-11-27,14:30,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,2021-11-03 18:40:48,
 21708,DE,50828,2021-11-27,15:00,Köln Ehrenfeld,Neptunplatz,Demonstration,2021-11-18 08:07:46,
 21584,DE,20099,2021-11-27,15:00,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,2021-11-01 13:20:41,
 21719,DE,80333,2021-11-27,16:30,München,Max-Joseph-Platz,Kundgebung,2021-11-19 10:58:40,
