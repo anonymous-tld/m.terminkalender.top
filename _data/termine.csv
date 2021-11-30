@@ -1,7 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-21824,DE,01097,2021-11-30,08:00,Dresden,Sächsische Staatskanzlei,Revolte,2021-11-27 07:16:36,
-21835,DE,90402,2021-11-30,17:00,Nürnberg,Hallplatz / Pfannenschmiedsgasse,Kundgebung,2021-11-27 12:29:27,
-21853,DE,79108,2021-11-30,18:30,Freiburg,Neues SC-Stadion / Flugplatz,Autokorso,2021-11-28 21:35:15,
 21926,DE,4020,2021-12-01,12:00,Linz,Hauptplatz,Demonstration,2021-11-30 16:05:59,
 21854,DE,84504,2021-12-01,12:30,Altötting,Tillyplatz,Spaziergang,2021-11-28 22:40:21,
 21847,AT,1010,2021-12-01,13:00,Wien,Maria-Theresien-Platz,Demonstration,2021-11-28 10:51:56,
@@ -78,8 +75,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21868,DE,28832,2021-12-10,08:00,Achim,City,Treffpunkt,2021-11-29 23:08:07,
 21867,DE,73430,2021-12-10,08:00,Aalen,City,Sonstiges,2021-11-29 23:05:44,
 21866,DE,52062,2021-12-10,08:00,Aachen,City,Musik,2021-11-29 23:03:10,
-21896,DE,91275,2021-12-11,08:00,Auerbach,City,Sonstiges,2021-11-29 23:59:40,
 21895,DE,08209,2021-12-11,08:00,Auerbach,City,Sonstiges,2021-11-29 23:58:06,
+21896,DE,91275,2021-12-11,08:00,Auerbach,City,Sonstiges,2021-11-29 23:59:40,
 21892,DE,57439,2021-12-11,08:00,Attendorn,City,Sonstiges,2021-11-29 23:52:36,
 21891,DE,21271,2021-12-11,08:00,Asendorf,City,Sonstiges,2021-11-29 23:51:07,
 21890,DE,59387,2021-12-11,08:00,Ascheberg,City,Sonstiges,2021-11-29 23:48:58,
