@@ -1,6 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-21952,DE,41747,2021-12-03,12:00,Viersen,Remigiusplatz Kirche,Spaziergang,2021-12-02 08:41:25,
-21974,DE,27580,2021-12-03,18:00,Bremerhaven,Waldemar Becke Platz,Spaziergang,2021-12-02 18:40:47,
 21966,DE,29221,2021-12-04,11:00,Celle,Neumarkt,Aufzug,2021-12-02 17:33:33,
 21967,DE,29221,2021-12-04,11:45,Celle,Brandplatz,Kundgebung,2021-12-02 17:35:03,
 21958,DE,26954,2021-12-04,12:30,Nordenham,Marktplatz,Kundgebung,2021-12-02 14:44:28,
@@ -40,6 +38,6 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21962,DE,95326,2021-12-20,18:00,Kulmbach,Marktplatz,Demonstration,2021-12-02 16:26:22,
 21970,DE,29221,2021-12-20,18:30,Celle,Stechbahn vor Kirche,Spaziergang,2021-12-02 17:38:45,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 21963,DE,95326,2021-12-27,18:00,Kulmbach,Marktplatz,Demonstration,2021-12-02 16:27:07,
-21972,DE,29221,2021-12-27,18:30,Celle,Stechbahn vor Kirche,Spaziergang,2021-12-02 17:43:43,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 21971,DE,29221,2021-12-27,18:30,Celle,Stechbahn vor Kirche,Spaziergang,2021-12-02 17:39:12,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+21972,DE,29221,2021-12-27,18:30,Celle,Stechbahn vor Kirche,Spaziergang,2021-12-02 17:43:43,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 21964,DE,95326,2021-12-31,16:00,Kulmbach,Marktplatz,Kundgebung,2021-12-02 16:27:57,
