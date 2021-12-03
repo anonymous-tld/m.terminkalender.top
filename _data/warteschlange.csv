@@ -1,11 +1,10 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 21996,DE,92318,2021-12-04,11:00,Neumarkt,Bahnhofsplatz,Aufzug,2021-12-03 11:49:11,
-21999,DE,64385,2021-12-04,14:00,Reichelsheim,ALDI Ortseingang,Treffpunkt,2021-12-03 13:52:44,
-21993,DE,64385,2021-12-04,14:00,Reichelsheim,B 38 Ortseingang (Aldi),Zusammenkunft,2021-12-03 09:58:42,
 21992,DE,64385,2021-12-04,14:00,Reichelsheim,B 38 Ortseingang (Aldi),Zusammenkunft,2021-12-03 09:57:50,
 22000,DE,30159,2021-12-04,14:00,Hannover,Landtag Niedersachsen,Versammlung,2021-12-03 14:00:03,
 22004,DE,36037,2021-12-04,14:00,Fulda,Bahnhofsplatz,Kundgebung,2021-12-03 17:33:40,
 21998,DE,36037,2021-12-04,14:00,Fulda,Bahnhofsvorplatz,Zusammenkunft,2021-12-03 13:06:44,
+22006,DE,88400,2021-12-04,14:16,Biberach an der Riss,Viehmarktplatz,Kundgebung,2021-12-03 18:16:02,
 21983,AT,5020,2021-12-05,12:30,Salzburg,Kapitelplatz,Demonstration,2021-12-03 06:33:12,
 21984,AT,5730,2021-12-05,13:30,Mittersill,Stadtmitte,Demonstration,2021-12-03 06:36:37,
 21990,DE,70182,2021-12-05,14:00,Stuttgart,Wilhelmsplatz,Kundgebung,2021-12-03 08:31:41,
@@ -21,3 +20,4 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 22003,DE,83022,2021-12-08,19:15,Rosenheim,Ichikawaplatz,Mahnwache,2021-12-03 15:43:28,
 21988,AT,8020,2021-12-12,13:00,Graz,Hauptbahnhof,Aufzug,2021-12-03 06:54:32,
 21989,AT,6020,2021-12-12,14:00,Innsbruck,Landhausplatz,Demonstration,2021-12-03 07:14:20,
+22005,DE,58285,2021-12-12,18:00,Gevelsberg,Vor Kaufland,Aufstand,2021-12-03 18:11:54,
