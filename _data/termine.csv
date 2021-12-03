@@ -19,7 +19,6 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21933,DE,79098,2021-12-04,14:00,Freiburg,Platz der alten Synagoge,Aufzug,2021-11-30 23:58:25,
 21927,DE,60323,2021-12-04,14:00,Frankfurt am Main,Reuterweg 44,Aufzug,2021-11-30 16:15:26,
 21850,DE,40213,2021-12-04,14:00,Düsseldorf,Wiese Rheinprom. /  Reuterkaserne,Aufzug,2021-11-28 17:23:19,
-21856,DE,69115,2021-12-04,14:30,Heidelberg,Bismarkplatz / Rasenfläche,Aufzug,2021-11-29 07:12:34,
 21954,DE,30449,2021-12-04,14:30,Hannover,Ritter-Brüning-Str. / Parking,Autokorso,2021-12-02 12:27:36,
 21713,DE,60313,2021-12-04,14:30,Frankfurt,Alte Oper,Aufzug,2021-11-18 17:01:50,
 21842,DE,83278,2021-12-04,15:00,Traunstein,Stadtplatz,Kundgebung,2021-11-27 18:21:05,
@@ -65,9 +64,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21975,DE,39340,2021-12-09,18:00,Haldensleben,Marktplatz,Mahnwache,2021-12-02 22:03:25,
 21915,DE,74374,2021-12-10,08:00,Zaberfeld,Ortseingang,Sonstiges,2021-11-30 08:16:59,
 21855,DE,59846,2021-12-10,08:00,Sundern,Rathausplatz,Sonstiges,2021-11-28 23:18:37,https://t.me/kunstattacke
+21916,DE,59755,2021-12-10,08:00,Neheim,Aldi Parkplatz,Sonstiges,2021-11-30 08:18:49,
 21965,DE,59755,2021-12-10,08:00,Neheim,City / Markt,Sonstiges,2021-12-02 17:31:19,
 21945,DE,59757,2021-12-10,08:00,Neheim,Im Ohl 16b,Sonstiges,2021-12-01 13:22:56,
-21916,DE,59755,2021-12-10,08:00,Neheim,Aldi Parkplatz,Sonstiges,2021-11-30 08:18:49,
 21818,DE,10178,2021-12-10,08:00,Berlin,Alexanderplatz,Sonstiges,2021-11-26 21:06:11,
 21946,DE,64832,2021-12-10,08:00,Babenhausen,City,Sonstiges,2021-12-01 13:33:42,
 21947,DE,56729,2021-12-10,08:00,Baar,City,Sonstiges,2021-12-01 13:35:35,
@@ -110,7 +109,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21862,DE,10117,2021-12-12,12:12,Berlin,Brandenburger Tor,Sonstiges,2021-11-29 20:05:58,
 21922,DE,76530,2021-12-12,13:00,Baden-Baden,Augustaplatz 1,Kundgebung,2021-11-30 13:01:20,
 21944,DE,58095,2021-12-12,14:00,Hagen,City,Sonstiges,2021-12-01 13:21:02,
-21981,DE,40235,2021-12-12,14:00,Düsseldorf,Walter-Eucken-Str. / P / Metro,Kundgebung,2021-12-02 22:25:45,
+21981,DE,40235,2021-12-12,14:00,Düsseldorf,Walter-Eucken-Str. / P / Metro,Autokorso,2021-12-02 22:25:45,
 21956,AT,6900,2021-12-12,14:00,Bregenz,Bahnhof / Parkplatz,Schweigemarsch,2021-12-02 14:41:28,
 21791,DE,47057,2021-12-12,15:00,Duisburg,Hauptbahnhof,Demonstration,2021-11-25 09:48:08,
 21810,DE,18055,2021-12-13,16:00,Rostock,Stadthafen / am Strande,Menschenkette,2021-11-26 20:49:15,https://dlive.tv/7TuermeMedien
@@ -128,7 +127,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21924,DE,80339,2021-12-18,12:00,München,Theresienwiese,Aufzug,2021-11-30 13:55:39,
 21720,DE,20099,2021-12-18,16:00,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,2021-11-19 11:02:10,
 21846,DE,69117,2021-12-19,14:00,Heidelberg,Friedrich-Ebert-Platz,Kundgebung,2021-11-28 10:41:35,
-21982,DE,40235,2021-12-19,14:00,Düsseldorf,Walter-Eucken-Str. / P / Metro,Kundgebung,2021-12-02 22:25:50,
+21982,DE,40235,2021-12-19,14:00,Düsseldorf,Walter-Eucken-Str. / P / Metro,Autokorso,2021-12-02 22:25:50,
 21812,DE,18055,2021-12-20,16:00,Rostock,Stadthafen / am Strande,Menschenkette,2021-11-26 20:51:50,https://dlive.tv/7TuermeMedien
 21813,DE,18055,2021-12-20,17:00,Rostock,Rosengarten,Aufzug,2021-11-26 20:52:32,https://dlive.tv/7TuermeMedien
 21785,DE,84307,2021-12-20,17:00,Eggenfelden,Rathausplatz,Aufstand,2021-11-24 21:37:36,https://dlive.tv/SelbstDenken21
