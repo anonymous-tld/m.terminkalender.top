@@ -34,8 +34,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21808,DE,18055,2021-12-06,16:00,Rostock,Stadthafen / am Strande,Menschenkette,2021-11-26 20:46:40,https://dlive.tv/7TuermeMedien
 22011,DE,86150,2021-12-06,16:30,Augsburg,Rathausplatz,Kundgebung,2021-12-03 22:01:28,
 21917,DE,38440,2021-12-06,17:00,Wolfsburg,Rathaus,Spaziergang,2021-11-30 09:28:10,
-22061,DE,18055,2021-12-06,17:00,Rostock,Rosengarten / Steintor,Aufzug,2021-12-05 12:25:31,https://www.querdenken-381.org/
 21809,DE,18055,2021-12-06,17:00,Rostock,Rosengarten,Aufzug,2021-11-26 20:48:04,https://dlive.tv/7TuermeMedien
+22061,DE,18055,2021-12-06,17:00,Rostock,Rosengarten / Steintor,Aufzug,2021-12-05 12:25:31,https://www.querdenken-381.org/
 22041,DE,18273,2021-12-06,17:00,Güstrow,Rathaus,Spaziergang,2021-12-04 14:26:19,
 22016,DE,14612,2021-12-06,17:45,Falkensee,Rathausplatz,Spaziergang,2021-12-03 22:20:24,
 22056,DE,39576,2021-12-06,18:00,Stendal,Marktplatz,Spaziergang,2021-12-05 08:29:05,
@@ -75,20 +75,21 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 22013,DE,86343,2021-12-08,19:00,Königsbrunn,Marktplatz,Kundgebung,2021-12-03 22:06:38,
 22003,DE,83022,2021-12-08,19:15,Rosenheim,Ichikawaplatz,Mahnwache,2021-12-03 15:43:28,
 3813,DE,85586,2021-12-09,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:21:59,
-21975,DE,39340,2021-12-09,18:00,Haldensleben,Marktplatz,Mahnwache,2021-12-02 22:03:25,
 21976,DE,39340,2021-12-09,18:00,Haldensleben,Marktplatz,Mahnwache,2021-12-02 22:03:36,
+21975,DE,39340,2021-12-09,18:00,Haldensleben,Marktplatz,Mahnwache,2021-12-02 22:03:25,
 21915,DE,74374,2021-12-10,08:00,Zaberfeld,Ortseingang,Sonstiges,2021-11-30 08:16:59,
 21855,DE,59846,2021-12-10,08:00,Sundern,Rathausplatz,Sonstiges,2021-11-28 23:18:37,https://t.me/kunstattacke
 22083,DE,70173,2021-12-10,08:00,Stuttgart,Mitte,Sonstiges,2021-12-05 13:32:14,
 22098,DE,72764,2021-12-10,08:00,Reutlingen,Mitte,Sonstiges,2021-12-05 13:57:43,
+22108,DE,64385,2021-12-10,08:00,Reichelsheim,Mitte,Sonstiges,2021-12-05 16:24:21,
 22102,DE,45657,2021-12-10,08:00,Recklinghausen,Mitte,Sonstiges,2021-12-05 14:02:52,
 22104,DE,14467,2021-12-10,08:00,Potsdam,Mitte,Sonstiges,2021-12-05 14:06:10,
 22103,DE,26121,2021-12-10,08:00,Oldenburg,Mitte,Sonstiges,2021-12-05 14:04:34,
 22097,DE,63065,2021-12-10,08:00,Offenbach,Mitte,Sonstiges,2021-12-05 13:55:44,
 22091,DE,90402,2021-12-10,08:00,Nürnberg,Mitte,Sonstiges,2021-12-05 13:46:36,
-21916,DE,59755,2021-12-10,08:00,Neheim,Aldi Parkplatz,Sonstiges,2021-11-30 08:18:49,
-21945,DE,59757,2021-12-10,08:00,Neheim,Im Ohl 16b,Sonstiges,2021-12-01 13:22:56,
 21965,DE,59755,2021-12-10,08:00,Neheim,City / Markt,Sonstiges,2021-12-02 17:31:19,
+21945,DE,59757,2021-12-10,08:00,Neheim,Im Ohl 16b,Sonstiges,2021-12-01 13:22:56,
+21916,DE,59755,2021-12-10,08:00,Neheim,Aldi Parkplatz,Sonstiges,2021-11-30 08:18:49,
 22095,DE,48149,2021-12-10,08:00,Münster,Markt,Sonstiges,2021-12-05 13:52:12,
 22080,DE,80331,2021-12-10,08:00,München,Altstadt/Zentrum,Sonstiges,2021-12-05 13:27:32,
 22085,DE,04105,2021-12-10,08:00,Leipzig,Mitte,Sonstiges,2021-12-05 13:36:10,
@@ -99,6 +100,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 22079,DE,30159,2021-12-10,08:00,Hannover,Kröpcke/Innenstadt,Sonstiges,2021-12-05 13:24:33,
 22106,DE,31785,2021-12-10,08:00,Hameln,Mitte,Sonstiges,2021-12-05 14:09:03,
 22105,DE,58095,2021-12-10,08:00,Hagen,Mitte,Sonstiges,2021-12-05 14:07:36,
+22107,DE,64658,2021-12-10,08:00,Fürth,Mitte,Sonstiges,2021-12-05 16:22:49,
 22082,DE,15230,2021-12-10,08:00,Frankfurt/Oder,City,Sonstiges,2021-12-05 13:30:28,
 22081,DE,60488,2021-12-10,08:00,Frankfurt,Innenstadt,Sonstiges,2021-12-05 13:29:08,
 22088,DE,45127,2021-12-10,08:00,Essen,Mitte,Sonstiges,2021-12-05 13:41:43,
@@ -116,8 +118,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21874,DE,99310,2021-12-10,08:00,Alkersleben,City,Sonstiges,2021-11-29 23:22:44,
 21873,DE,18347,2021-12-10,08:00,Ahrenshoop,City,Sonstiges,2021-11-29 23:19:05,
 21872,DE,22926,2021-12-10,08:00,Ahrensburg,City,Sonstiges,2021-11-29 23:16:59,
-21870,DE,96482,2021-12-10,08:00,Ahorn,City,Sonstiges,2021-11-29 23:12:56,
 21871,DE,74744,2021-12-10,08:00,Ahorn,City,Erholung,2021-11-29 23:15:07,
+21870,DE,96482,2021-12-10,08:00,Ahorn,City,Sonstiges,2021-11-29 23:12:56,
 21868,DE,28832,2021-12-10,08:00,Achim,City,Treffpunkt,2021-11-29 23:08:07,
 21867,DE,73430,2021-12-10,08:00,Aalen,City,Sonstiges,2021-11-29 23:05:44,
 21866,DE,52062,2021-12-10,08:00,Aachen,City,Musik,2021-11-29 23:03:10,
@@ -127,8 +129,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 22064,DE,20095,2021-12-11,08:00,Hamburg,Mitte,Sonstiges,2021-12-05 12:54:20,
 22065,DE,21029,2021-12-11,08:00,Hamburg,Bahnhof,Sonstiges,2021-12-05 12:55:52,
 21943,DE,58089,2021-12-11,08:00,Hagen,City,Sonstiges,2021-12-01 13:19:01,
-21896,DE,91275,2021-12-11,08:00,Auerbach,City,Sonstiges,2021-11-29 23:59:40,
 21895,DE,08209,2021-12-11,08:00,Auerbach,City,Sonstiges,2021-11-29 23:58:06,
+21896,DE,91275,2021-12-11,08:00,Auerbach,City,Sonstiges,2021-11-29 23:59:40,
 21892,DE,57439,2021-12-11,08:00,Attendorn,City,Sonstiges,2021-11-29 23:52:36,
 21891,DE,21271,2021-12-11,08:00,Asendorf,City,Sonstiges,2021-11-29 23:51:07,
 21890,DE,59387,2021-12-11,08:00,Ascheberg,City,Sonstiges,2021-11-29 23:48:58,
@@ -202,8 +204,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21815,DE,18055,2021-12-27,17:00,Rostock,Rosengarten,Aufzug,2021-11-26 20:54:36,https://dlive.tv/7TuermeMedien
 22027,DE,98574,2021-12-27,18:00,Schmalkalden,Altmarkt,Kundgebung,2021-12-04 01:21:36,
 21963,DE,95326,2021-12-27,18:00,Kulmbach,Marktplatz,Demonstration,2021-12-02 16:27:07,
-21971,DE,29221,2021-12-27,18:30,Celle,Stechbahn / vor Kirche,Spaziergang,2021-12-02 17:39:12,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 21972,DE,29221,2021-12-27,18:30,Celle,Stechbahn / vor Kirche,Spaziergang,2021-12-02 17:43:43,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+21971,DE,29221,2021-12-27,18:30,Celle,Stechbahn / vor Kirche,Spaziergang,2021-12-02 17:39:12,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 21833,DE,26382,2021-12-27,19:00,Wilhelmshaven,Rathaus,Kundgebung,2021-11-27 12:09:23,
 21665,DE,17033,2021-12-27,19:00,Neubrandenburg,Marktplatz,Spaziergang,2021-11-11 08:23:52,
 3816,DE,85586,2021-12-30,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:22:14,
