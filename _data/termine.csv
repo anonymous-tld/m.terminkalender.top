@@ -6,14 +6,14 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21984,AT,5730,2021-12-05,13:30,Mittersill,Stadtmitte,Demonstration,2021-12-03 06:36:37,
 21948,DE,54516,2021-12-05,14:00,Wittlich,Platz an der Lieser,Kundgebung,2021-12-01 18:32:15,
 22052,DE,68753,2021-12-05,14:00,Waghäusel-Wiesental,Parkplatz Einkaufzentrum Globu,Spaziergang,2021-12-04 22:10:18,
-22001,DE,70182,2021-12-05,14:00,Stuttgart,Wilhelmsplatz,Aufstand,2021-12-03 14:09:37,
 21990,DE,70182,2021-12-05,14:00,Stuttgart,Wilhelmsplatz,Kundgebung,2021-12-03 08:31:41,
+22001,DE,70182,2021-12-05,14:00,Stuttgart,Wilhelmsplatz,Aufstand,2021-12-03 14:09:37,
 21751,AT,5020,2021-12-05,14:00,Salzburg,Mozartplatz,Demonstration,2021-11-22 09:08:07,
 21935,DE,95326,2021-12-05,14:00,Kulmbach,Marktplatz,Mahnwache,2021-12-01 07:41:17,
 21929,DE,60313,2021-12-05,14:00,Frankfurt am Main,Opernplatz,Schweigemarsch,2021-11-30 16:19:34,
 22029,DE,45149,2021-12-05,14:00,Essen,Harscheidweg / Haarzopf,Kundgebung,2021-12-04 06:57:17,
-22040,DE,40213,2021-12-05,14:00,Düsseldorf,Burgplatz / Schlossturm,Spaziergang,2021-12-04 11:19:41,
 21980,DE,40235,2021-12-05,14:00,Düsseldorf,Walter-Eucken-Str. / P / Metro,Autokorso,2021-12-02 22:25:39,
+22040,DE,40213,2021-12-05,14:00,Düsseldorf,Burgplatz / Schlossturm,Spaziergang,2021-12-04 11:19:41,
 21995,AT,6900,2021-12-05,14:00,Bregenz,Am Hafengelände,Kundgebung,2021-12-03 11:34:59,
 21955,AT,6900,2021-12-05,14:00,Bregenz,Am Hafengelände,Kundgebung,2021-12-02 13:55:47,
 21953,DE,41236,2021-12-05,15:00,Mönchengladbach-Rheydt,Marktplatz,Spaziergang,2021-12-02 08:42:48,
@@ -23,8 +23,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21985,AT,5020,2021-12-05,17:00,Salzburg,Freilassing-Brücke,Demonstration,2021-12-03 06:40:01,
 21987,AT,5280,2021-12-05,17:00,Braunau,Simbachbrücke,Demonstration,2021-12-03 06:50:07,
 21986,AT,8200,2021-12-05,18:00,Gleisdorf,Hauptplatz,Demonstration,2021-12-03 06:42:52,
-22015,DE,14612,2021-12-05,18:00,Falkensee,Alte Stadthalle,Gebet,2021-12-03 22:14:59,
 21951,DE,14612,2021-12-05,18:00,Falkensee,Alte Stadthalle,Gebet,2021-12-02 00:04:02,
+22015,DE,14612,2021-12-05,18:00,Falkensee,Alte Stadthalle,Gebet,2021-12-03 22:14:59,
 22045,DE,99610,2021-12-06,05:00,Sömmerda,Marktplatz,Kundgebung,2021-12-04 15:52:21,
 22046,DE,33098,2021-12-06,13:00,Paderborn,Rathausplatz,Demonstration,2021-12-04 16:48:13,
 21808,DE,18055,2021-12-06,16:00,Rostock,Stadthafen / am Strande,Menschenkette,2021-11-26 20:46:40,https://dlive.tv/7TuermeMedien
@@ -33,6 +33,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21809,DE,18055,2021-12-06,17:00,Rostock,Rosengarten,Aufzug,2021-11-26 20:48:04,https://dlive.tv/7TuermeMedien
 22041,DE,18273,2021-12-06,17:00,Güstrow,Rathaus,Spaziergang,2021-12-04 14:26:19,
 22016,DE,14612,2021-12-06,17:45,Falkensee,Rathausplatz,Spaziergang,2021-12-03 22:20:24,
+22056,DE,39576,2021-12-06,18:00,Stendal,Marktplatz,Spaziergang,2021-12-05 08:29:05,
 22051,DE,01968,2021-12-06,18:00,Senftenberg,Marktplatz,Kundgebung,2021-12-04 21:20:20,
 22019,DE,98574,2021-12-06,18:00,Schmalkalden,Altmarkt,Spaziergang,2021-12-03 22:51:18,
 22033,DE,061,2021-12-06,18:00,Schkopau,Hallmarkt,Spaziergang,2021-12-04 09:12:48,
@@ -45,6 +46,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 22050,DE,16225,2021-12-06,18:00,Eberswalde,Am Markt,Kundgebung,2021-12-04 20:45:07,
 22031,DE,15848,2021-12-06,18:00,Beeskow,Marktplatz,Treffpunkt,2021-12-04 08:59:51,
 22048,DE,96052,2021-12-06,18:00,Bamberg,Bahnhof / gegenüber,Spaziergang,2021-12-04 19:44:41,
+22058,DE,06449,2021-12-06,18:00,Aschersleben,Rathaus,Spaziergang,2021-12-05 08:48:36,
 21991,DE,35630,2021-12-06,18:30,Wetzlar,Rathaus Wetzlar,Kundgebung,2021-12-03 09:34:59,
 21968,DE,29221,2021-12-06,18:30,Celle,Stechbahn / vor Kirche,Spaziergang,2021-12-02 17:37:55,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 22014,DE,74336,2021-12-06,18:30,Brackenheim,Brunnen / v. d. Kreissparkasse,Spaziergang,2021-12-03 22:09:24,
@@ -68,13 +70,13 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 22013,DE,86343,2021-12-08,19:00,Königsbrunn,Marktplatz,Kundgebung,2021-12-03 22:06:38,
 22003,DE,83022,2021-12-08,19:15,Rosenheim,Ichikawaplatz,Mahnwache,2021-12-03 15:43:28,
 3813,DE,85586,2021-12-09,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:21:59,
-21975,DE,39340,2021-12-09,18:00,Haldensleben,Marktplatz,Mahnwache,2021-12-02 22:03:25,
 21976,DE,39340,2021-12-09,18:00,Haldensleben,Marktplatz,Mahnwache,2021-12-02 22:03:36,
+21975,DE,39340,2021-12-09,18:00,Haldensleben,Marktplatz,Mahnwache,2021-12-02 22:03:25,
 21915,DE,74374,2021-12-10,08:00,Zaberfeld,Ortseingang,Sonstiges,2021-11-30 08:16:59,
 21855,DE,59846,2021-12-10,08:00,Sundern,Rathausplatz,Sonstiges,2021-11-28 23:18:37,https://t.me/kunstattacke
-21916,DE,59755,2021-12-10,08:00,Neheim,Aldi Parkplatz,Sonstiges,2021-11-30 08:18:49,
-21945,DE,59757,2021-12-10,08:00,Neheim,Im Ohl 16b,Sonstiges,2021-12-01 13:22:56,
 21965,DE,59755,2021-12-10,08:00,Neheim,City / Markt,Sonstiges,2021-12-02 17:31:19,
+21945,DE,59757,2021-12-10,08:00,Neheim,Im Ohl 16b,Sonstiges,2021-12-01 13:22:56,
+21916,DE,59755,2021-12-10,08:00,Neheim,Aldi Parkplatz,Sonstiges,2021-11-30 08:18:49,
 21818,DE,10178,2021-12-10,08:00,Berlin,Alexanderplatz,Sonstiges,2021-11-26 21:06:11,
 21946,DE,64832,2021-12-10,08:00,Babenhausen,City,Sonstiges,2021-12-01 13:33:42,
 21947,DE,56729,2021-12-10,08:00,Baar,City,Sonstiges,2021-12-01 13:35:35,
@@ -129,6 +131,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 22005,DE,58285,2021-12-12,18:00,Gevelsberg,Vor Kaufland,Aufstand,2021-12-03 18:11:54,
 21810,DE,18055,2021-12-13,16:00,Rostock,Stadthafen / am Strande,Menschenkette,2021-11-26 20:49:15,https://dlive.tv/7TuermeMedien
 21811,DE,18055,2021-12-13,17:00,Rostock,Rosengarten,Aufzug,2021-11-26 20:50:06,https://dlive.tv/7TuermeMedien
+22057,DE,39576,2021-12-13,18:00,Stendal,Marktplatz,Spaziergang,2021-12-05 08:29:56,
 22025,DE,98574,2021-12-13,18:00,Schmalkalden,Altmarkt,Spaziergang,2021-12-04 01:20:04,
 21961,DE,95326,2021-12-13,18:00,Kulmbach,Marktplatz,Demonstration,2021-12-02 16:25:48,
 21969,DE,29221,2021-12-13,18:30,Celle,Stechbahn / vor Kirche,Spaziergang,2021-12-02 17:38:21,https://www.celle-tourismus.de/planen-buchen/webcam-celle
