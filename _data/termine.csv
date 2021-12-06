@@ -10,10 +10,11 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 22061,DE,18055,2021-12-06,17:00,Rostock,Rosengarten / Steintor,Aufzug,2021-12-05 12:25:31,https://www.querdenken-381.org/
 22041,DE,18273,2021-12-06,17:00,Güstrow,Rathaus,Spaziergang,2021-12-04 14:26:19,
 22155,DE,99706,2021-12-06,17:30,Sondershausen,Marktplatz,Spaziergang,2021-12-06 12:57:31,
+22160,DE,10963,2021-12-06,17:30,Berlin,Anhalter Bahnhof,Kundgebung,2021-12-06 14:07:52,
 22016,DE,14612,2021-12-06,17:45,Falkensee,Rathausplatz,Spaziergang,2021-12-03 22:20:24,
 22056,DE,39576,2021-12-06,18:00,Stendal,Marktplatz,Spaziergang,2021-12-05 08:29:05,
-22142,DE,01968,2021-12-06,18:00,Senftenberg,Marktplatz,Kundgebung,2021-12-06 10:30:57,
 22051,DE,01968,2021-12-06,18:00,Senftenberg,Marktplatz,Kundgebung,2021-12-04 21:20:20,
+22142,DE,01968,2021-12-06,18:00,Senftenberg,Marktplatz,Kundgebung,2021-12-06 10:30:57,
 22115,DE,92421,2021-12-06,18:00,Schwandorf / Haselbach,Kirchawirt,Zusammenkunft,2021-12-05 19:51:02,
 22019,DE,98574,2021-12-06,18:00,Schmalkalden,Altmarkt,Spaziergang,2021-12-03 22:51:18,
 22033,DE,061,2021-12-06,18:00,Schkopau,Hallmarkt,Spaziergang,2021-12-04 09:12:48,
@@ -60,8 +61,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 22110,DE,79108,2021-12-07,17:30,Freiburg im Breisgau,Parkplatz Neues SC Stadion,Autokorso,2021-12-05 17:45:36,
 22039,DE,39326,2021-12-07,18:00,Wolmirstedt,Boulevard / vor dem Rathaus,Mahnwache,2021-12-04 10:14:20,
 21994,DE,92421,2021-12-07,19:00,Schwandorf,Oberer Marktplatz,Demonstration,2021-12-03 10:02:41,
-22120,AT,3830,2021-12-08,13:13,Waidhofen an der Thaya,Hauptplatz 1,Demonstration,2021-12-05 21:43:40,
 22119,AT,3830,2021-12-08,13:13,Waidhofen an der Thaya,Hauptplatz 1,Demonstration,2021-12-05 21:40:40,
+22120,AT,3830,2021-12-08,13:13,Waidhofen an der Thaya,Hauptplatz 1,Demonstration,2021-12-05 21:43:40,
 22010,DE,70374,2021-12-08,16:30,Stuttgart,Beskidenstr. / BW Kaserne,Kundgebung,2021-12-03 20:09:35,
 21904,DE,84028,2021-12-08,17:00,Landshut,Martinskirche / davor,Gebet,2021-11-30 06:25:36,
 22145,DE,97070,2021-12-08,18:00,Würzburg,Marktplatz,Spaziergang,2021-12-06 11:25:06,
@@ -84,8 +85,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 22097,DE,63065,2021-12-10,08:00,Offenbach,Mitte,Sonstiges,2021-12-05 13:55:44,
 22091,DE,90402,2021-12-10,08:00,Nürnberg,Mitte,Sonstiges,2021-12-05 13:46:36,
 21965,DE,59755,2021-12-10,08:00,Neheim,City / Markt,Sonstiges,2021-12-02 17:31:19,
-21916,DE,59755,2021-12-10,08:00,Neheim,Aldi Parkplatz,Sonstiges,2021-11-30 08:18:49,
 21945,DE,59757,2021-12-10,08:00,Neheim,Im Ohl 16b,Sonstiges,2021-12-01 13:22:56,
+21916,DE,59755,2021-12-10,08:00,Neheim,Aldi Parkplatz,Sonstiges,2021-11-30 08:18:49,
 22095,DE,48149,2021-12-10,08:00,Münster,Markt,Sonstiges,2021-12-05 13:52:12,
 22080,DE,80331,2021-12-10,08:00,München,Altstadt/Zentrum,Sonstiges,2021-12-05 13:27:32,
 22085,DE,04105,2021-12-10,08:00,Leipzig,Mitte,Sonstiges,2021-12-05 13:36:10,
@@ -154,8 +155,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21937,DE,50765,2021-12-11,15:00,Köln,Liverpooler Platz,Demonstration,2021-12-01 09:27:35,
 21701,DE,20099,2021-12-11,15:00,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,2021-11-16 21:43:59,
 22147,DE,24937,2021-12-11,15:00,Flensburg,Rathaus,Spaziergang,2021-12-06 11:27:54,
-22112,DE,40213,2021-12-11,15:00,Düsseldorf,Johannes Rau Platz,Kundgebung,2021-12-05 18:25:22,
 21864,DE,40213,2021-12-11,15:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2021-11-29 22:16:12,
+22112,DE,40213,2021-12-11,15:00,Düsseldorf,Johannes Rau Platz,Kundgebung,2021-12-05 18:25:22,
 22054,DE,85049,2021-12-11,15:30,Ingolstadt,Theaterplatz,Kundgebung,2021-12-05 07:05:42,
 22077,DE,26419,2021-12-11,16:00,Schortens,Bahnhof,Spaziergang,2021-12-05 13:21:13,
 21938,DE,50765,2021-12-11,17:00,Köln Chorweiler,Liverpooler Platz,Spaziergang,2021-12-01 09:28:42,
@@ -223,8 +224,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 21815,DE,18055,2021-12-27,17:00,Rostock,Rosengarten,Aufzug,2021-11-26 20:54:36,https://dlive.tv/7TuermeMedien
 22027,DE,98574,2021-12-27,18:00,Schmalkalden,Altmarkt,Kundgebung,2021-12-04 01:21:36,
 21963,DE,95326,2021-12-27,18:00,Kulmbach,Marktplatz,Demonstration,2021-12-02 16:27:07,
-21971,DE,29221,2021-12-27,18:30,Celle,Stechbahn / vor Kirche,Spaziergang,2021-12-02 17:39:12,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 21972,DE,29221,2021-12-27,18:30,Celle,Stechbahn / vor Kirche,Spaziergang,2021-12-02 17:43:43,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+21971,DE,29221,2021-12-27,18:30,Celle,Stechbahn / vor Kirche,Spaziergang,2021-12-02 17:39:12,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 21833,DE,26382,2021-12-27,19:00,Wilhelmshaven,Rathaus,Kundgebung,2021-11-27 12:09:23,
 21665,DE,17033,2021-12-27,19:00,Neubrandenburg,Marktplatz,Spaziergang,2021-11-11 08:23:52,
 3816,DE,85586,2021-12-30,18:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:22:14,
