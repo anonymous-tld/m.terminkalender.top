@@ -50,15 +50,15 @@ document.addEventListener('DOMContentLoaded', function() {
     },
     titleFormat: { year: 'numeric', month: 'numeric', day: 'numeric' },
     events: '/event-data',
-    eventClick: function(info) {
-      info.jsEvent.preventDefault(); // don't let the browser navigate
-      //console.log(info);
-      if (info.event.extendedProps.stream) {
-        window.open(info.event.extendedProps.stream);
-      } else if (info.event.url) {
-        window.open(info.event.url);
-      }
-    },
+    //eventClick: function(info) {
+    //  info.jsEvent.preventDefault(); // don't let the browser navigate
+    //  //console.log(info);
+    //  if (info.event.extendedProps.stream) {
+    //    window.open(info.event.extendedProps.stream);
+    //  } else if (info.event.url) {
+    //    window.open(info.event.url);
+    //  }
+    //},
     navLinks: true,
     locale: lang,
     height: 'auto',
@@ -78,14 +78,10 @@ document.addEventListener('DOMContentLoaded', function() {
     eventDidMount: function(info) {
       var elemTitle = info.el.getElementsByClassName('fc-list-event-title')[0];
       if (elemTitle) {
-        if (info.event.url && info.event.extendedProps.stream) {
-          elemTitle.innerHTML = '<a href="' + info.event.url + '">' + elemTitle.innerText + '</a>&nbsp;&nbsp;<a href="' + info.event.extendedProps.stream + '"><img src="https://demo.terminkalender.top/img/live.png" height="16px" style="vertical-align:middle"/></a>';
-        } else if (info.event.url) {
-          elemTitle.innerHTML = '<a href="' + info.event.url + '">' + elemTitle.innerText + '</a>';
-        } else if (info.event.extendedProps.stream) {
-          elemTitle.innerHTML = elemTitle.innerText + '&nbsp&nbsp<a href="' + info.event.extendedProps.stream + '"><img src="https://demo.terminkalender.top/img/live.png" height="16px" style="vertical-align:middle"/></a>';
+        if (info.event.url) {
+          elemTitle.innerHTML = '<a href=https://terminkalender.top/de/view/?id=' + info.event.id + '>' + elemTitle.innerText + '</a>&nbsp;&nbsp;<a href="' + info.event.url + '"><img src="https://demo.terminkalender.top/img/live.png" height="16px" style="vertical-align:middle"/></a>';
         } else {
-          elemTitle.innerHTML = elemTitle.innerText;
+          elemTitle.innerHTML = '<a href=https://terminkalender.top/de/view/?id=' + info.event.id + '>' + elemTitle.innerText + '</a>';
         }
       }
       var elemDot = info.el.getElementsByClassName('fc-list-event-dot')[0];
