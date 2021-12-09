@@ -51,13 +51,13 @@ document.addEventListener('DOMContentLoaded', function() {
     titleFormat: { year: 'numeric', month: 'numeric', day: 'numeric' },
     events: '/event-data',
     //eventClick: function(info) {
-    //  info.jsEvent.preventDefault(); // don't let the browser navigate
-    //  //console.log(info);
-    //  if (info.event.extendedProps.stream) {
-    //    window.open(info.event.extendedProps.stream);
-    //  } else if (info.event.url) {
-    //    window.open(info.event.url);
-    //  }
+     // info.jsEvent.preventDefault(); // don't let the browser navigate
+     // //console.log(info);
+     // if (info.event.extendedProps.stream) {
+     //   window.open(info.event.extendedProps.stream);
+     // } else if (info.event.url) {
+     //   window.open(info.event.url);
+     // }
     //},
     navLinks: true,
     locale: lang,
