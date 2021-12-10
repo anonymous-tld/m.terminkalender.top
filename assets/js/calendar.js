@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
       var elemTitle = info.el.getElementsByClassName('fc-list-event-title')[0];
       if (elemTitle) {
         if (info.event.extendedProps.stream) {
-          elemTitle.innerHTML = '<a href=https://terminkalender.top/de/view/?id=' + info.event.id + '>' + elemTitle.innerText + '</a>&nbsp;&nbsp;<a href="' + info.event.url + '"><img src="https://demo.terminkalender.top/img/live.png" height="16px" style="vertical-align:middle"/></a>';
+          elemTitle.innerHTML = '<a href=https://terminkalender.top/de/view/?id=' + info.event.id + '>' + elemTitle.innerText + '</a>&nbsp;&nbsp;<a href="' + info.event.extendedProps.stream + '"><img src="https://demo.terminkalender.top/img/live.png" height="16px" style="vertical-align:middle"/></a>';
         } else {
           elemTitle.innerHTML = '<a href=https://terminkalender.top/de/view/?id=' + info.event.id + '>' + elemTitle.innerText + '</a>';
         }
