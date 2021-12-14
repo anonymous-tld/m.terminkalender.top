@@ -1,7 +1,9 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
+54807,DE,45772,2021-12-15,19:00,Marl (Hüls),Marktplatz,Spaziergang,2021-12-14 16:21:27,
 54794,DE,59457,2021-12-16,18:00,Werl,Propsteikirche, Kirchplatz 1,Gebet,2021-12-14 15:28:35,
 54795,DE,59457,2021-12-17,18:00,Werl,Kirchplatz 1,Gebet,2021-12-14 15:30:29,
 54793,DE,80333,2021-12-18,13:00,München,Wittelsbacherplatz,Kundgebung,2021-12-14 15:20:43,
+54805,DE,35037,2021-12-18,14:00,Marburg,Bahnhofsvorplatz,Demonstration,2021-12-14 16:16:58,
 54797,DE,59457,2021-12-20,18:00,Werl,Kirchplatz 1,Gebet,2021-12-14 15:34:13,
 54799,DE,39576,2021-12-20,18:00,Stendal,Marktplatz,Spaziergang,2021-12-14 15:36:44,
 54802,DE,47051,2021-12-20,18:00,Duisburg,Rathaus(Burgplatz),Aufzug,2021-12-14 15:45:28,
@@ -9,5 +11,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 54804,DE,99817,2021-12-20,19:00,Eisenach,Markt,Spaziergang,2021-12-14 15:54:27,
 54796,DE,59457,2021-12-21,18:00,Werl,Kirchplatz 1,Gebet,2021-12-14 15:32:56,
 54798,DE,59457,2021-12-22,18:00,Werl,Kirchplatz 1,Kundgebung,2021-12-14 15:35:34,
+54806,DE,59457,2021-12-22,18:00,Werl,Kirchplatz 1,Gebet,2021-12-14 16:18:09,
+54808,DE,59457,2021-12-22,18:00,Werl,Kirchplatz 1,Gebet,2021-12-14 16:27:46,
 54800,DE,59457,2021-12-27,18:00,Werl,Kirchplatz 1,Gebet,2021-12-14 15:38:59,
 54801,DE,59457,2021-12-28,18:00,Werl,Kirchplatz 1,Gebet,2021-12-14 15:40:24,
