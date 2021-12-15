@@ -1,6 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 54914,DE,12681,2021-12-15,18:03,Berlin,Marzahn,Kundgebung,2021-12-15 21:03:56,
 54904,DE,24103,2021-12-16,18:30,Kiel,Exerzierplatz,Spaziergang,2021-12-15 18:40:25,
+54917,DE,47051,2021-12-17,12:00,Duisburg,Hauptbahnhof Vorplatz,Kundgebung,2021-12-15 21:48:16,
 54905,DE,24941,2021-12-18,15:00,Flensburg,Fördepark,Spaziergang,2021-12-15 19:00:21,
 54916,DE,31137,2021-12-18,18:00,Hildesheim,Neustädter Markt,Spaziergang,2021-12-15 21:38:27,
 54915,DE,90471,2021-12-19,12:30,Nürnberg,Volksfestplatz,Demonstration,2021-12-15 21:28:18,
@@ -10,8 +11,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 54902,DE,03238,2021-12-20,18:00,Finsterwalde,Marktplatz,Spaziergang,2021-12-15 18:37:06,
 54909,DE,26603,2021-12-20,18:00,Aurich,Rathaus bei den Wasserspielen,Spaziergang,2021-12-15 20:08:11,
 54901,DE,04910,2021-12-20,18:30,Elsterwerda,Marktplatz,Spaziergang,2021-12-15 18:36:02,
-54907,DE,10117,2021-12-20,18:30,Berlin,Pariser Platz am Brandenburger,Kundgebung,2021-12-15 19:56:22,
 54913,DE,10117,2021-12-20,18:30,Berlin,Pariser Platz am Brandenburger,Kundgebung,2021-12-15 21:01:18,
+54907,DE,10117,2021-12-20,18:30,Berlin,Pariser Platz am Brandenburger,Kundgebung,2021-12-15 19:56:22,
 54912,DE,80331,2021-12-20,19:00,München,Marienplatz,Spaziergang,2021-12-15 21:00:21,
 54903,DE,04916,2021-12-20,19:00,Herzberg,Markt,Spaziergang,2021-12-15 18:38:11,
 54900,DE,07545,2021-12-20,19:00,Gera,Marktplatz,Spaziergang,2021-12-15 18:30:57,
