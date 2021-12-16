@@ -6,6 +6,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 54996,AT,1010,2021-12-18,13:00,Wien,Schwarzenbergplatz,Kundgebung,2021-12-16 19:19:42,
 54992,EU,1628,2021-12-18,14:00,Luxemburg,Glacis / Rond-Point Schumann,Demonstration,2021-12-16 18:35:35,
 55002,AT,8430,2021-12-18,15:00,Leibnitz,Bahnhof,Demonstration,2021-12-16 19:27:31,
+55071,DE,60313,2021-12-18,15:00,Frankfurt am Main,Alte Oper,Demonstration,2021-12-16 23:54:19,
 55008,AT,6020,2021-12-18,15:30,Innsbruck,Landhausplatz,Kundgebung,2021-12-16 19:32:27,
 55029,DE,29410,2021-12-18,16:00,Salzwedel,Rathausturmplatz,Spaziergang,2021-12-16 20:11:49,
 55009,DE,86150,2021-12-18,17:00,Augsburg,Ulrichsplatz,Demonstration,2021-12-16 19:34:12,
@@ -82,4 +83,5 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 55070,DE,03046,2021-12-20,19:00,Cottbus - Zentrum,Oberkirche Sankt Nikolai,Spaziergang,2021-12-16 23:44:18,
 54995,DE,26689,2021-12-20,19:00,Apen,Rathaus,Event,2021-12-16 19:18:00,
 55050,DE,17489,2021-12-22,18:00,Wolgast,Am Hafen Kai,Kundgebung,2021-12-16 21:14:54,
+55072,AT,8020,2021-12-23,18:00,Graz,Hauptbahnhof,Spaziergang,2021-12-16 23:57:24,
 55069,DE,24211,2021-12-27,18:00,Preetz,Markt,Spaziergang,2021-12-16 23:30:03,
