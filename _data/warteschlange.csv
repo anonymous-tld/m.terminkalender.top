@@ -1,5 +1,6 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 66910,AT,4755,2021-12-29,18:00,Zell an der Pram,Musikheim,Lichterkette,2021-12-27 21:16:23,
+66930,DE,17438,2021-12-29,18:00,Wolgast,Freifläche am Kai,Aufzug,2021-12-27 22:13:59,
 66911,AT,3390,2021-12-29,18:00,Melk,Hauptplatz,Spaziergang,2021-12-27 21:18:00,
 66912,AT,7000,2021-12-30,18:00,Eisenstadt,Schloss Esterhazy,Spaziergang,2021-12-27 21:19:20,
 66924,DE,83022,2021-12-30,19:00,Rosenheim,Rathaus,Spaziergang,2021-12-27 21:35:46,
@@ -14,6 +15,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 66928,DE,26160,2022-01-03,18:00,Bad Zwischenahn,Rathaus,Spaziergang,2021-12-27 21:59:53,
 66926,DE,82515,2022-01-03,18:30,Wolfratshausen,Kirche Nantwein,Spaziergang,2021-12-27 21:46:21,
 66927,DE,82515,2022-01-03,18:30,Wolfratshausen,Kirche Nantwein / Edeka Parkp.,Spaziergang,2021-12-27 21:51:53,
+66929,DE,46325,2022-01-03,18:30,Borken,Marktplatz,Spaziergang,2021-12-27 22:13:25,
 66920,AT,6900,2022-02-02,14:00,Bregenz,Festspielplatz,Demonstration,2021-12-27 21:31:20,
 66921,AT,3361,2022-03-03,18:00,Aschbach-Markt,Rathausplatz,Kundgebung,2021-12-27 21:32:28,
 66923,AT,8323,2022-04-01,18:00,St Marein bei Graz,Beim Kirchplatz,Spaziergang,2021-12-27 21:34:14,
