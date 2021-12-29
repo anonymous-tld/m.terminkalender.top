@@ -1,7 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 67063,DE,09111,2021-12-30,18:00,Chemnitz,Schillerpark,Spaziergang,2021-12-29 00:15:33,
-67062,DE,09111,2021-12-30,18:00,Chemnitz,Schillerplatz,Spaziergang,2021-12-29 00:15:21,
 67060,DE,09111,2021-12-30,18:00,Chemnitz,Schillerplatz,Spaziergang,2021-12-29 00:14:08,
+67062,DE,09111,2021-12-30,18:00,Chemnitz,Schillerplatz,Spaziergang,2021-12-29 00:15:21,
 67061,DE,09111,2021-12-30,18:59,Chemnitz,Schillerpark,Spaziergang,2021-12-29 00:15:12,
 67064,DE,63755,2021-12-30,20:00,Alzenau,Kirche Haupteingang,Spaziergang,2021-12-29 00:28:03,
 67056,DE,52428,2021-12-31,15:00,Jülich,Marienbrunnen beim Marktplatz,Spaziergang,2021-12-28 22:31:54,
@@ -16,6 +16,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 67049,DE,37445,2022-01-03,18:00,Walkenried,Rathaus,Spaziergang,2021-12-28 21:36:04,
 67052,DE,06862,2022-01-03,18:00,Roßlau,Marktplatz,Spaziergang,2021-12-28 21:43:17,
 67059,DE,76316,2022-01-03,18:00,Malsch,Kreisel Ortsmitte,Spaziergang,2021-12-28 23:37:59,
+67078,DE,64521,2022-01-03,18:00,Groß-Gerau,Ganze Innenstadt,Sonstiges,2021-12-29 08:54:44,
 67050,DE,24340,2022-01-03,18:00,Eckernförde,Hafen Holzbrücke,Spaziergang,2021-12-28 21:38:31,
 67074,DE,45479,2022-01-03,18:15,Mülheim an der Ruhr,Parkplatz Stadthalle,Demonstration,2021-12-29 02:44:21,
 67051,DE,10178,2022-01-03,18:30,Berlin,Alexanderplatz, Weltzeituhr,Spaziergang,2021-12-28 21:39:44,
