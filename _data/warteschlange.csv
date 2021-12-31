@@ -5,6 +5,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 67434,DE,86633,2022-01-02,14:00,Neuburg an der Donau,Spitalplatz,Spaziergang,2021-12-31 10:17:47,
 67421,DE,18055,2022-01-03,17:00,Rostock,Rosengarten/Am Steintor,Aufzug,2021-12-31 08:49:46,https://dlive.tv/7TuermeMedien
 67429,DE,79761,2022-01-03,18:00,Waldshut,Kaiserstrasse vor dem Rathaus,Kundgebung,2021-12-31 09:12:48,
+67438,DE,65232,2022-01-03,18:00,Taunusstein Bleidenstadt,Kirche,Spaziergang,2021-12-31 11:28:36,
 67428,DE,14467,2022-01-03,18:00,Potsdam,Platz zwischen Filmmuseum und,Mahnwache,2021-12-31 09:11:53,
 67430,DE,14612,2022-01-03,18:00,Falkensee,Rathaus,Spaziergang,2021-12-31 09:14:55,
 67433,DE,96450,2022-01-03,18:00,Coburg,Rathaus,Spaziergang,2021-12-31 09:26:05,
@@ -13,7 +14,12 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 67420,DE,33602,2022-01-07,18:00,Bielefeld,Innenstadt auf dem Kesselbrink,Spaziergang,2021-12-31 04:57:45,
 67432,DE,14612,2022-01-09,18:00,Falkensee,alte Stadthalle,Gebet,2021-12-31 09:18:26,
 67422,DE,18055,2022-01-10,17:00,Rostock,Rosengarten/Am Steintor,Aufzug,2021-12-31 08:50:45,https://dlive.tv/7TuermeMedien
+67439,DE,65232,2022-01-10,18:00,Taunusstein Bleidenstadt,Kirche,Spaziergang,2021-12-31 11:30:22,
 67431,DE,14612,2022-01-10,18:00,Falkensee,Rathaus,Spaziergang,2021-12-31 09:17:38,
+67440,DE,99510,2022-01-10,18:30,Apolda,Markt/ Rathaus,Spaziergang,2021-12-31 11:33:51,
 67423,DE,18055,2022-01-17,17:00,Rostock,Rosengarten/Am Steintor,Aufzug,2021-12-31 08:51:32,https://dlive.tv/7TuermeMedien
+67441,DE,99510,2022-01-17,18:30,Apolda,Markt/ Rathaus,Spaziergang,2021-12-31 11:35:30,
 67424,DE,18055,2022-01-24,17:00,Rostock,Rosengarten/Am Steintor,Aufzug,2021-12-31 08:52:19,https://dlive.tv/7TuermeMedien
+67442,DE,99510,2022-01-24,18:30,Apolda,Markt/ Rathaus,Spaziergang,2021-12-31 11:36:39,
 67425,DE,18055,2022-01-31,17:00,Rostock,Rosengarten/Am Steintor,Aufzug,2021-12-31 08:52:54,https://dlive.tv/7TuermeMedien
+67443,DE,99510,2022-01-31,18:30,Apolda,Markt/ Rathaus,Spaziergang,2021-12-31 11:38:09,
