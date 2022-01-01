@@ -2,6 +2,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 67501,DE,36037,2022-01-01,17:30,Fulda,Bahnhofsvorplatz,Spaziergang,2022-01-01 09:57:06,
 67513,DE,65428,2022-01-01,18:00,Rüsselsheim am Main,Theater,Spaziergang,2022-01-01 12:41:35,https://www.facebook.com/100021985597290/videos/310033747716550/
 67507,DE,72202,2022-01-01,18:01,Nagold,Rathaus,Spaziergang,2022-01-01 12:02:23,
+67519,DE,31303,2022-01-02,18:00,Burgdorf,Schützenplatz,Spaziergang,2022-01-01 15:06:27,
 67487,DE,99974,2022-01-02,19:00,Mühlhausen/ Thür.,Untermarkt,Spaziergang,2022-01-01 09:30:25,
 67516,DE,45130,2022-01-03,17:30,Essen,Rüttenscheider Marktplatz,Demonstration,2022-01-01 13:18:53,
 67512,DE,36381,2022-01-03,18:00,Schlüchtern,Feuerwehrplatz,Spaziergang,2022-01-01 12:30:58,
@@ -9,8 +10,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 67517,DE,41460,2022-01-03,18:00,Neuss,Quirinus Münster Platz,Spaziergang,2022-01-01 14:02:35,
 67486,DE,55116,2022-01-03,18:00,Mainz,Direkt vor Landtag,Spaziergang,2022-01-01 09:13:08,
 67504,DE,44532,2022-01-03,18:00,Lünen,Wily-Brandt-Platz - Rathaus,Spaziergang,2022-01-01 10:23:21,
-67515,DE,02977,2022-01-03,18:00,Hoyerswerda,Lausitzer Platz,Spaziergang,2022-01-01 12:58:03,
 67514,DE,02977,2022-01-03,18:00,Hoyerswerda,Lausitzer Platz,Spaziergang,2022-01-01 12:57:43,
+67515,DE,02977,2022-01-03,18:00,Hoyerswerda,Lausitzer Platz,Spaziergang,2022-01-01 12:58:03,
 67506,DE,76332,2022-01-03,18:00,Bad Herrenalb,Rathausplatz,Spaziergang,2022-01-01 11:34:31,
 67510,DE,52062,2022-01-03,19:00,Aachen,Rathaus/Markt,Spaziergang,2022-01-01 12:18:54,
 67505,DE,46485,2022-01-04,19:00,Wesel,Martinistraße 6-8,Spaziergang,2022-01-01 11:20:33,
@@ -19,7 +20,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 67502,DE,39104,2022-01-08,13:00,Magdeburg,Alter Markt,Kundgebung,2022-01-01 10:16:43,
 67511,DE,52064,2022-01-08,15:00,Aachen,Eurogress Kurpark Monheimsalle,Demonstration,2022-01-01 12:20:08,
 67488,DE,17033,2022-01-10,19:00,Neubrandenburg,Marktplatz,Aufzug,2022-01-01 09:48:44,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/about
+67518,DE,78467,2022-01-13,18:00,Konstanz,Marktstätte,Demonstration,2022-01-01 15:04:03,
 67489,DE,17033,2022-01-17,19:00,Neubrandenburg,Marktplatz,Aufzug,2022-01-01 09:49:40,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured
+67520,DE,78467,2022-01-22,16:00,Konstanz,Stadtgarten,Demonstration,2022-01-01 15:06:32,
 67490,DE,17033,2022-01-24,19:00,Neubrandenburg,Marktplatz,Aufzug,2022-01-01 09:50:08,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured
 67491,DE,17033,2022-01-31,19:00,Neubrandenburg,Marktplatz,Aufzug,2022-01-01 09:50:34,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured
 67492,DE,17033,2022-02-07,19:00,Neubrandenburg,Marktplatz,Aufzug,2022-01-01 09:51:04,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured
