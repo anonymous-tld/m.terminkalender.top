@@ -2,12 +2,13 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 67501,DE,36037,2022-01-01,17:30,Fulda,Bahnhofsvorplatz,Spaziergang,2022-01-01 09:57:06,
 67513,DE,65428,2022-01-01,18:00,Rüsselsheim am Main,Theater,Spaziergang,2022-01-01 12:41:35,https://www.facebook.com/100021985597290/videos/310033747716550/
 67507,DE,72202,2022-01-01,18:01,Nagold,Rathaus,Spaziergang,2022-01-01 12:02:23,
+67537,DE,97421,2022-01-02,18:00,Schweinfurt,Innenstadt,Spaziergang,2022-01-01 20:06:20,
 67519,DE,31303,2022-01-02,18:00,Burgdorf,Schützenplatz,Spaziergang,2022-01-01 15:06:27,
 67487,DE,99974,2022-01-02,19:00,Mühlhausen/ Thür.,Untermarkt,Spaziergang,2022-01-01 09:30:25,
 67516,DE,45130,2022-01-03,17:30,Essen,Rüttenscheider Marktplatz,Demonstration,2022-01-01 13:18:53,
 67527,DE,73240,2022-01-03,18:00,Wendlingen,Rathaus,Spaziergang,2022-01-01 16:15:39,
-67509,DE,36381,2022-01-03,18:00,Schlüchtern,Feuerwehrplatz Schlüchtern,Spaziergang,2022-01-01 12:12:35,
 67512,DE,36381,2022-01-03,18:00,Schlüchtern,Feuerwehrplatz,Spaziergang,2022-01-01 12:30:58,
+67509,DE,36381,2022-01-03,18:00,Schlüchtern,Feuerwehrplatz Schlüchtern,Spaziergang,2022-01-01 12:12:35,
 67528,DE,72622,2022-01-03,18:00,Nürtingen,Rathaus,Spaziergang,2022-01-01 16:16:35,
 67517,DE,41460,2022-01-03,18:00,Neuss,Quirinus Münster Platz,Spaziergang,2022-01-01 14:02:35,
 67486,DE,55116,2022-01-03,18:00,Mainz,Direkt vor Landtag,Spaziergang,2022-01-01 09:13:08,
@@ -19,6 +20,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 67532,DE,61169,2022-01-03,18:00,Friedberg,Stadtkirche,Spaziergang,2022-01-01 19:39:52,
 67531,DE,73728,2022-01-03,18:00,Esslingen,Rathaus,Spaziergang,2022-01-01 19:25:54,
 67506,DE,76332,2022-01-03,18:00,Bad Herrenalb,Rathausplatz,Spaziergang,2022-01-01 11:34:31,
+67538,DE,90478,2022-01-03,18:30,Nürnberg,Meistersingerhalle,Spaziergang,2022-01-01 20:07:54,
 67510,DE,52062,2022-01-03,19:00,Aachen,Rathaus/Markt,Spaziergang,2022-01-01 12:18:54,
 67521,DE,90402,2022-01-04,17:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2022-01-01 15:11:50,
 67505,DE,46485,2022-01-04,19:00,Wesel,Martinistraße 6-8,Spaziergang,2022-01-01 11:20:33,
@@ -35,6 +37,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 67511,DE,52064,2022-01-08,15:00,Aachen,Eurogress Kurpark Monheimsalle,Demonstration,2022-01-01 12:20:08,
 67525,DE,90402,2022-01-08,17:00,Nürnberg,Lorenzkirche,Kundgebung,2022-01-01 15:16:45,
 67488,DE,17033,2022-01-10,19:00,Neubrandenburg,Marktplatz,Aufzug,2022-01-01 09:48:44,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/about
+67539,DE,25548,2022-01-11,18:00,Kellinghusen,Parkplatz vor dem neuen Amt,Spaziergang,2022-01-01 20:10:32,
 67530,DE,25548,2022-01-11,18:00,Kellinghusen,Parkplatz vor dem neuen Amt,Spaziergang,2022-01-01 17:59:16,
 67518,DE,78467,2022-01-13,18:00,Konstanz,Marktstätte,Demonstration,2022-01-01 15:04:03,
 67489,DE,17033,2022-01-17,19:00,Neubrandenburg,Marktplatz,Aufzug,2022-01-01 09:49:40,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured
