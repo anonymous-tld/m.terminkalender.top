@@ -3,6 +3,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 67537,DE,97421,2022-01-02,18:00,Schweinfurt,Innenstadt,Spaziergang,2022-01-01 20:06:20,
 67519,DE,31303,2022-01-02,18:00,Burgdorf,Schützenplatz,Spaziergang,2022-01-01 15:06:27,
 67487,DE,99974,2022-01-02,19:00,Mühlhausen/ Thür.,Untermarkt,Spaziergang,2022-01-01 09:30:25,
+67550,DE,22179,2022-01-03,17:00,Hamburg (Bramfeld),Herthastr./Martkplatz/gr. Baum,Spaziergang,2022-01-02 01:27:35,
 67546,DE,18311,2022-01-03,17:30,Ribnitz-Damgarten,Marktplatz,Kundgebung,2022-01-01 23:00:51,
 67516,DE,45130,2022-01-03,17:30,Essen,Rüttenscheider Marktplatz,Demonstration,2022-01-01 13:18:53,
 67527,DE,73240,2022-01-03,18:00,Wendlingen,Rathaus,Spaziergang,2022-01-01 16:15:39,
@@ -43,8 +44,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 67511,DE,52064,2022-01-08,15:00,Aachen,Eurogress Kurpark Monheimsalle,Demonstration,2022-01-01 12:20:08,
 67525,DE,90402,2022-01-08,17:00,Nürnberg,Lorenzkirche,Kundgebung,2022-01-01 15:16:45,
 67488,DE,17033,2022-01-10,19:00,Neubrandenburg,Marktplatz,Aufzug,2022-01-01 09:48:44,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/about
-67530,DE,25548,2022-01-11,18:00,Kellinghusen,Parkplatz vor dem neuen Amt,Spaziergang,2022-01-01 17:59:16,
 67539,DE,25548,2022-01-11,18:00,Kellinghusen,Parkplatz vor dem neuen Amt,Spaziergang,2022-01-01 20:10:32,
+67530,DE,25548,2022-01-11,18:00,Kellinghusen,Parkplatz vor dem neuen Amt,Spaziergang,2022-01-01 17:59:16,
 67518,DE,78467,2022-01-13,18:00,Konstanz,Marktstätte,Demonstration,2022-01-01 15:04:03,
 67489,DE,17033,2022-01-17,19:00,Neubrandenburg,Marktplatz,Aufzug,2022-01-01 09:49:40,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured
 67520,DE,78467,2022-01-22,16:00,Konstanz,Stadtgarten,Demonstration,2022-01-01 15:06:32,
