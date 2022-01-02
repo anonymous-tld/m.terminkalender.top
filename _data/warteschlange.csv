@@ -2,6 +2,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 67560,DE,39539,2022-01-02,18:00,Havelberg,Bahnhofstraße,Demonstration,2022-01-02 10:41:08,
 67602,DE,50667,2022-01-03,06:00,KÖLN,An der Kreuzblume am Dom,Spaziergang,2022-01-02 13:39:17,
 67588,DE,18055,2022-01-03,15:45,Rostock,Stadthafen/Kanonsberg,Menschenkette,2022-01-02 12:10:53,
+67615,DE,18055,2022-01-03,17:00,Rostock,Rosengarten / Steintor,Spaziergang,2022-01-02 17:18:21,
 67603,DE,45127,2022-01-03,17:00,Essen,Kennedyplatz bis zum HBF-back,Spaziergang,2022-01-02 13:47:33,Kommt später
 67554,DE,31812,2022-01-03,17:15,Bad Pyrmont,Springbrunnen am Wasserlauf,Spaziergang,2022-01-02 09:34:00,
 67613,DE,18311,2022-01-03,17:30,Ribnitz-Damgarten,Marktplatz,Kundgebung,2022-01-02 17:02:38,
@@ -35,8 +36,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 67552,DE,83052,2022-01-03,19:00,Bruckmühl,Altes Rathaus in Bruckmühl,Spaziergang,2022-01-02 08:36:46,
 67607,DE,83229,2022-01-03,19:00,Aschau im Chiemgau,Rathaus,Spaziergang,2022-01-02 15:41:00,
 67604,AT,2700,2022-01-04,18:00,Wr. Neustadt,Hauptplatz,Kundgebung,2022-01-02 14:23:24,
-67583,DE,20146,2022-01-05,06:00,Hamburg,Dammtor,Spaziergang,2022-01-02 11:41:08,
 67584,DE,20146,2022-01-05,06:00,Hamburg,Dammtor,Spaziergang,2022-01-02 11:42:01,
+67583,DE,20146,2022-01-05,06:00,Hamburg,Dammtor,Spaziergang,2022-01-02 11:41:08,
 67608,DE,70173,2022-01-05,17:00,Stuttgart,Marktplatz vor dem Rathaus,Kundgebung,2022-01-02 16:04:26,
 67586,DE,47179,2022-01-05,18:00,Duisburg- Walsum,Berzirksamt /  Altes Rathaus,Spaziergang,2022-01-02 11:53:52,
 67599,DE,06632,2022-01-05,19:00,Freyburg,Marktplatz,Spaziergang,2022-01-02 12:49:46,
