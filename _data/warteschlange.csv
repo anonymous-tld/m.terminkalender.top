@@ -1,5 +1,6 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 68542,DE,71394,2022-01-08,11:00,Kernen im Remstal,Marktplatz Kernen-Rommelsh.,Kundgebung,2022-01-07 13:29:48,
+68565,DE,16866,2022-01-09,14:00,Kyritz,Marktplatz,Spaziergang,2022-01-07 20:37:47,
 68556,DE,74889,2022-01-10,18:00,Sinsheim,Fußgängerzone,Spaziergang,2022-01-07 20:04:45,
 68557,DE,88212,2022-01-10,18:00,Ravensburg,Marienplatz (Lederhaus),Spaziergang,2022-01-07 20:28:00,
 68544,DE,40885,2022-01-10,18:00,Ratingen-Lintorf,Kirche - St. Anna (am Markt),Spaziergang,2022-01-07 18:26:04,
@@ -10,8 +11,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 68552,DE,04895,2022-01-10,18:00,Falkenberg/Elster,Marktplatz,Spaziergang,2022-01-07 19:32:06,
 68563,DE,04895,2022-01-10,18:00,Falkenberg,Marktplatz,Spaziergang,2022-01-07 20:35:14,
 68543,DE,65817,2022-01-10,18:00,Eppstein,Rathaus Vockenhausen,Spaziergang,2022-01-07 14:25:04,
-68564,DE,03253,2022-01-10,18:00,Doberlug-Kirchhain,Markt,Spaziergang,2022-01-07 20:36:25,
 68554,DE,03253,2022-01-10,18:00,Doberlug-kirchhain,Marktplatz,Spaziergang,2022-01-07 19:36:19,
+68564,DE,03253,2022-01-10,18:00,Doberlug-Kirchhain,Markt,Spaziergang,2022-01-07 20:36:25,
 68550,DE,04924,2022-01-10,18:00,Bad Liebenwerda,Marktplatz,Spaziergang,2022-01-07 19:30:31,
 68562,DE,04924,2022-01-10,18:00,Bad Liebenwerda,Marktplatz,Spaziergang,2022-01-07 20:33:58,
 68555,DE,06231,2022-01-10,18:00,Bad Dürrenberg,Marktplatz,Spaziergang,2022-01-07 19:58:53,
