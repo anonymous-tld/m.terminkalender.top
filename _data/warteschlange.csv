@@ -1,5 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 68807,DE,70563,2022-01-10,18:00,Stuttgart-Vaihingen,Rathaus,Spaziergang,2022-01-10 09:27:50,
+68809,DE,16515,2022-01-10,18:00,Oranienburg,Am Schloss,Kundgebung,2022-01-10 09:48:25,
+68810,DE,16515,2022-01-10,18:00,Oranienburg,Am Schlossplatz,Kundgebung,2022-01-10 09:49:45,
 68805,DE,48143,2022-01-10,18:00,Münster,Domplatz,Spaziergang,2022-01-10 09:22:28,
 68806,DE,48143,2022-01-10,18:00,Münster,Aaseekugeln,Spaziergang,2022-01-10 09:24:06,
 68795,DE,91522,2022-01-10,18:00,Ansbach,Martin-Luther-Platz,Spaziergang,2022-01-10 08:29:55,
@@ -7,6 +9,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 68797,DE,69115,2022-01-11,18:30,Heidelberg,Bismarckplatz,Spaziergang,2022-01-10 08:31:03,
 68798,DE,69115,2022-01-12,18:30,Heidelberg,Bismarckplatz,Kundgebung,2022-01-10 08:31:33,
 68799,DE,69115,2022-01-13,18:30,Heidelberg,Bismarckplatz,Spaziergang,2022-01-10 08:32:13,
+68808,DE,60385,2022-01-13,18:30,Frankfurt Bornheim,Berger Strasse 158,Spaziergang,2022-01-10 09:47:07,
 68800,DE,69115,2022-01-14,18:30,Heidelberg,Bismarckplatz,Spaziergang,2022-01-10 08:33:27,
 68801,DE,69115,2022-01-15,18:30,Heidelberg,Bismarckplatz,Spaziergang,2022-01-10 08:34:00,
 68802,DE,69115,2022-01-16,18:30,Heidelberg,Bismarckplatz,Spaziergang,2022-01-10 08:34:33,
