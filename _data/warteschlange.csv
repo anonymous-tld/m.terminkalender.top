@@ -1,4 +1,5 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
+68863,DE,53545,2022-01-10,07:00,Linz Rhein,Rheintor,Spaziergang,2022-01-10 15:10:27,
 68844,DE,89518,2022-01-10,17:30,Heidenheim an der Brenz,Rathaus,Spaziergang,2022-01-10 13:38:55,
 68838,DE,64297,2022-01-10,17:30,Darmstadt-Eberstadt,Rathaus Eberstadt,Spaziergang,2022-01-10 13:18:11,
 68849,DE,30449,2022-01-10,17:49,Hannover,Maschsee,Spaziergang,2022-01-10 13:49:49,
@@ -20,8 +21,10 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 68836,DE,51570,2022-01-11,18:00,Windeck-Rosbach,Marktplatz,Mahnwache,2022-01-10 13:06:42,
 68840,DE,56626,2022-01-11,18:00,Andernach,Marktplatz,Spaziergang,2022-01-10 13:21:48,
 68861,DE,95469,2022-01-12,18:00,Kemnath,Ärztehaus,Spaziergang,2022-01-10 14:51:51,
+68864,DE,24103,2022-01-13,18:30,Kiel,Exerzierplatz,Spaziergang,2022-01-10 15:19:05,
 68853,DE,97633,2022-01-14,18:00,Bad Königshofen,Tuchbleiche,Spaziergang,2022-01-10 14:14:00,
 68860,DE,13125,2022-01-15,15:15,Berlin -Karow,Blankenburger Chaussee 86,Spaziergang,2022-01-10 14:43:48,
+68862,DE,75015,2022-01-16,10:45,Bretten,Stadtpark/Alter Friedhof,Meditation,2022-01-10 15:09:32,
 68845,DE,89518,2022-01-17,17:30,Heidenheim an der Brenz,Rathaus,Spaziergang,2022-01-10 13:39:33,
 68855,DE,79872,2022-01-17,18:00,Todtmoos,Vor der katholischen Kirche,Treffpunkt,2022-01-10 14:18:00,
 68846,DE,89518,2022-01-24,17:30,Heidenheim an der Brenz,Rathaus,Spaziergang,2022-01-10 13:39:56,
