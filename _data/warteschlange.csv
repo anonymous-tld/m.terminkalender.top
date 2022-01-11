@@ -3,6 +3,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 68935,DE,89420,2022-01-11,19:00,Höchstädt an der Donau,Rathaus,Spaziergang,2022-01-11 09:29:45,
 68940,DE,97070,2022-01-12,18:00,Würzburg,Hauptbahnhof, Bahnhofvorplatz,Spaziergang,2022-01-11 10:32:33,
 68968,DE,65779,2022-01-12,18:00,Kelkheim,Markt,Spaziergang,2022-01-11 16:48:45,
+68989,DE,60325,2022-01-12,18:30,Frankfurt,Bockenheimer Warte,Spaziergang,2022-01-11 20:26:51,
 68978,DE,72666,2022-01-12,19:00,Neckartailfingen,Rathaus,Spaziergang,2022-01-11 19:02:04,
 68941,DE,29221,2022-01-12,23:59,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-01-11 10:38:35,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 68947,DE,91054,2022-01-13,11:30,Erlangen,Schlossplatz,Kundgebung,2022-01-11 12:24:20,
@@ -36,8 +37,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 68931,DE,96337,2022-01-17,18:00,Ludwigsstadt,Rathaus,Kundgebung,2022-01-11 07:48:59,
 68926,DE,63225,2022-01-17,18:00,Langen (Hessen),Wiesenstrasse(Ecke Kino),Spaziergang,2022-01-11 05:29:39,
 68929,DE,41352,2022-01-17,18:00,Korschenbroich,Am Rathaus vor der Bäckerei,Spaziergang,2022-01-11 07:02:32,
-68975,DE,37671,2022-01-17,18:00,Höxter,Am Alten Rathaus,Spaziergang,2022-01-11 18:51:03,
 68936,DE,37671,2022-01-17,18:00,Höxter,Altes Rathaus,Spaziergang,2022-01-11 09:31:02,
+68975,DE,37671,2022-01-17,18:00,Höxter,Am Alten Rathaus,Spaziergang,2022-01-11 18:51:03,
 68930,DE,22607,2022-01-17,18:00,Hamburg - Othmarschen,Beselerplatz,Spaziergang,2022-01-11 07:08:44,
 68977,DE,82256,2022-01-17,18:00,Fürstenfeldbruck,Volksfestplatz,Spaziergang,2022-01-11 19:01:40,
 68988,DE,04895,2022-01-17,18:00,Falkenberg/Elster,Marktplatz,Spaziergang,2022-01-11 20:14:13,
