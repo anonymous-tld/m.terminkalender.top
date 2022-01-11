@@ -31,6 +31,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 68926,DE,63225,2022-01-17,18:00,Langen (Hessen),Wiesenstrasse(Ecke Kino),Spaziergang,2022-01-11 05:29:39,
 68929,DE,41352,2022-01-17,18:00,Korschenbroich,Am Rathaus vor der Bäckerei,Spaziergang,2022-01-11 07:02:32,
 68936,DE,37671,2022-01-17,18:00,Höxter,Altes Rathaus,Spaziergang,2022-01-11 09:31:02,
+68975,DE,37671,2022-01-17,18:00,Höxter,Am Alten Rathaus,Spaziergang,2022-01-11 18:51:03,
 68930,DE,22607,2022-01-17,18:00,Hamburg - Othmarschen,Beselerplatz,Spaziergang,2022-01-11 07:08:44,
 68951,DE,65817,2022-01-17,18:00,Eppstein,Rathaus Vockenhausen,Spaziergang,2022-01-11 12:59:50,
 68960,DE,64859,2022-01-17,18:00,Eppertshausen,Rathaus,Spaziergang,2022-01-11 15:22:28,
@@ -48,3 +49,6 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 68943,DE,29221,2022-01-26,23:59,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-01-11 10:39:33,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 68946,DE,52428,2022-02-14,18:00,Jülich,Schlossplatz (Touristen Info),Demonstration,2022-01-11 11:30:44,
 68972,DE,52428,2022-02-21,18:00,jülich,Gipfelkreuz Sophienhöhe,Demonstration,2022-01-11 18:47:18,
+68973,DE,52428,2022-02-28,16:00,jülich,Schlossplatz,Kundgebung,2022-01-11 18:49:26,
+68974,DE,52428,2022-03-07,16:00,jülich,Schlossplatz,Demonstration,2022-01-11 18:50:37,
+68976,DE,52428,2022-03-21,13:12,Jülich,Schlossplatz,Kundgebung,2022-01-11 18:52:18,
