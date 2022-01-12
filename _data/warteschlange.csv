@@ -1,6 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 69027,DE,58256,2022-01-12,17:00,Ennepetal,Hellweg Parkplatz,Spaziergang,2022-01-12 11:50:50,
 69066,DE,41460,2022-01-14,17:00,Neuss,Quirinus Münster,Spaziergang,2022-01-12 21:11:20,
+69070,DE,76316,2022-01-14,17:30,Malsch,Stephanplatz,Kundgebung,2022-01-12 22:18:10,
 69022,DE,74564,2022-01-15,10:00,Crailsheim,Schweinemarktplatz,Mahnwache,2022-01-12 11:28:55,
 69025,DE,87435,2022-01-15,11:00,Kempten,Hofgartenstr.,Schilderwald,2022-01-12 11:49:26,
 69069,DE,49080,2022-01-15,13:30,Osnabrück,Schlossgarten,Demonstration,2022-01-12 21:23:19,
@@ -31,8 +32,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69026,DE,53894,2022-01-17,18:00,Mechernich,Am Markt 12 (gegenüber Post),Spaziergang,2022-01-12 11:50:36,
 69044,DE,88131,2022-01-17,18:00,Lindau,Altes Rathaus / Bismarkplatz,Spaziergang,2022-01-12 17:52:42,
 69052,DE,52428,2022-01-17,18:00,Jülich,McDonalds Jülich,Eis essen,2022-01-12 18:57:04,
-69032,DE,71083,2022-01-17,18:00,Herrenberg,Marktplatz,Spaziergang,2022-01-12 12:19:41,
 69031,DE,71083,2022-01-17,18:00,Herrenberg,Marktplatz,Spaziergang,2022-01-12 12:18:56,
+69032,DE,71083,2022-01-17,18:00,Herrenberg,Marktplatz,Spaziergang,2022-01-12 12:19:41,
 69005,DE,48712,2022-01-17,18:00,Gescher,Rathaus Platz,Spaziergang,2022-01-12 01:34:34,
 69050,DE,03149,2022-01-17,18:00,Forst Lausitz,Stadtkirche,Spaziergang,2022-01-12 18:48:38,
 69018,DE,76275,2022-01-17,18:00,Ettlingen,Leopoldstraße beim Bummeln,Sonstiges,2022-01-12 10:21:10,
