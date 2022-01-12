@@ -1,5 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
+69027,DE,58256,2022-01-12,17:00,Ennepetal,Hellweg Parkplatz,Spaziergang,2022-01-12 11:50:50,
 69022,DE,74564,2022-01-15,10:00,Crailsheim,Schweinemarktplatz,Mahnwache,2022-01-12 11:28:55,
+69025,DE,87435,2022-01-15,11:00,Kempten,Hofgartenstr.,Schilderwald,2022-01-12 11:49:26,
 69020,DE,45127,2022-01-15,15:30,Essen,Willy-Brandt-Platz,Kundgebung,2022-01-12 10:53:59,
 69001,DE,06406,2022-01-16,16:30,Bernburg,Weltzeituhr, Karlsplatz,Spaziergang,2022-01-11 23:57:51,
 69010,DE,21279,2022-01-16,19:00,Hollenstedt,Samtgemeide Verwaltung,Spaziergang,2022-01-12 08:16:03,
@@ -9,6 +11,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69013,DE,41460,2022-01-17,18:00,Neuss,Quirinus Münster Platz,Schweigemarsch,2022-01-12 09:27:49,
 69004,DE,76461,2022-01-17,18:00,Muggensturm,Rathaus,Spaziergang,2022-01-12 00:27:06,
 69023,DE,76461,2022-01-17,18:00,Muggensturm,Rathaus,Spaziergang,2022-01-12 11:31:23,
+69026,DE,53894,2022-01-17,18:00,Mechernich,Am Markt 12 (gegenüber Post),Spaziergang,2022-01-12 11:50:36,
 69005,DE,48712,2022-01-17,18:00,Gescher,Rathaus Platz,Spaziergang,2022-01-12 01:34:34,
 69018,DE,76275,2022-01-17,18:00,Ettlingen,Leopoldstraße beim Bummeln,Sonstiges,2022-01-12 10:21:10,
 69006,DE,28195,2022-01-17,18:00,Bremen,Hanseatenhof,Spaziergang,2022-01-12 03:21:03,
