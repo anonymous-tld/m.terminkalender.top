@@ -1,4 +1,5 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
+69141,DE,91126,2022-01-14,18:00,Schwabach,Martin-Luther-Platz,Kundgebung,2022-01-13 20:47:44,
 69113,DE,84028,2022-01-15,11:00,Landshut,Isarpromenade ab Ländtor,Menschenkette,2022-01-13 14:55:03,
 69109,DE,80333,2022-01-15,13:00,München,MAX-JOSEPHS-PLATZ,Kundgebung,2022-01-13 14:22:52,https://youtube.com/channel/UCoVt9gB_PTXPv8X1kpLl7xA
 69112,DE,80333,2022-01-15,13:00,München,Königsplatz,Aufzug,2022-01-13 14:29:48,
@@ -12,8 +13,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69117,DE,87719,2022-01-17,18:00,Mindelheim,Rathaus,Spaziergang,2022-01-13 16:24:09,
 69131,DE,73033,2022-01-17,18:00,Göppingen,Marktplatz,Spaziergang,2022-01-13 20:22:47,
 69127,DE,61169,2022-01-17,18:00,Friedberg/Hessen,Stadtkirche,Spaziergang,2022-01-13 20:09:59,
-69122,DE,14059,2022-01-17,18:00,Berlin,Vor dem Schloss Charlottenburg,Spaziergang,2022-01-13 19:12:02,
 69123,DE,14059,2022-01-17,18:00,Berlin,Vor dem Schloss Charlottenburg,Spaziergang,2022-01-13 19:15:34,
+69122,DE,14059,2022-01-17,18:00,Berlin,Vor dem Schloss Charlottenburg,Spaziergang,2022-01-13 19:12:02,
+69142,DE,92339,2022-01-17,18:00,Beilngries,Kirchplatz Hauptstraße,Aufzug,2022-01-13 20:47:57,
 69121,DE,49610,2022-01-17,19:00,Quakenbrck,Marktplatz,Spaziergang,2022-01-13 17:45:25,
 69136,DE,99974,2022-01-17,19:00,Mühlhausen,Untermarkt,Spaziergang,2022-01-13 20:31:23,
 69120,DE,59555,2022-01-17,19:00,Lippstadt,Rathaus (Rathausstraße),Spaziergang,2022-01-13 17:34:40,
@@ -22,13 +24,17 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69116,DE,84547,2022-01-18,18:00,Emmerting,Kirche/Gemeindewiese/Karrerweg,Spaziergang,2022-01-13 16:07:43,
 69114,DE,95478,2022-01-19,18:00,Kemnath,Ärztehaus,Spaziergang,2022-01-13 15:18:20,
 69129,AT,3350,2022-01-20,18:00,Stadt Haag,Hauptplatz,Spaziergang,2022-01-13 20:11:19,
+69143,DE,91126,2022-01-21,18:00,Schwabach,Martin-Luther-Platz,Kundgebung,2022-01-13 20:48:26,
 69110,DE,80802,2022-01-22,13:00,München,Münchner Freiheit,Kundgebung,2022-01-13 14:23:53,https://youtube.com/channel/UCoVt9gB_PTXPv8X1kpLl7xA
 69115,DE,97833,2022-01-23,14:00,Frammersbach,Parkplatz hinter dem Rathaus,Demonstration,2022-01-13 15:30:26,
 69139,DE,99885,2022-01-24,17:00,Ohrdruf,vor dem Rathaus,Treffpunkt,2022-01-13 20:43:11,
 69119,DE,21029,2022-01-24,17:00,Hamburg/Bergedorf,Johann-Adolf-Hasse-Patz,Aufzug,2022-01-13 17:20:02,
 69132,DE,73033,2022-01-24,18:00,Göppingen,Marktplatz,Spaziergang,2022-01-13 20:22:59,
+69144,DE,92339,2022-01-24,18:00,Beilngries,Kirchplatz Hauptstraße,Aufzug,2022-01-13 20:49:43,
 69130,AT,3350,2022-01-27,18:00,Stadt Haag,Hauptplatz,Spaziergang,2022-01-13 20:11:39,
 69111,DE,80331,2022-01-29,13:00,München,Marienplatz,Kundgebung,2022-01-13 14:24:44,https://youtube.com/channel/UCoVt9gB_PTXPv8X1kpLl7xA
 69140,DE,99885,2022-01-31,17:00,Ohrdruf,vor dem Rathaus,Treffpunkt,2022-01-13 20:43:28,
 69133,DE,73033,2022-01-31,18:00,Göppingen,Marktplatz,Spaziergang,2022-01-13 20:23:13,
+69145,DE,92339,2022-01-31,18:00,Beilngries,Kirchplatz Hauptstraße,Aufzug,2022-01-13 20:51:22,
+69146,DE,92339,2022-02-07,18:00,Beilngries,Kirchplatz Hauptstraße,Aufzug,2022-01-13 20:52:37,
 69125,DE,48565,2022-02-21,00:00,Steinfurt Burgsteinfurt,Baumgarten 1 48565 Steinfurt,Aufzug,2022-01-13 19:54:52,
