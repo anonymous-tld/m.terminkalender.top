@@ -1,6 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 69093,DE,94104,2022-01-13,18:00,Tittling,Stadtplatz,Spaziergang,2022-01-13 09:48:21,
 69097,DE,28195,2022-01-14,18:00,Bremen,Hollersee,Fahrraddemo,2022-01-13 10:02:05,
+69105,DE,61462,2022-01-14,18:30,Königstein im Taunus,Bahnhof,Spaziergang,2022-01-13 12:34:09,
 69101,DE,10178,2022-01-15,13:00,Berlin,Karl-Marx-Allee 33,Autokorso,2022-01-13 11:43:10,
 69099,DE,30449,2022-01-15,14:30,Hannover,Ritter-Brüning-Straße, Parking,Autokorso,2022-01-13 10:16:03,
 69096,DE,27568,2022-01-16,15:00,Bremerhaven,Rickmerstor/Arbeitsamt,Spaziergang,2022-01-13 09:59:38,
@@ -11,6 +12,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69098,DE,17207,2022-01-17,18:00,Röbel,Rathaus,Spaziergang,2022-01-13 10:03:08,
 69091,DE,24235,2022-01-17,18:00,Laboe,Hafenvorplatz,Spaziergang,2022-01-13 09:14:04,
 69102,DE,21244,2022-01-17,19:00,Buchholz,Rathaus,Spaziergang,2022-01-13 11:58:00,
+69104,DE,92421,2022-01-18,19:00,Schwandorf,Marktplatz,Kundgebung,2022-01-13 12:32:22,
 69095,DE,94104,2022-01-20,18:00,Tittling,Stadtplatz,Spaziergang,2022-01-13 09:49:25,
 69094,DE,94481,2022-01-23,15:30,Grafenau,Volksfestplatz,Spaziergang,2022-01-13 09:48:56,
 69088,DE,97070,2022-01-24,18:00,Würzburg,Unterer Markt,Spaziergang,2022-01-13 08:06:46,
