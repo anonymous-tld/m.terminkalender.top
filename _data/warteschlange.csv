@@ -1,7 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-69141,DE,91126,2022-01-14,18:00,Schwabach,Martin-Luther-Platz,Kundgebung,2022-01-13 20:47:44,
-69168,DE,20095,2022-01-14,18:00,Hamburg,Kunsthalle,Kundgebung,2022-01-13 22:50:27,
-69167,DE,20095,2022-01-14,18:00,Hamburg,Kunsthalle,Kundgebung,2022-01-13 22:49:31,
 69113,DE,84028,2022-01-15,11:00,Landshut,Isarpromenade ab Ländtor,Menschenkette,2022-01-13 14:55:03,
 69109,DE,80333,2022-01-15,13:00,München,MAX-JOSEPHS-PLATZ,Kundgebung,2022-01-13 14:22:52,https://youtube.com/channel/UCoVt9gB_PTXPv8X1kpLl7xA
 69112,DE,80333,2022-01-15,13:00,München,Königsplatz,Aufzug,2022-01-13 14:29:48,
@@ -23,8 +20,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69134,DE,68823,2022-01-17,18:00,Schwetzingen,Bahnhof,Spaziergang,2022-01-13 20:24:45,
 69117,DE,87719,2022-01-17,18:00,Mindelheim,Rathaus,Spaziergang,2022-01-13 16:24:09,
 69158,DE,85570,2022-01-17,18:00,Markt Schwaben,Marktplatz,Spaziergang,2022-01-13 21:26:32,
-69162,DE,34497,2022-01-17,18:00,Korbach,Bürgerhaus,Freizeit,2022-01-13 21:39:43,
 69161,DE,34497,2022-01-17,18:00,Korbach,Bürgerhaus,Kundgebung,2022-01-13 21:36:57,
+69162,DE,34497,2022-01-17,18:00,Korbach,Bürgerhaus,Freizeit,2022-01-13 21:39:43,
 69166,DE,01983,2022-01-17,18:00,Großräschen,Marktplatz,Spaziergang,2022-01-13 22:14:27,
 69131,DE,73033,2022-01-17,18:00,Göppingen,Marktplatz,Spaziergang,2022-01-13 20:22:47,
 69127,DE,61169,2022-01-17,18:00,Friedberg/Hessen,Stadtkirche,Spaziergang,2022-01-13 20:09:59,
