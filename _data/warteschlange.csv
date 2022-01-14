@@ -1,4 +1,5 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
+69206,DE,90402,2022-01-14,18:30,Nürnberg,Hallplatz,Kundgebung,2022-01-14 09:49:54,
 69113,DE,84028,2022-01-15,11:00,Landshut,Isarpromenade ab Ländtor,Menschenkette,2022-01-13 14:55:03,
 69109,DE,80333,2022-01-15,13:00,München,MAX-JOSEPHS-PLATZ,Kundgebung,2022-01-13 14:22:52,https://youtube.com/channel/UCoVt9gB_PTXPv8X1kpLl7xA
 69112,DE,80333,2022-01-15,13:00,München,Königsplatz,Aufzug,2022-01-13 14:29:48,
@@ -23,16 +24,16 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69196,DE,31749,2022-01-16,19:00,Rehren (Auetal),Am Marktplatz,Spaziergang,2022-01-14 09:26:22,
 69181,EU,2540,2022-01-17,12:00,Luxemburg-Stadt,Hôpital du Kirchberg Entrée,Demonstration,2022-01-14 07:06:30,
 69138,DE,99885,2022-01-17,17:00,Ohrdruf,vor dem Rathaus,Treffpunkt,2022-01-13 20:42:53,
-69155,DE,33602,2022-01-17,17:30,Bielefeld,Rathaus,Mahnwache,2022-01-13 21:06:05,
 69154,DE,33602,2022-01-17,17:30,Bielefeld,Rathaus,Mahnwache,2022-01-13 21:03:01,
+69155,DE,33602,2022-01-17,17:30,Bielefeld,Rathaus,Mahnwache,2022-01-13 21:06:05,
 69193,DE,83512,2022-01-17,18:00,Wasserburg am Inn,am Alten Bahnhof,Demonstration,2022-01-14 08:57:41,
 69201,DE,94474,2022-01-17,18:00,Vilshofen an der Donau,Rathaus,Treffpunkt,2022-01-14 09:33:21,
 69177,DE,26316,2022-01-17,18:00,Varel,Rathaus,Spaziergang,2022-01-14 05:49:15,
 69134,DE,68823,2022-01-17,18:00,Schwetzingen,Bahnhof,Spaziergang,2022-01-13 20:24:45,
 69117,DE,87719,2022-01-17,18:00,Mindelheim,Rathaus,Spaziergang,2022-01-13 16:24:09,
 69158,DE,85570,2022-01-17,18:00,Markt Schwaben,Marktplatz,Spaziergang,2022-01-13 21:26:32,
-69162,DE,34497,2022-01-17,18:00,Korbach,Bürgerhaus,Freizeit,2022-01-13 21:39:43,
 69161,DE,34497,2022-01-17,18:00,Korbach,Bürgerhaus,Kundgebung,2022-01-13 21:36:57,
+69162,DE,34497,2022-01-17,18:00,Korbach,Bürgerhaus,Freizeit,2022-01-13 21:39:43,
 69166,DE,01983,2022-01-17,18:00,Großräschen,Marktplatz,Spaziergang,2022-01-13 22:14:27,
 69131,DE,73033,2022-01-17,18:00,Göppingen,Marktplatz,Spaziergang,2022-01-13 20:22:47,
 69127,DE,61169,2022-01-17,18:00,Friedberg/Hessen,Stadtkirche,Spaziergang,2022-01-13 20:09:59,
@@ -61,6 +62,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69150,DE,85247,2022-01-20,19:00,Schwabhausen,Rathaus,Spaziergang,2022-01-13 20:56:11,
 69164,DE,48565,2022-01-21,18:00,Steinfurt,Baumgarten 1,Demonstration,2022-01-13 21:51:10,
 69143,DE,91126,2022-01-21,18:00,Schwabach,Martin-Luther-Platz,Kundgebung,2022-01-13 20:48:26,
+69203,DE,90402,2022-01-21,18:30,Nürnberg,Hallplatz,Kundgebung,2022-01-14 09:48:13,
 69160,DE,71394,2022-01-22,11:00,Kernen im Remstal,Pausenhof Realschule,Kundgebung,2022-01-13 21:34:27,
 69110,DE,80802,2022-01-22,13:00,München,Münchner Freiheit,Kundgebung,2022-01-13 14:23:53,https://youtube.com/channel/UCoVt9gB_PTXPv8X1kpLl7xA
 69184,AT,4020,2022-01-22,13:00,Linz,Hauptplatz,Demonstration,2022-01-14 07:19:59,
@@ -75,6 +77,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69144,DE,92339,2022-01-24,18:00,Beilngries,Kirchplatz Hauptstraße,Aufzug,2022-01-13 20:49:43,
 69195,DE,96052,2022-01-24,18:00,Bamberg,Gegenüber Bahnhof Ludwigstr. 6,Spaziergang,2022-01-14 09:26:12,
 69130,AT,3350,2022-01-27,18:00,Stadt Haag,Hauptplatz,Spaziergang,2022-01-13 20:11:39,
+69204,DE,90402,2022-01-28,18:30,Nürnberg,Hallplatz,Kundgebung,2022-01-14 09:48:44,
 69111,DE,80331,2022-01-29,13:00,München,Marienplatz,Kundgebung,2022-01-13 14:24:44,https://youtube.com/channel/UCoVt9gB_PTXPv8X1kpLl7xA
 69199,DE,31749,2022-01-30,19:00,Rehren (Auetal),Am Marktplatz,Spaziergang,2022-01-14 09:28:41,
 69140,DE,99885,2022-01-31,17:00,Ohrdruf,vor dem Rathaus,Treffpunkt,2022-01-13 20:43:28,
@@ -82,6 +85,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69133,DE,73033,2022-01-31,18:00,Göppingen,Marktplatz,Spaziergang,2022-01-13 20:23:13,
 69145,DE,92339,2022-01-31,18:00,Beilngries,Kirchplatz Hauptstraße,Aufzug,2022-01-13 20:51:22,
 69197,DE,96052,2022-01-31,18:00,Bamberg,Gegenüber Bahnhof Ludwigstr. 6,Spaziergang,2022-01-14 09:26:33,
+69205,DE,90402,2022-02-04,18:30,Nürnberg,Hallplatz,Kundgebung,2022-01-14 09:49:10,
 69152,DE,92339,2022-02-06,15:45,Beilngries,Main Donau Kanal/ Busparkplatz,Aufzug,2022-01-13 21:00:17,
 69146,DE,92339,2022-02-07,18:00,Beilngries,Kirchplatz Hauptstraße,Aufzug,2022-01-13 20:52:37,
 69202,DE,96050,2022-02-12,14:30,Bamberg,Parkplatz Fuchs-Park-Stadion,Autokorso,2022-01-14 09:36:00,
