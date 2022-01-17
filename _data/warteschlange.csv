@@ -35,8 +35,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69562,DE,34117,2022-01-19,18:00,Kassel,Hessisches Landesmuseum,Kundgebung,2022-01-17 16:53:45,
 69584,DE,91207,2022-01-19,18:30,Lauf,Marktplatz,Aufzug,2022-01-17 21:08:11,
 69543,DE,58332,2022-01-21,17:00,Schwelm,Pilzkiosk am Bürgerplatz,Spaziergang,2022-01-17 15:54:21,
-69565,DE,70173,2022-01-22,15:00,Stuttgart,Schillerplatz,Kundgebung,2022-01-17 16:59:41,https://de-de.facebook.com/afdstuttgart
 69564,DE,70173,2022-01-22,15:00,Stuttgart,Schillerplatz,Kundgebung,2022-01-17 16:58:45,https://de-de.facebook.com/afdstuttgart
+69565,DE,70173,2022-01-22,15:00,Stuttgart,Schillerplatz,Kundgebung,2022-01-17 16:59:41,https://de-de.facebook.com/afdstuttgart
 69567,DE,94032,2022-01-22,15:00,Passau,Klostergarten,Demonstration,2022-01-17 17:10:12,
 69588,DE,66113,2022-01-22,16:30,Saarbrücken,Hauptbahnhof,Flashmob,2022-01-17 21:49:07,
 69545,DE,58285,2022-01-23,17:00,Gevelsberg,Untere Fußgängerzone,Spaziergang,2022-01-17 15:56:10,
@@ -57,6 +57,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69552,DE,47051,2022-01-24,18:00,Duisburg,Rathaus / Burgplatz,Spaziergang,2022-01-17 16:13:08,
 69540,DE,46282,2022-01-24,18:00,Dorsten,neues Rathaus-Gemeindedreieck,Spaziergang,2022-01-17 15:31:32,
 69578,DE,63128,2022-01-24,18:00,Dietzenbach,Harmonieplatz,Spaziergang,2022-01-17 20:05:38,
+69592,DE,06749,2022-01-24,18:00,Bitterfeld,Marktplatz,Spaziergang,2022-01-17 22:09:58,
 69561,DE,16775,2022-01-24,18:30,Gransee,Kirchplatz,Aufzug,2022-01-17 16:45:58,
 69526,DE,91325,2022-01-24,18:30,Adelsdorf,Marktplatz,Spaziergang,2022-01-17 12:25:42,
 69591,DE,67122,2022-01-24,19:00,Altrip,Wasserturm,Spaziergang,2022-01-17 21:57:41,
