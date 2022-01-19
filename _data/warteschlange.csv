@@ -1,6 +1,8 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 69684,DE,83022,2022-01-19,19:00,Rosenheim,Eingang Mangfallpark Süd,Schilderwald,2022-01-19 08:08:09,
+69699,DE,76773,2022-01-19,19:00,Kuhardt,Kerweplatz,Spaziergang,2022-01-19 09:56:46,
 69677,DE,83022,2022-01-19,19:15,Rosenheim,Mangfallpark Süd,Kundgebung,2022-01-19 08:03:33,
+69698,DE,45479,2022-01-22,11:30,Mülheim an der Ruhr,Parkplatz Stadthalle,Autokorso,2022-01-19 09:56:20,
 69670,DE,79089,2022-01-22,14:00,Freiburg,Fahnenbergplatz,Aufzug,2022-01-19 04:12:39,
 69685,CH,3000,2022-01-22,14:00,Bern,Bahnhofsplatz,Demonstration,2022-01-19 08:43:14,
 69674,DE,45127,2022-01-22,15:30,Essen,Willy-Brandt-Platz,Kundgebung,2022-01-19 07:05:10,
@@ -16,7 +18,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69696,DE,67480,2022-01-24,18:00,Edenkoben,Parkplatz Radeburger Straße,Spaziergang,2022-01-19 09:49:36,
 69691,DE,01069,2022-01-24,18:00,Dresden,Hauptbahnhof / Wiener Platz 1,Spaziergang,2022-01-19 09:31:21,
 69694,DE,96450,2022-01-24,18:00,Coburg,Markt,Spaziergang,2022-01-19 09:44:14,
+69700,DE,45479,2022-01-24,18:15,Mülheim an der Ruhr,Parkplatz Stadthalle,Demonstration,2022-01-19 09:57:45,
 69673,DE,37412,2022-01-24,18:30,Herzberg am Harz,Marktplatz/ Gasse  Parkplatz,Spaziergang,2022-01-19 06:53:20,
+69701,DE,78256,2022-01-24,19:00,Steißlingen,Rathaus,Spaziergang,2022-01-19 09:59:09,
 69686,CH,6004,2022-01-24,19:00,Luzern,Schwanenplatz,Spaziergang,2022-01-19 08:48:51,
 69676,DE,97318,2022-01-24,19:00,Kitzingen,Parkplatz Bleichwasen,Spaziergang,2022-01-19 07:31:40,
 69689,CH,6430,2022-01-24,19:15,Schwyz,Hofmatt Platz,Kundgebung,2022-01-19 09:01:54,
