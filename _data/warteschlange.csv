@@ -4,8 +4,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69791,DE,30159,2022-01-22,12:00,Hannover,Opernplatz,Kundgebung,2022-01-20 09:40:49,
 69768,DE,10178,2022-01-22,13:00,Berlin,Karl-Marx-Allee 33,Autokorso,2022-01-19 23:29:51,
 69801,DE,30449,2022-01-22,14:30,Hannover,Ritter-Brüning-Straße, parking,Autokorso,2022-01-20 10:29:25,
-69755,DE,94315,2022-01-22,15:00,Straubing,Beim "Theater am Hagen",Kundgebung,2022-01-19 21:28:51,https://dlive.tv/SelbstDenken21
 69761,DE,94315,2022-01-22,15:00,Straubing,beim Theater am Hagen 61,Kundgebung,2022-01-19 22:01:37,
+69755,DE,94315,2022-01-22,15:00,Straubing,Beim "Theater am Hagen",Kundgebung,2022-01-19 21:28:51,https://dlive.tv/SelbstDenken21
 69775,DE,36341,2022-01-22,15:00,Lauterbach,Parkplatz an der Bleiche,Autokorso,2022-01-20 06:08:48,
 69770,DE,60322,2022-01-22,15:00,Frankfurt am main,Holzhausenpark,Kundgebung,2022-01-19 23:45:29,
 69759,DE,85049,2022-01-22,15:30,Ingolstadt,Paradeplatz,Kundgebung,2022-01-19 21:50:16,
@@ -19,6 +19,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69800,DE,17207,2022-01-24,18:00,Röbel,Rathaus,Spaziergang,2022-01-20 10:18:15,
 69777,DE,85077,2022-01-24,18:00,Manching,Rathaus,Spaziergang,2022-01-20 06:15:39,
 69756,DE,70806,2022-01-24,18:00,Kornwestheim,Marktplatz,Spaziergang,2022-01-19 21:29:36,
+69806,DE,52428,2022-01-24,18:00,Jülich,altes Rathaus (Marktplatz),Aufzug,2022-01-20 12:31:33,
 69763,DE,85049,2022-01-24,18:00,Ingolstadt,Paradeplatz,Spaziergang,2022-01-19 22:14:04,
 69774,DE,44627,2022-01-24,18:00,Herne,Rathaus,Spaziergang,2022-01-20 00:58:07,
 69771,DE,85567,2022-01-24,18:00,Grafing,Marktplatz,Spaziergang,2022-01-20 00:08:20,
