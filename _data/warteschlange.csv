@@ -1,13 +1,15 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
+69776,DE,85077,2022-01-20,18:00,Manching,Rathaus,Spaziergang,2022-01-20 06:15:11,
 69768,DE,10178,2022-01-22,13:00,Berlin,Karl-Marx-Allee 33,Autokorso,2022-01-19 23:29:51,
-69755,DE,94315,2022-01-22,15:00,Straubing,Beim "Theater am Hagen",Kundgebung,2022-01-19 21:28:51,https://dlive.tv/SelbstDenken21
 69761,DE,94315,2022-01-22,15:00,Straubing,beim Theater am Hagen 61,Kundgebung,2022-01-19 22:01:37,
+69755,DE,94315,2022-01-22,15:00,Straubing,Beim "Theater am Hagen",Kundgebung,2022-01-19 21:28:51,https://dlive.tv/SelbstDenken21
 69775,DE,36341,2022-01-22,15:00,Lauterbach,Parkplatz an der Bleiche,Autokorso,2022-01-20 06:08:48,
 69770,DE,60322,2022-01-22,15:00,Frankfurt am main,Holzhausenpark,Kundgebung,2022-01-19 23:45:29,
 69759,DE,85049,2022-01-22,15:30,Ingolstadt,Paradeplatz,Kundgebung,2022-01-19 21:50:16,
 69769,DE,97833,2022-01-23,14:00,Frammersbach,Parkplatz hinter dem Rathaus,Aufzug,2022-01-19 23:34:08,
 69760,DE,70499,2022-01-24,18:00,Weilimdorf,Rathaus,Spaziergang,2022-01-19 21:55:20,
 69757,DE,94508,2022-01-24,18:00,Schöllnach,Rathaus,Kundgebung,2022-01-19 21:38:51,
+69777,DE,85077,2022-01-24,18:00,Manching,Rathaus,Spaziergang,2022-01-20 06:15:39,
 69756,DE,70806,2022-01-24,18:00,Kornwestheim,Marktplatz,Spaziergang,2022-01-19 21:29:36,
 69763,DE,85049,2022-01-24,18:00,Ingolstadt,Paradeplatz,Spaziergang,2022-01-19 22:14:04,
 69774,DE,44627,2022-01-24,18:00,Herne,Rathaus,Spaziergang,2022-01-20 00:58:07,
@@ -16,7 +18,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69772,DE,14822,2022-01-24,18:00,Brück(Mark),Marktplatz (Kirche),Spaziergang,2022-01-20 00:18:11,
 69773,DE,87600,2022-01-24,19:00,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,2022-01-20 00:33:55,
 69767,DE,63743,2022-01-26,17:00,Aschaffenburg,Schloßplatz,Demonstration,2022-01-19 23:29:10,
+69778,DE,85077,2022-01-27,18:00,Manching,Rathaus,Spaziergang,2022-01-20 06:16:04,
 69758,DE,63820,2022-01-29,17:30,Elsenfeld (MIL),Dammsfeldstr. Pendlerpparkplat,Aufzug,2022-01-19 21:42:00,
 69762,DE,94315,2022-01-30,16:00,Straubing,Großparkplatz Am Hagen,Kundgebung,2022-01-19 22:09:23,
+69779,DE,85077,2022-01-31,18:00,Manching,Rathaus,Spaziergang,2022-01-20 06:16:39,
 69764,DE,85049,2022-01-31,18:00,Ingolstadt,Paradeplatz,Spaziergang,2022-01-19 22:14:17,
 69765,DE,85049,2022-02-07,18:00,Ingolstadt,Paradeplatz,Spaziergang,2022-01-19 22:14:45,
