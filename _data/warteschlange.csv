@@ -8,8 +8,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69768,DE,10178,2022-01-22,13:00,Berlin,Karl-Marx-Allee 33,Autokorso,2022-01-19 23:29:51,
 69811,DE,49074,2022-01-22,14:00,Osnabrück,Schlossgarten,Demonstration,2022-01-20 14:53:33,
 69801,DE,30449,2022-01-22,14:30,Hannover,Ritter-Brüning-Straße, parking,Autokorso,2022-01-20 10:29:25,
-69755,DE,94315,2022-01-22,15:00,Straubing,Beim "Theater am Hagen",Kundgebung,2022-01-19 21:28:51,https://dlive.tv/SelbstDenken21
 69761,DE,94315,2022-01-22,15:00,Straubing,beim Theater am Hagen 61,Kundgebung,2022-01-19 22:01:37,
+69755,DE,94315,2022-01-22,15:00,Straubing,Beim "Theater am Hagen",Kundgebung,2022-01-19 21:28:51,https://dlive.tv/SelbstDenken21
 69775,DE,36341,2022-01-22,15:00,Lauterbach,Parkplatz an der Bleiche,Autokorso,2022-01-20 06:08:48,
 69770,DE,60322,2022-01-22,15:00,Frankfurt am main,Holzhausenpark,Kundgebung,2022-01-19 23:45:29,
 69759,DE,85049,2022-01-22,15:30,Ingolstadt,Paradeplatz,Kundgebung,2022-01-19 21:50:16,
@@ -19,6 +19,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69784,DE,74360,2022-01-23,15:00,Ilsfeld,Zuckerrübenplatz ,Schwabstraße,Spaziergang,2022-01-20 08:04:13,
 69799,DE,94078,2022-01-23,19:00,Freyung,Stadtplatz,Spaziergang,2022-01-20 09:57:18,
 69760,DE,70499,2022-01-24,18:00,Weilimdorf,Rathaus,Spaziergang,2022-01-19 21:55:20,
+69815,DE,34414,2022-01-24,18:00,Warburg, Westfalen,Altes Rathaus,Spaziergang,2022-01-20 17:03:38,
 69804,DE,97941,2022-01-24,18:00,Tauberbischofsheim,Marktplatz,Spaziergang,2022-01-20 10:47:04,
 69757,DE,94508,2022-01-24,18:00,Schöllnach,Rathaus,Kundgebung,2022-01-19 21:38:51,
 69800,DE,17207,2022-01-24,18:00,Röbel,Rathaus,Spaziergang,2022-01-20 10:18:15,
