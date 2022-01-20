@@ -8,8 +8,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69768,DE,10178,2022-01-22,13:00,Berlin,Karl-Marx-Allee 33,Autokorso,2022-01-19 23:29:51,
 69811,DE,49074,2022-01-22,14:00,Osnabrück,Schlossgarten,Demonstration,2022-01-20 14:53:33,
 69801,DE,30449,2022-01-22,14:30,Hannover,Ritter-Brüning-Straße, parking,Autokorso,2022-01-20 10:29:25,
-69755,DE,94315,2022-01-22,15:00,Straubing,Beim "Theater am Hagen",Kundgebung,2022-01-19 21:28:51,https://dlive.tv/SelbstDenken21
 69761,DE,94315,2022-01-22,15:00,Straubing,beim Theater am Hagen 61,Kundgebung,2022-01-19 22:01:37,
+69755,DE,94315,2022-01-22,15:00,Straubing,Beim "Theater am Hagen",Kundgebung,2022-01-19 21:28:51,https://dlive.tv/SelbstDenken21
 69775,DE,36341,2022-01-22,15:00,Lauterbach,Parkplatz an der Bleiche,Autokorso,2022-01-20 06:08:48,
 69770,DE,60322,2022-01-22,15:00,Frankfurt am main,Holzhausenpark,Kundgebung,2022-01-19 23:45:29,
 69759,DE,85049,2022-01-22,15:30,Ingolstadt,Paradeplatz,Kundgebung,2022-01-19 21:50:16,
@@ -23,6 +23,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69800,DE,17207,2022-01-24,18:00,Röbel,Rathaus,Spaziergang,2022-01-20 10:18:15,
 69777,DE,85077,2022-01-24,18:00,Manching,Rathaus,Spaziergang,2022-01-20 06:15:39,
 69756,DE,70806,2022-01-24,18:00,Kornwestheim,Marktplatz,Spaziergang,2022-01-19 21:29:36,
+69813,DE,52428,2022-01-24,18:00,jülich,Wolgangs Treffschuppen,Demonstration,2022-01-20 15:35:40,
 69806,DE,52428,2022-01-24,18:00,Jülich,altes Rathaus (Marktplatz),Aufzug,2022-01-20 12:31:33,
 69763,DE,85049,2022-01-24,18:00,Ingolstadt,Paradeplatz,Spaziergang,2022-01-19 22:14:04,
 69774,DE,44627,2022-01-24,18:00,Herne,Rathaus,Spaziergang,2022-01-20 00:58:07,
@@ -33,8 +34,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69772,DE,14822,2022-01-24,18:00,Brück(Mark),Marktplatz (Kirche),Spaziergang,2022-01-20 00:18:11,
 69798,DE,26603,2022-01-24,18:00,Aurich,Marktplatz Kirchplatz,Sonstiges,2022-01-20 09:51:11,
 69797,DE,21385,2022-01-24,18:00,Amelinghausen,Rathaus,Sonstiges,2022-01-20 09:50:26,
-69795,DE,31061,2022-01-24,18:00,Alfeld (Leine),Rathaus,Sonstiges,2022-01-20 09:48:53,
 69794,DE,31061,2022-01-24,18:00,Alfeld (Leine),Rathaus,Sonstiges,2022-01-20 09:48:53,
+69795,DE,31061,2022-01-24,18:00,Alfeld (Leine),Rathaus,Sonstiges,2022-01-20 09:48:53,
 69792,DE,26197,2022-01-24,18:00,Ahlhorn,Parkplatz VR Bank,Sonstiges,2022-01-20 09:47:26,
 69803,DE,38100,2022-01-24,18:30,Braunschweig,Am Schloß!Nicht Ringerbrunnen!,Spaziergang,2022-01-20 10:46:59,
 69773,DE,87600,2022-01-24,19:00,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,2022-01-20 00:33:55,
