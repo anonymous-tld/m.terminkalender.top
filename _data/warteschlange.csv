@@ -7,6 +7,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69791,DE,30159,2022-01-22,12:00,Hannover,Opernplatz,Kundgebung,2022-01-20 09:40:49,
 69768,DE,10178,2022-01-22,13:00,Berlin,Karl-Marx-Allee 33,Autokorso,2022-01-19 23:29:51,
 69811,DE,49074,2022-01-22,14:00,Osnabrück,Schlossgarten,Demonstration,2022-01-20 14:53:33,
+69839,DE,80339,2022-01-22,14:00,München,Theresienwiese,Autokorso,2022-01-20 20:39:55,
 69801,DE,30449,2022-01-22,14:30,Hannover,Ritter-Brüning-Straße, parking,Autokorso,2022-01-20 10:29:25,
 69838,DE,83278,2022-01-22,15:00,Traunstein,Festplatz / Chiemgauhalle,Kundgebung,2022-01-20 20:32:15,
 69755,DE,94315,2022-01-22,15:00,Straubing,Beim "Theater am Hagen",Kundgebung,2022-01-19 21:28:51,https://dlive.tv/SelbstDenken21
@@ -16,6 +17,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69759,DE,85049,2022-01-22,15:30,Ingolstadt,Paradeplatz,Kundgebung,2022-01-19 21:50:16,
 69814,DE,29525,2022-01-22,17:00,Uelzen,Hammersteinplatz,Spaziergang,2022-01-20 15:47:41,
 69832,DE,86153,2022-01-22,17:00,Augsburg,Plärrer,Aufzug,2022-01-20 19:48:47,
+69842,DE,73347,2022-01-22,18:00,Mühlhausen im Täle,Gesamter Ort,Spaziergang,2022-01-20 20:42:59,
+69840,DE,73337,2022-01-22,18:00,Bad Überkingen,Gesamter Ort,Spaziergang,2022-01-20 20:41:16,
+69841,DE,73342,2022-01-22,18:00,Bad Ditzenbach,Gesamter Ort,Spaziergang,2022-01-20 20:42:06,
 69769,DE,97833,2022-01-23,14:00,Frammersbach,Parkplatz hinter dem Rathaus,Aufzug,2022-01-19 23:34:08,
 69802,DE,97877,2022-01-23,15:00,Wertheim,Main-Tauber-Halle,Spaziergang,2022-01-20 10:46:14,
 69784,DE,74360,2022-01-23,15:00,Ilsfeld,Zuckerrübenplatz ,Schwabstraße,Spaziergang,2022-01-20 08:04:13,
