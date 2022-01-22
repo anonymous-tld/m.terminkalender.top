@@ -1,5 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-69985,DE,84375,2022-01-22,09:00,Kirchdorf am Inn,zwischen Kirche und Edeka-Mark,Mahnwache,2022-01-22 16:57:00,
 69993,DE,02625,2022-01-23,14:30,Bautzen,Postplatz,Spaziergang,2022-01-22 18:50:24,
 69995,DE,66111,2022-01-23,15:00,Saarbrücken,Landwehrplatz,Kundgebung,2022-01-22 19:04:51,
 69989,DE,66111,2022-01-23,15:00,Saarbrücken,Landwehrplatz,Kundgebung,2022-01-22 18:14:23,
@@ -13,6 +12,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69963,DE,66333,2022-01-24,18:00,Völklingen,Neues Rathaus,Spaziergang,2022-01-22 13:37:29,
 69996,DE,85716,2022-01-24,18:00,Unterschleißheim,Rathausplatz,Aufzug,2022-01-22 19:10:12,
 69974,DE,78532,2022-01-24,18:00,Tuttlingen,Marktplatz,Spaziergang,2022-01-22 15:50:23,
+70012,DE,70619,2022-01-24,18:00,Stuttgart Sillenbuch,Sillenbucher Markt,Spaziergang,2022-01-23 00:07:02,
 70001,DE,68723,2022-01-24,18:00,Schwetzingen,Lutherplatz,Spaziergang,2022-01-22 21:06:25,
 69983,DE,88212,2022-01-24,18:00,Ravensburg,Marienplatz (Lederhaus),Spaziergang,2022-01-22 16:30:30,
 70008,DE,16515,2022-01-24,18:00,Oranienburg,Schlossplatz,Aufzug,2022-01-22 23:16:31,
@@ -27,8 +27,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69973,DE,01640,2022-01-24,18:00,Coswig,Wettinplatz,Spaziergang,2022-01-22 14:40:57,
 70002,DE,69488,2022-01-24,18:00,Birkenau,Zimmerstr./ Hornbacherstr.,Spaziergang,2022-01-22 21:16:33,
 70000,DE,22941,2022-01-24,18:00,Bargteheide,Rathaus,Spaziergang,2022-01-22 20:44:48,
-69980,DE,04924,2022-01-24,18:00,Bad Liebenwerda,Marktplatz,Spaziergang,2022-01-22 16:28:06,
 69961,DE,04924,2022-01-24,18:00,Bad Liebenwerda,Markt,Spaziergang,2022-01-22 12:43:41,
+69980,DE,04924,2022-01-24,18:00,Bad Liebenwerda,Marktplatz,Spaziergang,2022-01-22 16:28:06,
 69972,DE,04600,2022-01-24,18:00,Altenburg,Brüderkirche,Spaziergang,2022-01-22 14:07:22,
 69990,DE,97353,2022-01-24,18:30,Wiesentheid,Mariensäule,Spaziergang,2022-01-22 18:30:43,
 69977,DE,04910,2022-01-24,18:30,Elsterwerda,Marktplatz,Spaziergang,2022-01-22 16:25:54,
