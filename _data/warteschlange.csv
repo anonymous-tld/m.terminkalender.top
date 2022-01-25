@@ -1,6 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 70298,DE,83512,2022-01-27,18:00,Wasserburg am Inn,Parkplatz am Gries,Spaziergang,2022-01-25 13:04:38,
 70307,DE,24103,2022-01-27,18:30,Kiel,Rathausplatz,Spaziergang,2022-01-25 14:19:23,
+70347,DE,95100,2022-01-28,17:30,Selb,Goldberg,Spaziergang,2022-01-25 20:20:37,
 70313,DE,52428,2022-01-28,18:00,Jülich,Hexenturm,Spaziergang,2022-01-25 15:26:19,
 70338,DE,49074,2022-01-29,14:00,Osnabrück,Schlossgarten,Demonstration,2022-01-25 19:33:03,
 70319,DE,93092,2022-01-29,15:00,Regensburg,Dultplatz,Demonstration,2022-01-25 16:19:44,
@@ -40,8 +41,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70326,DE,76863,2022-01-31,18:30,Herxheim,Villa Wieser,Spaziergang,2022-01-25 16:57:01,
 70325,DE,76726,2022-01-31,18:30,Germersheim,Nardiniplatz,Spaziergang,2022-01-25 16:56:34,
 70321,DE,76887,2022-01-31,18:30,Bad Bergzabern,Schloss,Spaziergang,2022-01-25 16:54:21,
-70317,DE,07952,2022-01-31,19:00,Pausa,Marktplatz,Spaziergang,2022-01-25 16:08:57,
 70343,DE,07952,2022-01-31,19:00,Pausa,Marktplatz,Spaziergang,2022-01-25 19:59:09,
+70317,DE,07952,2022-01-31,19:00,Pausa,Marktplatz,Spaziergang,2022-01-25 16:08:57,
 70337,DE,15366,2022-01-31,19:00,NEUENHAGEN,Rathaus,Spaziergang,2022-01-25 18:41:34,
 70339,DE,06618,2022-01-31,19:00,Naumburg,Vogelwiese,Spaziergang,2022-01-25 19:47:01,
 70328,DE,76870,2022-01-31,19:00,Kandel,Kriegerdenkmal Georgskirche,Spaziergang,2022-01-25 16:58:45,
