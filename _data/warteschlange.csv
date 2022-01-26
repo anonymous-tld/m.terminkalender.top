@@ -10,6 +10,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70449,DE,76887,2022-01-27,18:30,Bad Bergzabern,Schloss,Spaziergang,2022-01-26 16:11:45,
 70450,DE,76777,2022-01-27,19:00,Neupotz,Kirche,Spaziergang,2022-01-26 16:13:43,
 70451,DE,67433,2022-01-28,18:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-01-26 16:14:52,
+70461,DE,61462,2022-01-28,18:30,Königstein im Taunus,Kapuzzinerplatz jeden Freitag,Kundgebung,2022-01-26 19:52:25,
 70440,DE,34117,2022-01-29,14:00,Kassel,Königsplatz,Aufzug,2022-01-26 14:14:47,
 70430,DE,79100,2022-01-29,14:00,Freiburg,Fahnenbergplatz,Demonstration,2022-01-26 13:27:31,
 70431,DE,79100,2022-01-29,14:00,Freiburg,Fahnenbergplatz,Demonstration,2022-01-26 13:29:38,https://freiseinfreiburg.de/
@@ -33,8 +34,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70454,DE,85092,2022-02-07,18:00,Kösching,Rathaus,Spaziergang,2022-01-26 17:28:04,
 70437,DE,93149,2022-02-09,18:00,Nittenau,Parkplatz am Burghof,Spaziergang,2022-01-26 14:03:27,
 70438,DE,93149,2022-02-16,18:00,Nittenau,Parkplatz am Burghof,Spaziergang,2022-01-26 14:03:51,
-70427,DE,80336,2022-02-20,14:00,München,Theresienwiese,Kundgebung,2022-01-26 12:27:52,
 70424,DE,80336,2022-02-20,14:00,München,Theresienwiese,Kundgebung,2022-01-26 12:21:14,
+70427,DE,80336,2022-02-20,14:00,München,Theresienwiese,Kundgebung,2022-01-26 12:27:52,
 70439,DE,93149,2022-02-23,18:00,Nittenau,Parkplatz am Burghof,Spaziergang,2022-01-26 14:04:14,
 70425,DE,80333,2022-03-20,14:00,München,Theresienwiese,Kundgebung,2022-01-26 12:22:41,
 70426,DE,80333,2022-03-20,14:00,München,Theresienwiese,Kundgebung,2022-01-26 12:27:30,
