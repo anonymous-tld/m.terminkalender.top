@@ -1,6 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 70524,DE,84359,2022-01-28,19:00,Simbach am Inn,Kirchenplatz,Demonstration,2022-01-27 17:18:38,
 70511,DE,94315,2022-01-29,09:00,Straubing,Großparkplatz Am Hagen,Autokorso,2022-01-27 16:45:59,
+70535,AT,1010,2022-01-29,12:00,Wien,Heldenplatz,Kundgebung,2022-01-27 19:04:27,
 70530,IT,38122,2022-01-29,14:00,Trento,Piazza Dante,Kundgebung,2022-01-27 18:01:15,
 70529,DE,64385,2022-01-29,14:00,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,2022-01-27 18:00:20,
 70518,DE,83278,2022-01-29,15:00,Traunstein,Festplatz / Chiemgauhalle,Kundgebung,2022-01-27 17:00:41,
@@ -12,6 +13,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70528,DE,88471,2022-01-31,17:45,Laupheim,Fußgängerbrücke Rottum,Spaziergang,2022-01-27 17:51:44,
 70513,DE,97941,2022-01-31,18:00,Tauberbischofsheim,Marktplatz,Spaziergang,2022-01-27 16:56:36,
 70532,DE,85570,2022-01-31,18:00,Markt Schwaben,Marktplatz,Spaziergang,2022-01-27 18:14:06,
+70536,DE,03222,2022-01-31,18:00,Lübbenau/Spreewald,Kolosseum,Spaziergang,2022-01-27 19:08:09,
 70510,DE,64732,2022-01-31,18:00,Bad König,Links neben Bahnhofsgebäude,Spaziergang,2022-01-27 16:28:49,
 70534,DE,87719,2022-01-31,18:30,Mindelheim,Brunnen am Marienplatz,Spaziergang,2022-01-27 18:54:18,
 70531,IT,38062,2022-02-01,14:00,Arco,Via del Pomerio,Kundgebung,2022-01-27 18:05:27,
