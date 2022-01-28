@@ -24,6 +24,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70587,DE,86153,2022-01-31,18:00,Augsburg,Plärrer - Volksfestplatz,Aufzug,2022-01-28 10:24:14,
 70592,DE,76703,2022-01-31,18:45,Kraichtal - Münzesheim,Rathaus,Spaziergang,2022-01-28 13:24:49,
 70601,DE,92637,2022-01-31,19:00,Weiden in der Oberpf,vor dem neuen Rathaus,Aufzug,2022-01-28 15:19:18,
+70613,DE,96142,2022-01-31,19:00,Hollfeld,Rathaus,Spaziergang,2022-01-28 17:16:35,
 70569,DE,71554,2022-02-01,18:30,Weissach im Tal,Rathaus,Spaziergang,2022-01-28 01:03:05,
 70575,DE,46045,2022-02-02,18:30,Oberhausen,Friedensplatz 12,Aufzug,2022-01-28 07:56:01,
 70583,DE,86343,2022-02-02,19:00,Königsbrunn,Marktplatz,Spaziergang,2022-01-28 08:23:13,
@@ -31,6 +32,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70570,DE,71554,2022-02-03,18:30,Weissach im Tal,Rathaus Unterweissach,Spaziergang,2022-01-28 01:12:58,
 70571,DE,48231,2022-02-04,17:30,Warendorf,Wilhelmstraße 26,Spaziergang,2022-01-28 01:54:29,
 70600,DE,92637,2022-02-05,11:30,Weiden in der Oberpfalz,Max-Reger-Park / kl. Pavillon,Kundgebung,2022-01-28 15:16:14,
+70611,DE,54290,2022-02-05,14:00,Trier,Viehmarktplatz,Kundgebung,2022-01-28 17:13:01,
+70612,DE,54516,2022-02-06,13:00,Wittlich,Platz an der Lieser,Kundgebung,2022-01-28 17:14:24,Freiheitsboten Wittlich
 70607,DE,93077,2022-02-07,18:00,Bad Abbach,Rathaus,Spaziergang,2022-01-28 16:38:04,
 70584,DE,86343,2022-02-09,19:00,Königsbrunn,Marktplatz,Spaziergang,2022-01-28 08:24:20,
 70608,DE,93077,2022-02-14,18:00,Bad Abbach,Rathaus,Spaziergang,2022-01-28 16:38:30,
