@@ -17,8 +17,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70573,DE,56410,2022-01-31,18:00,Montabaur,Konrad Adenauer Platz,Aufzug,2022-01-28 05:29:14,
 70593,DE,56410,2022-01-31,18:00,Montabaur,Konrad Adenauer Platz,Aufzug,2022-01-28 13:35:54,
 70599,DE,88299,2022-01-31,18:00,Leutkirch,Rathaus,Spaziergang,2022-01-28 15:01:44,
-70594,DE,76133,2022-01-31,18:00,KARLSRUHE,Marktplatz,Spaziergang,2022-01-28 13:40:54,
 70615,DE,76137,2022-01-31,18:00,Karlsruhe,Stephansplatz hinter Postgaler,Aufzug,2022-01-28 18:15:46,
+70594,DE,76133,2022-01-31,18:00,KARLSRUHE,Marktplatz,Spaziergang,2022-01-28 13:40:54,
 70589,DE,61169,2022-01-31,18:00,Friedberg,Kirche,Spaziergang,2022-01-28 11:28:10,
 70614,DE,54634,2022-01-31,18:00,Bitburg,Bedaplatz,Spaziergang,2022-01-28 17:17:10,
 70572,DE,74321,2022-01-31,18:00,Bietigheim-Bissingen,Marktplatz Bietigheim,Spaziergang,2022-01-28 04:47:08,
@@ -46,3 +46,4 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70617,DE,94209,2022-02-26,17:00,Regen,Stadtplatz,Kundgebung,2022-01-28 18:25:57,https://dlive.tv/SelbstDenken21
 70610,DE,93077,2022-02-28,18:00,Bad Abbach,Rathaus,Spaziergang,2022-01-28 16:38:50,
 70619,DE,17033,2022-03-05,14:00,Neubrandenburg,Parkplatz Belvedere / Broda,Aufzug,2022-01-28 19:46:28,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/featured
+70620,DE,17034,2022-03-26,14:00,Neubrandenburg / Datzeberg,Parkpl. Sportanlagen Datzeberg,Aufzug,2022-01-28 19:48:38,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/featured
