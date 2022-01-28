@@ -14,8 +14,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70582,DE,53489,2022-01-31,18:00,Sinzig,Rathaus,Spaziergang,2022-01-28 08:19:34,
 70602,DE,64560,2022-01-31,18:00,Riedstadt-Crumstadt,Rathaus Crumstadt,Spaziergang,2022-01-28 15:20:51,
 70604,AT,3040,2022-01-31,18:00,Neulengbach,Hauptplatz,Spaziergang,2022-01-28 16:30:08,
-70573,DE,56410,2022-01-31,18:00,Montabaur,Konrad Adenauer Platz,Aufzug,2022-01-28 05:29:14,
 70593,DE,56410,2022-01-31,18:00,Montabaur,Konrad Adenauer Platz,Aufzug,2022-01-28 13:35:54,
+70573,DE,56410,2022-01-31,18:00,Montabaur,Konrad Adenauer Platz,Aufzug,2022-01-28 05:29:14,
 70599,DE,88299,2022-01-31,18:00,Leutkirch,Rathaus,Spaziergang,2022-01-28 15:01:44,
 70594,DE,76133,2022-01-31,18:00,KARLSRUHE,Marktplatz,Spaziergang,2022-01-28 13:40:54,
 70615,DE,76137,2022-01-31,18:00,Karlsruhe,Stephansplatz hinter Postgaler,Aufzug,2022-01-28 18:15:46,
@@ -42,4 +42,5 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70608,DE,93077,2022-02-14,18:00,Bad Abbach,Rathaus,Spaziergang,2022-01-28 16:38:30,
 70585,DE,86343,2022-02-16,19:00,Königsbrunn,Marktplatz,Spaziergang,2022-01-28 08:25:38,
 70609,DE,93077,2022-02-21,18:00,Bad Abbach,Rathaus,Spaziergang,2022-01-28 16:38:39,
+70617,DE,94209,2022-02-26,17:00,Regen,Stadtplatz,Kundgebung,2022-01-28 18:25:57,https://dlive.tv/SelbstDenken21
 70610,DE,93077,2022-02-28,18:00,Bad Abbach,Rathaus,Spaziergang,2022-01-28 16:38:50,
