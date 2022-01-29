@@ -27,7 +27,7 @@ jobs:
           # The url of the file to download
           url: https://terminkalender.top/map/csv/Points.csv
           # The location of the file in the repository to update if changed
-          file_in_repo: assets/data/Points.csv
+          file_in_repo: _data/Points.csv
           # The name of the git user
           git_user: anonymous-tld
           # The email of the git user
