@@ -1,6 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 70645,DE,21029,2022-01-31,17:00,Hamburg/Bergedorf,Johann-Adolf-Hasse-Platz,Aufzug,2022-01-29 00:40:37,
 70644,DE,45145,2022-01-31,17:30,Essen,Frohnhauser Markt,Spaziergang,2022-01-28 23:51:21,
+70659,DE,41460,2022-01-31,18:00,Neuss,Quirinus Münster,Spaziergang,2022-01-29 07:00:23,
 70642,DE,70734,2022-01-31,18:00,Fellbach,Lutherkirche,Kundgebung,2022-01-28 23:35:11,
 70655,DE,33098,2022-01-31,18:30,Paderborn,Maspernplatz,Spaziergang,2022-01-29 06:49:58,
 70646,DE,24768,2022-01-31,19:00,Rendsburg,Paradeplatz / Lornsendenkmal,Spaziergang,2022-01-29 01:19:58,
@@ -11,6 +12,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70643,DE,60439,2022-02-01,18:30,Frankfurt Eschersheim,H.-P.-Müller-Platz,Aufzug,2022-01-28 23:35:19,
 70641,DE,65929,2022-02-03,18:30,Frankfurt Höchst,Schloßplatz,Aufzug,2022-01-28 23:33:59,
 70654,AT,3380,2022-02-04,18:00,Pöchlarn,Rathausplatz,Aufzug,2022-01-29 06:49:54,
+70660,DE,41460,2022-02-04,18:00,Neuss,Quirinus-Münster,Spaziergang,2022-01-29 07:02:42,
 70650,CH,8953,2022-02-07,19:00,Dietikon,Bahnhof,Spaziergang,2022-01-29 06:31:59,
 70656,AT,3380,2022-02-11,18:00,Pöchlarn,Rathausplatz,Aufzug,2022-01-29 06:50:36,
 70651,CH,8953,2022-02-14,19:00,Dietikon,Bahnhof,Spaziergang,2022-01-29 06:32:24,
