@@ -13,9 +13,10 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71001,DE,18311,2022-02-07,17:30,Ribnitz-Damgarten,Auf dem Markt,Zusammenkunft,2022-02-02 18:39:48,
 70994,DE,17321,2022-02-07,17:30,Löcknitz,An der Kirche,Zusammenkunft,2022-02-02 18:32:01,
 70990,DE,18507,2022-02-07,17:30,Grimmen,Am Ärztehaus,Zusammenkunft,2022-02-02 18:27:44,
+71037,DE,29614,2022-02-07,18:00,Soltau,Heiratsbrunnen,Spaziergang,2022-02-02 23:34:15,
 71004,DE,18119,2022-02-07,18:00,Rostock Warnemünde,Wochenmarkt am Kirchenplatz,Zusammenkunft,2022-02-02 19:11:32,
-71012,DE,18147,2022-02-07,18:00,Rostock Toitenwinkel,Netto Marken Discount,Zusammenkunft,2022-02-02 19:27:56,
 71011,DE,18147,2022-02-07,18:00,Rostock Toitenwinkel,Netto Marken Discount,Zusammenkunft,2022-02-02 19:27:25,
+71012,DE,18147,2022-02-07,18:00,Rostock Toitenwinkel,Netto Marken Discount,Zusammenkunft,2022-02-02 19:27:56,
 71008,DE,18059,2022-02-07,18:00,Rostock Südstadt,Penny Südstadt,Zusammenkunft,2022-02-02 19:21:01,
 71007,DE,18069,2022-02-07,18:00,Rostock Reutershagen,Wochenmarkt Reutershagen,Zusammenkunft,2022-02-02 19:18:56,
 71005,DE,18109,2022-02-07,18:00,Rostock Lichtenhagen,LIDL Lichtenhagen,Zusammenkunft,2022-02-02 19:14:18,
@@ -50,6 +51,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70989,DE,17491,2022-02-07,19:00,Greifswald,Am Markt,Zusammenkunft,2022-02-02 18:27:04,
 70962,DE,99974,2022-02-07,19:00,Görmar,Am Feuerwehrhaus,Spaziergang,2022-02-02 15:22:24,
 70957,DE,57392,2022-02-08,18:00,Schmallenberg,Am Alexanderhaus, an der kath,Spaziergang,2022-02-02 14:28:32,
+71038,DE,29614,2022-02-09,18:00,Soltau,Heiratsbrunnen,Spaziergang,2022-02-02 23:34:42,
 71014,DE,16831,2022-02-09,18:00,Rheinsberg,Rathaus,Spaziergang,2022-02-02 19:29:16,
 70980,DE,67433,2022-02-09,18:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-02-02 17:23:50,
 70979,DE,76829,2022-02-09,18:00,Landau/Pfalz,Deutsches Tor,Spaziergang,2022-02-02 17:23:02,
@@ -63,8 +65,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71016,DE,16792,2022-02-14,18:00,Zehdenick,Marktplatz,Spaziergang,2022-02-02 19:56:01,
 70982,DE,22846,2022-02-14,19:00,Norderstedt,Rathausalle beim Kino Spectrum,Spaziergang,2022-02-02 18:15:56,
 70958,DE,57392,2022-02-15,18:00,Schmallenberg,Am Alexanderhaus, an der kath,Spaziergang,2022-02-02 14:29:11,
-71025,DE,18055,2022-02-17,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:38:26,https://dlive.tv/7TuermeMedien
 71024,DE,18055,2022-02-17,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:36:53,https://dlive.tv/7TuermeMedien
+71025,DE,18055,2022-02-17,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:38:26,https://dlive.tv/7TuermeMedien
 70959,DE,57392,2022-02-22,18:00,Schmallenberg,Am Alexanderhaus, an der kath,Spaziergang,2022-02-02 14:30:07,
 71026,DE,18055,2022-02-24,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:39:21,https://dlive.tv/7TuermeMedien
 71017,DE,16792,2022-02-28,18:00,Zehdenick,Marktplatz,Spaziergang,2022-02-02 19:56:50,
