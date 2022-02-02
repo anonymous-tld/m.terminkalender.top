@@ -14,8 +14,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70994,DE,17321,2022-02-07,17:30,Löcknitz,An der Kirche,Zusammenkunft,2022-02-02 18:32:01,
 70990,DE,18507,2022-02-07,17:30,Grimmen,Am Ärztehaus,Zusammenkunft,2022-02-02 18:27:44,
 71004,DE,18119,2022-02-07,18:00,Rostock Warnemünde,Wochenmarkt am Kirchenplatz,Zusammenkunft,2022-02-02 19:11:32,
-71011,DE,18147,2022-02-07,18:00,Rostock Toitenwinkel,Netto Marken Discount,Zusammenkunft,2022-02-02 19:27:25,
 71012,DE,18147,2022-02-07,18:00,Rostock Toitenwinkel,Netto Marken Discount,Zusammenkunft,2022-02-02 19:27:56,
+71011,DE,18147,2022-02-07,18:00,Rostock Toitenwinkel,Netto Marken Discount,Zusammenkunft,2022-02-02 19:27:25,
 71008,DE,18059,2022-02-07,18:00,Rostock Südstadt,Penny Südstadt,Zusammenkunft,2022-02-02 19:21:01,
 71007,DE,18069,2022-02-07,18:00,Rostock Reutershagen,Wochenmarkt Reutershagen,Zusammenkunft,2022-02-02 19:18:56,
 71005,DE,18109,2022-02-07,18:00,Rostock Lichtenhagen,LIDL Lichtenhagen,Zusammenkunft,2022-02-02 19:14:18,
@@ -37,10 +37,12 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70972,DE,63329,2022-02-07,18:00,Egelsbach,Berliner Platz,Spaziergang,2022-02-02 16:53:22,
 70987,DE,18246,2022-02-07,18:00,Bützow,Auf dem Penny Parkplatz,Zusammenkunft,2022-02-02 18:24:50,
 70986,DE,19258,2022-02-07,18:00,Boizenburg,Marktplatz,Zusammenkunft,2022-02-02 18:23:57,
+71035,DE,29646,2022-02-07,18:00,Bispingen,Ole Kerk,Kundgebung,2022-02-02 23:31:34,
 71034,DE,69488,2022-02-07,18:00,Birkenau,Hornbacherstr/ Zimmerstr.,Spaziergang,2022-02-02 22:44:09,
 70985,DE,18528,2022-02-07,18:00,Bergen auf Rügen,Marktplatz,Zusammenkunft,2022-02-02 18:22:56,
 70984,DE,18356,2022-02-07,18:00,Barth,Großer Platz am Hafen,Zusammenkunft,2022-02-02 18:20:56,
 70983,DE,17389,2022-02-07,18:00,Anklam,Marktplatz,Zusammenkunft,2022-02-02 18:19:57,
+71036,DE,29649,2022-02-07,19:00,Wietzendorf,Rathaus,Kundgebung,2022-02-02 23:31:55,
 70997,DE,17235,2022-02-07,19:00,Neustrelitz,Innenstadt,Zusammenkunft,2022-02-02 18:36:48,
 70961,DE,99974,2022-02-07,19:00,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,2022-02-02 15:20:44,
 70996,DE,17213,2022-02-07,19:00,Malchow,Am Neuen Markt,Zusammenkunft,2022-02-02 18:34:22,
@@ -61,8 +63,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71016,DE,16792,2022-02-14,18:00,Zehdenick,Marktplatz,Spaziergang,2022-02-02 19:56:01,
 70982,DE,22846,2022-02-14,19:00,Norderstedt,Rathausalle beim Kino Spectrum,Spaziergang,2022-02-02 18:15:56,
 70958,DE,57392,2022-02-15,18:00,Schmallenberg,Am Alexanderhaus, an der kath,Spaziergang,2022-02-02 14:29:11,
-71024,DE,18055,2022-02-17,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:36:53,https://dlive.tv/7TuermeMedien
 71025,DE,18055,2022-02-17,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:38:26,https://dlive.tv/7TuermeMedien
+71024,DE,18055,2022-02-17,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:36:53,https://dlive.tv/7TuermeMedien
 70959,DE,57392,2022-02-22,18:00,Schmallenberg,Am Alexanderhaus, an der kath,Spaziergang,2022-02-02 14:30:07,
 71026,DE,18055,2022-02-24,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:39:21,https://dlive.tv/7TuermeMedien
 71017,DE,16792,2022-02-28,18:00,Zehdenick,Marktplatz,Spaziergang,2022-02-02 19:56:50,
