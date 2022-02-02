@@ -1,5 +1,6 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 70944,DE,70174,2022-02-05,13:30,Stuttgart,Stadtgarten,Aufzug,2022-02-02 07:14:50,
+70945,DE,13405,2022-02-05,13:30,Berlin,EKZ Clou Tegel Scharnweberstr.,Autokorso,2022-02-02 08:25:57,
 70937,DE,06249,2022-02-07,18:00,Mücheln,Marktplatz,Spaziergang,2022-02-01 19:59:13,
 70935,DE,01705,2022-02-07,18:00,Freital,Neumarkt,Spaziergang,2022-02-01 18:54:04,
 70941,DE,46282,2022-02-07,18:00,Dorsten,neues Rathaus/Gemeindedreieck,Spaziergang,2022-02-01 20:59:04,
@@ -8,8 +9,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70932,DE,85368,2022-02-07,18:30,Moosburg,Auf dem Plan,Spaziergang,2022-02-01 18:38:56,
 70931,DE,84048,2022-02-07,19:00,Mainburg,Abensberger Str. 22,Spaziergang,2022-02-01 18:35:21,
 70930,DE,38820,2022-02-07,19:00,Halberstadt,Domplatz,Spaziergang,2022-02-01 18:33:07,
-70929,DE,16540,2022-02-11,18:00,Hohen Neuendorf,Rathausplatz,Aufzug,2022-02-01 18:25:41,
 70936,DE,16540,2022-02-11,18:00,Hohen Neuendorf,Rathausplatz,Aufzug,2022-02-01 19:40:55,
+70929,DE,16540,2022-02-11,18:00,Hohen Neuendorf,Rathausplatz,Aufzug,2022-02-01 18:25:41,
 70940,AT,1010,2022-02-12,12:00,Wien,Heldenplatz,Kundgebung,2022-02-01 20:49:04,
 70938,DE,88212,2022-02-12,14:30,Ravensburg,Parkplatz Oberschwabenhalle,Aufzug,2022-02-01 20:16:44,
 70939,DE,88212,2022-02-12,14:30,Ravensburg,Parkplatz Oberschwabenhalle,Aufzug,2022-02-01 20:21:11,
