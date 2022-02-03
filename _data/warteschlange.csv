@@ -1,5 +1,6 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 71041,DE,72510,2022-02-03,19:00,Stetten a.k.M,Rathaus,Spaziergang,2022-02-03 08:24:06,
+71066,DE,87435,2022-02-03,21:00,Kempten,Brandenburger Tor,Spaziergang,2022-02-03 12:00:32,https://twitter.com/schwurbelwatch
 70966,DE,82216,2022-02-04,17:00,Maisach,Rathaus,Spaziergang,2022-02-02 15:39:02,
 71055,DE,79098,2022-02-05,14:00,Freiburg im Breisgau,Fahnenbergplatz,Kundgebung,2022-02-03 10:13:52,
 70976,DE,60322,2022-02-05,15:00,Frankfurt am Main,Holzhausenpark,Aufzug,2022-02-02 16:58:02,
@@ -22,8 +23,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70990,DE,18507,2022-02-07,17:30,Grimmen,Am Ärztehaus,Zusammenkunft,2022-02-02 18:27:44,
 71037,DE,29614,2022-02-07,18:00,Soltau,Heiratsbrunnen,Spaziergang,2022-02-02 23:34:15,
 71004,DE,18119,2022-02-07,18:00,Rostock Warnemünde,Wochenmarkt am Kirchenplatz,Zusammenkunft,2022-02-02 19:11:32,
-71012,DE,18147,2022-02-07,18:00,Rostock Toitenwinkel,Netto Marken Discount,Zusammenkunft,2022-02-02 19:27:56,
 71011,DE,18147,2022-02-07,18:00,Rostock Toitenwinkel,Netto Marken Discount,Zusammenkunft,2022-02-02 19:27:25,
+71012,DE,18147,2022-02-07,18:00,Rostock Toitenwinkel,Netto Marken Discount,Zusammenkunft,2022-02-02 19:27:56,
 71008,DE,18059,2022-02-07,18:00,Rostock Südstadt,Penny Südstadt,Zusammenkunft,2022-02-02 19:21:01,
 71007,DE,18069,2022-02-07,18:00,Rostock Reutershagen,Wochenmarkt Reutershagen,Zusammenkunft,2022-02-02 19:18:56,
 71005,DE,18109,2022-02-07,18:00,Rostock Lichtenhagen,LIDL Lichtenhagen,Zusammenkunft,2022-02-02 19:14:18,
@@ -60,8 +61,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71045,DE,72488,2022-02-07,19:00,Sigmaringen,Karlsplatz,Spaziergang,2022-02-03 08:29:39,
 70997,DE,17235,2022-02-07,19:00,Neustrelitz,Innenstadt,Zusammenkunft,2022-02-02 18:36:48,
 71063,DE,16816,2022-02-07,19:00,Neuruppin,Schulplatz,Spaziergang,2022-02-03 11:50:26,
-71060,DE,06618,2022-02-07,19:00,Naumburg,Vogelwiese,Spaziergang,2022-02-03 11:28:33,
 71058,DE,06618,2022-02-07,19:00,Naumburg,Vogelwiese,Spaziergang,2022-02-03 11:27:24,
+71060,DE,06618,2022-02-07,19:00,Naumburg,Vogelwiese,Spaziergang,2022-02-03 11:28:33,
 70961,DE,99974,2022-02-07,19:00,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,2022-02-02 15:20:44,
 71051,DE,72469,2022-02-07,19:00,Meßstetten,Rathaus,Spaziergang,2022-02-03 08:35:55,
 71048,DE,88512,2022-02-07,19:00,Mengen,Rathaus,Spaziergang,2022-02-03 08:32:56,
@@ -91,8 +92,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70982,DE,22846,2022-02-14,19:00,Norderstedt,Rathausalle beim Kino Spectrum,Spaziergang,2022-02-02 18:15:56,
 71065,DE,16816,2022-02-14,19:00,Neuruppin,Schulplatz,Spaziergang,2022-02-03 11:51:10,
 70958,DE,57392,2022-02-15,18:00,Schmallenberg,Am Alexanderhaus, an der kath,Spaziergang,2022-02-02 14:29:11,
-71025,DE,18055,2022-02-17,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:38:26,https://dlive.tv/7TuermeMedien
 71024,DE,18055,2022-02-17,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:36:53,https://dlive.tv/7TuermeMedien
+71025,DE,18055,2022-02-17,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:38:26,https://dlive.tv/7TuermeMedien
 70959,DE,57392,2022-02-22,18:00,Schmallenberg,Am Alexanderhaus, an der kath,Spaziergang,2022-02-02 14:30:07,
 71026,DE,18055,2022-02-24,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:39:21,https://dlive.tv/7TuermeMedien
 71017,DE,16792,2022-02-28,18:00,Zehdenick,Marktplatz,Spaziergang,2022-02-02 19:56:50,
