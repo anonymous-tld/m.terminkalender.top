@@ -1,13 +1,14 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 71041,DE,72510,2022-02-03,19:00,Stetten a.k.M,Rathaus,Spaziergang,2022-02-03 08:24:06,
 70966,DE,82216,2022-02-04,17:00,Maisach,Rathaus,Spaziergang,2022-02-02 15:39:02,
-70964,DE,60322,2022-02-05,15:00,Frankfurt am Main,Im Holzhausenpark,Aufzug,2022-02-02 15:27:21,
 70976,DE,60322,2022-02-05,15:00,Frankfurt am Main,Holzhausenpark,Aufzug,2022-02-02 16:58:02,
 70975,DE,60314,2022-02-05,15:00,Frankfurt am Main,EZB,Aufzug,2022-02-02 16:56:25,
+70964,DE,60322,2022-02-05,15:00,Frankfurt am Main,Im Holzhausenpark,Aufzug,2022-02-02 15:27:21,
 70977,DE,52068,2022-02-05,15:00,Aachen,Kennedy Park,Demonstration,2022-02-02 17:12:14,https://dlive.tv/PatriotOnTour
 71020,DE,45127,2022-02-05,15:30,Essen,Willy-Brandt-Platz,Kundgebung,2022-02-02 20:29:24,
 71039,DE,84028,2022-02-05,17:00,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,2022-02-03 07:36:46,
 70967,DE,86551,2022-02-05,17:00,Aichach,Rathaus,Spaziergang,2022-02-02 15:39:55,
+71052,DE,72458,2022-02-06,14:00,Albstadt-Ebingen,Rathaus,Spaziergang,2022-02-03 08:37:05,
 70968,DE,85229,2022-02-06,17:00,Markt Indersdorf,Marktplatz,Spaziergang,2022-02-02 15:41:05,
 71003,DE,18055,2022-02-07,17:00,Rostock,Am Rosengarten,Zusammenkunft,2022-02-02 18:42:37,
 70993,DE,18299,2022-02-07,17:00,Laage,Laager Rathaus,Zusammenkunft,2022-02-02 18:30:10,
@@ -53,6 +54,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71045,DE,72488,2022-02-07,19:00,Sigmaringen,Karlsplatz,Spaziergang,2022-02-03 08:29:39,
 70997,DE,17235,2022-02-07,19:00,Neustrelitz,Innenstadt,Zusammenkunft,2022-02-02 18:36:48,
 70961,DE,99974,2022-02-07,19:00,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,2022-02-02 15:20:44,
+71051,DE,72469,2022-02-07,19:00,Meßstetten,Rathaus,Spaziergang,2022-02-03 08:35:55,
 71048,DE,88512,2022-02-07,19:00,Mengen,Rathaus,Spaziergang,2022-02-03 08:32:56,
 70996,DE,17213,2022-02-07,19:00,Malchow,Am Neuen Markt,Zusammenkunft,2022-02-02 18:34:22,
 71033,DE,87600,2022-02-07,19:00,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,2022-02-02 22:33:44,
