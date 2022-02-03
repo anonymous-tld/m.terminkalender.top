@@ -2,14 +2,15 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71041,DE,72510,2022-02-03,19:00,Stetten a.k.M,Rathaus,Spaziergang,2022-02-03 08:24:06,
 70966,DE,82216,2022-02-04,17:00,Maisach,Rathaus,Spaziergang,2022-02-02 15:39:02,
 71055,DE,79098,2022-02-05,14:00,Freiburg im Breisgau,Fahnenbergplatz,Kundgebung,2022-02-03 10:13:52,
-70964,DE,60322,2022-02-05,15:00,Frankfurt am Main,Im Holzhausenpark,Aufzug,2022-02-02 15:27:21,
 70976,DE,60322,2022-02-05,15:00,Frankfurt am Main,Holzhausenpark,Aufzug,2022-02-02 16:58:02,
+70964,DE,60322,2022-02-05,15:00,Frankfurt am Main,Im Holzhausenpark,Aufzug,2022-02-02 15:27:21,
 70975,DE,60314,2022-02-05,15:00,Frankfurt am Main,EZB,Aufzug,2022-02-02 16:56:25,
 70977,DE,52068,2022-02-05,15:00,Aachen,Kennedy Park,Demonstration,2022-02-02 17:12:14,https://dlive.tv/PatriotOnTour
 71020,DE,45127,2022-02-05,15:30,Essen,Willy-Brandt-Platz,Kundgebung,2022-02-02 20:29:24,
 71039,DE,84028,2022-02-05,17:00,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,2022-02-03 07:36:46,
 70967,DE,86551,2022-02-05,17:00,Aichach,Rathaus,Spaziergang,2022-02-02 15:39:55,
 71057,DE,72764,2022-02-05,18:00,Reutlingen,Bürgerpark vor der Stadthalle,Demonstration,2022-02-03 10:36:01,
+71061,DE,16866,2022-02-06,14:00,Kyritz,Marktplatz (Rathaus),Kundgebung,2022-02-03 11:32:13,
 71052,DE,72458,2022-02-06,14:00,Albstadt-Ebingen,Rathaus,Spaziergang,2022-02-03 08:37:05,
 70968,DE,85229,2022-02-06,17:00,Markt Indersdorf,Marktplatz,Spaziergang,2022-02-02 15:41:05,
 71003,DE,18055,2022-02-07,17:00,Rostock,Am Rosengarten,Zusammenkunft,2022-02-02 18:42:37,
@@ -57,8 +58,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71036,DE,29649,2022-02-07,19:00,Wietzendorf,Rathaus,Kundgebung,2022-02-02 23:31:55,
 71045,DE,72488,2022-02-07,19:00,Sigmaringen,Karlsplatz,Spaziergang,2022-02-03 08:29:39,
 70997,DE,17235,2022-02-07,19:00,Neustrelitz,Innenstadt,Zusammenkunft,2022-02-02 18:36:48,
-71060,DE,06618,2022-02-07,19:00,Naumburg,Vogelwiese,Spaziergang,2022-02-03 11:28:33,
 71058,DE,06618,2022-02-07,19:00,Naumburg,Vogelwiese,Spaziergang,2022-02-03 11:27:24,
+71060,DE,06618,2022-02-07,19:00,Naumburg,Vogelwiese,Spaziergang,2022-02-03 11:28:33,
 70961,DE,99974,2022-02-07,19:00,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,2022-02-02 15:20:44,
 71051,DE,72469,2022-02-07,19:00,Meßstetten,Rathaus,Spaziergang,2022-02-03 08:35:55,
 71048,DE,88512,2022-02-07,19:00,Mengen,Rathaus,Spaziergang,2022-02-03 08:32:56,
@@ -82,12 +83,13 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71042,DE,72510,2022-02-10,19:00,Stetten a.k.M,Rathaus,Kundgebung,2022-02-03 08:25:05,
 71015,DE,16831,2022-02-11,18:00,Rheinsberg,Rathaus,Spaziergang,2022-02-02 19:30:22,
 70960,DE,16540,2022-02-11,18:00,Hohen Neuendorf,Rathausplatz,Aufzug,2022-02-02 14:47:33,
+71062,DE,16866,2022-02-13,14:00,Kyritz,Marktplatz (Rathaus),Kundgebung,2022-02-03 11:33:14,
 71054,DE,83022,2022-02-13,16:00,Rosenheim,Mangfallpark Süd,Aufzug,2022-02-03 10:01:16,
 71016,DE,16792,2022-02-14,18:00,Zehdenick,Marktplatz,Spaziergang,2022-02-02 19:56:01,
 70982,DE,22846,2022-02-14,19:00,Norderstedt,Rathausalle beim Kino Spectrum,Spaziergang,2022-02-02 18:15:56,
 70958,DE,57392,2022-02-15,18:00,Schmallenberg,Am Alexanderhaus, an der kath,Spaziergang,2022-02-02 14:29:11,
-71024,DE,18055,2022-02-17,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:36:53,https://dlive.tv/7TuermeMedien
 71025,DE,18055,2022-02-17,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:38:26,https://dlive.tv/7TuermeMedien
+71024,DE,18055,2022-02-17,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:36:53,https://dlive.tv/7TuermeMedien
 70959,DE,57392,2022-02-22,18:00,Schmallenberg,Am Alexanderhaus, an der kath,Spaziergang,2022-02-02 14:30:07,
 71026,DE,18055,2022-02-24,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:39:21,https://dlive.tv/7TuermeMedien
 71017,DE,16792,2022-02-28,18:00,Zehdenick,Marktplatz,Spaziergang,2022-02-02 19:56:50,
