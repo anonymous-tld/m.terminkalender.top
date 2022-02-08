@@ -14,8 +14,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71395,DE,64385,2022-02-12,14:00,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,2022-02-07 23:20:09,
 71397,DE,52428,2022-02-12,18:00,Jülich,Hexenturm,Spaziergang,2022-02-07 23:42:47,
 71359,DE,76530,2022-02-13,14:00,Baden-Baden,Reinhard-Fieser-Brücke,Demonstration,2022-02-07 18:22:43,https://www.baden-baden.de/stadtportrait/aktuelles/webcams
-71399,DE,52428,2022-02-13,18:00,Jülich,Hexenturm,Spaziergang,2022-02-07 23:43:21,
 71398,DE,52428,2022-02-13,18:00,Jülich,Hexenturm,Spaziergang,2022-02-07 23:43:01,
+71399,DE,52428,2022-02-13,18:00,Jülich,Hexenturm,Spaziergang,2022-02-07 23:43:21,
 71394,DE,76744,2022-02-14,18:00,Wörth/Rhein,Altes Rathaus,Spaziergang,2022-02-07 23:10:23,
 71406,DE,25980,2022-02-14,18:00,Westerland,Sylter Welle,Spaziergang,2022-02-08 06:56:22,
 71392,DE,76761,2022-02-14,18:00,Rülzheim,Kerweplatz,Spaziergang,2022-02-07 23:09:28,
@@ -34,6 +34,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71407,DE,76646,2022-02-14,18:00,Bruchsal,Otto-Oppenheimer-Platz,Spaziergang,2022-02-08 06:59:20,
 71403,DE,06749,2022-02-14,18:00,Bitterfeld,Marktplatz,Spaziergang,2022-02-08 00:24:50,
 71379,DE,76756,2022-02-14,18:00,Bellheim,Rathaus,Spaziergang,2022-02-07 23:03:10,
+71408,DE,75323,2022-02-14,18:00,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,2022-02-08 08:17:59,
 71378,DE,67098,2022-02-14,18:00,Bad Dürkheim,Dürkheimer Fass,Spaziergang,2022-02-07 23:02:14,
 71376,DE,76855,2022-02-14,18:00,Annweiler am Trifels,Kirchplatz,Spaziergang,2022-02-07 23:01:23,
 71391,DE,76764,2022-02-14,18:30,Rheinzabern,Grundschule,Spaziergang,2022-02-07 23:08:59,
