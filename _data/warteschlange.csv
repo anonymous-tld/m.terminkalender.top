@@ -22,8 +22,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71459,DE,63452,2022-02-12,13:00,Hanau,August-Schärttner-Halle,Demonstration,2022-02-08 21:39:36,
 71395,DE,64385,2022-02-12,14:00,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,2022-02-07 23:20:09,
 71412,DE,21029,2022-02-12,15:00,Hamburg,Johann-Adolf-Hasse-Patz,Aufzug,2022-02-08 11:03:26,
-71427,DE,29525,2022-02-12,17:00,Uelzen,Hammersteinplatz,Spaziergang,2022-02-08 14:28:10,
 71456,DE,29525,2022-02-12,17:00,Uelzen,Hammersteinplatz,Spaziergang,2022-02-08 19:43:06,https://www.facebook.com/groups/470693404561563/?ref=share
+71427,DE,29525,2022-02-12,17:00,Uelzen,Hammersteinplatz,Spaziergang,2022-02-08 14:28:10,
 71428,DE,94469,2022-02-12,17:00,Deggendorf,Oberer Stadtplatz,Kundgebung,2022-02-08 14:36:27,
 71397,DE,52428,2022-02-12,18:00,Jülich,Hexenturm,Spaziergang,2022-02-07 23:42:47,
 71416,DE,03238,2022-02-13,14:00,Finsterwalde,Edeka (große Unterführung),Kundgebung,2022-02-08 12:30:19,
@@ -68,6 +68,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71413,DE,85386,2022-02-14,18:29,Eching,Bürgerplatz,Spaziergang,2022-02-08 11:30:34,
 71391,DE,76764,2022-02-14,18:30,Rheinzabern,Grundschule,Spaziergang,2022-02-07 23:08:59,
 71409,DE,25421,2022-02-14,18:30,Pinneberg,Rathaus,Spaziergang,2022-02-08 09:48:37,
+71461,DE,33098,2022-02-14,18:30,Paderborn,Maspernplatz,Spaziergang,2022-02-08 23:00:41,
 71385,DE,76863,2022-02-14,18:30,Herxheim,Villa Wieser,Spaziergang,2022-02-07 23:05:58,
 71384,DE,67454,2022-02-14,18:30,Hassloch,Pfalzplatz,Spaziergang,2022-02-07 23:05:35,
 71429,DE,21680,2022-02-14,18:30,Hanse.Stadt.Stade,Am.Sande,Spaziergang,2022-02-08 15:20:09,
