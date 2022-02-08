@@ -1,4 +1,6 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
+71414,DE,57462,2022-02-08,18:00,Olpe,Rathaus und Marktplatz,Spaziergang,2022-02-08 11:42:26,
+71415,DE,91207,2022-02-09,18:30,Lauf,Marktplatz,Kundgebung,2022-02-08 11:43:27,
 71361,DE,01277,2022-02-09,19:00,Dresden,Tolkewitz Schulcampus,Spaziergang,2022-02-07 19:45:27,
 71404,DE,01623,2022-02-10,17:00,Lommatzsch,Marktplatz,Spaziergang,2022-02-08 00:25:26,
 71366,DE,01067,2022-02-10,17:00,Dresden,Haus d Presse, Ostra-Allee 20,Spaziergang,2022-02-07 19:53:58,
@@ -15,8 +17,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71412,DE,21029,2022-02-12,15:00,Hamburg,Johann-Adolf-Hasse-Patz,Aufzug,2022-02-08 11:03:26,
 71397,DE,52428,2022-02-12,18:00,Jülich,Hexenturm,Spaziergang,2022-02-07 23:42:47,
 71359,DE,76530,2022-02-13,14:00,Baden-Baden,Reinhard-Fieser-Brücke,Demonstration,2022-02-07 18:22:43,https://www.baden-baden.de/stadtportrait/aktuelles/webcams
-71399,DE,52428,2022-02-13,18:00,Jülich,Hexenturm,Spaziergang,2022-02-07 23:43:21,
 71398,DE,52428,2022-02-13,18:00,Jülich,Hexenturm,Spaziergang,2022-02-07 23:43:01,
+71399,DE,52428,2022-02-13,18:00,Jülich,Hexenturm,Spaziergang,2022-02-07 23:43:21,
 71394,DE,76744,2022-02-14,18:00,Wörth/Rhein,Altes Rathaus,Spaziergang,2022-02-07 23:10:23,
 71406,DE,25980,2022-02-14,18:00,Westerland,Sylter Welle,Spaziergang,2022-02-08 06:56:22,
 71410,DE,34414,2022-02-14,18:00,Warburg,Rathaus,Spaziergang,2022-02-08 10:02:53,
