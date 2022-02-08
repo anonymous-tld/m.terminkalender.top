@@ -1,5 +1,6 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 71414,DE,57462,2022-02-08,18:00,Olpe,Rathaus und Marktplatz,Spaziergang,2022-02-08 11:42:26,
+71417,DE,58675,2022-02-09,18:00,Hemer,Rathaus,Spaziergang,2022-02-08 12:48:37,
 71415,DE,91207,2022-02-09,18:30,Lauf,Marktplatz,Kundgebung,2022-02-08 11:43:27,
 71361,DE,01277,2022-02-09,19:00,Dresden,Tolkewitz Schulcampus,Spaziergang,2022-02-07 19:45:27,
 71404,DE,01623,2022-02-10,17:00,Lommatzsch,Marktplatz,Spaziergang,2022-02-08 00:25:26,
@@ -32,6 +33,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71405,DE,85082,2022-02-14,18:00,Kösching,Rathaus,Spaziergang,2022-02-08 06:55:22,
 71400,DE,52428,2022-02-14,18:00,Jülich,Hexenturm,Spaziergang,2022-02-07 23:43:35,
 71386,DE,76879,2022-02-14,18:00,Hochstadt Pfalz,Rathaus,Spaziergang,2022-02-07 23:06:28,
+71419,DE,58675,2022-02-14,18:00,Hemer,Rathaus,Spaziergang,2022-02-08 12:49:58,
+71418,DE,58675,2022-02-14,18:00,Hemer,Rathaus,Spaziergang,2022-02-08 12:49:15,
 71370,DE,22607,2022-02-14,18:00,Hamburg,Beselerplatz,Spaziergang,2022-02-07 21:30:34,
 71383,DE,76767,2022-02-14,18:00,Hagenbach,Kirche,Spaziergang,2022-02-07 23:05:14,
 71382,DE,06773,2022-02-14,18:00,Gräfenhainichen,Paul-Gerhardt-Kapelle,Spaziergang,2022-02-07 23:04:49,
@@ -55,4 +58,5 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71372,DE,83352,2022-02-14,19:00,Altenmarkt,Rathaus,Spaziergang,2022-02-07 22:20:21,
 71401,DE,52428,2022-02-15,18:00,Jülich,Hexenturm,Spaziergang,2022-02-07 23:43:49,
 71402,DE,52428,2022-02-16,18:00,Jülich,Hexenturm,Spaziergang,2022-02-07 23:44:07,
+71420,DE,58675,2022-02-16,18:00,Hemer,Rathaus,Spaziergang,2022-02-08 12:50:04,
 71365,DE,16540,2022-02-25,18:00,Hohen Neuendorf,Rathausplatz,Aufzug,2022-02-07 19:51:21,
