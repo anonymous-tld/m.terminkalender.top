@@ -16,6 +16,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71464,DE,42277,2022-02-14,09:29,Wuppertal,Rathaus neumarkt,Spaziergang,2022-02-09 06:31:38,
 71466,DE,42277,2022-02-14,16:15,Wuppertal neu,Wuppertal barmem Rathaus,Spaziergang,2022-02-09 07:45:09,
 71465,DE,58791,2022-02-14,18:00,Werdohl,Rathaus,Spaziergang,2022-02-09 07:42:22,
+71514,DE,53840,2022-02-14,18:00,Troisdorf,Bushaltestelle vor dem Rathaus,Spaziergang,2022-02-10 10:07:17,
+71513,DE,53840,2022-02-14,18:00,Troisdorf,Bushaltestelle vor dem Rathaus,Spaziergang,2022-02-10 10:05:56,
 71512,DE,56410,2022-02-14,18:00,Montabaur,Konrad Adenauer Platz,Aufzug,2022-02-10 09:08:11,
 71481,DE,53894,2022-02-14,18:00,Mechernich,Zum Markt 12, ggü Pos,Spaziergang,2022-02-09 12:55:49,
 71487,DE,56068,2022-02-14,18:00,Koblenz,Clemensplatz,Spaziergang,2022-02-09 14:04:51,
@@ -34,8 +36,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71510,DE,69115,2022-02-16,18:00,Heidelberg,Schwanenteichanlage (Poststr.),Aufzug,2022-02-10 07:50:40,
 71478,DE,91052,2022-02-17,11:30,Erlangen,Schlossplatz,Kundgebung,2022-02-09 12:46:39,
 71479,DE,91052,2022-02-17,12:30,Erlangen,Schlossplatz,Spaziergang,2022-02-09 12:47:32,
-71491,DE,63906,2022-02-19,14:00,Erlenbach am Main,Mechenharder Str. /Schwimmbad,Aufzug,2022-02-09 16:49:54,Https://t.me/s/infomiltenberg
 71485,DE,63906,2022-02-19,14:00,Erlenbach am Main,Mechenharder Str. /Schwimmbad,Aufzug,2022-02-09 13:33:06,
+71491,DE,63906,2022-02-19,14:00,Erlenbach am Main,Mechenharder Str. /Schwimmbad,Aufzug,2022-02-09 16:49:54,Https://t.me/s/infomiltenberg
 71482,DE,22111,2022-02-20,15:00,Hamburg,Bauerberg,Aufzug,2022-02-09 12:58:25,
 71483,DE,22111,2022-02-22,16:00,Hamburg,Bauerberg,Kundgebung,2022-02-09 12:59:51,
 71480,DE,91052,2022-02-22,18:30,Erlangen,Ohmplatz,Aufzug,2022-02-09 12:48:25,
