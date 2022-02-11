@@ -1,6 +1,9 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
+71614,DE,29221,2022-02-12,11:00,Celle,Neumarkt,Aufzug,2022-02-11 23:03:59,
+71616,DE,29221,2022-02-12,11:30,Celle,Brandplatz,Kundgebung,2022-02-11 23:05:04,
 71594,DE,14057,2022-02-12,12:00,Berlin,Masurenallee 8-14 vorm RBB,Autokorso,2022-02-11 11:52:28,
 71611,DE,92224,2022-02-13,14:00,Amberg,ACC Hallenbad,Spaziergang,2022-02-11 21:08:10,
+71617,DE,06406,2022-02-13,16:30,Bernburg,Karlsplatz, Weltzeituhr,Spaziergang,2022-02-11 23:08:50,
 71608,DE,31275,2022-02-13,18:00,Lehrte,im Verlauf der Burgdorfer Str.,Kundgebung,2022-02-11 18:40:07,
 71605,DE,21073,2022-02-14,17:30,Hamburg-Harburg,vor Rathaus,Spaziergang,2022-02-11 16:54:07,
 71597,DE,45139,2022-02-14,17:30,Essen-Huttrop,Storpplatz,Spaziergang,2022-02-11 13:45:34,
@@ -13,6 +16,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71599,DE,07545,2022-02-14,19:00,Gera,Stadtzentrum,Spaziergang,2022-02-11 14:17:47,
 71612,DE,92224,2022-02-14,19:00,Amberg,ACC Hallenbad,Spaziergang,2022-02-11 21:08:54,
 71595,DE,92421,2022-02-15,19:00,Schwandorf,Marktplatz,Kundgebung,2022-02-11 12:09:15,
+71615,DE,70173,2022-02-16,17:00,Stuttgart,Karlsplatz,Aufzug,2022-02-11 23:04:36,
 71606,DE,06632,2022-02-16,19:00,Freyburg,Marktplatz,Spaziergang,2022-02-11 17:11:51,
 71601,DE,85072,2022-02-17,18:00,Eichstätt,Residenzplatz,Aufzug,2022-02-11 15:11:19,
 71600,DE,53902,2022-02-17,18:00,Bad Münstereifel,Rathaus,Kundgebung,2022-02-11 15:05:28,
