@@ -14,6 +14,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71355,DE,2022-02-13,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 71179,DE,2022-02-13,15:00:00,65812,Bad Soden,Neuer Kurpark Salinenstraße,Aufzug,,unbekannt,
 71054,DE,2022-02-13,16:00:00,83022,Rosenheim,Mangfallpark Süd,Aufzug,,Mahnwache Rosenheim,https://t.me/GruppeMahnwacheRosenheim/67399
+71661,DE,2022-02-13,16:30:00,01279,Dresden,Österreicher 39 / Dominos Pizza,Spaziergang,,unbekannt,
 71617,DE,2022-02-13,16:30:00,06406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,unbekannt,
 69827,DE,2022-02-13,16:30:00,14806,Bad Belzig,Marktplatz,Spaziergang,,Menschen,
 71352,DE,2022-02-13,17:00:00,85229,Markt Indersdorf,Marktplatz,Spaziergang,,unbekannt,
@@ -87,15 +88,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71487,DE,2022-02-14,18:00:00,56068,Koblenz,Clemensplatz,Spaziergang,,unbekannt,
 71534,DE,2022-02-14,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,unbekannt,
 71501,DE,2022-02-14,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,unbekannt,
-68744,DE,2022-02-14,18:00:00,52428,Jülich,Aachener Landstr 31 / LeTrou,Kundgebung,,242 Jül/Dn,
 71400,DE,2022-02-14,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,
 68946,DE,2022-02-14,18:00:00,52428,Jülich,Schlossplatz / Touristinfo,Demonstration,,Antifa Jülich GmbH und Co.Kg,
+68744,DE,2022-02-14,18:00:00,52428,Jülich,Aachener Landstr 31 / LeTrou,Kundgebung,,242 Jül/Dn,
 71627,DE,2022-02-14,18:00:00,85737,Ismaning,Kirchplatz,Spaziergang,,unbekannt,
 71386,DE,2022-02-14,18:00:00,76879,Hochstadt Pfalz,Rathaus,Spaziergang,,unbekannt,
-71419,DE,2022-02-14,18:00:00,58675,Hemer,Rathaus,Spaziergang,,unbekannt,
 71418,DE,2022-02-14,18:00:00,58675,Hemer,Rathaus,Spaziergang,,unbekannt,
-71370,DE,2022-02-14,18:00:00,22607,Hamburg,Beselerplatz,Spaziergang,,Unbekannt,
+71419,DE,2022-02-14,18:00:00,58675,Hemer,Rathaus,Spaziergang,,unbekannt,
 69175,DE,2022-02-14,18:00:00,20359,Hamburg,Kunsthallle Lombardsbr FerdTor,Gegenprotest,,Privat,
+71370,DE,2022-02-14,18:00:00,22607,Hamburg,Beselerplatz,Spaziergang,,Unbekannt,
 71383,DE,2022-02-14,18:00:00,76767,Hagenbach,Kirche,Spaziergang,,unbekannt,
 70296,DE,2022-02-14,18:00:00,83527,Haag in Oberbayern,Rathaus,Spaziergang,,unbekannt,
 71382,DE,2022-02-14,18:00:00,06773,Gräfenhainichen,Paul-Gerhardt-Kapelle,Spaziergang,,unbekannt,
@@ -142,8 +143,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71321,DE,2022-02-14,18:30:00,69181,Leimen,Marktplatz,Spaziergang,,unbekannt,
 71385,DE,2022-02-14,18:30:00,76863,Herxheim,Villa Wieser,Spaziergang,,unbekannt,
 71384,DE,2022-02-14,18:30:00,67454,Hassloch,Pfalzplatz,Spaziergang,,unbekannt,
-71548,DE,2022-02-14,18:30:00,38518,Gifhorn,Schützenplatz,Kundgebung,,Widerstand jetzt,
 71546,DE,2022-02-14,18:30:00,38518,Gifhorn,Schützenplatz,Livestream,https://twitch.tv/Demokratievs1984,unbekannt,YouTube  Kanal Demokratievs1984
+71548,DE,2022-02-14,18:30:00,38518,Gifhorn,Schützenplatz,Kundgebung,,Widerstand jetzt,
 71381,DE,2022-02-14,18:30:00,76726,Germersheim,Nardiniplatz,Spaziergang,,unbekannt,
 70904,DE,2022-02-14,18:30:00,63571,Gelnhausen,Obermarkt,Spaziergang,,unbekannt,
 71498,DE,2022-02-14,18:30:00,78199,Bräunlingen,Rathaus,Spaziergang,,unbekannt,
@@ -201,8 +202,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71510,DE,2022-02-16,18:00:00,69115,Heidelberg,Schwanenteichanlage (Poststr.),Aufzug,,Mitarbeiter im Gesundheitswesen,
 70281,DE,2022-02-16,18:00:00,84405,Dorfen,Mariensäule,Gebet,,unbekannt,
 71544,DE,2022-02-16,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
-71618,DE,2022-02-16,19:00:00,01728,Possendorf,Kastanienallee,Spaziergang,,unbekannt,https://t.me/spazieren_in_possendorf
 71581,DE,2022-02-16,19:00:00,01728,Possendorf,Kastanienallee,Spaziergang,,unbekannt,https://t.me/spazieren_in_possendorf
+71618,DE,2022-02-16,19:00:00,01728,Possendorf,Kastanienallee,Spaziergang,,unbekannt,https://t.me/spazieren_in_possendorf
 71438,DE,2022-02-16,19:00:00,76773,Kuhardt,Dorfplatz,Spaziergang,,unbekannt,
 70585,DE,2022-02-16,19:00:00,86343,Königsbrunn,Marktplatz,Spaziergang,,unbekannt,https://bf-schwaben.de/
 71606,DE,2022-02-16,19:00:00,06632,Freyburg,Marktplatz,Spaziergang,,Sachsen- Anhalt steht AUF !,
@@ -240,8 +241,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70277,IT,2022-02-19,17:00:00,39042,Brixen,Aquarena,Spaziergang,,unbekannt,
 71445,DE,2022-02-19,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,
 70665,DE,2022-02-19,19:00:00,94051,Hauzenberg,Festplatz,Spaziergang,,Hauzenberg Spaziert,https://t.me/Passau_Aktionen
-70424,DE,2022-02-20,14:00:00,80336,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt eV und Wie-Gemeinsam-Bündnis,www.wir-gemeinsam-buendnis.de
 70427,DE,2022-02-20,14:00:00,80336,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt eV und Wie-Gemeinsam-Bündnis,www.wir-gemeinsam-buendnis.de
+70424,DE,2022-02-20,14:00:00,80336,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt eV und Wie-Gemeinsam-Bündnis,www.wir-gemeinsam-buendnis.de
 71447,DE,2022-02-20,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
 71482,DE,2022-02-20,15:00:00,22111,Hamburg,Bauerberg,Aufzug,,Frieden & Freiheit,
 71446,DE,2022-02-20,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,unbeaknnt,
@@ -268,8 +269,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71343,DE,2022-02-21,18:00:00,68159,Mannheim,Marktplatz / G1,Aufzug,,Offene Gesellschaft Kurpfalz,http://offges.de/ma22
 71573,DE,2022-02-21,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,
 70383,DE,2022-02-21,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
-69063,DE,2022-02-21,18:00:00,52428,Jülich,Zum kleinen Wolfgang,Demonstration,,242Zusammen ImpfereiJÜL/DN,
 68972,DE,2022-02-21,18:00:00,52428,Jülich,Gipfelkreuz Sophienhöhe,Demonstration,,242Zusammen Impffrei Jül/DN,
+69063,DE,2022-02-21,18:00:00,52428,Jülich,Zum kleinen Wolfgang,Demonstration,,242Zusammen ImpfereiJÜL/DN,
 70297,DE,2022-02-21,18:00:00,83527,Haag in Oberbayern,Rathaus,Spaziergang,,unbekannt,
 71313,DE,2022-02-21,18:00:00,82256,Fürstenfeldbruck,Volksfestplatz,Aufzug,,FFB hält zusammen,https://t.me/FFBZM/2
 70285,DE,2022-02-21,18:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,
