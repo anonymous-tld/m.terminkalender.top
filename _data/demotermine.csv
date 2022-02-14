@@ -3,6 +3,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71464,DE,2022-02-14,09:29:00,42277,Wuppertal,Rathaus neumarkt,Spaziergang,,unbekannt,
 71466,DE,2022-02-14,16:15:00,42277,Wuppertal neu,Wuppertal barmem Rathaus,Spaziergang,,unbekannt,
 71643,DE,2022-02-14,17:30:00,61250,Usingen,Alter Marktplatz,Aufzug,,unbekannt,
+71743,DE,2022-02-14,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 71605,DE,2022-02-14,17:30:00,21073,Hamburg-Harburg,vor Rathaus,Spaziergang,,unbekannt,
 71609,DE,2022-02-14,17:30:00,45139,Essen-Huttrop,Storpplatz,Spaziergang,,Querdenken201,
 71597,DE,2022-02-14,17:30:00,45139,Essen-Huttrop,Storpplatz,Spaziergang,,Querdenken201,
@@ -42,6 +43,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71460,DE,2022-02-14,18:00:00,33102,Paderborn,Parkplatz Fürstenweg Freibad,Autokorso,,Klardenken 525,https://t.me/klar525
 70191,DE,2022-02-14,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,unbekannt,
 71390,DE,2022-02-14,18:00:00,76879,Ottersheim,Dorfplatz,Spaziergang,,unbekannt,
+71738,DE,2022-02-14,18:00:00,16515,Oranienburg,Schlossplatz,Aufzug,,Oberhavel steht auf,www.oberhavel-steht-auf.de
 70790,DE,2022-02-14,18:00:00,22846,Norderstedt,Rathausalle beim Kino Spectrum,Spaziergang,,unbekannt,
 71592,DE,2022-02-14,18:00:00,63667,Nidda,Marktplatz,Spaziergang,,unbekannt,
 71389,DE,2022-02-14,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
@@ -61,25 +63,26 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71533,DE,2022-02-14,18:00:00,63225,Langen (Hessen),Goethestraße,Spaziergang,,unbekannt,
 71572,DE,2022-02-14,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,
 71388,DE,2022-02-14,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,
-71423,DE,2022-02-14,18:00:00,68623,Lampertheim,Altes Rathaus,Sonstiges,,unbekannt,
 71422,DE,2022-02-14,18:00:00,68623,Lampertheim,Altes Rathaus,Sonstiges,,unbekannt,
+71423,DE,2022-02-14,18:00:00,68623,Lampertheim,Altes Rathaus,Sonstiges,,unbekannt,
 70382,DE,2022-02-14,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
 71405,DE,2022-02-14,18:00:00,85082,Kösching,Rathaus,Spaziergang,,unbekannt,
 71487,DE,2022-02-14,18:00:00,56068,Koblenz,Clemensplatz,Spaziergang,,unbekannt,
 71534,DE,2022-02-14,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,unbekannt,
 71501,DE,2022-02-14,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,unbekannt,
 71669,DE,2022-02-14,18:00:00,76133,Karlsruhe,Stephanplatz (Postgalerie),Aufzug,,unbekannt,
-68946,DE,2022-02-14,18:00:00,52428,Jülich,Schlossplatz / Touristinfo,Demonstration,,Antifa Jülich GmbH und Co.Kg,
 71400,DE,2022-02-14,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,
+68946,DE,2022-02-14,18:00:00,52428,Jülich,Schlossplatz / Touristinfo,Demonstration,,Antifa Jülich GmbH und Co.Kg,
 68744,DE,2022-02-14,18:00:00,52428,Jülich,Aachener Landstr 31 / LeTrou,Kundgebung,,242 Jül/Dn,
 71627,DE,2022-02-14,18:00:00,85737,Ismaning,Kirchplatz,Spaziergang,,unbekannt,
 71386,DE,2022-02-14,18:00:00,76879,Hochstadt Pfalz,Rathaus,Spaziergang,,unbekannt,
-71418,DE,2022-02-14,18:00:00,58675,Hemer,Rathaus,Spaziergang,,unbekannt,
 71419,DE,2022-02-14,18:00:00,58675,Hemer,Rathaus,Spaziergang,,unbekannt,
-69175,DE,2022-02-14,18:00:00,20359,Hamburg,Kunsthallle Lombardsbr FerdTor,Gegenprotest,,Privat,
+71418,DE,2022-02-14,18:00:00,58675,Hemer,Rathaus,Spaziergang,,unbekannt,
 71370,DE,2022-02-14,18:00:00,22607,Hamburg,Beselerplatz,Spaziergang,,Unbekannt,
+69175,DE,2022-02-14,18:00:00,20359,Hamburg,Kunsthallle Lombardsbr FerdTor,Gegenprotest,,Privat,
 71383,DE,2022-02-14,18:00:00,76767,Hagenbach,Kirche,Spaziergang,,unbekannt,
 70296,DE,2022-02-14,18:00:00,83527,Haag in Oberbayern,Rathaus,Spaziergang,,unbekannt,
+71747,DE,2022-02-14,18:00:00,89423,Gundelfingen,Kriegerdenkmal,Spaziergang,,unbekannt,
 71382,DE,2022-02-14,18:00:00,06773,Gräfenhainichen,Paul-Gerhardt-Kapelle,Spaziergang,,unbekannt,
 71591,DE,2022-02-14,18:00:00,37083,Göttingen,Jahnstadion Parkplatz Sandweg,Spaziergang,,unbekannt,
 71660,DE,2022-02-14,18:00:00,159938,Golße,Marktplatz,Spaziergang,,unbekannt,
@@ -91,6 +94,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71489,DE,2022-02-14,18:00:00,01705,Freital,Neumarkt,Spaziergang,,unbekannt,
 71641,DE,2022-02-14,18:00:00,60311,Frankfurt,Paulsplatz,Aufzug,,unbekannt,
 71493,DE,2022-02-14,18:00:00,03149,Forst,Stadtkirche,Spaziergang,,unbekannt,
+71735,DE,2022-02-14,18:00:00,03238,Finsterwalde,Markt,Spaziergang,,unbekannt,
 71665,DE,2022-02-14,18:00:00,70734,Fellbach,Lutherkirche,Spaziergang,,unbekannt,
 71425,DE,2022-02-14,18:00:00,65817,Eppstein,Rathaus Vockenhausen,Spaziergang,,Freiheit,
 71633,DE,2022-02-14,18:00:00,48282,Emsdetten,St. Pankratius Kirche,Spaziergang,,unbekannt,
@@ -98,14 +102,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71535,DE,2022-02-14,18:00:00,63329,Egelsbach,Berliner Platz,Spaziergang,,unbekannt,
 71380,DE,2022-02-14,18:00:00,67480,Edenkoben,Parkplatz Radeburger Straße,Spaziergang,,unbekannt,
 71449,DE,2022-02-14,18:00:00,16225,Eberswalde bei Berlin,Marktplatz,Spaziergang,,privat,
-71674,DE,2022-02-14,18:00:00,01127,Dresden,Mickten Straßenbahnhof,Spaziergang,,unbekannt,
-71687,DE,2022-02-14,18:00:00,01237,Dresden,Leuben / Operette,Spaziergang,,unbekannt,
-71686,DE,2022-02-14,18:00:00,01239,Dresden,Niedersedlitz / Feuerwehr,Spaziergang,,unbekannt,
 71684,DE,2022-02-14,18:00:00,01157,Dresden,Cotta / Hebbelplatz,Spaziergang,,unbekannt,
 71682,DE,2022-02-14,18:00:00,01199,Dresden,Goldener Reiter,Spaziergang,,unbekannt,
+71686,DE,2022-02-14,18:00:00,01239,Dresden,Niedersedlitz / Feuerwehr,Spaziergang,,unbekannt,
+71687,DE,2022-02-14,18:00:00,01237,Dresden,Leuben / Operette,Spaziergang,,unbekannt,
 71681,DE,2022-02-14,18:00:00,01279,Dresden,Blasewitz / Schillerplatz,Spaziergang,,unbekannt,
 71676,DE,2022-02-14,18:00:00,01277,Dresden,Altenberger Pl. / Kino Ost,Spaziergang,,unbekannt,
 71675,DE,2022-02-14,18:00:00,01324,Dresden,Bühlau / Bibliothek,Spaziergang,,unbekannt,
+71674,DE,2022-02-14,18:00:00,01127,Dresden,Mickten Straßenbahnhof,Spaziergang,,unbekannt,
 71673,DE,2022-02-14,18:00:00,01069,Dresden,Wiener Pl. Hbf,Spaziergang,,unbekannt,
 71490,DE,2022-02-14,18:00:00,46282,Dorsten,neues Rathaus / Gemeindedreiec,Spaziergang,,unbekannt,
 70284,DE,2022-02-14,18:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,
@@ -156,8 +160,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 69788,DE,2022-02-14,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,unbekannt,
 71604,DE,2022-02-14,18:45:00,76703,Kraichtal - Münzesheim,Rathaus,Spaziergang,,unbekannt,
 70669,CH,2022-02-14,19:00:00,8023,Zürich,Bahnhofsquai u. weitere,Spaziergang,,Montagsspaziergang Zürich,https://t.me/Demotermine/43531
-71625,DE,2022-02-14,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
 70737,DE,2022-02-14,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
+71625,DE,2022-02-14,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
 70947,DE,2022-02-14,19:00:00,26388,Wilhelmshaven,Kirchplatz Fedderwardergroden,Spaziergang,,Das deutsche Volk,
 71393,DE,2022-02-14,19:00:00,67346,Speyer,Domplatz (Königsplatz),Spaziergang,,unbekannt,
 71637,DE,2022-02-14,19:00:00,24768,Rendsburg,Paradeplatz / Lornsendenkmal,Spaziergang,,unbekannt,
@@ -185,21 +189,24 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70774,DE,2022-02-14,19:00:00,17489,Greifswald,Marktplatz,Kundgebung,,Montagsdemo Greifswald,https://t.me/mo_demo_hgw
 71599,DE,2022-02-14,19:00:00,07545,Gera,Stadtzentrum,Spaziergang,,unbekannt,
 70291,DE,2022-02-14,19:00:00,85435,Erding,Schrannenplatz,Spaziergang,,unbekannt,
-71677,DE,2022-02-14,19:00:00,01108,Dresden,Weixdorf / Rathausplatz,Spaziergang,,unbekannt,
 71685,DE,2022-02-14,19:00:00,01156,Dresden,Cossebaude B6/Brauergasse,Spaziergang,,unbekannt,
+71677,DE,2022-02-14,19:00:00,01108,Dresden,Weixdorf / Rathausplatz,Spaziergang,,unbekannt,
 70651,CH,2022-02-14,19:00:00,8953,Dietikon,Bahnhof,Spaziergang,,unbekannt,https://t.me/Demotermine/43513
 71656,DE,2022-02-14,19:00:00,21244,Buchholz i.d.N.,Parkplatz Rathaus,Spaziergang,,unbekannt,
 71612,DE,2022-02-14,19:00:00,92224,Amberg,ACC Hallenbad,Spaziergang,,unbekannt,https://t.me/amberg_steht_auf
 71694,DE,2022-02-14,19:00:00,67122,Altrip,Wasserturm,Kundgebung,,unbekannt,
 71372,DE,2022-02-14,19:00:00,83352,Altenmarkt,Rathaus,Spaziergang,,unbekannt,
+71750,DE,2022-02-14,19:00:00,83352,Altenmarkt,Rathaus,Spaziergang,,unbekannt,
 71525,DE,2022-02-14,19:30:00,25421,Pinneberg,Rathausplatz,Spaziergang,,unbekannt,
 71690,DE,2022-02-14,20:00:00,74549,Wolpertshausen,Rathaus,Spaziergang,,unbekannt,
+71748,DE,2022-02-14,21:28:00,12279,Berlin,Marienfelde,Kundgebung,,unbekannt,
 71692,IT,2022-02-15,09:30:00,38122,Trento,Piazza Dante,Demonstration,,Ci siamo Trentino,https://t.me/CiSiAMOTrentino/6555
 71434,DE,2022-02-15,18:00:00,67378,Zeiskam,Fuchsbachhalle,Spaziergang,,unbekannt,
 71695,DE,2022-02-15,18:00:00,17438,Wolgast,Freifläche am Kai,Demonstration,,Privat,https://T.ME/WOLGASTSTEHTAUF_KANAL
 70958,DE,2022-02-15,18:00:00,57392,Schmallenberg,Am Alexanderhaus / a.d. kath...,Spaziergang,,unbekannt,
 71593,DE,2022-02-15,18:00:00,63683,Ortenberg,Marktplatz,Spaziergang,,unbekannt,
 71401,DE,2022-02-15,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,
+71712,DE,2022-02-15,18:00:00,84547,Emmerting,Kirche/Gemeindewiese/Karrerweg,Spaziergang,,Privat,
 71645,DE,2022-02-15,18:30:00,60439,Frankfurt Heddernheim,Karl-Perotte-Platz,Aufzug,,unbekannt,
 71644,DE,2022-02-15,18:30:00,60308,Frankfurt,Messeturm,Aufzug,,unbekannt,
 71475,DE,2022-02-15,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,unbekannt,
@@ -223,6 +230,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71496,DE,2022-02-16,18:00:00,79618,Herten,Am Lindenbrunnen,Spaziergang,,unbekannt,
 71420,DE,2022-02-16,18:00:00,58675,Hemer,Rathaus,Spaziergang,,unbekannt,
 71510,DE,2022-02-16,18:00:00,69115,Heidelberg,Schwanenteichanlage (Poststr.),Aufzug,,Mitarbeiter im Gesundheitswesen,
+71740,DE,2022-02-16,18:00:00,22049,Hamburg,Straßburger Platz,Aufzug,,unbekannt,
 70281,DE,2022-02-16,18:00:00,84405,Dorfen,Mariensäule,Gebet,,unbekannt,
 71544,DE,2022-02-16,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 71646,DE,2022-02-16,18:30:00,60325,Frankfurt Bockenheim,Bockenheimer Warte,Aufzug,,unbekannt,
@@ -257,18 +265,21 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71444,DE,2022-02-18,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
 71073,DE,2022-02-18,18:00:00,41460,Neuss,Münsterplatz,Spaziergang,,unbekannt,
 70920,AT,2022-02-18,18:00:00,3390,Melk,Hauptplatz,Spaziergang,,unbekannt,https://t.me/doomsday_austria/53261
+71741,DE,2022-02-18,18:00:00,16761,Hennigsdorf,Postplatz (Bahnhof),Aufzug,,Oberhavel steht auf,http://www.oberhavel-steht-auf.de
 71651,DE,2022-02-18,18:30:00,61462,Königstein,Kapuzinerplatz,Aufzug,,unbekannt,
 71650,DE,2022-02-18,18:30:00,60594,Frankfurt Sachsenhausen,Schweizer Platz,Aufzug,,unbekannt,
 71701,DE,2022-02-18,19:00:00,73760,Ostfildern,Gesamter Ort,Spaziergang,,unbekannt,
 71610,DE,2022-02-18,19:00:00,92526,Oberviechtach,Rathaus,Spaziergang,,unbekannt,
 71458,DE,2022-02-18,19:00:00,86720,Nördlingen,Rathaus,Spaziergang,,Unbekannt,
+71714,DE,2022-02-19,10:00:00,08340,Schwarzenberg /Erzgebirge,Busbahnhof,Spaziergang,,unbekannt,
 71569,DE,2022-02-19,11:00:00,84028,Landshut,Ländtor / Isarpromenade,Menschenkette,,unbekannt,
 70640,DE,2022-02-19,11:00:00,71394,Kernen im Remstal,Pausenhof Realschule,Kundgebung,,BI Freiheit und Gesundheit Kernen,http://www.bi-freiheit-gesundheit-kernen.de
+71742,DE,2022-02-19,11:00:00,20095,Hamburg,Rathausmarkt,Demonstration,,Rathaus-Demo,http://www.rathausdemo.de
 70864,CH,2022-02-19,13:00:00,8050,Zürich,Marktplatz Oerlikon,Kundgebung,,Aktionsbündnis Urkantone,http://www.ur-kantone.ch
 71220,DE,2022-02-19,14:00:00,49074,Osnabrück,Schlossgarten,Demonstration,,unbekannt,
 71105,DE,2022-02-19,14:00:00,81667,München,Weißenburger Platz,Kundgebung,,Ulrike Pfeffer (Ulli Oma),https://t.me/UlliOma_Muc/33137
-71491,DE,2022-02-19,14:00:00,63906,Erlenbach am Main,Mechenharder Str. /Schwimmbad,Aufzug,Https://t.me/s/infomiltenberg,Freiheitsboten Miltenberg,Https://t.me/s/infomiltenberg
 71485,DE,2022-02-19,14:00:00,63906,Erlenbach am Main,Mechenharder Str. /Schwimmbad,Aufzug,,Freiheitsboten Miltenberg,https://t.me/s/infomiltenberg
+71491,DE,2022-02-19,14:00:00,63906,Erlenbach am Main,Mechenharder Str. /Schwimmbad,Aufzug,Https://t.me/s/infomiltenberg,Freiheitsboten Miltenberg,Https://t.me/s/infomiltenberg
 71652,DE,2022-02-19,15:00:00,60322,Frankfurt Nordend,Holzhausenpark,Aufzug,,unbekannt,
 71632,DE,2022-02-19,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 71659,DE,2022-02-19,17:00:00,01067,Dresden,Altmarkt,Aufzug,,unbekannt,
@@ -276,8 +287,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71445,DE,2022-02-19,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,
 71702,DE,2022-02-19,18:00:00,73760,Ostfildern,Gesamter Ort,Spaziergang,,unbekannt,
 70665,DE,2022-02-19,19:00:00,94051,Hauzenberg,Festplatz,Spaziergang,,Hauzenberg Spaziert,https://t.me/Passau_Aktionen
-70427,DE,2022-02-20,14:00:00,80336,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt eV und Wie-Gemeinsam-Bündnis,www.wir-gemeinsam-buendnis.de
 70424,DE,2022-02-20,14:00:00,80336,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt eV und Wie-Gemeinsam-Bündnis,www.wir-gemeinsam-buendnis.de
+70427,DE,2022-02-20,14:00:00,80336,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt eV und Wie-Gemeinsam-Bündnis,www.wir-gemeinsam-buendnis.de
 71706,DE,2022-02-20,14:00:00,84503,Altötting,Griesstr. Busbahnhof,Spaziergang,,unbekannt,https://t.me/Neuoettinger_Mahnwache/36883
 71447,DE,2022-02-20,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
 71482,DE,2022-02-20,15:00:00,22111,Hamburg,Bauerberg,Aufzug,,Frieden & Freiheit,
@@ -290,13 +301,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71620,DE,2022-02-20,16:30:00,06406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,unbekannt,
 69828,DE,2022-02-20,16:30:00,14806,Bad Belzig,Marktplatz,Spaziergang,,Menschen,
 71703,DE,2022-02-20,18:00:00,73760,Ostfildern,Gesamter Ort,Spaziergang,,unbekannt,
+71729,DE,2022-02-20,18:00:00,91088,Bubenreuth,Baumzeil,Kundgebung,,Privat,
 69125,DE,2022-02-21,00:00:18,48565,Steinfurt Burgsteinfurt,Baumgarten 1 48565 Steinfurt,Aufzug,,unbekannt,
+71744,DE,2022-02-21,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 70485,DE,2022-02-21,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 69941,DE,2022-02-21,18:00:00,83512,Wasserburg am Inn,Busbahnhof,Aufzug,,Luggi Maier (Kreisrat d. ÖDP),https://t.me/CoronaWiderstand_Wasserburg_Inn/2724
 71624,DE,2022-02-21,18:00:00,84478,Waldkraiburg,Rathaus,Spaziergang,,unbekannt,
 71327,DE,2022-02-21,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,unbekannt,
-71451,DE,2022-02-21,18:00:00,66583,Spiesen Elversberg,Rathaus / Hauptstraße,Spaziergang,,unbekannt,
 71336,DE,2022-02-21,18:00:00,66583,Spiesen Elversberg,Spiesen Rathaus Hauptstraße,Spaziergang,,unbekannt,
+71451,DE,2022-02-21,18:00:00,66583,Spiesen Elversberg,Rathaus / Hauptstraße,Spaziergang,,unbekannt,
 70345,DE,2022-02-21,18:00:00,83358,Seebruck,Rathaus,Spaziergang,,Seeon-Seebruck steht auf,https://t.me/Chiemgauer_Widerstand/382
 70777,DE,2022-02-21,18:00:00,93128,Regenstauf,Schwandorferstr. / Regenbrücke,Spaziergang,,unbekannt,
 68785,DE,2022-02-21,18:00:00,28870,Quelkhorn,Denkmal,Spaziergang,,unbekannt,
@@ -307,8 +320,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71343,DE,2022-02-21,18:00:00,68159,Mannheim,Marktplatz / G1,Aufzug,,Offene Gesellschaft Kurpfalz,http://offges.de/ma22
 71573,DE,2022-02-21,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,
 70383,DE,2022-02-21,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
-69063,DE,2022-02-21,18:00:00,52428,Jülich,Zum kleinen Wolfgang,Demonstration,,242Zusammen ImpfereiJÜL/DN,
 68972,DE,2022-02-21,18:00:00,52428,Jülich,Gipfelkreuz Sophienhöhe,Demonstration,,242Zusammen Impffrei Jül/DN,
+69063,DE,2022-02-21,18:00:00,52428,Jülich,Zum kleinen Wolfgang,Demonstration,,242Zusammen ImpfereiJÜL/DN,
 70297,DE,2022-02-21,18:00:00,83527,Haag in Oberbayern,Rathaus,Spaziergang,,unbekannt,
 71313,DE,2022-02-21,18:00:00,82256,Fürstenfeldbruck,Volksfestplatz,Aufzug,,FFB hält zusammen,https://t.me/FFBZM/2
 71634,DE,2022-02-21,18:00:00,48282,Emsdetten,St. Pankratius Kirche,Spaziergang,,unbekannt,
@@ -317,8 +330,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71293,DE,2022-02-21,18:00:00,94469,Deggendorf,Oberer Stadtplatz,Kundgebung,,KEINE EMAIL HIER REIN,
 69148,DE,2022-02-21,18:00:00,92339,Beilngries,Kirchplatz Hauptstraße,Aufzug,,unbekannt,
 70609,DE,2022-02-21,18:00:00,93077,Bad Abbach,Rathaus,Spaziergang,,unbekannt,https://t.me/Demotermine/42986
+71749,DE,2022-02-21,18:00:00,76855,Annweiler am Trifels,Kirchplatz,Spaziergang,,unbekannt,
 71602,DE,2022-02-21,18:15:00,45479,Mülheim an der Ruhr,Parkplatz Stadthalle,Demonstration,,unbekannt,https://www.coronasaurus.de
+71739,DE,2022-02-21,18:30:00,83119,Obing,Rathaus,Spaziergang,,unbekannt,
 71529,DE,2022-02-21,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
+71751,DE,2022-02-21,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
 69789,DE,2022-02-21,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,unbekannt,
 70670,CH,2022-02-21,19:00:00,8023,Zürich,Bahnhofsquai u. weitere,Spaziergang,,Montagsspaziergang Zürich,https://t.me/Demotermine/43531
 70948,DE,2022-02-21,19:00:00,26388,Wilhelmshaven,Kirchplatz Fedderwardergroden,Spaziergang,,Das deutsche Volk,
@@ -360,6 +376,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71346,DE,2022-02-28,13:13:00,55116,Mainz,Malakoff-Terasse,Aufzug,,Initiative 1bis19,http://maskenzug.de
 68973,DE,2022-02-28,16:00:00,52428,Jülich,Schlossplatz,Kundgebung,,242Zusammen Impffrei Jül/DN,
 71607,DE,2022-02-28,16:00:00,26603,Aurich,Krankenhaus,Sonstiges,,Impfstreik,https://impfstreik.compact-online.de/
+71746,DE,2022-02-28,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 70486,DE,2022-02-28,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 71017,DE,2022-02-28,18:00:00,16792,Zehdenick,Marktplatz,Spaziergang,,unbekannt,
 69942,DE,2022-02-28,18:00:00,83512,Wasserburg am Inn,Busbahnhof,Aufzug,,Luggi Maier (Kreisrat d. ÖDP),https://t.me/CoronaWiderstand_Wasserburg_Inn/2724
@@ -427,6 +444,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71019,DE,2022-03-28,18:00:00,16792,Zehdenick,Marktplatz,Kundgebung,,unbekannt,
 69014,DE,2022-03-28,18:00:00,52428,Jülich,Neusser Str. / Höhe Post,Bauerndemo,,240 Impffrei Jül/DN,
 67499,DE,2022-03-28,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
+71734,DE,2022-03-30,15:00:00,91052,Erlangen,Berliner Platz. Park,Konzert,,Alarmstufe Rot,
+71732,DE,2022-03-31,14:00:00,91052,Erlangen,Berliner Platz. Park,Spaziergang,,Alarmstufe Rot,
+71733,DE,2022-03-31,15:30:00,91052,Erlangen,Berliner Platz. Park,Kundgebung,,Alarmstufe Rot,
 71031,DE,2022-03-31,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 67573,DE,2022-03-31,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing
 66923,AT,2022-04-01,18:00:00,8323,St Marein / b. Graz,Beim Kirchplatz,Spaziergang,,unbekannt,
