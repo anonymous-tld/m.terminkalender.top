@@ -11,8 +11,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71891,DE,64385,2022-02-19,14:00,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Versammlung,2022-02-16 16:09:06,
 71863,DE,69120,2022-02-19,14:30,Heidelberg,Neckarwiese Höhe Keplerstr.,Aufzug,2022-02-15 21:55:03,
 71876,DE,67655,2022-02-19,15:00,Kaiserslautern,Messeplatz,Demonstration,2022-02-16 11:05:12,
-71886,DE,21029,2022-02-19,15:00,Hamburg,Hamburg-Bergedorf, St. Petri,Kundgebung,2022-02-16 15:03:23,Ehrenfrau tv
 71888,DE,20354,2022-02-19,15:00,Hamburg,Gänsemarkt,Aufzug,2022-02-16 15:05:28,Ehrenfrau tv
+71886,DE,21029,2022-02-19,15:00,Hamburg,Hamburg-Bergedorf, St. Petri,Kundgebung,2022-02-16 15:03:23,Ehrenfrau tv
 71889,DE,20099,2022-02-19,15:00,Hamburg,Berliner Tor,Aufzug,2022-02-16 15:07:30,evtl. Ehrenfrau tv
 71873,DE,20354,2022-02-19,15:00,Hamburg,Gänsemarkt,Aufzug,2022-02-16 11:01:07,
 71898,DE,60329,2022-02-19,15:00,Frankfurt,Taunusanlage,Aufzug,2022-02-16 21:17:08,
@@ -32,11 +32,12 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71868,DE,63571,2022-02-21,18:30,Gelnhausen,Obermarkt,Spaziergang,2022-02-15 23:22:45,
 71856,DE,42651,2022-02-21,19:00,Solingen,Walter-Scheel-Platz - Rathaus,Spaziergang,2022-02-15 19:10:27,
 71880,DE,87600,2022-02-21,19:00,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,2022-02-16 12:00:56,
-71894,DE,38820,2022-02-21,19:00,Halberstadt,Domplatz,Spaziergang,2022-02-16 19:08:22,
 71897,DE,38820,2022-02-21,19:00,Halberstadt,Domplatz,Spaziergang,2022-02-16 20:13:39,
-71887,DE,77652,2022-02-22,14:00,Offenburg,Landratsamt,Versammlung,2022-02-16 15:04:51,
+71894,DE,38820,2022-02-21,19:00,Halberstadt,Domplatz,Spaziergang,2022-02-16 19:08:22,
 71893,DE,77652,2022-02-22,14:00,Offenburg,Landratsamt,Zusammenkunft,2022-02-16 17:03:43,
+71887,DE,77652,2022-02-22,14:00,Offenburg,Landratsamt,Versammlung,2022-02-16 15:04:51,
 71883,DE,51570,2022-02-22,18:00,Windeck,vor dem REWE Parkplatz,Mahnwache,2022-02-16 13:03:53,
 71864,DE,69115,2022-02-23,18:00,Heidelberg,Schwanenteichanlage, Poststr.,Aufzug,2022-02-15 21:57:26,
+71899,DE,61440,2022-02-23,18:30,Oberursel,Adenauerallee,Spaziergang,2022-02-16 22:25:07,
 71879,DE,92421,2022-02-24,19:00,Schwandorf,Marktplatz,Kundgebung,2022-02-16 11:51:52,
 71859,DE,74523,2022-02-28,18:00,Schwäbisch Hall,Marktplatz,Spaziergang,2022-02-15 20:04:33,
