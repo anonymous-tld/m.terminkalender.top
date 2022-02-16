@@ -5,16 +5,17 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71860,DE,69483,2022-02-17,18:00,Wald-Michelbach,Ludwigstraße/Schulstraße,Aufzug,2022-02-15 21:33:00,
 71861,DE,69483,2022-02-17,18:00,Wald-Michelbach,Ludwigstraße/Schulstraße,Kundgebung,2022-02-15 21:34:19,
 71884,DE,90469,2022-02-17,18:00,Nürnberg,Haupteingang Südfriedhof,Spaziergang,2022-02-16 13:42:52,
+71900,DE,63654,2022-02-17,18:00,Büdingen,Willi Zinnkann-Halle,Spaziergang,2022-02-16 22:50:01,
 71865,DE,70174,2022-02-18,17:00,Stuttgart,Leitzstraße 45,Kundgebung,2022-02-15 22:10:12,
 71882,DE,74906,2022-02-18,18:30,Bad Rappenau,Großsporthalle,Spaziergang,2022-02-16 12:51:25,
 71895,DE,13357,2022-02-19,12:30,Berlin,Parkplatz S-Bhf. Gesundbrunnen,Autokorso,2022-02-16 19:11:58,
 71891,DE,64385,2022-02-19,14:00,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Versammlung,2022-02-16 16:09:06,
 71863,DE,69120,2022-02-19,14:30,Heidelberg,Neckarwiese Höhe Keplerstr.,Aufzug,2022-02-15 21:55:03,
 71876,DE,67655,2022-02-19,15:00,Kaiserslautern,Messeplatz,Demonstration,2022-02-16 11:05:12,
-71888,DE,20354,2022-02-19,15:00,Hamburg,Gänsemarkt,Aufzug,2022-02-16 15:05:28,Ehrenfrau tv
-71886,DE,21029,2022-02-19,15:00,Hamburg,Hamburg-Bergedorf, St. Petri,Kundgebung,2022-02-16 15:03:23,Ehrenfrau tv
-71889,DE,20099,2022-02-19,15:00,Hamburg,Berliner Tor,Aufzug,2022-02-16 15:07:30,evtl. Ehrenfrau tv
 71873,DE,20354,2022-02-19,15:00,Hamburg,Gänsemarkt,Aufzug,2022-02-16 11:01:07,
+71886,DE,21029,2022-02-19,15:00,Hamburg,Hamburg-Bergedorf, St. Petri,Kundgebung,2022-02-16 15:03:23,Ehrenfrau tv
+71888,DE,20354,2022-02-19,15:00,Hamburg,Gänsemarkt,Aufzug,2022-02-16 15:05:28,Ehrenfrau tv
+71889,DE,20099,2022-02-19,15:00,Hamburg,Berliner Tor,Aufzug,2022-02-16 15:07:30,evtl. Ehrenfrau tv
 71898,DE,60329,2022-02-19,15:00,Frankfurt,Taunusanlage,Aufzug,2022-02-16 21:17:08,
 71862,DE,40213,2022-02-19,15:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2022-02-15 21:42:41,
 71869,DE,29525,2022-02-19,17:00,Uelzen,Hammersteinplatz,Spaziergang,2022-02-16 00:28:45,https://www.facebook.com/groups/1707609382913670/?ref=share
@@ -32,10 +33,10 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71868,DE,63571,2022-02-21,18:30,Gelnhausen,Obermarkt,Spaziergang,2022-02-15 23:22:45,
 71856,DE,42651,2022-02-21,19:00,Solingen,Walter-Scheel-Platz - Rathaus,Spaziergang,2022-02-15 19:10:27,
 71880,DE,87600,2022-02-21,19:00,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,2022-02-16 12:00:56,
-71897,DE,38820,2022-02-21,19:00,Halberstadt,Domplatz,Spaziergang,2022-02-16 20:13:39,
 71894,DE,38820,2022-02-21,19:00,Halberstadt,Domplatz,Spaziergang,2022-02-16 19:08:22,
-71893,DE,77652,2022-02-22,14:00,Offenburg,Landratsamt,Zusammenkunft,2022-02-16 17:03:43,
+71897,DE,38820,2022-02-21,19:00,Halberstadt,Domplatz,Spaziergang,2022-02-16 20:13:39,
 71887,DE,77652,2022-02-22,14:00,Offenburg,Landratsamt,Versammlung,2022-02-16 15:04:51,
+71893,DE,77652,2022-02-22,14:00,Offenburg,Landratsamt,Zusammenkunft,2022-02-16 17:03:43,
 71883,DE,51570,2022-02-22,18:00,Windeck,vor dem REWE Parkplatz,Mahnwache,2022-02-16 13:03:53,
 71864,DE,69115,2022-02-23,18:00,Heidelberg,Schwanenteichanlage, Poststr.,Aufzug,2022-02-15 21:57:26,
 71899,DE,61440,2022-02-23,18:30,Oberursel,Adenauerallee,Spaziergang,2022-02-16 22:25:07,
