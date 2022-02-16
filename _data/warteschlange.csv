@@ -2,8 +2,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71881,DE,74936,2022-02-16,18:00,Siegelsbach,Bürgerzentrum,Spaziergang,2022-02-16 12:08:34,
 71878,DE,55283,2022-02-16,18:00,Nierstein,Marktplatzbrunnen, Oberdorfstr,Spaziergang,2022-02-16 11:50:23,
 71885,DE,22087,2022-02-17,17:00,Hamburg,Mundsburg, Theater,Aufzug,2022-02-16 15:00:42,Ehrenfrau tv
-71861,DE,69483,2022-02-17,18:00,Wald-Michelbach,Ludwigstraße/Schulstraße,Kundgebung,2022-02-15 21:34:19,
 71860,DE,69483,2022-02-17,18:00,Wald-Michelbach,Ludwigstraße/Schulstraße,Aufzug,2022-02-15 21:33:00,
+71861,DE,69483,2022-02-17,18:00,Wald-Michelbach,Ludwigstraße/Schulstraße,Kundgebung,2022-02-15 21:34:19,
 71884,DE,90469,2022-02-17,18:00,Nürnberg,Haupteingang Südfriedhof,Spaziergang,2022-02-16 13:42:52,
 71865,DE,70174,2022-02-18,17:00,Stuttgart,Leitzstraße 45,Kundgebung,2022-02-15 22:10:12,
 71882,DE,74906,2022-02-18,18:30,Bad Rappenau,Großsporthalle,Spaziergang,2022-02-16 12:51:25,
@@ -21,6 +21,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71858,DE,74523,2022-02-21,18:00,Schwäbisch Hall,Marktplatz,Spaziergang,2022-02-15 20:03:28,
 71867,DE,82211,2022-02-21,18:00,Herrsching,Rathaus,Spaziergang,2022-02-15 22:59:12,
 71874,DE,22607,2022-02-21,18:00,Hamburg-Othmarschen,Beselerplatz,Aufzug,2022-02-16 11:03:00,
+71890,DE,16225,2022-02-21,18:00,Eberswalde,Marktplatz,Spaziergang,2022-02-16 15:51:47,
 71871,DE,61118,2022-02-21,18:00,Bad Vilbel,Altes Rathaus,Spaziergang,2022-02-16 07:30:37,
 71877,DE,69181,2022-02-21,18:30,Leimen,Rathaus Platz,Spaziergang,2022-02-16 11:48:12,
 71868,DE,63571,2022-02-21,18:30,Gelnhausen,Obermarkt,Spaziergang,2022-02-15 23:22:45,
