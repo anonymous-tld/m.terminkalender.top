@@ -81,5 +81,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72143,HU,1312,2022-02-28,00:12,FicktEuchStadt,Arsch,Freizeit,2022-02-21 20:46:11,
 72157,HU,1312,2022-02-28,00:12,(SELECT (CASE WHEN (5056=5056) THEN 5056 ELSE,Arsch,Freizeit,2022-02-21 20:46:49,
 72156,HU,1312,2022-02-28,00:12,(SELECT (CASE WHEN (2035=9763) THEN 2035 ELSE,Arsch,Freizeit,2022-02-21 20:46:48,
+72225,DE,85570,2022-02-28,18:00,Markt Schwaben,Marktplatz,Spaziergang,2022-02-21 21:46:55,
+72226,DE,65817,2022-02-28,18:00,Eppstein,Rathaus Vockenhausen,Spaziergang,2022-02-21 21:48:02,
 72223,DE,83119,2022-02-28,18:30,Obing,Rathausplatz,Spaziergang,2022-02-21 21:32:01,
+72227,DE,65199,2022-03-05,15:00,Wiesbaden,Reisinger Anlage,Kundgebung,2022-02-21 21:50:31,
 72224,DE,83119,2022-03-07,18:30,Obing,Rathaus,Spaziergang,2022-02-21 21:33:00,
