@@ -1,5 +1,6 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 72267,DE,76774,2022-02-22,19:00,Leimersheim,Kirchplatz,Spaziergang,2022-02-22 17:36:32,
+72275,DE,76751,2022-02-24,18:00,Jockgrim,Parkplatz Penny,Spaziergang,2022-02-22 17:39:51,
 72245,DE,97353,2022-02-26,14:30,Wiesentheid,Parkplatz Steigerwaldhalle,Demonstration,2022-02-22 16:26:14,
 72248,DE,88094,2022-02-27,17:30,Oberteuringen,Franz-Roth-Platz,Spaziergang,2022-02-22 17:25:54,
 72265,DE,76744,2022-02-28,18:00,Wörth/Rhein,Altes Rathaus,Spaziergang,2022-02-22 17:35:19,
@@ -34,3 +35,10 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72272,DE,67433,2022-03-02,18:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-02-22 17:38:30,
 72271,DE,76829,2022-03-02,18:00,Landau/Pfalz,Deutsches Tor,Spaziergang,2022-02-22 17:38:09,
 72270,DE,76773,2022-03-02,19:00,Kuhardt,Dorfplatz,Spaziergang,2022-02-22 17:37:44,
+72274,DE,76751,2022-03-03,18:00,Jockgrim,Parkplatz Penny,Spaziergang,2022-02-22 17:39:24,
+72273,DE,76887,2022-03-03,18:30,Bad Bergzabern,Schloss,Spaziergang,2022-02-22 17:38:57,
+72276,DE,76777,2022-03-03,19:00,Neupotz,Kirche,Spaziergang,2022-02-22 17:40:22,
+72277,DE,67433,2022-03-04,18:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-02-22 17:40:45,
+72278,DE,76761,2022-03-05,18:00,Rülzheim,Kerweplatz,Spaziergang,2022-02-22 17:41:03,
+72280,DE,67433,2022-03-06,15:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-02-22 17:41:59,
+72279,DE,76726,2022-03-06,15:00,Germersheim,Luitpoldplatz,Spaziergang,2022-02-22 17:41:37,
