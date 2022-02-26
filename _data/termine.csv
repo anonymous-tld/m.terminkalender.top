@@ -8,8 +8,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72237,DE,10117,2022-02-26,12:00,Berlin,Brandenburger Tor,Kundgebung,2022-02-22 07:51:11,
 72347,DE,10315,2022-02-26,12:30,Berlin,Alt-Friedrichsfelde 80 Parkpla,Autokorso,2022-02-25 07:22:44,
 70823,DE,70174,2022-02-26,13:00,Stuttgart,Stadtgarten,Aufzug,2022-01-31 17:01:05,
-72050,DE,63741,2022-02-26,13:00,Aschaffenburg,Volksfestplatz,Aufzug,2022-02-19 16:45:31,
 71531,DE,63741,2022-02-26,13:00,Aschaffenburg,Volksfestplatz,Demonstration,2022-02-10 12:45:47,
+72050,DE,63741,2022-02-26,13:00,Aschaffenburg,Volksfestplatz,Aufzug,2022-02-19 16:45:31,
 72352,DE,64385,2022-02-26,14:00,Reichelsheim,B 38 Ortseingang (Aldi),Zusammenkunft,2022-02-25 09:32:19,
 71221,DE,49074,2022-02-26,14:00,Osnabrück,Schlossgarten,Demonstration,2022-02-05 20:57:38,
 71999,DE,65549,2022-02-26,14:00,Limburg,Parkplatz Markthalle,Aufzug,2022-02-18 18:19:14,
@@ -20,8 +20,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72245,DE,97353,2022-02-26,14:30,Wiesentheid,Parkplatz Steigerwaldhalle,Demonstration,2022-02-22 16:26:14,
 72339,DE,69115,2022-02-26,14:30,Heidelberg,Neckarwiese / Höhe Keplerstraße,Kundgebung,2022-02-24 23:49:19,
 72303,DE,30449,2022-02-26,14:30,Hannover,Ritter-Brüning-Str. / Parking,Autokorso,2022-02-23 10:55:58,
-72296,DE,20149,2022-02-26,15:00,Hamburg,Klosterstern,Aufzug,2022-02-23 07:43:16,
 72298,DE,20099,2022-02-26,15:00,Hamburg,Berliner Tor / Strohhaus,Aufzug,2022-02-23 07:46:36,
+72296,DE,20149,2022-02-26,15:00,Hamburg,Klosterstern,Aufzug,2022-02-23 07:43:16,
 72030,DE,60329,2022-02-26,15:00,Frankfurt,Taunusanlage,Aufzug,2022-02-19 12:17:14,
 72105,DE,40213,2022-02-26,15:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2022-02-20 21:46:38,
 72331,DE,44787,2022-02-26,15:00,Bochum,Dr.-Ruer-Platz,Aufzug,2022-02-24 20:18:04,
@@ -49,9 +49,11 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72327,DE,64739,2022-02-27,14:00,Höchst im Odenwald,Montmelianer Platz,Aufzug,2022-02-24 15:45:33,
 72233,DE,76530,2022-02-27,14:00,Baden-Baden,Reinhard-Fieser-Brücke,Demonstration,2022-02-22 07:12:51,https://www.baden-baden.de/stadtportrait/aktuelles/webcams
 72005,DE,84503,2022-02-27,14:00,Altötting,Dultplatz,Kundgebung,2022-02-18 22:00:22,
-72336,DE,20251,2022-02-27,14:30,Hamburg,Eppendorfer Marktplatz,Demonstration,2022-02-24 23:22:53,
 72337,DE,20251,2022-02-27,14:30,Hamburg,Eppendorfer Marktplatz,Demonstration,2022-02-24 23:22:53,
 72348,DE,20251,2022-02-27,14:30,Hamburg,Eppendorfer Marktplatz,Aufzug,2022-02-25 07:31:36,Ehrenfrau tv
+72336,DE,20251,2022-02-27,14:30,Hamburg,Eppendorfer Marktplatz,Demonstration,2022-02-24 23:22:53,
+72398,DE,97877,2022-02-27,15:00,Wertheim,Main Tauber Halle,Spaziergang,2022-02-26 12:26:15,
+72396,DE,90402,2022-02-27,15:00,Nürnberg,Lorenzkirche,Kundgebung,2022-02-26 11:38:32,
 71779,DE,67433,2022-02-27,15:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-02-13 22:11:57,
 72350,DE,21073,2022-02-27,15:00,Hamburg/Harburg,Rathausplatz,Aufzug,2022-02-25 09:29:38,
 72349,DE,21073,2022-02-27,15:00,Hamburg,Harburg Rathausplatz,Kundgebung,2022-02-25 07:33:15,
@@ -76,6 +78,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71822,DE,55116,2022-02-28,13:13,Mainz,Malakoff-Terasse,Demonstration,2022-02-14 21:34:34,
 71346,DE,55116,2022-02-28,13:13,Mainz,Malakoff-Terasse,Aufzug,2022-02-07 15:34:54,
 71905,DE,50679,2022-02-28,15:00,Köln,Deutzer Werft,Demonstration,2022-02-17 08:12:41,
+72384,DE,50679,2022-02-28,15:00,Köln,Deutzer Werft,Aufzug,2022-02-26 08:00:02,
 68973,DE,52428,2022-02-28,16:00,Jülich,Schlossplatz,Kundgebung,2022-01-11 18:49:26,
 71607,DE,26603,2022-02-28,16:00,Aurich,Krankenhaus,Sonstiges,2022-02-11 17:53:14,
 71960,DE,18055,2022-02-28,16:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-02-18 09:16:14,https://dlive.tv/7TuermeMedien
@@ -85,6 +88,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71746,DE,63450,2022-02-28,17:30,Hanau,Freiheitsplatz,Mahnwache,2022-02-13 21:11:08,
 72323,DE,21073,2022-02-28,17:30,Hamburg-Harburg,Harburger Rathausplatz,Spaziergang,2022-02-24 11:39:31,
 72294,DE,45143,2022-02-28,17:30,Essen-Altendorf,Ehrenzeller Platz,Spaziergang,2022-02-22 23:11:31,
+72386,DE,76646,2022-02-28,17:45,Bruchsal,Otto-Oppenheimer-Platz,Spaziergang,2022-02-26 08:57:59,
 70486,DE,39261,2022-02-28,18:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-01-27 03:41:33,
 72346,DE,01619,2022-02-28,18:00,Zeithain,Feuerwehr,Spaziergang,2022-02-25 07:12:45,
 71017,DE,16792,2022-02-28,18:00,Zehdenick,Marktplatz,Spaziergang,2022-02-02 19:56:50,
@@ -95,6 +99,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71626,DE,84478,2022-02-28,18:00,Waldkraiburg,Rathaus,Spaziergang,2022-02-11 23:43:17,
 72238,DE,25436,2022-02-28,18:00,Tornesch,Bahnhofsplatz (Schuhgeschäft ),Spaziergang,2022-02-22 11:24:47,
 72285,DE,88069,2022-02-28,18:00,Tettnang,Rathaus,Spaziergang,2022-02-22 18:16:26,
+72399,DE,97941,2022-02-28,18:00,Tauberbischofsheim,Marktplatz,Spaziergang,2022-02-26 12:27:00,
 72341,DE,70563,2022-02-28,18:00,Stuttgart-Vaihingen,Bürgerbüro Rathausplatz,Spaziergang,2022-02-25 00:20:17,
 72309,DE,75334,2022-02-28,18:00,Straubenhardt-Feldrennach,Rathaus,Spaziergang,2022-02-23 19:40:05,
 72322,DE,18439,2022-02-28,18:00,Stralsund,Hafen,Demonstration,2022-02-24 10:57:31,
@@ -102,11 +107,11 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72342,DE,66583,2022-02-28,18:00,Spiesen-Elversberg,Rathaus / Spiesen Hauptstraße,Spaziergang,2022-02-25 01:12:59,
 72009,DE,66583,2022-02-28,18:00,Spiesen Elversberg,Spiesen Rathaus / Hauptstraße,Spaziergang,2022-02-19 01:15:24,
 70346,DE,83358,2022-02-28,18:00,Seebruck,Rathaus,Spaziergang,2022-01-25 20:01:11,
-71902,DE,74523,2022-02-28,18:00,Schwäbisch Hall,Marktplatz,Spaziergang,2022-02-16 23:26:24,
 71859,DE,74523,2022-02-28,18:00,Schwäbisch Hall,Marktplatz,Spaziergang,2022-02-15 20:04:33,
+71902,DE,74523,2022-02-28,18:00,Schwäbisch Hall,Marktplatz,Spaziergang,2022-02-16 23:26:24,
 72263,DE,76761,2022-02-28,18:00,Rülzheim,Kerweplatz,Spaziergang,2022-02-22 17:34:43,
-72358,DE,18055,2022-02-28,18:00,Rostock,Reifergraben in Paulstr.,Aufzug,2022-02-25 13:56:12,https://dlive.tv/7TuermeMedien
 72359,DE,18107,2022-02-28,18:00,Rostock,Warnowallee/Helsinkier Str.,Aufzug,2022-02-25 13:56:25,https://dlive.tv/7TuermeMedien
+72358,DE,18055,2022-02-28,18:00,Rostock,Reifergraben in Paulstr.,Aufzug,2022-02-25 13:56:12,https://dlive.tv/7TuermeMedien
 72360,DE,18146,2022-02-28,18:00,Rostock,Th.-Heuss/K.-Schumacher,Aufzug,2022-02-25 13:56:38,https://dlive.tv/7TuermeMedien
 72361,DE,18059,2022-02-28,18:00,Rostock,Südring/Nobelstr.,Aufzug,2022-02-25 13:56:53,https://dlive.tv/7TuermeMedien
 70778,DE,93128,2022-02-28,18:00,Regenstauf,Schwandorferstr. / Regenbrücke,Spaziergang,2022-01-30 21:36:13,
@@ -134,6 +139,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72259,DE,76829,2022-02-28,18:00,Landau/Pfalz,Deutsches Tor,Spaziergang,2022-02-22 17:33:14,
 70385,DE,95326,2022-02-28,18:00,Kulmbach,Marktplatz,Kundgebung,2022-01-25 22:12:43,
 72241,DE,04567,2022-02-28,18:00,Kitzscher,Rathaus,Spaziergang,2022-02-22 14:18:31,
+72397,DE,76133,2022-02-28,18:00,Karlsruhe,Stephanplatz,Aufzug,2022-02-26 11:47:34,
 69041,DE,52428,2022-02-28,18:00,Jülich,Neusser Str. 11,Versammlung,2022-01-12 15:07:01,
 72257,DE,76879,2022-02-28,18:00,Hochstadt Pfalz,Rathaus,Spaziergang,2022-02-22 17:32:38,
 72326,DE,22607,2022-02-28,18:00,Hamburg-Othmarschen,Beselerplatz,Spaziergang,2022-02-24 14:23:35,
@@ -159,6 +165,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72345,DE,29683,2022-02-28,18:00,Bad Fallingbostel,Rathaus,Spaziergang,2022-02-25 01:49:48,
 72249,DE,67098,2022-02-28,18:00,Bad Dürkheim,Dürkheimer Fass,Spaziergang,2022-02-22 17:30:20,
 72377,DE,65520,2022-02-28,18:00,Bad Camberg,Caspar-Hofmann-Platz/ Bahnhof,Spaziergang,2022-02-25 16:54:11,
+72385,DE,57319,2022-02-28,18:00,Bad Berleburg,Rathaus,Spaziergang,2022-02-26 08:40:14,
 70610,DE,93077,2022-02-28,18:00,Bad Abbach,Rathaus,Spaziergang,2022-01-28 16:38:50,
 72246,DE,76855,2022-02-28,18:00,Annweiler am Trifels,Kirchplatz,Spaziergang,2022-02-22 17:06:40,
 72314,DE,21680,2022-02-28,18:30,Stade,Am.Sande,Spaziergang,2022-02-23 23:06:23,
@@ -167,13 +174,14 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72318,DE,33098,2022-02-28,18:30,Paderborn,Maspernplatz,Spaziergang,2022-02-24 05:31:58,
 72231,DE,75417,2022-02-28,18:30,Muehlacker,Rathaus,Spaziergang,2022-02-22 04:34:02,
 72383,DE,87719,2022-02-28,18:30,Mindelheim,Rathaus,Spaziergang,2022-02-25 22:15:33,
+72387,DE,69181,2022-02-28,18:30,Leimen,Rathaus Platz,Spaziergang,2022-02-26 09:05:33,
 72256,DE,76863,2022-02-28,18:30,Herxheim,Villa Wieser,Spaziergang,2022-02-22 17:32:20,
 72255,DE,67454,2022-02-28,18:30,Hassloch,Pfalzplatz,Spaziergang,2022-02-22 17:32:01,
 72120,DE,58095,2022-02-28,18:30,Hagen,Friedrich-Ebert-Platz,Spaziergang,2022-02-21 08:57:12,
 72252,DE,76726,2022-02-28,18:30,Germersheim,Nardiniplatz,Spaziergang,2022-02-22 17:31:14,
 71995,DE,63571,2022-02-28,18:30,Gelnhausen,Obermarkt,Spaziergang,2022-02-18 16:08:28,
-71787,DE,29221,2022-02-28,18:30,Celle,Stechbahn,Spaziergang,2022-02-13 23:00:16,
 71786,DE,29221,2022-02-28,18:30,Celle,Innenstadt,Spaziergang,2022-02-13 22:59:45,
+71787,DE,29221,2022-02-28,18:30,Celle,Stechbahn,Spaziergang,2022-02-13 23:00:16,
 72321,DE,78199,2022-02-28,18:30,Bräunlingen,Rathaus,Spaziergang,2022-02-24 09:35:00,
 71530,DE,46236,2022-02-28,18:30,Bottrop,Kirchplatz 1,Spaziergang,2022-02-10 12:28:29,
 72364,DE,54470,2022-02-28,18:30,Bernkastel-Kues,Verbandsgemeinde Verwaltung,Spaziergang,2022-02-25 14:51:38,
@@ -212,6 +220,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71589,DE,94469,2022-03-02,10:00,Deggendorf,Oberer Stadtplatz,Kundgebung,2022-02-11 10:15:09,
 71962,DE,18055,2022-03-02,15:10,Rostock,Rathaus,Kundgebung,2022-02-18 09:19:41,https://dlive.tv/7TuermeMedien
 71566,DE,84028,2022-03-02,17:00,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,2022-02-10 22:35:59,
+72389,DE,90402,2022-03-02,17:30,Nürnberg,Lorenzkirche,Kundgebung,2022-02-26 11:23:59,
 72366,DE,70173,2022-03-02,18:00,Stuttgart,Karlsplatz,Aufzug,2022-02-25 15:14:26,
 72272,DE,67433,2022-03-02,18:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-02-22 17:38:30,
 72271,DE,76829,2022-03-02,18:00,Landau/Pfalz,Deutsches Tor,Spaziergang,2022-02-22 17:38:09,
@@ -222,6 +231,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71939,DE,29221,2022-03-02,23:59,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-02-17 23:58:54,
 71823,DE,91052,2022-03-03,14:00,Erlangen,Rötelheimpark.,Bürgerkrieg,2022-02-14 23:57:27,
 71963,DE,18055,2022-03-03,16:00,Rostock,Rathaus,Kundgebung,2022-02-18 09:20:53,https://dlive.tv/7TuermeMedien
+72390,DE,90402,2022-03-03,17:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2022-02-26 11:25:05,
 72368,DE,75045,2022-03-03,17:30,Walzbachtal,Netto-Parkplatz / Jöhlinger Str,Schilderwald,2022-02-25 15:23:24,
 67569,DE,85586,2022-03-03,18:00,Poing,Friedensstraße 9 / Unterführung,Kundgebung,2022-01-02 10:45:33,
 72274,DE,76751,2022-03-03,18:00,Jockgrim,Parkplatz Penny,Spaziergang,2022-02-22 17:39:24,
@@ -230,11 +240,13 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72273,DE,76887,2022-03-03,18:30,Bad Bergzabern,Schloss,Spaziergang,2022-02-22 17:38:57,
 72375,DE,85247,2022-03-03,19:00,Schwabhausen,Rathaus,Spaziergang,2022-02-25 16:17:08,
 72276,DE,76777,2022-03-03,19:00,Neupotz,Kirche,Spaziergang,2022-02-22 17:40:22,
+72391,DE,90402,2022-03-04,16:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2022-02-26 11:25:56,
 72374,DE,82216,2022-03-04,17:00,Maisach,Rathaus,Spaziergang,2022-02-25 16:16:18,
 72286,DE,88069,2022-03-04,18:00,Tettnang,Rathaus,Spaziergang,2022-02-22 18:17:01,
 72277,DE,67433,2022-03-04,18:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-02-22 17:40:45,
 70924,AT,3390,2022-03-04,18:00,Melk,Hauptplatz,Spaziergang,2022-02-01 17:47:26,
 71804,DE,86720,2022-03-04,19:00,Nördlingen,Rathaus,Spaziergang,2022-02-14 10:46:37,
+72400,DE,83209,2022-03-05,10:30,Prien am Chiemsee,Parkplatz am Sportplatz,Kundgebung,2022-02-26 16:35:49,
 71571,DE,84028,2022-03-05,11:00,Landshut,Ländtor / Isarpromenade,Menschenkette,2022-02-10 23:03:28,
 71935,DE,29221,2022-03-05,11:00,Celle,Neumarkt,Aufzug,2022-02-17 23:52:20,
 71936,DE,29221,2022-03-05,11:45,Celle,Großer Plan,Kundgebung,2022-02-17 23:53:18,
@@ -243,6 +255,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71457,DE,80333,2022-03-05,14:00,München,Königsplatz,Kundgebung,2022-02-08 20:41:51,
 72227,DE,65199,2022-03-05,15:00,Wiesbaden,Reisinger Anlage,Kundgebung,2022-02-21 21:50:31,
 72043,DE,15517,2022-03-05,15:00,Fürstenwalde,Am Stern,Demonstration,2022-02-19 13:03:50,
+72392,DE,90402,2022-03-05,17:00,Nürnberg,Lorenzkirche,Kundgebung,2022-02-26 11:27:00,
 71040,DE,84028,2022-03-05,17:00,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,2022-02-03 07:37:12,
 72139,DE,86150,2022-03-05,17:00,Augsburg,Ladehofstr,Aufzug,2022-02-21 18:32:48,Dlive
 72278,DE,76761,2022-03-05,18:00,Rülzheim,Kerweplatz,Spaziergang,2022-02-22 17:41:03,
@@ -273,6 +286,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72288,DE,88069,2022-03-11,18:00,Tettnang,Rathaus,Spaziergang,2022-02-22 18:17:56,
 72281,DE,16540,2022-03-11,18:00,Hohen Neuendorf,Rathausplatz,Kundgebung,2022-02-22 18:11:14,
 72283,DE,16540,2022-03-11,18:00,Hohen Neuendorf,Rathausplatz,Aufzug,2022-02-22 18:12:42,
+72401,DE,83209,2022-03-12,10:30,Prien am Chiemsee,Parkplatz am Sportplatz,Kundgebung,2022-02-26 16:36:22,
 72292,DE,74564,2022-03-12,13:30,Crailsheim,Volksfestplatz,Demonstration,2022-02-22 22:07:30,
 71824,DE,90571,2022-03-12,14:00,Nürnberg,Am Max Morlock Stadion,Kundgebung,2022-02-15 00:01:02,
 71825,DE,90571,2022-03-13,15:00,Nürnberg,Versicherungs Arena / davor,Konzert,2022-02-15 00:04:11,
@@ -287,6 +301,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71029,DE,18055,2022-03-17,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:44:06,https://dlive.tv/7TuermeMedien
 71965,DE,18055,2022-03-17,17:00,Rostock,Rathaus,Kundgebung,2022-02-18 09:22:47,https://dlive.tv/7TuermeMedien
 67571,DE,85586,2022-03-17,18:00,Poing,Friedensstraße 9 / Unterführung,Kundgebung,2022-01-02 10:46:41,
+72402,DE,83209,2022-03-19,10:30,Prien am Chiemsee,Parkplatz am Sportplatz,Kundgebung,2022-02-26 16:36:41,
 70406,UK,TR12AF,2022-03-19,12:00,Truro,Cathedral,Demonstration,2022-01-26 09:09:19,
 70405,UK,OX11LQ,2022-03-19,13:00,Oxford,Bonn Square,Demonstration,2022-01-26 09:03:48,
 71725,DE,90471,2022-03-19,16:00,Nürnberg,Volksfestplatz,Spaziergang,2022-02-13 18:23:44,
@@ -298,6 +313,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 67498,DE,17033,2022-03-21,19:00,Neubrandenburg,Marktplatz,Aufzug,2022-01-01 09:55:31,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured
 71030,DE,18055,2022-03-24,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:45:20,https://dlive.tv/7TuermeMedien
 67572,DE,85586,2022-03-24,18:00,Poing,Friedensstraße 9 / Unterführung,Kundgebung,2022-01-02 10:47:18,
+72403,DE,83209,2022-03-26,10:30,Prien am Chiemsee,Parkplatz am Sportplatz,Kundgebung,2022-02-26 16:37:24,
 70620,DE,17034,2022-03-26,14:00,Neubrandenburg / Datzeberg,Parkpl. Sportanlagen Datzeberg,Aufzug,2022-01-28 19:48:38,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/featured
 71019,DE,16792,2022-03-28,18:00,Zehdenick,Marktplatz,Kundgebung,2022-02-02 19:58:02,
 69014,DE,52428,2022-03-28,18:00,Jülich,Neusser Str. / Höhe Post,Bauerndemo,2022-01-12 09:34:33,
@@ -310,6 +326,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71031,DE,18055,2022-03-31,16:00,Rostock,Rathaus,Kundgebung,2022-02-02 21:47:17,https://dlive.tv/7TuermeMedien
 67573,DE,85586,2022-03-31,18:00,Poing,Friedensstraße 9 / Unterführung,Kundgebung,2022-01-02 10:47:57,
 66923,AT,8323,2022-04-01,18:00,St Marein / b. Graz,Beim Kirchplatz,Spaziergang,2021-12-27 21:34:14,
+72404,DE,83209,2022-04-02,10:30,Prien am Chiemsee,Parkplatz am Sportplatz,Kundgebung,2022-02-26 16:37:50,
 69045,DE,52428,2022-04-04,18:00,Jülich,Irish Pub,Musik,2022-01-12 18:18:38,
 67500,DE,17033,2022-04-04,19:00,Neubrandenburg,Marktplatz,Aufzug,2022-01-01 09:56:30,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured
 69046,DE,52428,2022-04-11,18:00,Jülich,Im Liebevoll,Eis essen,2022-01-12 18:19:55,
