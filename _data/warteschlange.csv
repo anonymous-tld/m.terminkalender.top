@@ -29,9 +29,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72413,DE,37355,2022-02-28,19:00,Niederorschel,Marktplatz,Spaziergang,2022-02-26 22:06:38,
 72432,DE,99974,2022-02-28,19:00,Mühlhausen,Untermarkt,Spaziergang,2022-02-27 01:21:57,
 72449,DE,53545,2022-02-28,19:00,Linz am Rhein,Rheintor,Spaziergang,2022-02-27 16:31:21,
-72425,DE,01156,2022-02-28,19:00,Dresden,Cossebaude B6/Brauergasse,Spaziergang,2022-02-26 23:03:32,
 72417,DE,01108,2022-02-28,19:00,Dresden,Weixdorf Rathausplatz,Spaziergang,2022-02-26 22:54:33,
 72414,DE,01069,2022-02-28,19:00,Dresden,Hygienemuseum, Kostümprotest,Spaziergang,2022-02-26 22:50:03,
+72425,DE,01156,2022-02-28,19:00,Dresden,Cossebaude B6/Brauergasse,Spaziergang,2022-02-26 23:03:32,
 72430,DE,01809,2022-02-28,19:00,Dresden,Heidenau, Markt,Spaziergang,2022-02-26 23:11:29,
 72448,DE,79108,2022-03-01,17:30,Freiburg im Breisgau,Parkplatz Neues SC Stadion,Autokorso,2022-02-27 16:17:11,
 72427,DE,01129,2022-03-01,19:00,Dresden,Wilder Mann Endstation 3,Spaziergang,2022-02-26 23:07:08,
@@ -39,6 +39,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72446,DE,70174,2022-03-02,17:30,Stuttgart,Karlsplatz,Aufzug,2022-02-27 13:34:58,
 72411,DE,89537,2022-03-02,18:00,Giengen an der Brenz,Rathaus,Spaziergang,2022-02-26 19:38:59,
 72442,DE,46045,2022-03-02,18:30,Oberhausen,Friedensplatz(Nähe Hauptbahnho,Kundgebung,2022-02-27 13:29:09,https://t.me/youtubekevingabbe
+72459,DE,60325,2022-03-02,18:30,Frankfurt Bockenheim,Bockenheimer Warte,Aufzug,2022-02-27 18:40:00,
 72447,DE,01728,2022-03-02,19:00,Possendorf,Kastanienallee,Spaziergang,2022-02-27 15:02:14,
 72428,DE,01307,2022-03-03,19:00,Dresden,Fetscherplatz Artushof,Spaziergang,2022-02-26 23:08:56,
 72444,DE,70372,2022-03-05,14:45,Stuttgart,Cannstatter Wasen Parkpl. P10,Autokorso,2022-02-27 13:33:26,
