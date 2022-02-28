@@ -1,7 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 72471,DE,87435,2022-02-28,18:00,Kempten,Hildegardplatz,Aufzug,2022-02-28 09:42:40,
-72480,DE,85757,2022-02-28,18:00,Karlsfeld,Rathaus,Spaziergang,2022-02-28 13:03:23,
 72479,DE,85757,2022-02-28,18:00,Karlsfeld,Rathaus,Spaziergang,2022-02-28 13:01:16,
+72480,DE,85757,2022-02-28,18:00,Karlsfeld,Rathaus,Spaziergang,2022-02-28 13:03:23,
 72474,DE,27568,2022-02-28,18:00,Bremerhaven,Große Kirche,Spaziergang,2022-02-28 11:00:13,
 72472,DE,53111,2022-02-28,18:00,Bonn,Marktplatz - wie jeden Montag,Spaziergang,2022-02-28 10:08:54,
 72468,DE,69488,2022-02-28,18:00,Birkenau,Hornbacher/Zimmerstr.,Kundgebung,2022-02-28 07:43:25,
@@ -13,6 +13,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72481,DE,93413,2022-03-03,19:00,Cham,Marktplatz,Kundgebung,2022-02-28 16:22:52,
 72482,DE,86842,2022-03-04,17:00,Türkheim,Rathaus,Spaziergang,2022-02-28 17:00:11,
 72475,DE,27472,2022-03-06,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2022-02-28 12:33:32,
+72484,DE,83119,2022-03-07,18:30,Obing,Rathaus,Spaziergang,2022-02-28 19:40:53,
 72476,DE,27472,2022-03-13,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2022-02-28 12:34:26,
 72477,DE,27472,2022-03-20,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2022-02-28 12:35:32,
 72478,DE,27472,2022-03-27,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2022-02-28 12:36:45,
