@@ -1,5 +1,6 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 72575,DE,69115,2022-03-02,18:00,Heidelberg,Schwanenteichanlage, Poststraß,Aufzug,2022-03-02 12:15:32,
+72581,DE,06632,2022-03-02,19:00,Freyburg,Marktplatz,Spaziergang,2022-03-02 16:37:11,
 72547,DE,15848,2022-03-03,17:00,Beeskow,Marktplatz,Treffpunkt,2022-03-01 14:38:43,https://t.me/beeskow_freiheit
 72551,DE,69483,2022-03-03,18:00,Wald-Michelbach,Ludwigstraße / Schulstraße,Aufzug,2022-03-01 17:59:43,
 72578,DE,50931,2022-03-04,18:00,Köln-Lindenthal,Karl-Schwering-Platz,Spaziergang,2022-03-02 12:44:32,
@@ -9,8 +10,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72557,DE,70597,2022-03-05,14:00,Stuttgart,Agnes Kneher Platz,Aufzug,2022-03-01 19:19:30,
 72513,DE,64385,2022-03-05,14:00,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,2022-03-01 13:54:49,
 72563,DE,76133,2022-03-05,14:00,Karlsruhe,Platz der Menschenrechte,Kundgebung,2022-03-01 22:11:37,
-72576,DE,69120,2022-03-05,14:30,Heidelberg,Neckarwiese, Höhe Keplerstraße,Kundgebung,2022-03-02 12:16:19,
 72561,DE,69117,2022-03-05,14:30,Heidelberg,Neckarwiese,Demonstration,2022-03-01 22:02:04,
+72576,DE,69120,2022-03-05,14:30,Heidelberg,Neckarwiese, Höhe Keplerstraße,Kundgebung,2022-03-02 12:16:19,
 72548,DE,21073,2022-03-05,15:00,Hamburg,Harburger Rathaus,Aufzug,2022-03-01 17:08:26,
 72555,DE,40474,2022-03-05,15:00,Düsseldorf,Rheinpark Robert-Lehr-Ufer,Aufzug,2022-03-01 18:20:45,
 72565,DE,75172,2022-03-05,15:30,Pforzheim,Marktplatz,Kundgebung,2022-03-01 22:16:16,
@@ -52,8 +53,10 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72552,DE,46236,2022-03-07,18:30,Bottrop,Kirchplatz 1,Spaziergang,2022-03-01 18:11:39,
 72515,DE,76887,2022-03-07,18:30,Bad Bergzabern,Schloss,Spaziergang,2022-03-01 14:22:23,
 72573,DE,26384,2022-03-07,19:00,Wilhelmshaven,Valoisplatz,Spaziergang,2022-03-02 11:37:44,
+72582,DE,06667,2022-03-07,19:00,Weißenfels,Marktplatz,Spaziergang,2022-03-02 16:38:23,
 72531,DE,67346,2022-03-07,19:00,Speyer,Alte Münze,Spaziergang,2022-03-01 14:27:21,
 72550,DE,42651,2022-03-07,19:00,Solingen,Walter-Scheel-Platz - Rathaus,Spaziergang,2022-03-01 17:47:00,
+72583,DE,06618,2022-03-07,19:00,Naumburg,Vogelwiese,Spaziergang,2022-03-02 16:39:28,
 72525,DE,76870,2022-03-07,19:00,Kandel,Kriegerdenkmal Georgskirche,Spaziergang,2022-03-01 14:25:42,
 72571,DE,38820,2022-03-07,19:00,Halberstadt,Domplatz,Spaziergang,2022-03-02 08:17:26,
 72533,DE,67378,2022-03-08,18:00,Zeiskam,Fuchsbachhalle,Spaziergang,2022-03-01 14:27:53,
