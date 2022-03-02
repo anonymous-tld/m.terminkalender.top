@@ -1,4 +1,5 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
+72575,DE,69115,2022-03-02,18:00,Heidelberg,Schwanenteichanlage, Poststraß,Aufzug,2022-03-02 12:15:32,
 72547,DE,15848,2022-03-03,17:00,Beeskow,Marktplatz,Treffpunkt,2022-03-01 14:38:43,https://t.me/beeskow_freiheit
 72551,DE,69483,2022-03-03,18:00,Wald-Michelbach,Ludwigstraße / Schulstraße,Aufzug,2022-03-01 17:59:43,
 72559,DE,75015,2022-03-04,18:00,Bretten,Marktplatz,Aufzug,2022-03-01 21:59:01,
@@ -8,6 +9,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72513,DE,64385,2022-03-05,14:00,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,2022-03-01 13:54:49,
 72563,DE,76133,2022-03-05,14:00,Karlsruhe,Platz der Menschenrechte,Kundgebung,2022-03-01 22:11:37,
 72561,DE,69117,2022-03-05,14:30,Heidelberg,Neckarwiese,Demonstration,2022-03-01 22:02:04,
+72576,DE,69120,2022-03-05,14:30,Heidelberg,Neckarwiese, Höhe Keplerstraße,Kundgebung,2022-03-02 12:16:19,
 72548,DE,21073,2022-03-05,15:00,Hamburg,Harburger Rathaus,Aufzug,2022-03-01 17:08:26,
 72555,DE,40474,2022-03-05,15:00,Düsseldorf,Rheinpark Robert-Lehr-Ufer,Aufzug,2022-03-01 18:20:45,
 72565,DE,75172,2022-03-05,15:30,Pforzheim,Marktplatz,Kundgebung,2022-03-01 22:16:16,
@@ -27,6 +29,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72556,DE,06249,2022-03-07,18:00,Mücheln,Markt,Spaziergang,2022-03-01 18:53:50,
 72510,DE,60547,2022-03-07,18:00,Mörfelden Walldorf,Flughafenstr. 37 Walldorf,Spaziergang,2022-03-01 09:26:09,
 72574,DE,68159,2022-03-07,18:00,Mannheim,Marktplatz, G1,Kundgebung,2022-03-02 11:52:30,
+72577,DE,68159,2022-03-07,18:00,Mannheim,Marktplatz, G1,Aufzug,2022-03-02 12:16:50,
 72526,DE,76829,2022-03-07,18:00,Landau/Pfalz,Deutsches Tor,Spaziergang,2022-03-01 14:25:59,
 72509,DE,04567,2022-03-07,18:00,Kitzscher,Rathaus,Spaziergang,2022-03-01 09:25:15,
 72570,DE,87435,2022-03-07,18:00,Kempten,Hildegardplatz,Aufzug,2022-03-02 07:12:11,
