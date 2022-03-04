@@ -6,10 +6,11 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72648,DE,85229,2022-03-06,17:00,Markt Indersdorf,Marktplatz,Spaziergang,2022-03-04 12:19:22,
 72637,DE,17207,2022-03-07,18:00,Röbel / Müritz,Rathaus,Spaziergang,2022-03-04 09:45:28,
 72657,DE,21680,2022-03-07,18:30,Stade,Am.Sande,Freizeit,2022-03-04 14:33:03,
-72645,DE,29221,2022-03-07,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:53:22,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72638,DE,29221,2022-03-07,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:45:26,
+72645,DE,29221,2022-03-07,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:53:22,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72636,DE,78199,2022-03-07,18:30,Bräunlingen,Rathaus,Spaziergang,2022-03-04 09:16:27,
 72650,DE,85235,2022-03-07,19:00,Odelzhausen,Marktplatz/Maibaum,Spaziergang,2022-03-04 12:20:38,
+72658,DE,07545,2022-03-07,19:00,Gera,Hofwiesenparkplatz,Spaziergang,2022-03-04 17:43:15,
 72653,DE,82216,2022-03-08,18:00,Maisach,Rathaus,Spaziergang,2022-03-04 12:21:31,
 72656,DE,92421,2022-03-08,19:00,Schwandorf,Marktplatz,Kundgebung,2022-03-04 13:59:02,
 72635,DE,44369,2022-03-09,18:30,Dortmund,Huckarder Marktplatz,Spaziergang,2022-03-04 08:20:11,
@@ -18,9 +19,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72649,DE,20149,2022-03-12,15:00,Hamburg,Klosterstern,Aufzug,2022-03-04 12:19:39,
 72652,DE,20099,2022-03-12,15:00,Hamburg,Berliner Tor / Strohhaus,Aufzug,2022-03-04 12:21:05,
 72647,DE,22087,2022-03-12,15:30,Hamburg,Mundsburg, Theater,Kundgebung,2022-03-04 12:18:07,Ehrenfrau tv
-72639,DE,29221,2022-03-14,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:46:07,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72644,DE,29221,2022-03-14,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:52:37,https://www.celle-tourismus.de/planen-buchen/webcam-celle
-72640,DE,29221,2022-03-21,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:46:59,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+72639,DE,29221,2022-03-14,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:46:07,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72643,DE,29221,2022-03-21,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:49:01,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+72640,DE,29221,2022-03-21,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:46:59,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72642,DE,29221,2022-03-28,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:48:14,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72641,DE,29221,2022-03-28,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:47:33,https://www.celle-tourismus.de/planen-buchen/webcam-celle
