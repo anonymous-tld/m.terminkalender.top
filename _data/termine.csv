@@ -24,8 +24,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72557,DE,70597,2022-03-05,14:00,Stuttgart,Agnes Kneher Platz,Aufzug,2022-03-01 19:19:30,
 72513,DE,64385,2022-03-05,14:00,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,2022-03-01 13:54:49,
 70619,DE,17033,2022-03-05,14:00,Neubrandenburg,Parkplatz Belvedere / Broda,Aufzug,2022-01-28 19:46:28,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/featured
-71457,DE,80333,2022-03-05,14:00,München,Königsplatz,Kundgebung,2022-02-08 20:41:51,
 71550,DE,80333,2022-03-05,14:00,München,Königsplatz,Kundgebung,2022-02-10 19:34:42,
+71457,DE,80333,2022-03-05,14:00,München,Königsplatz,Kundgebung,2022-02-08 20:41:51,
 72563,DE,76133,2022-03-05,14:00,Karlsruhe,Platz der Menschenrechte,Kundgebung,2022-03-01 22:11:37,
 72633,DE,79108,2022-03-05,14:00,Freiburg im Breisgau,Platz der Alten Synagoge,Demonstration,2022-03-03 23:58:17,
 72593,DE,79098,2022-03-05,14:00,Freiburg,Platz der alten Synagoge,Aufzug,2022-03-03 00:28:31,
@@ -40,8 +40,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72548,DE,21073,2022-03-05,15:00,Hamburg,Harburger Rathaus,Aufzug,2022-03-01 17:08:26,
 72043,DE,15517,2022-03-05,15:00,Fürstenwalde,Am Stern,Demonstration,2022-02-19 13:03:50,
 72440,DE,60329,2022-03-05,15:00,Frankfurt am Main,Taunusanlage,Demonstration,2022-02-27 12:25:24,
-72555,DE,40474,2022-03-05,15:00,Düsseldorf,Rheinpark Robert-Lehr-Ufer,Aufzug,2022-03-01 18:20:45,
 72599,DE,40474,2022-03-05,15:00,Düsseldorf,RHEINPARK, Robert-Lehr-Ufer,Aufzug,2022-03-03 08:31:47,
+72555,DE,40474,2022-03-05,15:00,Düsseldorf,Rheinpark Robert-Lehr-Ufer,Aufzug,2022-03-01 18:20:45,
 72661,DE,40239,2022-03-05,15:01,Düsseldorf,Düsseltal,Spaziergang,2022-03-04 20:35:10,
 72565,DE,75172,2022-03-05,15:30,Pforzheim,Marktplatz,Kundgebung,2022-03-01 22:16:16,
 72634,DE,45127,2022-03-05,15:30,Essen,Willy-Brandt-Platz,Kundgebung,2022-03-04 05:33:21,
@@ -137,16 +137,16 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72522,DE,67454,2022-03-07,18:30,Hassloch,Pfalzplatz,Spaziergang,2022-03-01 14:24:54,
 72519,DE,76726,2022-03-07,18:30,Germersheim,Konrad-Adenauer-Str. (Tedi),Spaziergang,2022-03-01 14:23:56,
 72506,DE,63571,2022-03-07,18:30,Gelnhausen,Obermarkt,Spaziergang,2022-03-01 07:57:32,
-72645,DE,29221,2022-03-07,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:53:22,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72638,DE,29221,2022-03-07,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:45:26,
+72645,DE,29221,2022-03-07,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:53:22,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72636,DE,78199,2022-03-07,18:30,Bräunlingen,Rathaus,Spaziergang,2022-03-04 09:16:27,
 72552,DE,46236,2022-03-07,18:30,Bottrop,Kirchplatz 1,Spaziergang,2022-03-01 18:11:39,
 72515,DE,76887,2022-03-07,18:30,Bad Bergzabern,Schloss,Spaziergang,2022-03-01 14:22:23,
 72106,DE,99510,2022-03-07,18:30,Apolda,Markt,Spaziergang,2022-02-20 22:06:01,
 72616,DE,91325,2022-03-07,18:30,Adelsdorf.,Marktplatz.,Spaziergang,2022-03-03 19:27:32,
 72495,CH,8400,2022-03-07,19:00,Winterthur,Kirchplatz (Stadtkirche),Spaziergang,2022-02-28 21:19:08,
-72621,DE,26382,2022-03-07,19:00,Wilhelmshaven,Valoisplatz,Spaziergang,2022-03-03 21:50:00,
 72573,DE,26384,2022-03-07,19:00,Wilhelmshaven,Valoisplatz,Spaziergang,2022-03-02 11:37:44,
+72621,DE,26382,2022-03-07,19:00,Wilhelmshaven,Valoisplatz,Spaziergang,2022-03-03 21:50:00,
 72582,DE,06667,2022-03-07,19:00,Weißenfels,Marktplatz,Spaziergang,2022-03-02 16:38:23,
 72531,DE,67346,2022-03-07,19:00,Speyer,Alte Münze,Spaziergang,2022-03-01 14:27:21,
 72550,DE,42651,2022-03-07,19:00,Solingen,Walter-Scheel-Platz - Rathaus,Spaziergang,2022-03-01 17:47:00,
@@ -175,6 +175,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71567,DE,84028,2022-03-09,17:00,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,2022-02-10 22:36:40,
 72539,DE,67433,2022-03-09,18:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-03-01 14:29:10,
 72538,DE,76829,2022-03-09,18:00,Landau/Pfalz,Deutsches Tor,Spaziergang,2022-03-01 14:28:56,
+72677,DE,65779,2022-03-09,18:00,Kelkheim,Markt,Spaziergang,2022-03-04 23:27:25,
 72631,DE,52428,2022-03-09,18:00,Jülich,Hexenturm,Spaziergang,2022-03-03 23:06:05,
 72590,DE,61440,2022-03-09,18:30,Oberursel,Adenauerallee,Spaziergang,2022-03-02 23:27:56,
 72635,DE,44369,2022-03-09,18:30,Dortmund,Huckarder Marktplatz,Spaziergang,2022-03-04 08:20:11,
@@ -198,14 +199,14 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72654,DE,82216,2022-03-11,17:00,Maisach,Rathaus,Spaziergang,2022-03-04 12:22:39,
 72288,DE,88069,2022-03-11,18:00,Tettnang,Rathaus,Spaziergang,2022-02-22 18:17:56,
 72543,DE,67433,2022-03-11,18:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-03-01 14:30:29,
-72283,DE,16540,2022-03-11,18:00,Hohen Neuendorf,Rathausplatz,Aufzug,2022-02-22 18:12:42,
 72281,DE,16540,2022-03-11,18:00,Hohen Neuendorf,Rathausplatz,Kundgebung,2022-02-22 18:11:14,
+72283,DE,16540,2022-03-11,18:00,Hohen Neuendorf,Rathausplatz,Aufzug,2022-02-22 18:12:42,
 72486,DE,86720,2022-03-11,19:00,Nördlingen,Rathaus,Kundgebung,2022-02-28 20:24:14,
 72401,DE,83209,2022-03-12,10:30,Prien am Chiemsee,Parkplatz am Sportplatz,Kundgebung,2022-02-26 16:36:22,
 72292,DE,74564,2022-03-12,13:30,Crailsheim,Volksfestplatz,Demonstration,2022-02-22 22:07:30,
 71824,DE,90571,2022-03-12,14:00,Nürnberg,Am Max Morlock Stadion,Kundgebung,2022-02-15 00:01:02,
-72652,DE,20099,2022-03-12,15:00,Hamburg,Berliner Tor / Strohhaus,Aufzug,2022-03-04 12:21:05,
 72649,DE,20149,2022-03-12,15:00,Hamburg,Klosterstern,Aufzug,2022-03-04 12:19:39,
+72652,DE,20099,2022-03-12,15:00,Hamburg,Berliner Tor / Strohhaus,Aufzug,2022-03-04 12:21:05,
 72501,DE,60329,2022-03-12,15:00,Frankfurt,Taunusanlage,Aufzug,2022-03-01 01:02:20,
 72647,DE,22087,2022-03-12,15:30,Hamburg,Mundsburg / Theater,Kundgebung,2022-03-04 12:18:07,Ehrenfrau tv
 72490,DE,86150,2022-03-12,17:00,Augsburg,Ladehofstraße,Aufzug,2022-02-28 20:29:25,
@@ -220,8 +221,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 71018,DE,16792,2022-03-14,18:00,Zehdenick,Marktplatz,Kundgebung,2022-02-02 19:57:38,
 72316,DE,74523,2022-03-14,18:00,Schwäbisch Hall,Marktplatz,Spaziergang,2022-02-23 23:35:10,
 72505,DE,75323,2022-03-14,18:00,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,2022-03-01 07:16:31,
-72595,DE,86199,2022-03-14,18:00,Augsburg,Apprichstraße,Aufzug,2022-03-03 05:48:50,
 72493,DE,86199,2022-03-14,18:00,Augsburg,Apprichstraße,Aufzug,2022-02-28 20:34:07,
+72595,DE,86199,2022-03-14,18:00,Augsburg,Apprichstraße,Aufzug,2022-03-03 05:48:50,
 72319,DE,83119,2022-03-14,18:30,Obing,Rathaus,Spaziergang,2022-02-24 08:09:48,
 72625,DE,63571,2022-03-14,18:30,Gelnhausen,Obermarkt,Spaziergang,2022-03-03 22:36:44,
 72639,DE,29221,2022-03-14,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:46:07,https://www.celle-tourismus.de/planen-buchen/webcam-celle
@@ -265,8 +266,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72666,DE,39261,2022-03-28,18:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-03-04 23:20:49,
 71019,DE,16792,2022-03-28,18:00,Zehdenick,Marktplatz,Kundgebung,2022-02-02 19:58:02,
 69014,DE,52428,2022-03-28,18:00,Jülich,Neusser Str. / Höhe Post,Bauerndemo,2022-01-12 09:34:33,
-72642,DE,29221,2022-03-28,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:48:14,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72641,DE,29221,2022-03-28,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:47:33,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+72642,DE,29221,2022-03-28,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:48:14,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72109,DE,99510,2022-03-28,18:30,Apolda,Markt,Spaziergang,2022-02-20 22:08:37,
 67499,DE,17033,2022-03-28,19:00,Neubrandenburg,Marktplatz,Aufzug,2022-01-01 09:56:05,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured
 71734,DE,91052,2022-03-30,15:00,Erlangen,Berliner Platz. Park,Konzert,2022-02-13 19:41:59,
