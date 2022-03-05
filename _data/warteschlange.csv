@@ -7,10 +7,14 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72712,DE,70563,2022-03-07,18:00,Stuttgart-Vaihingen,Bürgerbüro Rathausplatz,Spaziergang,2022-03-05 14:03:30,
 72681,DE,82319,2022-03-07,18:00,Starnberg,Kirchplatz,Spaziergang,2022-03-05 01:00:19,
 72678,DE,66583,2022-03-07,18:00,Spiesen Elversberg,Spiesen Rathaus, Hauptstraße,Spaziergang,2022-03-05 00:56:12,
+72734,DE,18059,2022-03-07,18:00,Rostock,Südring/Nobelstr.,Aufzug,2022-03-05 20:06:37,https://dlive.tv/7TuermeMedien
+72731,DE,18055,2022-03-07,18:00,Rostock,Reifergraben in Paulstr.,Aufzug,2022-03-05 20:06:13,https://dlive.tv/7TuermeMedien
+72732,DE,18107,2022-03-07,18:00,Rostock,Warnowallee/Helsinkier Str.,Aufzug,2022-03-05 20:06:21,https://dlive.tv/7TuermeMedien
+72733,DE,18146,2022-03-07,18:00,Rostock,Th.-Heuss/K.-Schumacher,Aufzug,2022-03-05 20:06:28,https://dlive.tv/7TuermeMedien
 72711,DE,70771,2022-03-07,18:00,Leinfelden-Echterdingen,Bernhäuser Straße, Am Rathaus,Spaziergang,2022-03-05 14:01:58,
 72730,DE,01705,2022-03-07,18:00,Freital,Neumarkt,Spaziergang,2022-03-05 18:58:09,
-72702,DE,01239,2022-03-07,18:00,Dresden,Leuben, Operette,Spaziergang,2022-03-05 10:28:18,
 72704,DE,01069,2022-03-07,18:00,Dresden,Teplitzer/Ecke Zellerscher Weg,Spaziergang,2022-03-05 10:30:59,
+72702,DE,01239,2022-03-07,18:00,Dresden,Leuben, Operette,Spaziergang,2022-03-05 10:28:18,
 72701,DE,01239,2022-03-07,18:00,Dresden,Niedersedlitz, Feuerwehr,Spaziergang,2022-03-05 10:26:33,
 72700,DE,01157,2022-03-07,18:00,Dresden,Cotta, Hebbelplatz,Spaziergang,2022-03-05 10:25:06,
 72699,DE,01277,2022-03-07,18:00,Dresden,Altenberger Pl., Kino Ost,Spaziergang,2022-03-05 10:23:42,
@@ -27,8 +31,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72686,DE,96142,2022-03-07,19:00,Hollfeld,Rathaus,Spaziergang,2022-03-05 09:16:07,
 72707,DE,01809,2022-03-07,19:00,Heidenau,Markt,Spaziergang,2022-03-05 10:36:40,
 72691,DE,17489,2022-03-07,19:00,Greifswald,Marktplatz,Kundgebung,2022-03-05 10:13:52,
-72696,DE,01108,2022-03-07,19:00,Dresden,Weixdorf Rathausplatz,Spaziergang,2022-03-05 10:20:29,
 72703,DE,01156,2022-03-07,19:00,Dresden,Cossebaude B6/Brauergasse,Spaziergang,2022-03-05 10:29:07,
+72696,DE,01108,2022-03-07,19:00,Dresden,Weixdorf Rathausplatz,Spaziergang,2022-03-05 10:20:29,
 72729,DE,45130,2022-03-08,18:00,Essen,Rüttenscheider Stern / Aldi,Spaziergang,2022-03-05 17:46:18,
 72693,DE,01129,2022-03-08,19:00,Dresden,Wilder Mann Endstation 3,Spaziergang,2022-03-05 10:16:23,
 72716,DE,90402,2022-03-09,17:30,Nürnberg,Lorenzkirche,Kundgebung,2022-03-05 14:45:57,
