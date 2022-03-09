@@ -1,26 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-72615,DE,91052,2022-03-09,15:30,Erlangen,Neumühlsteg,Spaziergang,2022-03-03 19:19:20,
-72768,DE,70184,2022-03-09,17:00,Stuttgart,Dobelstr./ Hohenheimer Str,Schilderwald,2022-03-06 22:52:35,
-71567,DE,84028,2022-03-09,17:00,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,2022-02-10 22:36:40,
-72716,DE,90402,2022-03-09,17:30,Nürnberg,Lorenzkirche,Kundgebung,2022-03-05 14:45:57,
-72778,DE,45879,2022-03-09,17:30,Gelsenkirchen,Hans-Sachs-Haus,Kundgebung,2022-03-07 07:35:50,
-72539,DE,67433,2022-03-09,18:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-03-01 14:29:10,
-72789,DE,80333,2022-03-09,18:00,München,Königsplatz,Aufzug,2022-03-07 19:32:29,
-72538,DE,76829,2022-03-09,18:00,Landau/Pfalz,Deutsches Tor,Spaziergang,2022-03-01 14:28:56,
-72677,DE,65779,2022-03-09,18:00,Kelkheim,Markt,Spaziergang,2022-03-04 23:27:25,
-72631,DE,52428,2022-03-09,18:00,Jülich,Hexenturm,Spaziergang,2022-03-03 23:06:05,
-72590,DE,61440,2022-03-09,18:30,Oberursel,Adenauerallee,Spaziergang,2022-03-02 23:27:56,
-72777,DE,91207,2022-03-09,18:30,Lauf,Marktplatz,Kundgebung,2022-03-07 07:06:18,
-72754,DE,96106,2022-03-09,18:30,Ebern,Bahnhof,Spaziergang,2022-03-06 20:22:07,
-72834,DE,96106,2022-03-09,18:30,Ebern,Bahnhof,Kundgebung,2022-03-08 11:58:23,
-72635,DE,44369,2022-03-09,18:30,Dortmund,Huckarder Marktplatz,Spaziergang,2022-03-04 08:20:11,
-72728,DE,01728,2022-03-09,19:00,Possendorf,Kastanienallee,Spaziergang,2022-03-05 17:37:52,
-72537,DE,76773,2022-03-09,19:00,Kuhardt,Dorfplatz,Spaziergang,2022-03-01 14:28:43,
-72824,DE,07549,2022-03-09,19:00,Gera Lusan,Rewe Parkplatz Lusan,Spaziergang,2022-03-08 06:25:38,
-72604,DE,06632,2022-03-09,19:00,Freyburg,Marktplatz,Spaziergang,2022-03-03 16:32:25,
-72694,DE,01277,2022-03-09,19:00,Dresden,Tolkewitz / Haltest. Schulcampus,Spaziergang,2022-03-05 10:17:55,
-72708,DE,01277,2022-03-09,19:00,Dresden,Tolkewitz / Haltest. Schulcampus,Spaziergang,2022-03-05 10:38:50,
-71940,DE,29221,2022-03-09,23:59,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-02-17 23:59:35,
 72608,DE,91052,2022-03-10,14:00,Erlangen,Rötelheimpark.,Aufzug,2022-03-03 19:00:11,
 72612,DE,91052,2022-03-10,14:30,Erlangen,Berliner Platz Park,Spaziergang,2022-03-03 19:12:48,
 72617,DE,91052,2022-03-10,15:00,Erlangen,Großparkplatz,Bürgerkrieg,2022-03-03 19:44:28,
@@ -47,9 +25,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72288,DE,88069,2022-03-11,18:00,Tettnang,Rathaus,Spaziergang,2022-02-22 18:17:56,
 72543,DE,67433,2022-03-11,18:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-03-01 14:30:29,
 72831,DE,75236,2022-03-11,18:00,Kämpfelbach-Bilfingen,Kämpfelbachhalle,Aufzug,2022-03-08 11:23:28,
-72787,DE,16540,2022-03-11,18:00,Hohen Neuendorf,Rathausplatz,Aufzug,2022-03-07 15:24:41,
-72281,DE,16540,2022-03-11,18:00,Hohen Neuendorf,Rathausplatz,Kundgebung,2022-02-22 18:11:14,
 72283,DE,16540,2022-03-11,18:00,Hohen Neuendorf,Rathausplatz,Aufzug,2022-02-22 18:12:42,
+72281,DE,16540,2022-03-11,18:00,Hohen Neuendorf,Rathausplatz,Kundgebung,2022-02-22 18:11:14,
+72787,DE,16540,2022-03-11,18:00,Hohen Neuendorf,Rathausplatz,Aufzug,2022-03-07 15:24:41,
 72486,DE,86720,2022-03-11,19:00,Nördlingen,Rathaus,Kundgebung,2022-02-28 20:24:14,
 72401,DE,83209,2022-03-12,10:30,Prien am Chiemsee,Parkplatz am Sportplatz,Kundgebung,2022-02-26 16:36:22,
 72785,DE,74564,2022-03-12,12:00,Crailsheim,Schweinemarktplatz,Mahnwache,2022-03-07 15:00:59,
@@ -117,8 +95,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72764,DE,63450,2022-03-14,18:30,Hanau,Freiheitsplatz,Spaziergang,2022-03-06 22:27:38,
 72799,DE,76726,2022-03-14,18:30,Germersheim,Konrad-Adenauer-Str. (Tedi),Spaziergang,2022-03-08 00:03:57,
 72625,DE,63571,2022-03-14,18:30,Gelnhausen,Obermarkt,Spaziergang,2022-03-03 22:36:44,
-72644,DE,29221,2022-03-14,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:52:37,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72639,DE,29221,2022-03-14,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:46:07,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+72644,DE,29221,2022-03-14,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:52:37,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72553,DE,46236,2022-03-14,18:30,Bottrop,Kirchplatz 1,Spaziergang,2022-03-01 18:12:22,
 72794,DE,76887,2022-03-14,18:30,Bad Bergzabern,Schloss,Spaziergang,2022-03-08 00:02:50,
 72107,DE,99510,2022-03-14,18:30,Apolda,Markt,Spaziergang,2022-02-20 22:06:56,
@@ -197,8 +175,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72739,DE,87724,2022-03-28,18:00,Ottobeuren,Rathaus,Spaziergang,2022-03-06 11:03:40,
 69014,DE,52428,2022-03-28,18:00,Jülich,Neusser Str. / Höhe Post,Bauerndemo,2022-01-12 09:34:33,
 72766,DE,63450,2022-03-28,18:30,Hanau,Freiheitsplatz,Spaziergang,2022-03-06 22:28:12,
-72642,DE,29221,2022-03-28,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:48:14,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72641,DE,29221,2022-03-28,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:47:33,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+72642,DE,29221,2022-03-28,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:48:14,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72109,DE,99510,2022-03-28,18:30,Apolda,Markt,Spaziergang,2022-02-20 22:08:37,
 72747,DE,26382,2022-03-28,19:00,Wilhelmshaven,Rathausplatz,Spaziergang,2022-03-06 17:13:38,
 72725,DE,83209,2022-03-28,19:00,Prien am Chiemsee,Rathaus,Spaziergang,2022-03-05 16:05:55,
