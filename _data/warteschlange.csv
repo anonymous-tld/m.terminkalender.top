@@ -39,6 +39,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72863,DE,69181,2022-03-14,18:30,Leimen,Rathausplatz,Spaziergang,2022-03-09 16:09:56,
 72870,DE,42651,2022-03-14,19:00,Solingen,Walter-Scheel-Platz - Rathaus,Spaziergang,2022-03-09 19:43:19,
 72876,DE,87600,2022-03-14,19:00,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,2022-03-09 21:37:23,
+72902,DE,38820,2022-03-14,19:00,Halberstadt,Domplatz,Spaziergang,2022-03-10 15:46:18,
 72878,DE,61440,2022-03-16,18:30,Oberursel,Adenauerallee,Spaziergang,2022-03-09 22:42:14,
 72892,DE,44369,2022-03-16,18:30,Dortmund,Huckarder Marktplatz,Spaziergang,2022-03-10 11:09:28,
 72899,DE,90530,2022-03-16,19:00,Wendelstein,Parkplatz Mittelschule,Spaziergang,2022-03-10 14:17:46,
@@ -46,8 +47,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72885,DE,29221,2022-03-19,11:00,Celle,Neumarkt,Aufzug,2022-03-10 09:56:38,
 72853,DE,06844,2022-03-21,18:00,Dessau-Roßlau,Marktplatz vor dem Rathaus,Spaziergang,2022-03-09 12:00:12,
 72872,DE,42651,2022-03-21,19:00,Solingen,Walter-Scheel-Platz - Rathaus,Spaziergang,2022-03-09 19:45:43,
-72873,DE,42651,2022-03-26,11:00,Solingen,Walter-Scheel-Platz - Rathaus,Spaziergang,2022-03-09 19:46:41,
 72874,DE,42651,2022-03-26,11:00,Solingen,Walter-Scheel-Platz - Rathaus,Spaziergang,2022-03-09 19:47:39,
+72873,DE,42651,2022-03-26,11:00,Solingen,Walter-Scheel-Platz - Rathaus,Spaziergang,2022-03-09 19:46:41,
 72886,DE,29221,2022-03-26,11:00,Celle,Neumarkt,Aufzug,2022-03-10 09:57:25,
 72889,DE,29221,2022-03-26,11:45,Celle,Großer Plan,Kundgebung,2022-03-10 10:01:18,
 72845,DE,17166,2022-03-26,14:00,Teterow,Marktplatz,Kundgebung,2022-03-09 00:59:59,https://dlive.tv/Evil-Truth, https://dlive.tv/MV1, https://www.twitch.tv/evil_truth_
