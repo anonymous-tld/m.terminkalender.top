@@ -6,6 +6,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72782,DE,72290,2022-03-15,18:00,Loßburg,Kinzigtal beim Rathaus,Spaziergang,2022-03-07 14:08:42,
 72773,DE,95326,2022-03-15,18:00,Kulmbach,Marktplatz,Kundgebung,2022-03-06 23:19:28,
 72948,DE,76275,2022-03-15,18:00,Ettlingen,Dickhäuterplatz,Aufzug,2022-03-12 10:46:30,
+73082,DE,79108,2022-03-15,18:30,Freiburg,Neues SC-Stadion / Flugplatz,Autokorso,2022-03-15 03:50:29,
 72609,DE,91052,2022-03-15,18:30,Erlangen,Ohmplatz,Aufzug,2022-03-03 19:01:34,
 73049,DE,92421,2022-03-15,19:00,Schwandorf,Marktplatz,Demonstration,2022-03-14 15:13:46,
 72814,DE,76774,2022-03-15,19:00,Leimersheim,Kirchplatz,Spaziergang,2022-03-08 00:07:20,
@@ -68,11 +69,13 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 70426,DE,80333,2022-03-20,14:00,München,Theresienwiese,Kundgebung,2022-01-26 12:27:30,
 70425,DE,80333,2022-03-20,14:00,München,Theresienwiese,Kundgebung,2022-01-26 12:22:41,
 73050,DE,76530,2022-03-20,14:00,Baden-Baden,Augustaplatz,Demonstration,2022-03-14 17:02:53,
+73083,DE,93047,2022-03-20,15:00,Regensburg,Domplatz,Demonstration,2022-03-15 08:01:04,
 72935,DE,90402,2022-03-20,15:00,Nürnberg,Lorenzkirche,Kundgebung,2022-03-11 22:24:37,
 72822,DE,76726,2022-03-20,15:00,Germersheim,Luitpoldplatz,Spaziergang,2022-03-08 00:11:08,
 72477,DE,27472,2022-03-20,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2022-02-28 12:35:32,
 72993,DE,01279,2022-03-20,16:30,Dresden,Österreicher 39 / Dominos Pizza,Spaziergang,2022-03-13 14:38:43,
 72939,DE,71638,2022-03-20,17:30,Ludwigsburg,Stuttgarter Straße 33,Aufzug,2022-03-11 23:07:08,
+73084,DE,93059,2022-03-20,19:00,Regensburg,Grieser Spitz,Lichterkette,2022-03-15 08:05:35,
 68976,DE,52428,2022-03-21,13:12,Jülich,Schlossplatz,Kundgebung,2022-01-11 18:52:18,
 72958,DE,18055,2022-03-21,16:30,Rostock,Stadthafen/Kanonsberg,Kundgebung,2022-03-12 20:45:04,https://dlive.tv/7TuermeMedien
 73081,DE,44623,2022-03-21,17:30,Herne,Friedrich-Ebert-Platz 2,Spaziergang,2022-03-15 01:12:01,
@@ -107,8 +110,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73025,DE,67454,2022-03-21,18:30,Hassloch,Pfalzplatz,Spaziergang,2022-03-14 13:45:50,
 72765,DE,63450,2022-03-21,18:30,Hanau,Freiheitsplatz,Spaziergang,2022-03-06 22:27:58,
 73022,DE,76726,2022-03-21,18:30,Germersheim,Konrad-Adenauer-Str. (Tedi),Spaziergang,2022-03-14 13:45:14,
-72640,DE,29221,2022-03-21,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:46:59,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72643,DE,29221,2022-03-21,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:49:01,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+72640,DE,29221,2022-03-21,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:46:59,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72554,DE,46236,2022-03-21,18:30,Bottrop,Kirchplatz 1,Spaziergang,2022-03-01 18:13:03,
 73018,DE,76887,2022-03-21,18:30,Bad Bergzabern,Schloss,Spaziergang,2022-03-14 13:44:28,
 72108,DE,99510,2022-03-21,18:30,Apolda,Markt,Spaziergang,2022-02-20 22:07:43,
@@ -154,8 +157,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 69014,DE,52428,2022-03-28,18:00,Jülich,Neusser Str. / Höhe Post,Bauerndemo,2022-01-12 09:34:33,
 72854,DE,06844,2022-03-28,18:00,Dessau-Roßlau,Marktplatz vor dem Rathaus,Spaziergang,2022-03-09 12:01:00,
 72766,DE,63450,2022-03-28,18:30,Hanau,Freiheitsplatz,Spaziergang,2022-03-06 22:28:12,
-72641,DE,29221,2022-03-28,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:47:33,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72642,DE,29221,2022-03-28,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:48:14,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+72641,DE,29221,2022-03-28,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:47:33,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72109,DE,99510,2022-03-28,18:30,Apolda,Markt,Spaziergang,2022-02-20 22:08:37,
 72747,DE,26382,2022-03-28,19:00,Wilhelmshaven,Rathausplatz,Spaziergang,2022-03-06 17:13:38,
 72875,DE,42651,2022-03-28,19:00,Solingen,Walter-Scheel-Platz / Rathaus,Spaziergang,2022-03-09 19:47:46,
