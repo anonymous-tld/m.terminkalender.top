@@ -9,6 +9,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72814,DE,2022-03-15,19:00:00,76774,Leimersheim,Kirchplatz,Spaziergang,,unbekannt,
 72815,DE,2022-03-15,19:00:00,76770,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,,unbekannt,
 72988,DE,2022-03-15,19:00:00,01129,Dresden,Wilder Mann Endstation 3,Spaziergang,,unbekannt,
+73012,DE,2022-03-15,21:00:00,10117,Berlin,unbekannt,Livestream,https://youtu.be/K3I6lupE4uc,Radio Deutschland Eins,http://www.radio-deutschland-eins.com
 72968,DE,2022-03-16,06:00:00,74933,Neidenstein,Van Venningenhalle,Spaziergang,,unbekannt,
 72751,DE,2022-03-16,15:30:00,77652,Offenburg,Rée Carré,Sonstiges,,Netzwerk Medizinisches-Personal-Ortenau,
 72940,DE,2022-03-16,17:30:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,
@@ -35,8 +36,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72819,DE,2022-03-17,18:00:00,76751,Jockgrim,Parkplatz Penny,Spaziergang,,unbekannt,
 72818,DE,2022-03-17,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
 72820,DE,2022-03-17,19:00:00,76777,Neupotz,Kirche,Spaziergang,,unbekannt,
-72994,DE,2022-03-17,19:00:00,01277,Dresden,Striesen / Progr. Kino Ost,Spaziergang,,unbekannt,
 72990,DE,2022-03-17,19:00:00,01307,Dresden,Fetscherplatz Artushof,Spaziergang,,unbekannt,
+72994,DE,2022-03-17,19:00:00,01277,Dresden,Striesen / Progr. Kino Ost,Spaziergang,,unbekannt,
 72933,DE,2022-03-18,16:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 72999,DE,2022-03-18,16:00:00,91052,Erlangen,Berliner Platz. Park,Demonstration,,Freie Wähler und Besorgte Bürger,
 72942,PL,2022-03-18,17:00:00,60-731,Poznań,Rynek Łazarski 1,Event,https://dlive.tv/actioncovid1984,STOP NOP,https://stopnop.com.pl
@@ -71,25 +72,46 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72958,DE,2022-03-21,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 72757,DE,2022-03-21,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
 72665,DE,2022-03-21,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
+73035,DE,2022-03-21,18:00:00,76744,Wörth/Rhein,Altes Rathaus,Spaziergang,,unbekannt,
 72683,DE,2022-03-21,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,unbekannt,
 72680,DE,2022-03-21,18:00:00,66583,Spiesen Elversberg,Spiesen Rathaus / Hauptstraße,Spaziergang,,unbekannt,
+73033,DE,2022-03-21,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,
+73013,DE,2022-03-21,18:00:00,40885,Ratingen-Lintorf,Kirche - St. Anna (am Markt),Spaziergang,,Privat,
 72738,DE,2022-03-21,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,unbekannt,
+73031,DE,2022-03-21,18:00:00,76879,Ottersheim,Dorfplatz,Spaziergang,,unbekannt,
+73029,DE,2022-03-21,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,
 72772,DE,2022-03-21,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
 72963,DE,2022-03-21,18:00:00,74074,Heilbronn,Götzenturm,Spaziergang,,Unbekannt,
 72853,DE,2022-03-21,18:00:00,06844,Dessau-Roßlau,Marktplatz vor dem Rathaus,Spaziergang,,Dessau steht auf,https://t.me/MontagsMahnwache
+73019,DE,2022-03-21,18:00:00,67098,Bad Dürkheim,Dürkheimer Fass,Spaziergang,,unbekannt,
+73017,DE,2022-03-21,18:00:00,76855,Annweiler am Trifels,Kirchplatz,Spaziergang,,unbekannt,
+73034,DE,2022-03-21,18:30:00,67346,Speyer,Alte Münze,Spaziergang,,unbekannt,
+73032,DE,2022-03-21,18:30:00,76764,Rheinzabern,Grundschule,Spaziergang,,unbekannt,
 72320,DE,2022-03-21,18:30:00,83119,Obing,Rathaus,Kundgebung,,unbekannt,
+73030,DE,2022-03-21,18:30:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
 72765,DE,2022-03-21,18:30:00,63450,Hanau,Freiheitsplatz,Spaziergang,,Hanau steht auf,http://www.hanau-steht-auf.de
-72643,DE,2022-03-21,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 72640,DE,2022-03-21,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
+72643,DE,2022-03-21,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 72554,DE,2022-03-21,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
+73018,DE,2022-03-21,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
 72108,DE,2022-03-21,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 72746,DE,2022-03-21,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 72872,DE,2022-03-21,19:00:00,42651,Solingen,Walter-Scheel-Platz / Rathaus,Spaziergang,,Solingen in Bewegung,
 72723,DE,2022-03-21,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
 72489,DE,2022-03-21,19:00:00,86720,Nördlingen,Rathaus,Spaziergang,,unbekannt,
 67498,DE,2022-03-21,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
+73036,DE,2022-03-22,18:00:00,67378,Zeiskam,Fuchsbachhalle,Spaziergang,,unbekannt,
+73037,DE,2022-03-22,19:00:00,76774,Leimersheim,Kirchplatz,Spaziergang,,unbekannt,
+73038,DE,2022-03-22,19:00:00,76770,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,,unbekannt,
+73041,DE,2022-03-23,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
+73040,DE,2022-03-23,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,
+73039,DE,2022-03-23,19:00:00,76773,Kuhardt,Dorfplatz,Spaziergang,,unbekannt,
 71030,DE,2022-03-24,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 67572,DE,2022-03-24,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing
+73043,DE,2022-03-24,18:00:00,76751,Jockgrim,Parkplatz Penny,Spaziergang,,unbekannt,
+73042,DE,2022-03-24,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
+73044,DE,2022-03-24,19:00:00,76777,Neupotz,Kirche,Spaziergang,,unbekannt,
+73045,DE,2022-03-25,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
 72743,DE,2022-03-25,18:00:00,16540,Hohen Neuendorf,Rathausplatz,Aufzug,,Oberhavel steht auf (Orga HND),
 72403,DE,2022-03-26,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Kundgebung,,Chiemgau Gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
 72874,DE,2022-03-26,11:00:00,42651,Solingen,Walter-Scheel-Platz / Rathaus,Spaziergang,,Solingen in Bewegung,
@@ -99,6 +121,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70620,DE,2022-03-26,14:00:00,17034,Neubrandenburg / Datzeberg,Parkpl. Sportanlagen Datzeberg,Aufzug,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/featured,Neubrandenburger Spaziergang,https://www.facebook.com/profile.php?id=100064165685101
 72992,DE,2022-03-26,14:00:00,26160,Bad Zwischenahn,Marktplatz,Demonstration,,unbekannt,
 72503,DE,2022-03-26,15:00:00,60329,Frankfurt,Taunusanlage,Aufzug,,unbekannt,
+73046,DE,2022-03-26,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,
 72478,DE,2022-03-27,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 72959,DE,2022-03-28,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 72758,DE,2022-03-28,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
