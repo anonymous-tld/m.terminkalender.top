@@ -25,8 +25,6 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73150,DE,56068,2022-03-19,14:00,Koblenz,Jesuitenplatz,Mahnwache,2022-03-17 20:24:43,
 73152,DE,79098,2022-03-19,14:00,Freiburg,Platz der alten Synagoge,Aufzug,2022-03-17 22:00:01,
 72946,DE,69120,2022-03-19,14:30,Heidelberg,Neckarwiese / Höhe Keplerstraße,Aufzug,2022-03-12 10:44:24,
-72912,DE,93051,2022-03-19,15:00,Regensburg,Domplatz Regensburg,Demonstration,2022-03-10 23:16:19,
-73147,DE,93051,2022-03-19,15:00,Regensburg,Domplatz Regensburg,Demonstration,2022-03-17 17:13:14,
 73146,DE,21073,2022-03-19,15:00,Hamburg Harburg,Rathausplatz,Aufzug,2022-03-17 17:00:32,
 72502,DE,60329,2022-03-19,15:00,Frankfurt,Taunusanlage,Aufzug,2022-03-01 01:03:31,
 73011,DE,40213,2022-03-19,15:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2022-03-13 21:08:22,
@@ -48,8 +46,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72477,DE,27472,2022-03-20,15:00,Cuxhaven,Kaemmererplatz,Spaziergang,2022-02-28 12:35:32,
 72993,DE,01279,2022-03-20,16:30,Dresden,Österreicher 39 / Dominos Pizza,Spaziergang,2022-03-13 14:38:43,
 72939,DE,71638,2022-03-20,17:30,Ludwigsburg,Stuttgarter Straße 33,Aufzug,2022-03-11 23:07:08,
-73101,DE,20095,2022-03-20,17:30,Hamburg,Rathaus Hamburg,Aufzug,2022-03-15 18:37:43,
 73100,DE,20095,2022-03-20,17:30,Hamburg,Rathaus Ecke Mönckebergstraße,Aufzug,2022-03-15 18:35:13,
+73101,DE,20095,2022-03-20,17:30,Hamburg,Rathaus Hamburg,Aufzug,2022-03-15 18:37:43,
 73098,DE,31275,2022-03-20,18:00,Lehrte,Burgdorfer Str. / im Verlauf,Spaziergang,2022-03-15 13:04:57,
 73084,DE,93059,2022-03-20,19:00,Regensburg,Grieser Spitz,Lichterkette,2022-03-15 08:05:35,
 68976,DE,52428,2022-03-21,13:12,Jülich,Schlossplatz,Kundgebung,2022-01-11 18:52:18,
@@ -99,8 +97,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73025,DE,67454,2022-03-21,18:30,Hassloch,Pfalzplatz,Spaziergang,2022-03-14 13:45:50,
 72765,DE,63450,2022-03-21,18:30,Hanau,Freiheitsplatz,Spaziergang,2022-03-06 22:27:58,
 73022,DE,76726,2022-03-21,18:30,Germersheim,Konrad-Adenauer-Str. (Tedi),Spaziergang,2022-03-14 13:45:14,
-72643,DE,29221,2022-03-21,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:49:01,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72640,DE,29221,2022-03-21,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:46:59,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+72643,DE,29221,2022-03-21,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:49:01,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72554,DE,46236,2022-03-21,18:30,Bottrop,Kirchplatz 1,Spaziergang,2022-03-01 18:13:03,
 73153,DE,54470,2022-03-21,18:30,Bernkastel-Kues,Verbandsgemeindeverwaltung,Spaziergang,2022-03-17 22:36:51,
 73018,DE,76887,2022-03-21,18:30,Bad Bergzabern,Schloss,Spaziergang,2022-03-14 13:44:28,
