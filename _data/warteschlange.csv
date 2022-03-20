@@ -15,8 +15,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73197,DE,65520,2022-03-21,18:00,Bad Camberg,Caspar-Hofmann-Platz/ Bahnhof,Spaziergang,2022-03-19 23:15:20,
 73177,DE,54470,2022-03-21,18:30,Bernkastel-Kues,Verbandsgemeindeverwaltung,Spaziergang,2022-03-19 07:45:41,
 73206,DE,96142,2022-03-21,19:00,Hollfeld,Rathaus,Spaziergang,2022-03-20 09:40:30,
-73180,DE,76698,2022-03-22,17:00,Ubstadt-Weiher,Unteröwisheimer Straße 19,Schilderwald,2022-03-19 12:17:28,
 73182,DE,76698,2022-03-22,17:00,Ubstadt-Weiher,Unteröwisheimer Straße 19,Schilderwald,2022-03-19 12:24:33,
+73180,DE,76698,2022-03-22,17:00,Ubstadt-Weiher,Unteröwisheimer Straße 19,Schilderwald,2022-03-19 12:17:28,
 73223,DE,17438,2022-03-22,18:00,Wolgast,Freifläche am Kai,Kundgebung,2022-03-20 20:18:08,
 73216,DE,44369,2022-03-23,18:30,Dortmund,Huckarder Marktplatz,Spaziergang,2022-03-20 12:49:50,
 73218,DE,01728,2022-03-23,19:00,Possendorf,Kastanienallee,Spaziergang,2022-03-20 15:11:51,
@@ -29,6 +29,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73204,DE,40213,2022-03-26,15:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2022-03-20 08:51:58,
 73195,DE,44787,2022-03-26,15:00,Bochum,Dr.-Ruer-Platz, 44787 Bochum,Aufzug,2022-03-19 21:12:12,
 73220,DE,85229,2022-03-27,19:00,Markt Indersdorf,Marktplatz,Spaziergang,2022-03-20 19:01:19,
+73225,PL,20-078,2022-03-28,09:15,Lublin,3 Maja 6,Event,2022-03-21 00:34:34,https://www.facebook.com/Rebel24-TV-111609008105032
 73188,DE,88069,2022-03-28,18:00,Tettnang,Rathaus,Spaziergang,2022-03-19 19:04:09,
 73203,DE,66583,2022-03-28,18:00,Spiesen Elversberg,Spiesen Rathaus, Hauptstraße,Spaziergang,2022-03-20 08:42:13,
 73209,DE,84524,2022-03-28,18:00,Neuötting,Rathaus,Spaziergang,2022-03-20 11:00:49,
