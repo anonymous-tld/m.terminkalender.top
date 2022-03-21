@@ -1,7 +1,9 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 73234,DE,40764,2022-03-21,17:00,Langenfeld,Marktplatz 17:00, Rathaus 18:0,Spaziergang,2022-03-21 10:51:13,
 73228,DE,90402,2022-03-22,18:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2022-03-21 09:17:21,
+73239,DE,91052,2022-03-22,18:30,Erlangen,Ohmplatz,Aufzug,2022-03-21 14:56:00,
 73229,DE,90402,2022-03-23,18:00,Nürnberg,Lorenzkirche,Kundgebung,2022-03-21 09:18:27,
+73242,DE,91052,2022-03-24,11:30,Erlangen,Schlossplatz,Kundgebung,2022-03-21 14:58:30,
 73230,DE,90402,2022-03-25,16:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2022-03-21 09:19:34,
 73238,DE,74564,2022-03-26,10:00,Crailsheim,Schweinemarktplatz,Mahnwache,2022-03-21 14:18:15,
 73235,DE,64385,2022-03-26,14:00,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,2022-03-21 10:54:35,
@@ -9,4 +11,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73231,DE,90402,2022-03-26,17:00,Nürnberg,Lorenzkirche,Kundgebung,2022-03-21 09:20:38,
 73232,DE,90402,2022-03-27,15:00,Nürnberg,Lorenzkirche,Kundgebung,2022-03-21 09:21:28,
 73233,DE,40764,2022-03-28,17:00,Langenfeld,Marktplatz 17:00, Rathaus 18:0,Spaziergang,2022-03-21 10:50:23,
+73240,DE,91052,2022-03-29,18:30,Erlangen,Ohmplatz,Aufzug,2022-03-21 14:56:54,
+73243,DE,91052,2022-03-31,11:30,Erlangen,Schlossplatz,Aufzug,2022-03-21 14:59:44,
+73241,DE,91052,2022-04-05,18:30,Erlangen,Ohmplatz,Aufzug,2022-03-21 14:57:35,
 73237,DE,44369,2022-04-06,18:30,Dortmund,Huckarder Marktplatz,Spaziergang,2022-03-21 14:10:40,
