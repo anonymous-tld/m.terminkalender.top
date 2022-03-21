@@ -16,8 +16,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73185,DE,88069,2022-03-21,18:00,Tettnagn,Rathaus,Spaziergang,2022-03-19 19:02:10,
 73169,DE,75334,2022-03-21,18:00,Stgraubenhardt-Feldrennach,Rathaus,Spaziergang,2022-03-18 21:39:41,
 72683,DE,82319,2022-03-21,18:00,Starnberg,Kirchplatz,Spaziergang,2022-03-05 01:02:51,
-73202,DE,66583,2022-03-21,18:00,Spiesen Elversberg,Rathaus / Hauptstraße,Spaziergang,2022-03-20 08:41:31,
 72680,DE,66583,2022-03-21,18:00,Spiesen Elversberg,Spiesen Rathaus / Hauptstraße,Spaziergang,2022-03-05 00:57:14,
+73202,DE,66583,2022-03-21,18:00,Spiesen Elversberg,Rathaus / Hauptstraße,Spaziergang,2022-03-20 08:41:31,
 73077,DE,74523,2022-03-21,18:00,Schwäbisch Hall,Marktplatz,Spaziergang,2022-03-15 00:03:14,
 73222,DE,36381,2022-03-21,18:00,Schlüchtern,Parkplatz Feuerwehr,Spaziergang,2022-03-20 19:52:49,
 73033,DE,76761,2022-03-21,18:00,Rülzheim,Kerweplatz,Spaziergang,2022-03-14 13:47:41,
@@ -93,6 +93,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73223,DE,17438,2022-03-22,18:00,Wolgast,Freifläche am Kai,Kundgebung,2022-03-20 20:18:08,
 73113,DE,72290,2022-03-22,18:00,Loßburg,Loßburg Kinzighaus,Spaziergang,2022-03-16 07:06:23,
 73176,DE,52428,2022-03-22,18:00,Jülich,Hexenturm,Spaziergang,2022-03-19 00:17:12,
+73226,DE,79108,2022-03-22,18:30,Freiburg,Neues SC-Stadion / Flugplatz,Autokorso,2022-03-21 04:34:50,
 73131,DE,92421,2022-03-22,19:00,Schwandorf,Marktplatz,Kundgebung,2022-03-17 07:55:38,
 73037,DE,76774,2022-03-22,19:00,Leimersheim,Kirchplatz,Spaziergang,2022-03-14 13:49:15,
 73038,DE,76770,2022-03-22,19:00,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,2022-03-14 13:49:27,
@@ -153,8 +154,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 72854,DE,06844,2022-03-28,18:00,Dessau-Roßlau,Marktplatz vor dem Rathaus,Spaziergang,2022-03-09 12:01:00,
 73088,DE,63225,2022-03-28,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-03-15 08:27:18,
 72766,DE,63450,2022-03-28,18:30,Hanau,Freiheitsplatz,Spaziergang,2022-03-06 22:28:12,
-72641,DE,29221,2022-03-28,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:47:33,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 72642,DE,29221,2022-03-28,18:30,Celle,Innenstadt,Spaziergang,2022-03-04 11:48:14,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+72641,DE,29221,2022-03-28,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-04 11:47:33,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 73138,DE,46236,2022-03-28,18:30,Bottrop,Kirchplatz 1,Spaziergang,2022-03-17 14:06:55,
 72109,DE,99510,2022-03-28,18:30,Apolda,Markt,Spaziergang,2022-02-20 22:08:37,
 73198,DE,74074,2022-03-28,18:51,Heilbronn,Götzenturm,Spaziergang,2022-03-20 00:52:48,
