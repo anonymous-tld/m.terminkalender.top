@@ -1,5 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-73234,DE,40764,2022-03-21,17:00,Langenfeld,Marktplatz 17:00, Rathaus 18:0,Spaziergang,2022-03-21 10:51:13,
 73228,DE,90402,2022-03-22,18:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2022-03-21 09:17:21,
 73239,DE,91052,2022-03-22,18:30,Erlangen,Ohmplatz,Aufzug,2022-03-21 14:56:00,
 73229,DE,90402,2022-03-23,18:00,Nürnberg,Lorenzkirche,Kundgebung,2022-03-21 09:18:27,
@@ -13,6 +12,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73245,DE,76530,2022-03-27,14:00,Baden-Baden,Augustaplatz,Demonstration,2022-03-21 17:47:26,
 73232,DE,90402,2022-03-27,15:00,Nürnberg,Lorenzkirche,Kundgebung,2022-03-21 09:21:28,
 73233,DE,40764,2022-03-28,17:00,Langenfeld,Marktplatz 17:00, Rathaus 18:0,Spaziergang,2022-03-21 10:50:23,
+73285,DE,21073,2022-03-28,17:30,Hamburg,Harburger Rathausplatz,Spaziergang,2022-03-21 23:56:58,
 73264,DE,76744,2022-03-28,18:00,Wörth/Rhein,Altes Rathaus,Spaziergang,2022-03-21 20:19:26,
 73262,DE,76761,2022-03-28,18:00,Rülzheim,Kerweplatz,Spaziergang,2022-03-21 20:19:07,
 73260,DE,76879,2022-03-28,18:00,Ottersheim,Dorfplatz,Spaziergang,2022-03-21 20:18:47,
