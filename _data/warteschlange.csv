@@ -4,6 +4,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73443,DE,56410,2022-03-28,18:00,Montabaur,Rathaus,Spaziergang,2022-03-27 19:22:17,
 73410,DE,76133,2022-03-28,18:00,Karlsruhe,Stephanplatz,Aufzug,2022-03-26 20:46:31,
 73444,DE,01705,2022-03-28,18:00,Freital,Neumarkt,Spaziergang,2022-03-27 20:07:47,
+73446,DE,70734,2022-03-28,18:00,Fellbach,Lutherkirche,Spaziergang,2022-03-27 21:29:41,
 73426,DE,01069,2022-03-28,18:00,Dresden,Teplitzer/Ecke Zellerscher Weg,Spaziergang,2022-03-27 13:53:00,
 73424,DE,01239,2022-03-28,18:00,Dresden,Leuben, Operette,Spaziergang,2022-03-27 13:49:26,
 73423,DE,01239,2022-03-28,18:00,Dresden,Niedersedlitz, Dorfpl. Feuerw.,Spaziergang,2022-03-27 13:47:46,
@@ -21,8 +22,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73412,DE,76761,2022-03-28,19:00,Rülzheim,Kerweplatz,Spaziergang,2022-03-27 10:19:32,
 73429,DE,01445,2022-03-28,19:00,Radebeul,Ostbhf,Spaziergang,2022-03-27 13:55:16,
 73430,DE,01809,2022-03-28,19:00,Heidenau,Markt,Spaziergang,2022-03-27 13:56:23,
-73425,DE,01156,2022-03-28,19:00,Dresden,Cossebaude B6/Brauergasse,Spaziergang,2022-03-27 13:51:53,
 73417,DE,01108,2022-03-28,19:00,Dresden,Weixdorf Rathausplatz,Spaziergang,2022-03-27 13:40:25,
+73425,DE,01156,2022-03-28,19:00,Dresden,Cossebaude B6/Brauergasse,Spaziergang,2022-03-27 13:51:53,
 73431,DE,01129,2022-03-29,19:00,Dresden,Wilder Mann Endstation 3,Spaziergang,2022-03-27 13:57:37,
 73409,DE,18055,2022-03-30,15:15,Rostock,Stadthalle,Kundgebung,2022-03-26 20:05:03,https://dlive.tv/7TuermeMedien
 73432,DE,01277,2022-03-30,19:00,Dresden,Tolkewitz,Haltest. Schulcampus,Spaziergang,2022-03-27 13:58:47,
