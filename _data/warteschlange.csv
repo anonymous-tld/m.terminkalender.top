@@ -4,24 +4,25 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73603,DE,06406,2022-04-03,16:30,Bernburg,Karlsplatz, Weltzeituhr,Spaziergang,2022-04-02 12:49:10,
 73614,DE,18055,2022-04-04,17:30,Rostock,Reifergraben in Paulstr.,Aufzug,2022-04-03 10:53:44,https://dlive.tv/7TuermeMedien
 73604,DE,15806,2022-04-04,18:00,Zossen,Rathaus,Spaziergang,2022-04-02 13:26:28,
+73624,DE,82319,2022-04-04,18:00,Starnberg,Kirchplatz,Spaziergang,2022-04-03 17:28:11,
 73613,DE,54410,2022-04-04,18:00,Montabaur,Rathaus,Spaziergang,2022-04-03 10:34:40,
 73618,DE,32423,2022-04-04,18:00,Minden,Marktplatz vor dem Rathaus,Spaziergang,2022-04-03 13:21:56,
 73607,DE,87435,2022-04-04,18:00,Kempten,Hildegardplatz,Aufzug,2022-04-02 20:38:22,
 73612,DE,76133,2022-04-04,18:00,Karlsruhe,Stephanplatz,Aufzug,2022-04-02 23:43:17,
-73597,DE,01279,2022-04-04,18:00,Dresden,Blasewitz, Schillerplatz,Spaziergang,2022-04-02 10:34:43,
-73596,DE,01239,2022-04-04,18:00,Dresden,Niedersedlitz, Dorfpl. Feuerw,Spaziergang,2022-04-02 10:33:44,
-73594,DE,01324,2022-04-04,18:00,Dresden,Bühlau, Bibliothek,Spaziergang,2022-04-02 10:29:49,
-73592,DE,01277,2022-04-04,18:00,Dresden,Cotta, Hebbelplatz,Spaziergang,2022-04-02 10:27:45,
 73590,DE,01069,2022-04-04,18:00,Dresden,Wiener Pl am Hbf,Spaziergang,2022-04-02 10:26:01,
+73592,DE,01277,2022-04-04,18:00,Dresden,Cotta, Hebbelplatz,Spaziergang,2022-04-02 10:27:45,
+73594,DE,01324,2022-04-04,18:00,Dresden,Bühlau, Bibliothek,Spaziergang,2022-04-02 10:29:49,
+73596,DE,01239,2022-04-04,18:00,Dresden,Niedersedlitz, Dorfpl. Feuerw,Spaziergang,2022-04-02 10:33:44,
+73597,DE,01279,2022-04-04,18:00,Dresden,Blasewitz, Schillerplatz,Spaziergang,2022-04-02 10:34:43,
 73617,DE,65520,2022-04-04,18:00,Bad Camberg,Caspar-Hofmann-Platz/ Bahnhof,Spaziergang,2022-04-03 13:06:59,
 73602,DE,65520,2022-04-04,18:00,Bad Camberg,Caspar-Hofmann-Platz,Spaziergang,2022-04-02 11:22:34,
 73616,DE,38518,2022-04-04,18:30,Gifhorn,Schillerplatz,Kundgebung,2022-04-03 13:05:47,lbry://Demokratievs1984
-73610,DE,38518,2022-04-04,18:30,Gifhorn,Schillerplatz,Spaziergang,2022-04-02 22:28:30,lbry://Demokratievs1984
-73611,DE,38518,2022-04-04,18:30,Gifhorn,Schillerplatz,Livestream,2022-04-02 22:29:57,lbry://Demokratievs1984
 73589,DE,38518,2022-04-04,18:30,Gifhorn,Schillerplatz,Kundgebung,2022-04-02 09:15:26,lbry://Demokratievs1984
 73622,DE,38518,2022-04-04,18:30,Gifhorn,Schillerplatz,Kundgebung,2022-04-03 14:04:31,lbry://Demokratievs1984
 73623,DE,38518,2022-04-04,18:30,Gifhorn,Schillerplatz,Kundgebung,2022-04-03 15:28:24,lbry://Demokratievs1984
+73611,DE,38518,2022-04-04,18:30,Gifhorn,Schillerplatz,Livestream,2022-04-02 22:29:57,lbry://Demokratievs1984
 73609,DE,38518,2022-04-04,18:30,Gifhorn,Schillerplatz,Kundgebung,2022-04-02 22:25:10,lbry://Demokratievs1984
+73610,DE,38518,2022-04-04,18:30,Gifhorn,Schillerplatz,Spaziergang,2022-04-02 22:28:30,lbry://Demokratievs1984
 73595,DE,01109,2022-04-04,18:30,Dresden,Klotzsche, Rathaus,Spaziergang,2022-04-02 10:31:47,
 73600,DE,01445,2022-04-04,19:00,Radebeul,Ostbhf,Spaziergang,2022-04-02 10:38:27,
 73615,DE,87600,2022-04-04,19:00,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,2022-04-03 13:02:07,
@@ -31,7 +32,10 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73591,DE,01067,2022-04-04,19:00,Dresden,Torwache beim Arnoldbad,Spaziergang,2022-04-02 10:26:58,
 73605,DE,03046,2022-04-04,19:05,Cottbus,Oberkirchplatz - Nordseize,Spaziergang,2022-04-02 15:10:26,
 73587,DE,16540,2022-04-08,16:00,Hohen Neuendorf,Kreuzung Kaufland,Schilderwald,2022-04-02 08:11:32,
+73625,DE,82319,2022-04-11,18:00,Starnberg,Kirchplatz,Spaziergang,2022-04-03 17:28:54,
 73619,DE,32423,2022-04-11,18:00,Minden,Marktplatz vor dem Rathaus,Spaziergang,2022-04-03 13:22:46,
+73626,DE,82319,2022-04-18,18:00,Starnberg,Kirchplatz,Spaziergang,2022-04-03 17:29:27,
 73620,DE,32423,2022-04-18,18:00,Minden,Marktplatz vor dem Rathaus,Spaziergang,2022-04-03 13:23:21,
 73593,DE,01157,2022-04-18,18:00,Dresden,Mickten Straßenbhf,Spaziergang,2022-04-02 10:28:38,
+73627,DE,82319,2022-04-25,18:00,Starnberg,Kirchplatz,Spaziergang,2022-04-03 17:30:33,
 73621,DE,32423,2022-04-25,18:00,Minden,Marktplatz vor dem Rathaus,Spaziergang,2022-04-03 13:23:50,
