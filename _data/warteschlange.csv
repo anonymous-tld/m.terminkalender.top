@@ -21,9 +21,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73623,DE,38518,2022-04-04,18:30,Gifhorn,Schillerplatz,Kundgebung,2022-04-03 15:28:24,lbry://Demokratievs1984
 73616,DE,38518,2022-04-04,18:30,Gifhorn,Schillerplatz,Kundgebung,2022-04-03 13:05:47,lbry://Demokratievs1984
 73589,DE,38518,2022-04-04,18:30,Gifhorn,Schillerplatz,Kundgebung,2022-04-02 09:15:26,lbry://Demokratievs1984
-73611,DE,38518,2022-04-04,18:30,Gifhorn,Schillerplatz,Livestream,2022-04-02 22:29:57,lbry://Demokratievs1984
 73610,DE,38518,2022-04-04,18:30,Gifhorn,Schillerplatz,Spaziergang,2022-04-02 22:28:30,lbry://Demokratievs1984
 73609,DE,38518,2022-04-04,18:30,Gifhorn,Schillerplatz,Kundgebung,2022-04-02 22:25:10,lbry://Demokratievs1984
+73611,DE,38518,2022-04-04,18:30,Gifhorn,Schillerplatz,Livestream,2022-04-02 22:29:57,lbry://Demokratievs1984
 73595,DE,01109,2022-04-04,18:30,Dresden,Klotzsche, Rathaus,Spaziergang,2022-04-02 10:31:47,
 73600,DE,01445,2022-04-04,19:00,Radebeul,Ostbhf,Spaziergang,2022-04-02 10:38:27,
 73645,DE,06618,2022-04-04,19:00,Naumburg,Vogelwiese,Spaziergang,2022-04-04 11:34:55,
@@ -38,10 +38,11 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73640,DE,90402,2022-04-05,18:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2022-04-04 11:21:26,
 73632,DE,70173,2022-04-06,18:00,Stuttgart,Karlsplatz,Aufzug,2022-04-03 18:31:04,
 73641,DE,90402,2022-04-06,18:00,Nürnberg,Lorenzkirche,Kundgebung,2022-04-04 11:22:14,
+73690,DE,65779,2022-04-06,18:00,Kelkheim,Markt,Spaziergang,2022-04-04 22:52:39,
 73634,DE,76646,2022-04-06,19:00,Bruchsal,Otto-Oppenheimer-Platz,Aufzug,2022-04-03 18:37:29,
 73642,DE,90402,2022-04-08,16:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2022-04-04 11:23:04,
-73689,DE,16540,2022-04-08,16:00,Hohen Neuendorf,Kreuzung Kaufland,Schilderwald,2022-04-04 21:52:03,
 73587,DE,16540,2022-04-08,16:00,Hohen Neuendorf,Kreuzung Kaufland,Schilderwald,2022-04-02 08:11:32,
+73689,DE,16540,2022-04-08,16:00,Hohen Neuendorf,Kreuzung Kaufland,Schilderwald,2022-04-04 21:52:03,
 73643,DE,90402,2022-04-09,17:00,Nürnberg,Lorenzkirche,Kundgebung,2022-04-04 11:23:51,
 73682,DE,76530,2022-04-10,14:00,Baden-Baden,Augustaplatz,Demonstration,2022-04-04 17:01:15,
 73681,DE,76530,2022-04-10,14:00,Baden-Baden,Augustaplatz,Demonstration,2022-04-04 16:58:50,
@@ -58,6 +59,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73656,DE,76767,2022-04-11,18:00,Hagenbach,Kirche,Spaziergang,2022-04-04 15:35:52,
 73655,DE,06773,2022-04-11,18:00,Gräfenhainichen,Paul-Gerhardt-Kapelle,Spaziergang,2022-04-04 15:35:43,
 73684,DE,35390,2022-04-11,18:00,Gießen,Rathausplatz,Mahnwache,2022-04-04 21:13:03,
+73691,DE,65817,2022-04-11,18:00,Eppstein,Rathaus Vockenhausen,Spaziergang,2022-04-04 22:53:28,
 73653,DE,67480,2022-04-11,18:00,Edenkoben,Parkplatz Radeburger Straße,Spaziergang,2022-04-04 15:35:25,
 73652,DE,76756,2022-04-11,18:00,Bellheim,Rathaus,Spaziergang,2022-04-04 15:35:15,
 73651,DE,67098,2022-04-11,18:00,Bad Dürkheim,Dürkheimer Fass,Spaziergang,2022-04-04 15:35:06,
