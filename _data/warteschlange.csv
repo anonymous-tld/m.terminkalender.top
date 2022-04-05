@@ -1,7 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-73692,DE,76228,2022-04-05,17:30,Grünwettersbach,Wiesenstraße /Am Wiesenacker,Schilderwald,2022-04-04 23:49:25,
-73683,DE,17438,2022-04-05,18:00,Wolgast,Freifläche am Kai,Kundgebung,2022-04-04 18:40:40,
-73640,DE,90402,2022-04-05,18:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2022-04-04 11:21:26,
 73632,DE,70173,2022-04-06,18:00,Stuttgart,Karlsplatz,Aufzug,2022-04-03 18:31:04,
 73641,DE,90402,2022-04-06,18:00,Nürnberg,Lorenzkirche,Kundgebung,2022-04-04 11:22:14,
 73690,DE,65779,2022-04-06,18:00,Kelkheim,Markt,Spaziergang,2022-04-04 22:52:39,
@@ -14,8 +11,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73697,DE,69483,2022-04-07,18:00,Wald-Michelbach,Ludwigstraße / Schulstraße,Aufzug,2022-04-05 09:21:18,
 73700,DE,49074,2022-04-07,19:00,Osnabrück,Rathausplatz,Mahnwache,2022-04-05 16:08:59,
 73642,DE,90402,2022-04-08,16:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2022-04-04 11:23:04,
-73587,DE,16540,2022-04-08,16:00,Hohen Neuendorf,Kreuzung Kaufland,Schilderwald,2022-04-02 08:11:32,
 73689,DE,16540,2022-04-08,16:00,Hohen Neuendorf,Kreuzung Kaufland,Schilderwald,2022-04-04 21:52:03,
+73587,DE,16540,2022-04-08,16:00,Hohen Neuendorf,Kreuzung Kaufland,Schilderwald,2022-04-02 08:11:32,
 73696,DE,75045,2022-04-08,18:00,Walzbachtal,Sportplatz Wössingen,Aufzug,2022-04-05 09:08:30,
 73704,DE,54634,2022-04-09,13:30,Bitburg,Bedaplatz,Spaziergang,2022-04-05 19:08:42,
 73707,DE,64385,2022-04-09,14:00,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,2022-04-05 20:45:26,
