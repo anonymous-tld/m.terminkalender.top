@@ -1,7 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-73728,DE,45355,2022-04-08,18:00,Essen BORBECK,Alter Markt,Demonstration,2022-04-07 10:04:48,
-73744,DE,45355,2022-04-08,18:00,Essen BORBECK,Alter Markt,Demonstration,2022-04-07 15:11:05,
-73747,DE,27568,2022-04-08,18:00,Bremerhaven,Theodor Heuss Platz,Aufzug,2022-04-07 17:16:53,
 73729,DE,29221,2022-04-09,11:00,Celle,Neumarkt,Aufzug,2022-04-07 10:07:08,
 73738,DE,29221,2022-04-09,11:45,Celle,Großer Plan,Kundgebung,2022-04-07 10:11:45,
 73746,DE,56068,2022-04-09,14:00,Koblenz,Jesuitenplatz,Mahnwache,2022-04-07 16:08:26,
@@ -14,9 +11,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73739,DE,75196,2022-04-11,19:00,Remchingen,Rathaus-Kulturhalle,Aufzug,2022-04-07 10:48:01,
 73745,DE,76684,2022-04-12,17:00,Odenheim,Bahnhofstrasse/Bahnhof,Schilderwald,2022-04-07 15:49:00,
 73750,DE,65779,2022-04-13,18:00,Kelkheim,Markt,Spaziergang,2022-04-07 23:30:40,
-73740,DE,46045,2022-04-13,18:30,Oberhausen,Friedensplatz,Demonstration,2022-04-07 10:56:27,
 73741,DE,46045,2022-04-13,18:30,Oberhausen,Friedensplatz,Versammlung,2022-04-07 10:57:50,
 73742,DE,46045,2022-04-13,18:30,Oberhausen,Friedensplatz,Aufzug,2022-04-07 10:58:47,
+73740,DE,46045,2022-04-13,18:30,Oberhausen,Friedensplatz,Demonstration,2022-04-07 10:56:27,
 73730,DE,29221,2022-04-16,11:00,Celle,Neumarkt,Aufzug,2022-04-07 10:07:56,
 73737,DE,29221,2022-04-16,11:45,Celle,Großer Plan,Kundgebung,2022-04-07 10:11:30,
 73752,DE,21073,2022-04-18,17:30,Hamburg,Harburger Rathausplatz,Spaziergang,2022-04-08 00:23:22,
