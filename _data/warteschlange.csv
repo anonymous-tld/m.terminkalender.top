@@ -1,8 +1,8 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 73875,DE,21073,2022-04-14,17:00,Hamburg,Harburg Rathaus,Aufzug,2022-04-12 21:25:30,
 73878,DE,76133,2022-04-14,18:00,Karlsruhe,vor dem BVG, nahe Schloß,Mahnwache,2022-04-12 23:21:35,
-73879,DE,76133,2022-04-15,17:30,Karlsruhe,bei Postgalerie, Stephansplatz,Kundgebung,2022-04-12 23:27:00,
 73884,DE,76131,2022-04-15,17:30,Karlsruhe,Stephansplatz Postgalerie,Kundgebung,2022-04-13 13:52:35,
+73879,DE,76133,2022-04-15,17:30,Karlsruhe,bei Postgalerie, Stephansplatz,Kundgebung,2022-04-12 23:27:00,
 73885,DE,76133,2022-04-16,14:00,Karlsruhe,Platz der Menschenrechte,Spaziergang,2022-04-13 16:53:53,
 73877,DE,20354,2022-04-16,15:00,Hamburg,Gänsemarkt,Aufzug,2022-04-12 22:11:59,
 73890,DE,45127,2022-04-16,15:30,Essen,Willy-Brandt-Platz/Wasserspiel,Kundgebung,2022-04-13 19:50:55,
@@ -33,6 +33,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73842,DE,76726,2022-04-18,18:30,Germersheim,Konrad-Adenauer-Str. (Tedi),Spaziergang,2022-04-12 10:12:41,
 73869,DE,46236,2022-04-18,18:30,Bottrop,Kirchplatz 1,Spaziergang,2022-04-12 16:41:11,
 73848,DE,76870,2022-04-18,19:00,Kandel,Kriegerdenkmal Georgskirche,Spaziergang,2022-04-12 10:13:50,
+73892,DE,01069,2022-04-18,19:00,Dresden,Torwache, Arnold-Bad,Demonstration,2022-04-13 20:36:34,
 73838,DE,76887,2022-04-18,19:00,Bad Bergzabern,Schloss,Spaziergang,2022-04-12 10:11:59,
 73855,DE,67378,2022-04-19,18:00,Zeiskam,Fuchsbachhalle,Spaziergang,2022-04-12 10:15:38,
 73876,DE,54470,2022-04-19,18:30,Bernkastel-Kues,Verbandsgemeindeverwaltung,Spaziergang,2022-04-12 21:30:29,
