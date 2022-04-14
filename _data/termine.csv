@@ -1,16 +1,6 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-73802,DE,18055,2022-04-14,17:00,Rostock,Rathaus,Kundgebung,2022-04-09 12:33:00,https://dlive.tv/7TuermeMedien
-73875,DE,21073,2022-04-14,17:00,Hamburg,Harburg Rathaus,Aufzug,2022-04-12 21:25:30,
-73805,DE,01067,2022-04-14,17:00,Dresden,Messering,Autokorso,2022-04-09 18:26:05,
-73820,DE,70173,2022-04-14,18:00,Stuttgart,Karlsplatz,Aufzug,2022-04-10 22:31:11,
-73878,DE,76133,2022-04-14,18:00,Karlsruhe,vor dem BVG / nahe Schloß,Mahnwache,2022-04-12 23:21:35,
-73675,DE,76751,2022-04-14,18:00,Jockgrim,Parkplatz Penny,Spaziergang,2022-04-04 15:39:48,
-73770,DE,17179,2022-04-14,18:00,Gnoien,Marktplatz,Kundgebung,2022-04-08 18:50:54,https://dlive.tv/Evil-Truth
-73828,DE,01744,2022-04-14,18:30,Dippoldiswalde,Parksäle,Spaziergang,2022-04-11 18:07:49,
-73676,DE,76777,2022-04-14,19:00,Neupotz,Kirche,Spaziergang,2022-04-04 15:39:58,
-73674,DE,76887,2022-04-14,19:00,Bad Bergzabern,Schloss,Spaziergang,2022-04-04 15:39:30,
-73884,DE,76131,2022-04-15,17:30,Karlsruhe,Stephansplatz Postgalerie,Kundgebung,2022-04-13 13:52:35,
 73879,DE,76133,2022-04-15,17:30,Karlsruhe,Stephansplatz / bei Postgalerie ,Kundgebung,2022-04-12 23:27:00,
+73884,DE,76131,2022-04-15,17:30,Karlsruhe,Stephansplatz Postgalerie,Kundgebung,2022-04-13 13:52:35,
 73905,DE,88069,2022-04-15,18:00,Tettnang,Rathaus,Spaziergang,2022-04-14 20:10:41,
 73677,DE,67433,2022-04-15,18:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-04-04 15:40:07,
 73362,DE,84028,2022-04-16,11:00,Landshut,Isarpromenade ab Ländtor,Menschenkette,2022-03-24 17:03:03,
@@ -33,9 +23,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73441,DE,27472,2022-04-17,14:00,Cuxhaven,Kaemmererplatz,Spaziergang,2022-03-27 18:32:29,
 73834,DE,90402,2022-04-17,15:00,Nürnberg,Lorenzkirche,Kundgebung,2022-04-11 22:00:02,
 73680,DE,67433,2022-04-17,15:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-04-04 15:40:41,
-73867,DE,41236,2022-04-17,15:00,Mönchengladbach Rheydt,Marktplatz,Demonstration,2022-04-12 11:19:50,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
-73823,DE,41236,2022-04-17,15:00,Mönchengladbach Rheydt,Marktplatz vor dem Rathaus,MillionMaskMarch,2022-04-11 04:23:16,
 73822,DE,41236,2022-04-17,15:00,Mönchengladbach Rheydt,Markt vor dem Rathaus,Demonstration,2022-04-11 04:21:12,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
+73823,DE,41236,2022-04-17,15:00,Mönchengladbach Rheydt,Marktplatz vor dem Rathaus,MillionMaskMarch,2022-04-11 04:23:16,
+73867,DE,41236,2022-04-17,15:00,Mönchengladbach Rheydt,Marktplatz,Demonstration,2022-04-12 11:19:50,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
 73679,DE,76726,2022-04-17,15:00,Germersheim,Luitpoldplatz,Spaziergang,2022-04-04 15:40:30,
 73882,DE,88094,2022-04-17,17:30,Oberteuringen,Franz-Roth-Platz,Spaziergang,2022-04-13 09:50:21,
 73887,DE,75175,2022-04-18,10:00,Pforzheim,Westliche Karl Friedrich-Str.,Gegenprotest,2022-04-13 17:00:31,
@@ -184,8 +174,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73329,DE,83209,2022-05-09,19:00,Prien am Chiemsee,Rathaus,Spaziergang,2022-03-24 10:02:17,
 73776,DE,63225,2022-05-16,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 21:58:34,
 72673,DE,39261,2022-05-16,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-03-04 23:22:25,
-73330,DE,83209,2022-05-16,19:00,Prien am Chiemsee,Rathaus,Spaziergang,2022-03-24 10:02:42,
 73333,DE,83209,2022-05-16,19:00,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,2022-03-24 10:08:04,
+73330,DE,83209,2022-05-16,19:00,Prien am Chiemsee,Rathaus,Spaziergang,2022-03-24 10:02:42,
 73777,DE,63225,2022-05-23,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 21:59:04,
 72674,DE,39261,2022-05-23,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-03-04 23:22:38,
 73331,DE,83209,2022-05-23,19:00,Prien am Chiemsee,Rathaus,Spaziergang,2022-03-24 10:03:01,
