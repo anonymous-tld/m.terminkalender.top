@@ -8,8 +8,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73885,DE,76133,2022-04-16,14:00,Karlsruhe,Platz der Menschenrechte,Spaziergang,2022-04-13 16:53:53,
 73811,DE,18055,2022-04-16,15:00,Rostock,Rosengarten / Am Steintor,Aufzug,2022-04-10 09:46:24,https://dlive.tv/7TuermeMedien
 73629,DE,68159,2022-04-16,15:00,Mannheim,Marktplatz / G1,Aufzug,2022-04-03 17:38:49,
-73897,DE,21073,2022-04-16,15:00,Hamburg,Harburg Rathaus,Aufzug,2022-04-14 14:18:42,
 73877,DE,20354,2022-04-16,15:00,Hamburg,Gänsemarkt,Aufzug,2022-04-12 22:11:59,
+73912,DE,21073,2022-04-16,15:00,Hamburg,Harburg Rathaus,Aufzug,2022-04-15 00:10:00,
+73897,DE,21073,2022-04-16,15:00,Hamburg,Harburg Rathaus,Aufzug,2022-04-14 14:18:42,
 73817,DE,40213,2022-04-16,15:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2022-04-10 12:16:52,
 73890,DE,45127,2022-04-16,15:30,Essen,Willy-Brandt-Platz/Wasserspiel,Kundgebung,2022-04-13 19:50:55,
 73833,DE,90402,2022-04-16,17:00,Nürnberg,Lorenzkirche,Kundgebung,2022-04-11 21:59:18,
@@ -19,9 +20,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73441,DE,27472,2022-04-17,14:00,Cuxhaven,Kaemmererplatz,Spaziergang,2022-03-27 18:32:29,
 73834,DE,90402,2022-04-17,15:00,Nürnberg,Lorenzkirche,Kundgebung,2022-04-11 22:00:02,
 73680,DE,67433,2022-04-17,15:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-04-04 15:40:41,
-73867,DE,41236,2022-04-17,15:00,Mönchengladbach Rheydt,Marktplatz,Demonstration,2022-04-12 11:19:50,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
-73823,DE,41236,2022-04-17,15:00,Mönchengladbach Rheydt,Marktplatz vor dem Rathaus,MillionMaskMarch,2022-04-11 04:23:16,
 73822,DE,41236,2022-04-17,15:00,Mönchengladbach Rheydt,Markt vor dem Rathaus,Demonstration,2022-04-11 04:21:12,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
+73823,DE,41236,2022-04-17,15:00,Mönchengladbach Rheydt,Marktplatz vor dem Rathaus,MillionMaskMarch,2022-04-11 04:23:16,
+73867,DE,41236,2022-04-17,15:00,Mönchengladbach Rheydt,Marktplatz,Demonstration,2022-04-12 11:19:50,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
 73679,DE,76726,2022-04-17,15:00,Germersheim,Luitpoldplatz,Spaziergang,2022-04-04 15:40:30,
 73882,DE,88094,2022-04-17,17:30,Oberteuringen,Franz-Roth-Platz,Spaziergang,2022-04-13 09:50:21,
 73887,DE,75175,2022-04-18,10:00,Pforzheim,Westliche Karl Friedrich-Str.,Gegenprotest,2022-04-13 17:00:31,
@@ -44,6 +45,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73347,DE,84028,2022-04-18,18:00,Landshut,Ländtor,Spaziergang,2022-03-24 16:25:50,
 73849,DE,76829,2022-04-18,18:00,Landau/Pfalz,Deutsches Tor,Spaziergang,2022-04-12 10:14:00,
 73459,DE,04567,2022-04-18,18:00,Kitzscher,Rathaus,Spaziergang,2022-03-28 08:43:55,
+73915,DE,87435,2022-04-18,18:00,Kempten,Hildegardplatz,Aufzug,2022-04-15 10:27:21,
 73847,DE,76879,2022-04-18,18:00,Hochstadt Pfalz,Rathaus,Spaziergang,2022-04-12 10:13:24,
 73201,DE,74074,2022-04-18,18:00,Heilbronn,Götzenturm,Spaziergang,2022-03-20 01:11:49,
 73836,DE,22607,2022-04-18,18:00,Hamburg,Beselerplatz,Spaziergang,2022-04-11 23:09:23,
@@ -69,8 +71,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73846,DE,76863,2022-04-18,18:30,Herxheim,Villa Wieser,Spaziergang,2022-04-12 10:13:15,
 73845,DE,67454,2022-04-18,18:30,Hassloch,Pfalzplatz,Spaziergang,2022-04-12 10:13:07,
 73842,DE,76726,2022-04-18,18:30,Germersheim,Konrad-Adenauer-Str. (Tedi),Spaziergang,2022-04-12 10:12:41,
-73495,DE,29221,2022-04-18,18:30,Celle,Innenstadt,Spaziergang,2022-03-29 10:35:06,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 73489,DE,29221,2022-04-18,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-29 10:25:38,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+73495,DE,29221,2022-04-18,18:30,Celle,Innenstadt,Spaziergang,2022-03-29 10:35:06,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 73869,DE,46236,2022-04-18,18:30,Bottrop,Kirchplatz 1,Spaziergang,2022-04-12 16:41:11,
 73297,DE,99510,2022-04-18,18:30,Apolda,Markt,Spaziergang,2022-03-22 19:18:04,
 72669,DE,39261,2022-04-18,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-03-04 23:21:37,
@@ -82,6 +84,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73848,DE,76870,2022-04-18,19:00,Kandel,Kriegerdenkmal Georgskirche,Spaziergang,2022-04-12 10:13:50,
 73892,DE,01069,2022-04-18,19:00,Dresden,Torwache / Arnold-Bad,Demonstration,2022-04-13 20:36:34,
 73281,DE,84405,2022-04-18,19:00,Dorfen,Unterer Markt,Spaziergang,2022-03-21 20:29:22,
+73911,DE,76646,2022-04-18,19:00,Bruchsal,Otto-Oppenheimer-Platz,Demonstration,2022-04-14 22:43:24,
 73838,DE,76887,2022-04-18,19:00,Bad Bergzabern,Schloss,Spaziergang,2022-04-12 10:11:59,
 73855,DE,67378,2022-04-19,18:00,Zeiskam,Fuchsbachhalle,Spaziergang,2022-04-12 10:15:38,
 73389,DE,91052,2022-04-19,18:30,Erlangen,Ohmplatz,Aufzug,2022-03-25 07:58:30,
@@ -94,6 +97,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73374,DE,80333,2022-04-20,18:00,München,Königsplatz,Kundgebung,2022-03-24 20:09:13,
 73859,DE,76829,2022-04-20,18:00,Landau/Pfalz,Deutsches Tor,Spaziergang,2022-04-12 10:16:21,
 73902,DE,76593,2022-04-20,18:00,Gernsbach,Rathaus,Spaziergang,2022-04-14 18:28:02,
+73913,DE,61440,2022-04-20,18:30,Oberursel,Adenauerallee,Spaziergang,2022-04-15 01:12:12,
 73858,DE,76773,2022-04-20,19:00,Kuhardt,Dorfplatz,Spaziergang,2022-04-12 10:16:12,
 73803,DE,18055,2022-04-21,17:00,Rostock,Stadthafen/Kanonsberg,Kundgebung,2022-04-09 12:33:57,https://dlive.tv/7TuermeMedien
 73862,DE,76751,2022-04-21,18:00,Jockgrim,Parkplatz Penny,Spaziergang,2022-04-12 10:16:48,
@@ -103,6 +107,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73864,DE,67433,2022-04-22,18:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-04-12 10:17:06,
 73886,DE,76703,2022-04-22,18:00,Kraichtal-Unteröwisheim,Sporthalle/Schule Schulstraße,Schilderwald,2022-04-13 16:56:00,
 73361,DE,84028,2022-04-23,11:00,Landshut,Isarpromenade ab Ländtor,Menschenkette,2022-03-24 17:02:45,
+73916,DE,71394,2022-04-23,11:00,Kernen im Remstal,Rumold-Real-Schulhof,Kundgebung,2022-04-15 17:14:03,
 73872,DE,63452,2022-04-23,11:00,Hanau,August-Schärttner-Halle,Aufzug,2022-04-12 17:19:36,
 73731,DE,29221,2022-04-23,11:00,Celle,Neumarkt,Aufzug,2022-04-07 10:08:13,
 73736,DE,29221,2022-04-23,11:45,Celle,Großer Plan,Kundgebung,2022-04-07 10:11:11,
@@ -130,8 +135,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73501,DE,75323,2022-04-25,18:00,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,2022-03-29 11:33:07,
 73773,DE,63225,2022-04-25,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 21:57:04,
 73494,DE,29221,2022-04-25,18:30,Celle,Innenstadt,Spaziergang,2022-03-29 10:34:33,https://www.celle-tourismus.de/planen-buchen/webcam-celle
-73490,DE,29221,2022-04-25,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-29 10:25:58,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 73493,DE,29221,2022-04-25,18:30,Celle,Innenstadt,Spaziergang,2022-03-29 10:28:38,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+73490,DE,29221,2022-04-25,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-29 10:25:58,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 73870,DE,46236,2022-04-25,18:30,Bottrop,Kirchplatz 1,Spaziergang,2022-04-12 16:42:05,
 73298,DE,99510,2022-04-25,18:30,Apolda,Markt,Spaziergang,2022-03-22 19:18:52,
 72670,DE,39261,2022-04-25,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-03-04 23:21:44,
