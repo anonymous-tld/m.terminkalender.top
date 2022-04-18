@@ -36,6 +36,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73883,DE,40213,2022-04-18,18:00,Düsseldorf,Johanne-Rau-Platz,Spaziergang,2022-04-13 12:42:18,
 73593,DE,01157,2022-04-18,18:00,Dresden,Mickten Straßenbhf,Spaziergang,2022-04-02 10:28:38,
 73893,DE,96450,2022-04-18,18:00,Coburg,Schlossplatz,Aufzug,2022-04-14 07:41:44,
+73933,DE,27576,2022-04-18,18:00,Bremerhaven,Ernst-Reuter-Platz,Spaziergang,2022-04-17 10:13:17,
 73840,DE,76756,2022-04-18,18:00,Bellheim,Rathaus,Spaziergang,2022-04-12 10:12:22,
 73500,DE,75323,2022-04-18,18:00,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,2022-03-29 11:32:22,
 73868,DE,36251,2022-04-18,18:00,Bad Hersfeld,Rathaus,Spaziergang,2022-04-12 12:31:31,
@@ -92,6 +93,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73361,DE,84028,2022-04-23,11:00,Landshut,Isarpromenade ab Ländtor,Menschenkette,2022-03-24 17:02:45,
 73916,DE,71394,2022-04-23,11:00,Kernen im Remstal,Rumold-Real-Schulhof,Kundgebung,2022-04-15 17:14:03,
 73872,DE,63452,2022-04-23,11:00,Hanau,August-Schärttner-Halle,Aufzug,2022-04-12 17:19:36,
+73934,DE,20095,2022-04-23,11:00,Hamburg,Rathaus / davor,Aufzug,2022-04-17 15:55:52,
 73731,DE,29221,2022-04-23,11:00,Celle,Neumarkt,Aufzug,2022-04-07 10:08:13,
 73736,DE,29221,2022-04-23,11:45,Celle,Großer Plan,Kundgebung,2022-04-07 10:11:11,
 73630,DE,67346,2022-04-23,15:00,Speyer,Oberer Domgarten / hinterm Dom,Aufzug,2022-04-03 17:40:33,
@@ -118,8 +120,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73501,DE,75323,2022-04-25,18:00,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,2022-03-29 11:33:07,
 73773,DE,63225,2022-04-25,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 21:57:04,
 73490,DE,29221,2022-04-25,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-29 10:25:58,https://www.celle-tourismus.de/planen-buchen/webcam-celle
-73493,DE,29221,2022-04-25,18:30,Celle,Innenstadt,Spaziergang,2022-03-29 10:28:38,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 73494,DE,29221,2022-04-25,18:30,Celle,Innenstadt,Spaziergang,2022-03-29 10:34:33,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+73493,DE,29221,2022-04-25,18:30,Celle,Innenstadt,Spaziergang,2022-03-29 10:28:38,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 73870,DE,46236,2022-04-25,18:30,Bottrop,Kirchplatz 1,Spaziergang,2022-04-12 16:42:05,
 73298,DE,99510,2022-04-25,18:30,Apolda,Markt,Spaziergang,2022-03-22 19:18:52,
 72670,DE,39261,2022-04-25,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-03-04 23:21:44,
@@ -142,8 +144,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73874,DE,06249,2022-05-02,18:00,Mücheln,Markt,Spaziergang,2022-04-12 20:53:17,
 73687,DE,35390,2022-05-02,18:00,Gießen,Rathausplatz,Mahnwache,2022-04-04 21:17:05,
 73774,DE,63225,2022-05-02,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 21:57:39,
-73492,DE,29221,2022-05-02,18:30,Celle,Innenstadt,Spaziergang,2022-03-29 10:28:03,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 73491,DE,29221,2022-05-02,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-29 10:26:50,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+73492,DE,29221,2022-05-02,18:30,Celle,Innenstadt,Spaziergang,2022-03-29 10:28:03,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 73871,DE,46236,2022-05-02,18:30,Bottrop,Kirchplatz 1,Spaziergang,2022-04-12 16:43:03,
 72671,DE,39261,2022-05-02,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-03-04 23:22:11,
 73328,DE,83209,2022-05-02,19:00,Prien am Chiemsee,Rathaus,Spaziergang,2022-03-24 10:02:03,
@@ -158,8 +160,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73329,DE,83209,2022-05-09,19:00,Prien am Chiemsee,Rathaus,Spaziergang,2022-03-24 10:02:17,
 73776,DE,63225,2022-05-16,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 21:58:34,
 72673,DE,39261,2022-05-16,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-03-04 23:22:25,
-73330,DE,83209,2022-05-16,19:00,Prien am Chiemsee,Rathaus,Spaziergang,2022-03-24 10:02:42,
 73333,DE,83209,2022-05-16,19:00,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,2022-03-24 10:08:04,
+73330,DE,83209,2022-05-16,19:00,Prien am Chiemsee,Rathaus,Spaziergang,2022-03-24 10:02:42,
 73777,DE,63225,2022-05-23,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 21:59:04,
 72674,DE,39261,2022-05-23,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-03-04 23:22:38,
 73331,DE,83209,2022-05-23,19:00,Prien am Chiemsee,Rathaus,Spaziergang,2022-03-24 10:03:01,
