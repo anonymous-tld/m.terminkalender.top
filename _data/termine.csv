@@ -1,5 +1,6 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 73803,DE,18055,2022-04-21,17:00,Rostock,Stadthafen/Kanonsberg,Kundgebung,2022-04-09 12:33:57,https://dlive.tv/7TuermeMedien
+73966,DE,21073,2022-04-21,17:00,Hamburg,Rathaus / Harburg,Aufzug,2022-04-20 20:45:54,
 73862,DE,76751,2022-04-21,18:00,Jockgrim,Parkplatz Penny,Spaziergang,2022-04-12 10:16:48,
 73863,DE,76777,2022-04-21,19:00,Neupotz,Kirche,Spaziergang,2022-04-12 10:16:57,
 73861,DE,76887,2022-04-21,19:00,Bad Bergzabern,Schloss,Spaziergang,2022-04-12 10:16:39,
@@ -47,8 +48,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73501,DE,75323,2022-04-25,18:00,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,2022-03-29 11:33:07,
 73773,DE,63225,2022-04-25,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 21:57:04,
 73494,DE,29221,2022-04-25,18:30,Celle,Innenstadt,Spaziergang,2022-03-29 10:34:33,https://www.celle-tourismus.de/planen-buchen/webcam-celle
-73490,DE,29221,2022-04-25,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-29 10:25:58,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 73493,DE,29221,2022-04-25,18:30,Celle,Innenstadt,Spaziergang,2022-03-29 10:28:38,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+73490,DE,29221,2022-04-25,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-29 10:25:58,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 73870,DE,46236,2022-04-25,18:30,Bottrop,Kirchplatz 1,Spaziergang,2022-04-12 16:42:05,
 73298,DE,99510,2022-04-25,18:30,Apolda,Markt,Spaziergang,2022-03-22 19:18:52,
 72670,DE,39261,2022-04-25,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-03-04 23:21:44,
@@ -75,8 +76,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73874,DE,06249,2022-05-02,18:00,Mücheln,Markt,Spaziergang,2022-04-12 20:53:17,
 73687,DE,35390,2022-05-02,18:00,Gießen,Rathausplatz,Mahnwache,2022-04-04 21:17:05,
 73774,DE,63225,2022-05-02,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 21:57:39,
-73491,DE,29221,2022-05-02,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-29 10:26:50,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 73492,DE,29221,2022-05-02,18:30,Celle,Innenstadt,Spaziergang,2022-03-29 10:28:03,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+73491,DE,29221,2022-05-02,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-29 10:26:50,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 73871,DE,46236,2022-05-02,18:30,Bottrop,Kirchplatz 1,Spaziergang,2022-04-12 16:43:03,
 72671,DE,39261,2022-05-02,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-03-04 23:22:11,
 73940,DE,26382,2022-05-02,19:00,Wilhelmshaven,Rathausplatz,Spaziergang,2022-04-18 16:38:21,
