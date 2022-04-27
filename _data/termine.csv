@@ -1,18 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-74079,DE,27574,2022-04-27,13:00,Bremerhaven,Zentralkrankenh. Reinkenheide,Kundgebung,2022-04-26 08:10:28,
-73355,DE,84028,2022-04-27,17:00,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,2022-03-24 16:35:10,
-73555,DE,63450,2022-04-27,17:30,Hanau,Freiheitsplatz,Mahnwache,2022-03-30 13:44:29,
-74068,DE,74936,2022-04-27,18:00,Siegelsbach,Platz vor dem Rathaus,Spaziergang,2022-04-25 12:28:42,
-74047,DE,67433,2022-04-27,18:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-04-24 13:40:38,
-73375,DE,80333,2022-04-27,18:00,München,Königsplatz,Kundgebung,2022-03-24 20:09:38,
-74046,DE,76829,2022-04-27,18:00,Landau/Pfalz,Deutsches Tor,Spaziergang,2022-04-24 13:40:29,
-73980,DE,61440,2022-04-27,18:30,Oberursel,Adenauerallee,Spaziergang,2022-04-22 00:02:51,
-74056,DE,46045,2022-04-27,18:30,Oberhausen,Friedensplatz,Demonstration,2022-04-24 20:59:03,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
-74057,DE,46045,2022-04-27,18:30,Oberhausen,Friedensplatz,Zusammenkunft,2022-04-24 21:02:36,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
-74017,DE,74933,2022-04-27,19:00,Neidenstein,Van Venningen Halle,Spaziergang,2022-04-24 06:53:27,
-73964,DE,06618,2022-04-27,19:00,Naumburg,Vogelwiese,Kundgebung,2022-04-20 14:03:09,
-73979,DE,06618,2022-04-27,19:00,Naumburg,Vogelwiese,Demonstration,2022-04-21 21:01:45,
-74045,DE,76773,2022-04-27,19:00,Kuhardt,Dorfplatz,Spaziergang,2022-04-24 13:40:20,
 73804,DE,18055,2022-04-28,17:00,Rostock,Rathaus,Kundgebung,2022-04-09 12:34:42,https://dlive.tv/7TuermeMedien
 74097,DE,21073,2022-04-28,17:00,Hamburg,Harburg Rathaus,Aufzug,2022-04-26 20:21:52,
 74076,DE,55576,2022-04-28,18:00,Sprendlingen,Marktplatz,Spaziergang,2022-04-25 21:15:11,
@@ -34,16 +20,16 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73813,DE,18055,2022-04-30,15:00,Rostock,Rosengarten / Am Steintor,Aufzug,2022-04-10 09:47:38,https://dlive.tv/7TuermeMedien
 74081,DE,22041,2022-04-30,15:00,Hamburg Wandsbek,Wochenmarktgelände vom Quarree,Aufzug,2022-04-26 09:59:55,
 74018,DE,60329,2022-04-30,15:00,Frankfurt am Main,Taunusanlage,Aufzug,2022-04-24 08:41:25,
-74055,DE,40213,2022-04-30,15:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2022-04-24 19:59:41,
 74082,DE,4000,2022-04-30,15:00,Düsseldorf,Burg Platz,Spaziergang,2022-04-26 10:11:50,
+74055,DE,40213,2022-04-30,15:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2022-04-24 19:59:41,
 74100,DE,4000,2022-04-30,15:30,Düsseldorf,Burgplatz .,Spaziergang,2022-04-26 23:37:24,
 74078,DE,44787,2022-04-30,15:30,Bochum,Dr.-Ruer-Platz,Aufzug,2022-04-26 02:36:48,
 74064,DE,90402,2022-04-30,17:00,Nürnberg,Lorenzkirche,Kundgebung,2022-04-25 08:49:55,
 73631,ES,38201,2022-04-30,18:00,San Cristobal de La Laguna,Plaza del Adelantado,Demonstration,2022-04-03 17:54:45,
 74080,DE,56068,2022-04-30,18:00,Koblenz,Deutsches Eck,Spaziergang,2022-04-26 09:36:30,
-74083,DE,4000,2022-05-01,10:30,Düsseldorf,Aqua Zoo,Autokorso,2022-04-26 10:13:41,
 74102,DE,4000,2022-05-01,10:30,Düsseldorf,Aquazoo / Nordpark,Fahrraddemo,2022-04-26 23:42:51,
 74101,DE,4000,2022-05-01,10:30,Düsseldorf,Aquazoo / Nordpark,Autokorso,2022-04-26 23:40:59,
+74083,DE,4000,2022-05-01,10:30,Düsseldorf,Aqua Zoo,Autokorso,2022-04-26 10:13:41,
 74058,DE,75015,2022-05-01,10:45,Bretten,A. Leicht-Platz/Neues Rathaus,Meditation,2022-04-24 21:15:11,
 73948,DE,08056,2022-05-01,11:00,Zwickau,Innenstadt,Demonstration,2022-04-19 06:17:16,
 73982,DE,08056,2022-05-01,11:17,Zwickau,Neumarkt,Demonstration,2022-04-22 08:18:53,
