@@ -1,10 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-74063,DE,90402,2022-04-29,15:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2022-04-25 08:49:10,
-73993,DE,01067,2022-04-29,17:00,Dresden,Postplatz,Demonstration,2022-04-22 22:29:19,
-73909,DE,88069,2022-04-29,18:00,Tettnang,Rathaus,Spaziergang,2022-04-14 20:13:03,
-74069,DE,75181,2022-04-29,18:00,Pforzheim,Hannah Arendt-Weg,Demonstration,2022-04-25 13:18:42,
-74051,DE,67433,2022-04-29,18:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-04-24 13:41:16,
-73991,DE,16761,2022-04-29,18:00,Hennigsdorf,Postplatz (Bahnhof),Aufzug,2022-04-22 21:57:26,
 73360,DE,84028,2022-04-30,11:00,Landshut,Isarpromenade ab Ländtor,Menschenkette,2022-03-24 17:02:22,
 74099,DE,21029,2022-04-30,11:00,Hamburg Bergedorf,Am Bahnhof vor dem CCB,Aufzug,2022-04-26 23:13:45,
 73732,DE,29221,2022-04-30,11:00,Celle,Neumarkt,Aufzug,2022-04-07 10:08:35,
@@ -61,8 +55,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73733,DE,29221,2022-05-07,11:00,Celle,Neumarkt,Aufzug,2022-04-07 10:08:55,
 73734,DE,29221,2022-05-07,11:45,Celle,Großer Plan,Kundgebung,2022-04-07 10:10:06,
 73685,DE,80333,2022-05-07,14:00,München,Königsplatz,Aufzug,2022-04-04 21:13:35,
-73959,DE,70173,2022-05-07,14:30,Stuttgart,Oberer Schlossgarten / beim Hbf,Aufzug,2022-04-20 10:10:33,https://dlive.tv/schwaeble_on_tour
 73433,DE,70373,2022-05-07,14:30,Stuttgart,Oberer Schloßarten,Aufzug,2022-03-27 15:18:06,
+73959,DE,70173,2022-05-07,14:30,Stuttgart,Oberer Schlossgarten / beim Hbf,Aufzug,2022-04-20 10:10:33,https://dlive.tv/schwaeble_on_tour
 73358,DE,84028,2022-05-07,17:00,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,2022-03-24 16:58:56,
 73775,DE,63225,2022-05-09,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 21:58:09,
 74087,DE,99510,2022-05-09,18:30,Apolda,Markt,Spaziergang,2022-04-26 15:00:08,
