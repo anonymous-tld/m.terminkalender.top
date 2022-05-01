@@ -1,19 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-74102,DE,4000,2022-05-01,10:30,Düsseldorf,Aquazoo / Nordpark,Fahrraddemo,2022-04-26 23:42:51,
-74101,DE,4000,2022-05-01,10:30,Düsseldorf,Aquazoo / Nordpark,Autokorso,2022-04-26 23:40:59,
-74083,DE,4000,2022-05-01,10:30,Düsseldorf,Aqua Zoo,Autokorso,2022-04-26 10:13:41,
-74058,DE,75015,2022-05-01,10:45,Bretten,A. Leicht-Platz/Neues Rathaus,Meditation,2022-04-24 21:15:11,
-73948,DE,08056,2022-05-01,11:00,Zwickau,Innenstadt,Demonstration,2022-04-19 06:17:16,
-73982,DE,08056,2022-05-01,11:17,Zwickau,Neumarkt,Demonstration,2022-04-22 08:18:53,
-74095,DE,40213,2022-05-01,12:00,Düsseldorf,Johannes-Rau-Platz,Kundgebung,2022-04-26 15:56:27,
-74096,DE,40213,2022-05-01,12:30,Düsseldorf,Burgplatz,Aufzug,2022-04-26 17:40:53,
-74077,DE,97082,2022-05-01,14:00,Würzburg,Mainwiesen Würzburg,Kundgebung,2022-04-25 21:30:34,
-74074,DE,54516,2022-05-01,14:00,Wittlich,Ottensteinplatz,Kundgebung,2022-04-25 19:05:16,
-73971,DE,76530,2022-05-01,14:00,Baden-Baden,Augustaplatz,Kundgebung,2022-04-21 12:38:29,
-74065,DE,90402,2022-05-01,15:00,Nürnberg,Lorenzkirche,Kundgebung,2022-04-25 08:50:52,
-74053,DE,67433,2022-05-01,15:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-04-24 13:41:35,
-74052,DE,76726,2022-05-01,15:00,Germersheim,Luitpoldplatz,Spaziergang,2022-04-24 13:41:27,
-73950,DE,88094,2022-05-01,17:30,Oberteuringen,Franz-Roth-Platz,Spaziergang,2022-04-19 09:22:19,
 74084,DE,4000,2022-05-02,17:00,Düsseldorf,Johannes Rau Platz,Spaziergang,2022-04-26 10:14:42,
 74098,DE,21073,2022-05-02,17:30,Hamburg,Harburger Rathausplatz,Spaziergang,2022-04-26 22:44:06,
 74103,DE,4000,2022-05-02,17:30,Düsseldorf,Johannes Rau Platz,Spaziergang,2022-04-26 23:45:40,
@@ -27,8 +12,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74061,DE,17358,2022-05-02,18:03,Torgelow,Rathaus,Kundgebung,2022-04-25 08:04:17,
 73774,DE,63225,2022-05-02,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 21:57:39,
 74073,DE,82467,2022-05-02,18:30,Garmisch-Partenkirchen,Kurpark/Fußgängerzone,Spaziergang,2022-04-25 17:16:37,
-73491,DE,29221,2022-05-02,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-29 10:26:50,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 73492,DE,29221,2022-05-02,18:30,Celle,Innenstadt,Spaziergang,2022-03-29 10:28:03,https://www.celle-tourismus.de/planen-buchen/webcam-celle
+73491,DE,29221,2022-05-02,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-03-29 10:26:50,https://www.celle-tourismus.de/planen-buchen/webcam-celle
 73871,DE,46236,2022-05-02,18:30,Bottrop,Kirchplatz 1,Spaziergang,2022-04-12 16:43:03,
 74086,DE,99510,2022-05-02,18:30,Apolda,Markt,Spaziergang,2022-04-26 14:59:14,
 72671,DE,39261,2022-05-02,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-03-04 23:22:11,
@@ -40,8 +25,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73733,DE,29221,2022-05-07,11:00,Celle,Neumarkt,Aufzug,2022-04-07 10:08:55,
 73734,DE,29221,2022-05-07,11:45,Celle,Großer Plan,Kundgebung,2022-04-07 10:10:06,
 73685,DE,80333,2022-05-07,14:00,München,Königsplatz,Aufzug,2022-04-04 21:13:35,
-73959,DE,70173,2022-05-07,14:30,Stuttgart,Oberer Schlossgarten / beim Hbf,Aufzug,2022-04-20 10:10:33,https://dlive.tv/schwaeble_on_tour
 73433,DE,70373,2022-05-07,14:30,Stuttgart,Oberer Schloßarten,Aufzug,2022-03-27 15:18:06,
+73959,DE,70173,2022-05-07,14:30,Stuttgart,Oberer Schlossgarten / beim Hbf,Aufzug,2022-04-20 10:10:33,https://dlive.tv/schwaeble_on_tour
 73358,DE,84028,2022-05-07,17:00,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,2022-03-24 16:58:56,
 73775,DE,63225,2022-05-09,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 21:58:09,
 74087,DE,99510,2022-05-09,18:30,Apolda,Markt,Spaziergang,2022-04-26 15:00:08,
@@ -50,8 +35,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 73776,DE,63225,2022-05-16,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 21:58:34,
 74088,DE,99510,2022-05-16,18:30,Apolda,Markt,Spaziergang,2022-04-26 15:01:00,
 72673,DE,39261,2022-05-16,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-03-04 23:22:25,
-73330,DE,83209,2022-05-16,19:00,Prien am Chiemsee,Rathaus,Spaziergang,2022-03-24 10:02:42,
 73333,DE,83209,2022-05-16,19:00,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,2022-03-24 10:08:04,
+73330,DE,83209,2022-05-16,19:00,Prien am Chiemsee,Rathaus,Spaziergang,2022-03-24 10:02:42,
 73777,DE,63225,2022-05-23,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 21:59:04,
 74089,DE,99510,2022-05-23,18:30,Apolda,Markt,Spaziergang,2022-04-26 15:02:08,
 72674,DE,39261,2022-05-23,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-03-04 23:22:38,
