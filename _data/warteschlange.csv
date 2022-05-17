@@ -13,6 +13,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74404,DE,29221,2022-05-21,11:00,Celle,Neumarkt,Aufzug,2022-05-13 09:33:45,
 74369,DE,29221,2022-05-21,11:00,Celle,Neumarkt,Aufzug,2022-05-11 10:52:33,
 74318,DE,61231,2022-05-21,12:00,Bad Nauheim,Parkplatz, FrankfurterStr. 105,Aufzug,2022-05-09 10:04:34,
+74440,DE,75015,2022-05-22,10:45,Bretten,A. Leicht-Platz/Neues Rathaus,Meditation,2022-05-17 10:09:25,
 74427,DE,99423,2022-05-22,11:00,Raum Weimar,Bekanntgabe nach Anmeldung,Zusammenkunft,2022-05-14 13:49:42,
 74439,DE,76530,2022-05-22,14:00,Baden-Baden,Augustaplatz,Demonstration,2022-05-17 09:27:25,
 74395,DE,97421,2022-05-22,16:00,Berlin,Marktplatz,Aufzug,2022-05-12 15:02:43,
@@ -24,10 +25,10 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74408,DE,11011,2022-05-25,11:00,Berlin,Reichstag,Kundgebung,2022-05-14 03:08:27,https://www.twitch.tv/echtzeituebertragung_
 74410,DE,19243,2022-05-26,17:30,Wittenburg,Marktplatz,Kundgebung,2022-05-14 03:34:12,https://www.twitch.tv/echtzeituebertragung_
 74373,DE,84524,2022-05-26,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:53:13,
-74354,DE,83209,2022-05-28,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:39:39,
 74355,DE,83209,2022-05-28,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:39:52,
-74405,DE,29221,2022-05-28,11:00,Celle,Neumarkt,Aufzug,2022-05-13 09:34:56,
+74354,DE,83209,2022-05-28,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:39:39,
 74368,DE,29221,2022-05-28,11:00,Celle,Neumarkt,Aufzug,2022-05-11 10:51:49,
+74405,DE,29221,2022-05-28,11:00,Celle,Neumarkt,Aufzug,2022-05-13 09:34:56,
 74396,DE,97421,2022-05-29,16:00,Berlin,Marktplatz,Aufzug,2022-05-12 15:02:53,
 74338,DE,82319,2022-05-30,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:03:39,
 74363,DE,84524,2022-05-30,18:00,Neuötting,Rathaus,Spaziergang,2022-05-11 10:47:38,
