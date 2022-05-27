@@ -21,6 +21,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74463,DE,74523,2022-05-30,18:00,Schwäbisch Hall,Globe Theater,Spaziergang,2022-05-19 23:51:28,
 74486,DE,40885,2022-05-30,18:00,Ratingen-Lintorf,Kirche - St. Anna (am Markt),Spaziergang,2022-05-23 08:26:15,
 74363,DE,84524,2022-05-30,18:00,Neuötting,Rathaus,Spaziergang,2022-05-11 10:47:38,
+74505,DE,95326,2022-05-30,18:00,Kulmbach,Marktplatz,Spaziergang,2022-05-27 11:41:07,
 74492,DE,60311,2022-05-30,18:00,Frankfurt,Römer,Aufzug,2022-05-24 19:39:27,
 74502,DE,45357,2022-05-30,18:00,Essen-Borbeck,Hülsmannstraße 17,Spaziergang,2022-05-26 22:30:30,
 74499,DE,95119,2022-05-30,18:30,Naila,Marktplatz / vor Rathaus,Spaziergang,2022-05-26 20:47:38,
@@ -30,8 +31,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74387,DE,32756,2022-06-01,18:00,Detmold,Marktplatz,Meditation,2022-05-11 12:14:22,
 74374,DE,84524,2022-06-02,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:53:50,
 74375,DE,84524,2022-06-02,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:54:36,
-74468,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230  (vor dem SWR,Kundgebung,2022-05-21 13:35:31,https://dlive.tv/schwaeble_on_tour
 74447,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230 (vor dem SWR),Kundgebung,2022-05-17 19:25:21,https://dlive.tv/schwaeble_on_tour
+74468,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230  (vor dem SWR,Kundgebung,2022-05-21 13:35:31,https://dlive.tv/schwaeble_on_tour
 74503,DE,33602,2022-06-03,18:00,Bielefeld,Kesselbrink,Spaziergang,2022-05-27 08:00:58,
 74356,DE,83209,2022-06-04,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:40:30,
 74339,DE,82319,2022-06-06,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:04:18,
@@ -46,8 +47,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74426,DE,63225,2022-06-14,14:00,Langen (Hessen),Paul Ehrlich Institut,Kundgebung,2022-05-14 13:33:26,
 74470,DE,63225,2022-06-14,14:00,Langen,Paul-Ehrlich-Institut,Kundgebung,2022-05-21 23:02:02,
 74501,DE,95119,2022-06-14,18:30,Naila,Marktplatz / vor Rathaus,Spaziergang,2022-05-26 20:50:24,
-74378,DE,84524,2022-06-16,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:56:20,
 74377,DE,84524,2022-06-16,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:55:26,
+74378,DE,84524,2022-06-16,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:56:20,
 74359,DE,83209,2022-06-18,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:38,
 74358,DE,83209,2022-06-18,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:19,
 74366,DE,84524,2022-06-20,18:00,Neuötting,Rathaus,Spaziergang,2022-05-11 10:48:57,
