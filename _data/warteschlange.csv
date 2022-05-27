@@ -17,6 +17,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74490,DE,90402,2022-05-28,19:00,Nürnberg,Lorenzkirche,Kundgebung,2022-05-24 13:31:51,
 74495,DE,79576,2022-05-29,13:00,Weil am Rhein,Parkplatz Dreiländergarten,Autokorso,2022-05-25 21:05:36,
 74458,DE,42697,2022-05-29,14:00,Solingen,HBF Solingen Ohligs,Aufzug,2022-05-19 06:42:12,
+74515,DE,24768,2022-05-29,14:00,Rendsburg,Paradeplatz,Demonstration,2022-05-27 22:53:34,
 74514,DE,24768,2022-05-29,14:00,Rendsburg,Paradeplatz,Demonstration,2022-05-27 22:45:03,
 74491,DE,90402,2022-05-29,15:00,Nürnberg,Lorenzkirche,Kundgebung,2022-05-24 13:33:36,
 74396,DE,97421,2022-05-29,16:00,Berlin,Marktplatz,Aufzug,2022-05-12 15:02:53,
@@ -35,8 +36,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74387,DE,32756,2022-06-01,18:00,Detmold,Marktplatz,Meditation,2022-05-11 12:14:22,
 74374,DE,84524,2022-06-02,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:53:50,
 74375,DE,84524,2022-06-02,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:54:36,
-74447,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230 (vor dem SWR),Kundgebung,2022-05-17 19:25:21,https://dlive.tv/schwaeble_on_tour
 74468,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230  (vor dem SWR,Kundgebung,2022-05-21 13:35:31,https://dlive.tv/schwaeble_on_tour
+74447,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230 (vor dem SWR),Kundgebung,2022-05-17 19:25:21,https://dlive.tv/schwaeble_on_tour
 74503,DE,33602,2022-06-03,18:00,Bielefeld,Kesselbrink,Spaziergang,2022-05-27 08:00:58,
 74356,DE,83209,2022-06-04,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:40:30,
 74509,DE,04109,2022-06-04,15:00,Leipzig,Kurt-Masur-Platz,Spaziergang,2022-05-27 19:43:19,
