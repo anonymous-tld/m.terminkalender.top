@@ -1,18 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-74354,DE,83209,2022-05-28,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:39:39,
-74355,DE,83209,2022-05-28,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:39:52,
-74405,DE,29221,2022-05-28,11:00,Celle,Neumarkt,Aufzug,2022-05-13 09:34:56,
-74368,DE,29221,2022-05-28,11:00,Celle,Neumarkt,Aufzug,2022-05-11 10:51:49,
-74507,AT,6900,2022-05-28,13:30,Bregenz,Festspielhaus,Kundgebung,2022-05-27 17:06:36,
-74494,DE,64385,2022-05-28,14:00,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,2022-05-25 14:12:47,
-74496,DE,79098,2022-05-28,14:00,Freiburg,Konzerthaus gegenüber Hbf,Fahrraddemo,2022-05-26 03:23:36,
-74508,DE,04109,2022-05-28,15:00,Leipzig,Augustusplatz, vor der Oper,Spaziergang,2022-05-27 19:41:38,
-74504,DE,22041,2022-05-28,15:00,Hamburg,Wochenmarkt in der Klappstraße,Aufzug,2022-05-27 10:08:30,
-74487,DE,22041,2022-05-28,15:00,Hamburg,Wochenmarkt in der Klappstraße,Aufzug,2022-05-23 12:07:11,
-74483,DE,22041,2022-05-28,15:00,Hamburg,Wochenmarkt in der Klappstraße,Aufzug,2022-05-22 21:26:00,
-74493,DE,44787,2022-05-28,15:00,Bochum,Dr.-Ruer-Platz, 44787 Bochum,Aufzug,2022-05-25 10:14:30,
-74488,DE,45127,2022-05-28,15:30,Essen,Willy-Brandt-Platz,Kundgebung,2022-05-24 06:15:24,
-74490,DE,90402,2022-05-28,19:00,Nürnberg,Lorenzkirche,Kundgebung,2022-05-24 13:31:51,
 74495,DE,79576,2022-05-29,13:00,Weil am Rhein,Parkplatz Dreiländergarten,Autokorso,2022-05-25 21:05:36,
 74458,DE,42697,2022-05-29,14:00,Solingen,HBF Solingen Ohligs,Aufzug,2022-05-19 06:42:12,
 74515,DE,24768,2022-05-29,14:00,Rendsburg,Paradeplatz,Demonstration,2022-05-27 22:53:34,
@@ -35,8 +21,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74387,DE,32756,2022-06-01,18:00,Detmold,Marktplatz,Meditation,2022-05-11 12:14:22,
 74375,DE,84524,2022-06-02,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:54:36,
 74374,DE,84524,2022-06-02,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:53:50,
-74447,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230 (vor dem SWR),Kundgebung,2022-05-17 19:25:21,https://dlive.tv/schwaeble_on_tour
 74468,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230  (vor dem SWR,Kundgebung,2022-05-21 13:35:31,https://dlive.tv/schwaeble_on_tour
+74447,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230 (vor dem SWR),Kundgebung,2022-05-17 19:25:21,https://dlive.tv/schwaeble_on_tour
 74503,DE,33602,2022-06-03,18:00,Bielefeld,Kesselbrink,Spaziergang,2022-05-27 08:00:58,
 74356,DE,83209,2022-06-04,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:40:30,
 74509,DE,04109,2022-06-04,15:00,Leipzig,Kurt-Masur-Platz,Spaziergang,2022-05-27 19:43:19,
@@ -64,8 +50,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74360,DE,83209,2022-06-25,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:42:00,
 74512,DE,04109,2022-06-25,15:00,Leipzig,Augustusplatz, Mendebrunnen,Kundgebung,2022-05-27 19:48:05,
 74367,DE,83209,2022-06-27,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:49:16,
-74342,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:06:14,
 74341,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:05:35,
+74342,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:06:14,
 74386,DE,83209,2022-06-27,19:00,Prien am Chiemsee,Rathaus,Spaziergang,2022-05-11 11:03:57,
 74380,DE,84524,2022-06-30,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:56:56,
 74513,DE,04109,2022-07-02,15:00,Leipzig,Kleiner Wilhelm-Leuschner-Plat,Spaziergang,2022-05-27 19:49:52,
