@@ -1,7 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-74536,DE,67378,2022-05-31,18:00,Zeiskam,Fuchsbachhalle,Spaziergang,2022-05-29 13:30:21,
-74537,DE,76774,2022-05-31,19:00,Leimersheim,Kirchplatz,Spaziergang,2022-05-29 13:30:35,
-74538,DE,76770,2022-05-31,19:00,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,2022-05-29 13:30:49,
 74563,DE,90402,2022-06-01,18:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2022-05-31 23:41:18,
 74556,DE,69115,2022-06-01,18:00,Heidelberg,Schwanenteichanlage,Demonstration,2022-05-30 07:19:12,
 74387,DE,32756,2022-06-01,18:00,Detmold,Marktplatz,Meditation,2022-05-11 12:14:22,
@@ -12,9 +9,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74374,DE,84524,2022-06-02,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:53:50,
 74375,DE,84524,2022-06-02,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:54:36,
 74554,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230,Kundgebung,2022-05-29 18:27:49,https://dlive.tv/schwaeble_on_tour
+74559,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230   vor dem SW,Kundgebung,2022-05-31 20:17:45,https://dlive.tv/schwaeble_on_tour
 74468,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230  (vor dem SWR,Kundgebung,2022-05-21 13:35:31,https://dlive.tv/schwaeble_on_tour
 74447,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230 (vor dem SWR),Kundgebung,2022-05-17 19:25:21,https://dlive.tv/schwaeble_on_tour
-74559,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230   vor dem SW,Kundgebung,2022-05-31 20:17:45,https://dlive.tv/schwaeble_on_tour
 74503,DE,33602,2022-06-03,18:00,Bielefeld,Kesselbrink,Spaziergang,2022-05-27 08:00:58,
 74356,DE,83209,2022-06-04,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:40:30,
 74553,DE,21073,2022-06-04,14:00,Hamburg,Harburg Rathausplatz,Aufzug,2022-05-29 17:30:08,
@@ -42,8 +39,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74501,DE,95119,2022-06-14,18:30,Naila,Marktplatz / vor Rathaus,Spaziergang,2022-05-26 20:50:24,
 74378,DE,84524,2022-06-16,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:56:20,
 74377,DE,84524,2022-06-16,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:55:26,
-74358,DE,83209,2022-06-18,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:19,
 74359,DE,83209,2022-06-18,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:38,
+74358,DE,83209,2022-06-18,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:19,
 74511,DE,04109,2022-06-18,15:00,Leipzig,Kurt-Masur-Platz,Spaziergang,2022-05-27 19:46:37,
 74366,DE,84524,2022-06-20,18:00,Neuötting,Rathaus,Spaziergang,2022-05-11 10:48:57,
 74385,DE,83209,2022-06-20,19:00,Prien am Chiemsee,Rathaus,Spaziergang,2022-05-11 11:03:42,
