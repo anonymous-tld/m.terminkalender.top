@@ -6,16 +6,18 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74552,DE,21073,2022-06-02,17:00,Hamburg,Harburg Rathausplatz,Aufzug,2022-05-29 17:20:05,
 74540,DE,76751,2022-06-02,18:00,Jockgrim,Parkplatz Penny,Spaziergang,2022-05-29 13:31:24,
 74541,DE,76777,2022-06-02,19:00,Neupotz,Kirche,Spaziergang,2022-05-29 13:31:43,
-74374,DE,84524,2022-06-02,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:53:50,
 74375,DE,84524,2022-06-02,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:54:36,
+74374,DE,84524,2022-06-02,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:53:50,
+74568,DE,01067,2022-06-03,17:00,Dresden,Postplatz,Demonstration,2022-06-01 16:54:29,
 74253,DE,88069,2022-06-03,18:00,Tettnang,Rathaus,Spaziergang,2022-05-07 15:36:38,
-74447,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230 (vor dem SWR),Kundgebung,2022-05-17 19:25:21,https://dlive.tv/schwaeble_on_tour
-74468,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230  (vor dem SWR,Kundgebung,2022-05-21 13:35:31,https://dlive.tv/schwaeble_on_tour
 74559,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230   vor dem SW,Kundgebung,2022-05-31 20:17:45,https://dlive.tv/schwaeble_on_tour
 74554,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230,Kundgebung,2022-05-29 18:27:49,https://dlive.tv/schwaeble_on_tour
+74468,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230  (vor dem SWR,Kundgebung,2022-05-21 13:35:31,https://dlive.tv/schwaeble_on_tour
+74447,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230 (vor dem SWR),Kundgebung,2022-05-17 19:25:21,https://dlive.tv/schwaeble_on_tour
 74503,DE,33602,2022-06-03,18:00,Bielefeld,Kesselbrink,Spaziergang,2022-05-27 08:00:58,
 74566,DE,61462,2022-06-03,18:30,Königstein am Taunus,Hauptstraße 9,Aufzug,2022-06-01 13:42:57,
 74356,DE,83209,2022-06-04,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:40:30,
+74567,DE,64385,2022-06-04,14:00,Reichelsheim,B 38 Ortseingang (Aldi),Zusammenkunft,2022-06-01 16:49:15,
 74553,DE,21073,2022-06-04,14:00,Hamburg,Harburg Rathausplatz,Aufzug,2022-05-29 17:30:08,
 74509,DE,04109,2022-06-04,15:00,Leipzig,Kurt-Masur-Platz,Spaziergang,2022-05-27 19:43:19,
 74564,DE,90402,2022-06-04,18:00,Nürnberg,Lorenzkirche,Kundgebung,2022-05-31 23:42:21,
@@ -34,8 +36,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74091,DE,99510,2022-06-06,18:30,Apolda,Markt,Spaziergang,2022-04-26 15:04:11,
 74383,DE,83209,2022-06-06,19:00,Prien am Chiemsee,Rathaus,Spaziergang,2022-05-11 11:03:16,
 74376,DE,84524,2022-06-09,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:55:12,
-74357,DE,83209,2022-06-11,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:04,
 73338,DE,83209,2022-06-11,10:30,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,2022-03-24 10:11:10,
+74357,DE,83209,2022-06-11,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:04,
 74510,DE,04109,2022-06-11,15:00,Leipzig,Augustusplatz / vor der Oper,Spaziergang,2022-05-27 19:44:47,
 74340,DE,82319,2022-06-13,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:04:52,
 74365,DE,84524,2022-06-13,18:00,Neuötting,Rathaus,Spaziergang,2022-05-11 10:48:10,
@@ -68,6 +70,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74513,DE,04109,2022-07-02,15:00,Leipzig,Kleiner Wilhelm-Leuschner-Plat,Spaziergang,2022-05-27 19:49:52,
 73924,DE,63225,2022-07-04,18:00,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-16 12:17:52,
 73925,DE,63225,2022-07-11,18:00,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-16 12:18:16,
+74569,DE,63741,2022-07-17,14:00,Aschaffenburg,Volksfestplatz,Aufzug,2022-06-01 19:58:58,
 73926,DE,63225,2022-07-18,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-16 12:18:53,
 3890,DE,33098,2022-07-19,18:00,Paderborn,Rathausplatz,Kundgebung,2021-07-17 08:56:52,
 73927,DE,63225,2022-07-25,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-16 12:19:19,
