@@ -1,9 +1,9 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 74568,DE,01067,2022-06-03,17:00,Dresden,Postplatz,Demonstration,2022-06-01 16:54:29,
 74253,DE,88069,2022-06-03,18:00,Tettnang,Rathaus,Spaziergang,2022-05-07 15:36:38,
+74554,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230,Kundgebung,2022-05-29 18:27:49,https://dlive.tv/schwaeble_on_tour
 74468,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230  (vor dem SWR,Kundgebung,2022-05-21 13:35:31,https://dlive.tv/schwaeble_on_tour
 74447,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230 (vor dem SWR),Kundgebung,2022-05-17 19:25:21,https://dlive.tv/schwaeble_on_tour
-74554,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230,Kundgebung,2022-05-29 18:27:49,https://dlive.tv/schwaeble_on_tour
 74559,DE,70190,2022-06-03,18:00,Stuttgart,Neckarstraße 230   vor dem SW,Kundgebung,2022-05-31 20:17:45,https://dlive.tv/schwaeble_on_tour
 74575,DE,27570,2022-06-03,18:00,Bremerhaven,Konrad-Adenauer-Platz,Schilderwald,2022-06-02 14:47:35,
 74503,DE,33602,2022-06-03,18:00,Bielefeld,Kesselbrink,Spaziergang,2022-05-27 08:00:58,
@@ -13,6 +13,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74590,DE,29221,2022-06-04,11:45,Celle,Großer Plan,Kundgebung,2022-06-03 11:42:23,
 74567,DE,64385,2022-06-04,14:00,Reichelsheim,B 38 Ortseingang (Aldi),Zusammenkunft,2022-06-01 16:49:15,
 74553,DE,21073,2022-06-04,14:00,Hamburg,Harburg Rathausplatz,Aufzug,2022-05-29 17:30:08,
+74601,DE,79098,2022-06-04,14:00,Freiburg,Platz der alten Synagoge,Aufzug,2022-06-03 22:45:29,
 74509,DE,04109,2022-06-04,15:00,Leipzig,Kurt-Masur-Platz,Spaziergang,2022-05-27 19:43:19,
 74574,DE,40213,2022-06-04,15:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2022-06-02 14:03:52,
 74564,DE,90402,2022-06-04,18:00,Nürnberg,Lorenzkirche,Kundgebung,2022-05-31 23:42:21,
@@ -55,8 +56,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74426,DE,63225,2022-06-14,14:00,Langen (Hessen),Paul Ehrlich Institut,Kundgebung,2022-05-14 13:33:26,
 74470,DE,63225,2022-06-14,14:00,Langen,Paul-Ehrlich-Institut,Kundgebung,2022-05-21 23:02:02,
 74501,DE,95119,2022-06-14,18:30,Naila,Marktplatz / vor Rathaus,Spaziergang,2022-05-26 20:50:24,
-74377,DE,84524,2022-06-16,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:55:26,
 74378,DE,84524,2022-06-16,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:56:20,
+74377,DE,84524,2022-06-16,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:55:26,
 74358,DE,83209,2022-06-18,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:19,
 74359,DE,83209,2022-06-18,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:38,
 74583,DE,29221,2022-06-18,11:00,Celle,Neumarkt,Aufzug,2022-06-03 11:37:55,
@@ -64,8 +65,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74511,DE,04109,2022-06-18,15:00,Leipzig,Kurt-Masur-Platz,Spaziergang,2022-05-27 19:46:37,
 74366,DE,84524,2022-06-20,18:00,Neuötting,Rathaus,Spaziergang,2022-05-11 10:48:57,
 73781,DE,63225,2022-06-20,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 22:00:51,
-74598,DE,29221,2022-06-20,18:30,Celle,Innenstadt,Spaziergang,2022-06-03 11:48:06,
 74593,DE,29221,2022-06-20,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-06-03 11:45:38,
+74598,DE,29221,2022-06-20,18:30,Celle,Innenstadt,Spaziergang,2022-06-03 11:48:06,
 74093,DE,99510,2022-06-20,18:30,Apolda,Markt,Spaziergang,2022-04-26 15:07:05,
 74385,DE,83209,2022-06-20,19:00,Prien am Chiemsee,Rathaus,Spaziergang,2022-05-11 11:03:42,
 74379,DE,84524,2022-06-23,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:56:35,
