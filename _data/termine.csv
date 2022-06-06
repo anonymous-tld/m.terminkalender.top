@@ -1,6 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 73337,DE,83209,2022-06-06,10:30,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,2022-03-24 10:09:37,
 74622,DE,18055,2022-06-06,16:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 22:51:50,https://dlive.tv/7TuermeMedien
+74660,DE,44581,2022-06-06,17:00,Catrop-Rauxel,Marktplatz Ickern,Autokorso,2022-06-06 12:08:58,
 74617,DE,21073,2022-06-06,17:30,Hamburg-Harburg,Harburger Rathausplatz,Spaziergang,2022-06-05 17:12:03,
 74577,DE,71111,2022-06-06,18:00,Waldenbuch,Rathaus,Spaziergang,2022-06-02 21:05:39,
 74572,DE,75334,2022-06-06,18:00,Straubenhardt-Feldrennach,Rathaus,Spaziergang,2022-06-01 21:58:34,
@@ -21,8 +22,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74608,DE,67547,2022-06-06,18:30,Worms,Lutherdenkmal,Spaziergang,2022-06-05 12:13:33,
 74500,DE,95119,2022-06-06,18:30,Naila,Marktplatz / vor Rathaus,Spaziergang,2022-05-26 20:49:18,
 73779,DE,63225,2022-06-06,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 21:59:56,
-74591,DE,29221,2022-06-06,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-06-03 11:44:16,
 74600,DE,29221,2022-06-06,18:30,Celle,Innenstadt,Spaziergang,2022-06-03 11:48:47,
+74591,DE,29221,2022-06-06,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-06-03 11:44:16,
 74091,DE,99510,2022-06-06,18:30,Apolda,Markt,Spaziergang,2022-04-26 15:04:11,
 74604,DE,39261,2022-06-06,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-05 08:38:19,
 74612,DE,01445,2022-06-06,19:00,Radebeul,Ostbahnhof,Spaziergang,2022-06-05 14:30:47,
@@ -30,9 +31,10 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74578,DE,99974,2022-06-06,19:00,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,2022-06-03 07:26:58,
 74618,DE,87600,2022-06-06,19:00,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,2022-06-05 18:31:49,
 74613,DE,01809,2022-06-06,19:00,Heidenau,Markt,Spaziergang,2022-06-05 14:32:14,
-74616,DE,01156,2022-06-06,19:00,Dresden,Cossebaude B6/Brauergasse,Spaziergang,2022-06-05 14:39:51,
 74610,DE,01069,2022-06-06,19:00,Dresden,Torwirtschaft / Arnhold-Bad,Demonstration,2022-06-05 14:28:36,
+74616,DE,01156,2022-06-06,19:00,Dresden,Cossebaude B6/Brauergasse,Spaziergang,2022-06-05 14:39:51,
 74609,DE,79108,2022-06-07,17:30,Freiburg im Breisgau,Parkplatz Suwonallee 1,Autokorso,2022-06-05 13:38:46,
+74658,DE,17438,2022-06-07,19:00,Wolgast,Freifläche am Kai,Kundgebung,2022-06-06 06:58:39,
 74626,DE,18055,2022-06-09,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 22:54:26,https://dlive.tv/7TuermeMedien
 74376,DE,84524,2022-06-09,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:55:12,
 73338,DE,83209,2022-06-11,10:30,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,2022-03-24 10:11:10,
@@ -40,6 +42,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74582,DE,29221,2022-06-11,11:00,Celle,Neumarkt,Aufzug,2022-06-03 11:37:21,
 74589,DE,29221,2022-06-11,11:45,Celle,Großer Plan,Kundgebung,2022-06-03 11:41:50,
 74510,DE,04109,2022-06-11,15:00,Leipzig,Augustusplatz / vor der Oper,Spaziergang,2022-05-27 19:44:47,
+74659,DE,22041,2022-06-11,15:00,Hamburg,Wochenmarkt / Klappstr.,Aufzug,2022-06-06 11:47:52,
 74623,DE,18055,2022-06-13,16:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 22:52:23,https://dlive.tv/7TuermeMedien
 74619,DE,18055,2022-06-13,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 22:50:02,https://dlive.tv/7TuermeMedien
 74573,DE,75334,2022-06-13,18:00,Straubenhardt-Feldrennach,Rathaus,Spaziergang,2022-06-01 21:59:17,
@@ -57,8 +60,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74627,DE,18055,2022-06-16,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 22:55:07,https://dlive.tv/7TuermeMedien
 74377,DE,84524,2022-06-16,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:55:26,
 74378,DE,84524,2022-06-16,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:56:20,
-74358,DE,83209,2022-06-18,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:19,
 74359,DE,83209,2022-06-18,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:38,
+74358,DE,83209,2022-06-18,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:19,
 74583,DE,29221,2022-06-18,11:00,Celle,Neumarkt,Aufzug,2022-06-03 11:37:55,
 74588,DE,29221,2022-06-18,11:45,Celle,Großer Plan,Kundgebung,2022-06-03 11:41:24,
 74511,DE,04109,2022-06-18,15:00,Leipzig,Kurt-Masur-Platz,Spaziergang,2022-05-27 19:46:37,
@@ -98,8 +101,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74635,DE,18055,2022-07-04,16:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 23:00:17,https://dlive.tv/7TuermeMedien
 74631,DE,18055,2022-07-04,17:30,Rostock,Neuer Markt,Kundgebung,2022-06-05 22:58:01,https://dlive.tv/7TuermeMedien
 73924,DE,63225,2022-07-04,18:00,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-16 12:17:52,
-74595,DE,29221,2022-07-04,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-06-03 11:46:35,
 74596,DE,29221,2022-07-04,18:30,Celle,Innenstadt,Spaziergang,2022-06-03 11:47:20,
+74595,DE,29221,2022-07-04,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-06-03 11:46:35,
 74639,DE,18055,2022-07-07,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:02:51,https://dlive.tv/7TuermeMedien
 74636,DE,18055,2022-07-11,16:30,Rostock,Stadthafen/Kanonsberg,Kundgebung,2022-06-05 23:00:58,
 74632,DE,18055,2022-07-11,17:30,Rostock,Neuer Markt,Kundgebung,2022-06-05 22:58:36,https://dlive.tv/7TuermeMedien
