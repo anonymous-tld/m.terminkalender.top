@@ -1,8 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-74426,DE,63225,2022-06-14,14:00,Langen (Hessen),Paul Ehrlich Institut,Kundgebung,2022-05-14 13:33:26,
-74470,DE,63225,2022-06-14,14:00,Langen,Paul-Ehrlich-Institut,Kundgebung,2022-05-21 23:02:02,
-74501,DE,95119,2022-06-14,18:30,Naila,Marktplatz / vor Rathaus,Spaziergang,2022-05-26 20:50:24,
-74719,DE,17438,2022-06-14,19:00,Wolgast,Freifläche am Kai,Kundgebung,2022-06-13 06:15:31,
 74714,DE,64653,2022-06-15,18:00,Losch,Mannheimer Str. 36 / Spielplatz,Spaziergang,2022-06-12 10:16:00,
 74683,DE,61440,2022-06-15,18:30,Oberursel,Adenauerallee,Spaziergang,2022-06-08 12:50:09,
 74707,DE,06618,2022-06-15,19:00,Naumburg,Vogelwiese,Demonstration,2022-06-11 06:11:32,
@@ -13,8 +9,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74736,DE,01067,2022-06-17,17:00,Dresden,Postplatz,Demonstration,2022-06-14 17:43:39,
 74717,DE,76133,2022-06-17,17:30,Karlsruhe,Marktplatz,Kundgebung,2022-06-12 22:03:54,
 74665,DE,88069,2022-06-17,18:00,Tettnang,Rathaus,Spaziergang,2022-06-06 18:55:17,
-74358,DE,83209,2022-06-18,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:19,
 74359,DE,83209,2022-06-18,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:38,
+74358,DE,83209,2022-06-18,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:19,
 74583,DE,29221,2022-06-18,11:00,Celle,Neumarkt,Aufzug,2022-06-03 11:37:55,
 74588,DE,29221,2022-06-18,11:45,Celle,Großer Plan,Kundgebung,2022-06-03 11:41:24,
 74729,DE,49074,2022-06-18,14:00,Osnabrück,Schlossgarten,Konzert,2022-06-13 20:30:26,https://www.youtube.com/c/HaseDubleibsthier
@@ -61,8 +57,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74341,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:05:35,
 74342,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:06:14,
 73782,DE,63225,2022-06-27,18:30,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,2022-04-08 22:01:19,
-74594,DE,29221,2022-06-27,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-06-03 11:46:04,
 74597,DE,29221,2022-06-27,18:30,Celle,Innenstadt,Spaziergang,2022-06-03 11:47:45,
+74594,DE,29221,2022-06-27,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-06-03 11:46:04,
 74094,DE,99510,2022-06-27,18:30,Apolda,Markt,Spaziergang,2022-04-26 15:07:53,
 74607,DE,39261,2022-06-27,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-05 08:39:37,
 74722,DE,26382,2022-06-27,19:00,Wilhelmshaven,Rathaus,Spaziergang,2022-06-13 09:12:04,
