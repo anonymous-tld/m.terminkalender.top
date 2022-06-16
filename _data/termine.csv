@@ -1,7 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-74627,DE,18055,2022-06-16,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 22:55:07,https://dlive.tv/7TuermeMedien
-74378,DE,84524,2022-06-16,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:56:20,
-74377,DE,84524,2022-06-16,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:55:26,
 74736,DE,01067,2022-06-17,17:00,Dresden,Postplatz,Demonstration,2022-06-14 17:43:39,
 74717,DE,76133,2022-06-17,17:30,Karlsruhe,Marktplatz,Kundgebung,2022-06-12 22:03:54,
 74665,DE,88069,2022-06-17,18:00,Tettnang,Rathaus,Spaziergang,2022-06-06 18:55:17,
@@ -29,8 +26,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74728,DE,36251,2022-06-20,18:00,Bad Hersfeld,Rathaus,Spaziergang,2022-06-13 19:57:14,
 74732,DE,67547,2022-06-20,18:30,Worms,Lutherdenkmal,Spaziergang,2022-06-14 07:55:59,
 73781,DE,63225,2022-06-20,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-08 22:00:51,
-74598,DE,29221,2022-06-20,18:30,Celle,Innenstadt,Spaziergang,2022-06-03 11:48:06,
 74593,DE,29221,2022-06-20,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-06-03 11:45:38,
+74598,DE,29221,2022-06-20,18:30,Celle,Innenstadt,Spaziergang,2022-06-03 11:48:06,
 74093,DE,99510,2022-06-20,18:30,Apolda,Markt,Spaziergang,2022-04-26 15:07:05,
 74606,DE,39261,2022-06-20,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-05 08:39:14,
 74721,DE,26382,2022-06-20,19:00,Wilhelmshaven,Rathaus,Spaziergang,2022-06-13 09:11:07,
@@ -53,11 +50,11 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74625,DE,18055,2022-06-27,16:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 22:53:33,https://dlive.tv/7TuermeMedien
 74621,DE,18055,2022-06-27,17:00,Rostock,Neuer Markt,Kundgebung,2022-06-05 22:51:14,https://dlive.tv/7TuermeMedien
 74668,DE,88069,2022-06-27,18:00,Tettnang,Rathaus,Spaziergang,2022-06-06 18:57:16,
-74342,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:06:14,
 74341,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:05:35,
+74342,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:06:14,
 73782,DE,63225,2022-06-27,18:30,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,2022-04-08 22:01:19,
-74594,DE,29221,2022-06-27,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-06-03 11:46:04,
 74597,DE,29221,2022-06-27,18:30,Celle,Innenstadt,Spaziergang,2022-06-03 11:47:45,
+74594,DE,29221,2022-06-27,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-06-03 11:46:04,
 74094,DE,99510,2022-06-27,18:30,Apolda,Markt,Spaziergang,2022-04-26 15:07:53,
 74607,DE,39261,2022-06-27,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-05 08:39:37,
 74722,DE,26382,2022-06-27,19:00,Wilhelmshaven,Rathaus,Spaziergang,2022-06-13 09:12:04,
