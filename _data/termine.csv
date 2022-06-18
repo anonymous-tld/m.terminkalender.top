@@ -1,21 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-74359,DE,83209,2022-06-18,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:38,
-74358,DE,83209,2022-06-18,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:41:19,
-74583,DE,29221,2022-06-18,11:00,Celle,Neumarkt,Aufzug,2022-06-03 11:37:55,
-74588,DE,29221,2022-06-18,11:45,Celle,Großer Plan,Kundgebung,2022-06-03 11:41:24,
-74739,DE,64385,2022-06-18,14:00,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,2022-06-14 22:28:18,
-74729,DE,49074,2022-06-18,14:00,Osnabrück,Schlossgarten,Konzert,2022-06-13 20:30:26,https://www.youtube.com/c/HaseDubleibsthier
-74768,DE,79098,2022-06-18,14:00,Freiburg,Platz der alten Synagoge,Aufzug,2022-06-17 00:44:19,Für Freiheit, Menschlichkeit und Vernunft
-74748,DE,79098,2022-06-18,14:00,Freiburg,Platz der alten Synagoge,Aufzug,2022-06-16 05:07:23,
-74511,DE,04109,2022-06-18,15:00,Leipzig,Kurt-Masur-Platz,Spaziergang,2022-05-27 19:46:37,
-74757,DE,60329,2022-06-18,15:00,Frankfurt am Main,Taunusanlage,Aufzug,2022-06-16 17:55:09,
-74726,DE,40213,2022-06-18,15:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2022-06-13 14:43:35,
-74740,DE,52064,2022-06-18,15:00,Aachen,Marktplatz,Kundgebung,2022-06-15 09:55:46,https://dlive.tv/PatriotOnTour
-74770,DE,45127,2022-06-18,15:30,Essen,Willy-Brandt-Platz,Kundgebung,2022-06-17 16:46:57,
-74765,DE,01067,2022-06-18,16:00,Dresden,Neumarkt / Sächs Großdemo,Aufzug,2022-06-16 23:12:10,
-74731,DE,01067,2022-06-18,16:00,Dresden,Neumarkt,Kundgebung,2022-06-13 22:00:06,
-74734,DE,90402,2022-06-18,18:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2022-06-14 11:05:00,
-74744,DE,73326,2022-06-18,18:00,Deggingen,Rathaus,Gegenprotest,2022-06-15 19:08:26,
 74724,DE,75015,2022-06-19,10:45,Bretten,Stadtpark/Alter Friedhof,Meditation,2022-06-13 09:25:24,
 74730,DE,76530,2022-06-19,14:00,Baden-Baden,Augustaplatz,Demonstration,2022-06-13 20:44:16,
 74743,DE,66121,2022-06-19,14:30,Saarbrücken,Landwehrplatz,Demonstration,2022-06-15 13:45:04,
@@ -63,8 +46,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74621,DE,18055,2022-06-27,17:00,Rostock,Neuer Markt,Kundgebung,2022-06-05 22:51:14,https://dlive.tv/7TuermeMedien
 74755,DE,88239,2022-06-27,18:00,Wangen i.Allg.,Marktplatz,Spaziergang,2022-06-16 14:37:50,
 74668,DE,88069,2022-06-27,18:00,Tettnang,Rathaus,Spaziergang,2022-06-06 18:57:16,
-74341,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:05:35,
 74342,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:06:14,
+74341,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:05:35,
 73782,DE,63225,2022-06-27,18:30,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,2022-04-08 22:01:19,
 74597,DE,29221,2022-06-27,18:30,Celle,Innenstadt,Spaziergang,2022-06-03 11:47:45,
 74594,DE,29221,2022-06-27,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-06-03 11:46:04,
