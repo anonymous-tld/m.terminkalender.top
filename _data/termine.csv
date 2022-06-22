@@ -1,8 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-74630,DE,18055,2022-06-22,15:15,Rostock,Neuer Markt,Kundgebung,2022-06-05 22:56:55,https://dlive.tv/7TuermeMedien
-74774,DE,76646,2022-06-22,18:00,Bruchsal,Bella Italia / Bahnhofsplatz 2,Zusammenkunft,2022-06-18 18:38:33,
-74705,DE,61440,2022-06-22,18:30,Oberursel,Adenauerallee,Spaziergang,2022-06-11 00:47:48,
-74769,DE,06618,2022-06-22,19:00,Naumburg,Vogelwiese/ Luisenstraße,Demonstration,2022-06-17 16:03:25,
 74628,DE,18055,2022-06-23,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 22:55:42,https://dlive.tv/7TuermeMedien
 74379,DE,84524,2022-06-23,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:56:35,
 74667,DE,88069,2022-06-24,18:00,Tettnang,Rathaus,Spaziergang,2022-06-06 18:56:56,
@@ -48,8 +44,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74670,DE,88069,2022-07-04,18:00,Tettnang,Rathaus,Spaziergang,2022-06-06 18:58:10,
 74780,DE,74523,2022-07-04,18:00,Schwäbisch Hall,Globe Theater,Spaziergang,2022-06-19 23:20:30,
 73924,DE,63225,2022-07-04,18:00,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-16 12:17:52,
-74596,DE,29221,2022-07-04,18:30,Celle,Innenstadt,Spaziergang,2022-06-03 11:47:20,
 74595,DE,29221,2022-07-04,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-06-03 11:46:35,
+74596,DE,29221,2022-07-04,18:30,Celle,Innenstadt,Spaziergang,2022-06-03 11:47:20,
 74708,DE,99510,2022-07-04,18:30,Apolda,Markt,Spaziergang,2022-06-11 09:42:52,
 74723,DE,26382,2022-07-04,19:00,Wilhelmshaven,Rathaus,Spaziergang,2022-06-13 09:13:01,
 74673,DE,83119,2022-07-04,19:30,Obing,Rathaus,Spaziergang,2022-06-06 21:58:27,
@@ -63,8 +59,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74640,DE,18055,2022-07-14,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:03:32,https://dlive.tv/7TuermeMedien
 74760,DE,60329,2022-07-16,15:00,Frankfurt am Main,Taunusanlage,Aufzug,2022-06-16 17:56:50,
 74569,DE,63741,2022-07-17,14:00,Aschaffenburg,Volksfestplatz,Aufzug,2022-06-01 19:58:58,
-74637,DE,18055,2022-07-18,17:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 23:01:30,
 74633,DE,18055,2022-07-18,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 22:59:10,https://dlive.tv/7TuermeMedien
+74637,DE,18055,2022-07-18,17:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 23:01:30,
 73926,DE,63225,2022-07-18,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-16 12:18:53,
 74710,DE,99510,2022-07-18,18:30,Apolda,Markt,Spaziergang,2022-06-11 09:44:37,
 3890,DE,33098,2022-07-19,18:00,Paderborn,Rathausplatz,Kundgebung,2021-07-17 08:56:52,
