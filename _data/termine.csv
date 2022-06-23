@@ -1,6 +1,7 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 74628,DE,18055,2022-06-23,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 22:55:42,https://dlive.tv/7TuermeMedien
 74379,DE,84524,2022-06-23,19:00,Neuötting,Rathaus,Mahnwache,2022-05-11 10:56:35,
+74806,DE,01067,2022-06-24,17:00,Dresden,Postplatz,Demonstration,2022-06-23 11:27:37,
 74667,DE,88069,2022-06-24,18:00,Tettnang,Rathaus,Spaziergang,2022-06-06 18:56:56,
 74786,DE,61462,2022-06-24,18:30,Königstein am Taunus,Kapuzinerplatz (Stadtmitte),Aufzug,2022-06-21 14:38:38,
 74804,DE,28203,2022-06-25,10:00,Bremen,Nelson Mandela Park beim Elefa,Kundgebung,2022-06-23 06:06:04,
@@ -31,8 +32,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74778,DE,21073,2022-06-27,17:30,Hamburg,Harburger Rathausplatz,Spaziergang,2022-06-19 18:13:58,
 74755,DE,88239,2022-06-27,18:00,Wangen i.Allg.,Marktplatz,Spaziergang,2022-06-16 14:37:50,
 74668,DE,88069,2022-06-27,18:00,Tettnang,Rathaus,Spaziergang,2022-06-06 18:57:16,
-74342,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:06:14,
 74341,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:05:35,
+74342,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:06:14,
 74779,DE,74523,2022-06-27,18:00,Schwäbisch Hall,Globe Theater,Spaziergang,2022-06-19 23:19:12,
 74803,DE,67433,2022-06-27,18:29,Neustadt an der Weinstraße,Hetzelplatz,Aufzug,2022-06-23 04:58:06,
 74785,DE,67547,2022-06-27,18:30,Worms,Lutherdenkmal,Spaziergang,2022-06-21 09:57:09,
@@ -66,6 +67,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74799,DE,32756,2022-07-06,18:00,Detmold,Markt,Meditation,2022-06-22 19:54:03,
 74639,DE,18055,2022-07-07,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:02:51,https://dlive.tv/7TuermeMedien
 74759,DE,60329,2022-07-09,15:00,Frankfurt am Main,Taunusanlage,Aufzug,2022-06-16 17:56:18,
+74805,AT,1010,2022-07-09,16:00,Wien,Heldenplatz,Kundgebung,2022-06-23 08:32:26,
 74794,DE,42853,2022-07-10,14:00,Remscheid,Schützenplatz (Am Stadtpark),Kundgebung,2022-06-22 09:51:42,
 74636,DE,18055,2022-07-11,16:30,Rostock,Stadthafen/Kanonsberg,Kundgebung,2022-06-05 23:00:58,
 74632,DE,18055,2022-07-11,17:30,Rostock,Neuer Markt,Kundgebung,2022-06-05 22:58:36,https://dlive.tv/7TuermeMedien
