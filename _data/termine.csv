@@ -1,8 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-74775,DE,60313,2022-06-26,11:00,Frankfurt am Main,Hauptwache,Kundgebung,2022-06-18 21:00:05,
-74796,DE,76530,2022-06-26,14:00,Baden-Baden,Augustaplatz,Kundgebung,2022-06-22 10:47:30,
-74792,DE,79114,2022-06-26,14:30,Freiburg,Dietenbach-Park,Erholung,2022-06-22 04:20:33,
-74790,DE,90402,2022-06-26,15:00,Nürnberg,Lorenzkirche,Kundgebung,2022-06-21 23:03:17,
 74367,DE,83209,2022-06-27,10:30,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,2022-05-11 10:49:16,
 74625,DE,18055,2022-06-27,16:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 22:53:33,https://dlive.tv/7TuermeMedien
 74787,DE,33098,2022-06-27,16:30,Paderborn,Vor dem Amtsgericht,Kundgebung,2022-06-21 15:55:29,
@@ -11,8 +7,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74755,DE,88239,2022-06-27,18:00,Wangen i.Allg.,Marktplatz,Spaziergang,2022-06-16 14:37:50,
 74668,DE,88069,2022-06-27,18:00,Tettnang,Rathaus,Spaziergang,2022-06-06 18:57:16,
 74812,DE,75334,2022-06-27,18:00,Streubenhardt-Feldrennach,Rathaus,Spaziergang,2022-06-24 20:24:27,
-74341,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:05:35,
 74342,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:06:14,
+74341,DE,82319,2022-06-27,18:00,Starnberg,Kirchplatz,Spaziergang,2022-05-10 20:05:35,
 74779,DE,74523,2022-06-27,18:00,Schwäbisch Hall,Globe Theater,Spaziergang,2022-06-19 23:19:12,
 74807,DE,17207,2022-06-27,18:00,Röbel / Müritz,Rathaus,Kundgebung,2022-06-23 17:44:16,
 74819,DE,50670,2022-06-27,18:00,Köln,Kölner Dom,Spaziergang,2022-06-25 17:06:05,
