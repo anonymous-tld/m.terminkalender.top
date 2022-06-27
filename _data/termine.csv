@@ -18,8 +18,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74803,DE,67433,2022-06-27,18:29,Neustadt an der Weinstraße,Hetzelplatz,Aufzug,2022-06-23 04:58:06,
 74785,DE,67547,2022-06-27,18:30,Worms,Lutherdenkmal,Spaziergang,2022-06-21 09:57:09,
 73782,DE,63225,2022-06-27,18:30,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,2022-04-08 22:01:19,
-74594,DE,29221,2022-06-27,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-06-03 11:46:04,
 74597,DE,29221,2022-06-27,18:30,Celle,Innenstadt,Spaziergang,2022-06-03 11:47:45,
+74594,DE,29221,2022-06-27,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-06-03 11:46:04,
 74846,DE,63741,2022-06-27,18:30,Aschaffenburg,Schloßplatz,Spaziergang,2022-06-27 11:04:21,
 74094,DE,99510,2022-06-27,18:30,Apolda,Markt,Spaziergang,2022-04-26 15:07:53,
 74607,DE,39261,2022-06-27,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-05 08:39:37,
@@ -48,6 +48,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74831,DE,22041,2022-07-02,15:00,Hamburg,Wochenmarkt in der Klappstraße,Aufzug,2022-06-26 15:35:14,
 74758,DE,60329,2022-07-02,15:00,Frankfurt am Main,Taunusanlage,Aufzug,2022-06-16 17:55:54,
 74844,DE,40213,2022-07-02,15:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2022-06-26 22:16:59,
+74849,DE,78628,2022-07-02,16:00,Rottweil,Am schwarzen Tor,Aufzug,2022-06-27 20:37:53,
 74635,DE,18055,2022-07-04,16:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 23:00:17,https://dlive.tv/7TuermeMedien
 74828,DE,91052,2022-07-04,17:00,Erlangen,Anger Garagen,Bürgerkrieg,2022-06-26 08:56:50,
 74631,DE,18055,2022-07-04,17:30,Rostock,Neuer Markt,Kundgebung,2022-06-05 22:58:01,https://dlive.tv/7TuermeMedien
@@ -82,6 +83,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74640,DE,18055,2022-07-14,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:03:32,https://dlive.tv/7TuermeMedien
 74829,DE,91052,2022-07-15,16:00,Erlangen,Whörmühl Insel,Aufstand,2022-06-26 08:59:44,
 74837,DE,88069,2022-07-15,18:00,Tettnang,Rathaus,Spaziergang,2022-06-26 21:05:56,
+74850,DE,70190,2022-07-15,18:00,Stuttgart,Neckarstraße 230,Kundgebung,2022-06-27 20:43:11,https://dlive.tv/schwaeble_on_tour
 74760,DE,60329,2022-07-16,15:00,Frankfurt am Main,Taunusanlage,Aufzug,2022-06-16 17:56:50,
 74826,DE,91088,2022-07-17,10:00,Bubenreuth,Im Wald,Bürgerkrieg,2022-06-26 08:47:06,
 74569,DE,63741,2022-07-17,14:00,Aschaffenburg,Volksfestplatz,Aufzug,2022-06-01 19:58:58,
