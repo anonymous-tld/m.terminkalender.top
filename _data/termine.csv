@@ -32,6 +32,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74596,DE,29221,2022-07-04,18:30,Celle,Innenstadt,Spaziergang,2022-06-03 11:47:20,
 74595,DE,29221,2022-07-04,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-06-03 11:46:35,
 74708,DE,99510,2022-07-04,18:30,Apolda,Markt,Spaziergang,2022-06-11 09:42:52,
+74852,DE,39261,2022-07-04,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:10:33,
 74723,DE,26382,2022-07-04,19:00,Wilhelmshaven,Rathaus,Spaziergang,2022-06-13 09:13:01,
 74673,DE,83119,2022-07-04,19:30,Obing,Rathaus,Spaziergang,2022-06-06 21:58:27,
 74827,DE,91052,2022-07-05,14:30,Erlangen,Berliner Platz Park,Bürgerkrieg,2022-06-26 08:53:23,
@@ -50,6 +51,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74836,DE,88069,2022-07-11,18:00,Tettnang,Rathaus,Spaziergang,2022-06-26 21:05:19,
 73925,DE,63225,2022-07-11,18:00,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-16 12:18:16,
 74709,DE,99510,2022-07-11,18:30,Apolda,Markt,Spaziergang,2022-06-11 09:43:46,
+74853,DE,39261,2022-07-11,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:10:49,
 74823,DE,91052,2022-07-12,18:30,Erlangen,Ohmplatz,Aufzug,2022-06-26 08:38:02,
 74696,DE,99974,2022-07-13,19:00,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,2022-06-10 09:18:18,
 74640,DE,18055,2022-07-14,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:03:32,https://dlive.tv/7TuermeMedien
@@ -59,11 +61,12 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74760,DE,60329,2022-07-16,15:00,Frankfurt am Main,Taunusanlage,Aufzug,2022-06-16 17:56:50,
 74826,DE,91088,2022-07-17,10:00,Bubenreuth,Im Wald,Bürgerkrieg,2022-06-26 08:47:06,
 74569,DE,63741,2022-07-17,14:00,Aschaffenburg,Volksfestplatz,Aufzug,2022-06-01 19:58:58,
-74637,DE,18055,2022-07-18,17:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 23:01:30,
 74633,DE,18055,2022-07-18,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 22:59:10,https://dlive.tv/7TuermeMedien
+74637,DE,18055,2022-07-18,17:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 23:01:30,
 74838,DE,88069,2022-07-18,18:00,Tettnang,Rathaus,Spaziergang,2022-06-26 21:06:19,
 73926,DE,63225,2022-07-18,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-16 12:18:53,
 74710,DE,99510,2022-07-18,18:30,Apolda,Markt,Spaziergang,2022-06-11 09:44:37,
+74854,DE,39261,2022-07-18,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:10:57,
 3890,DE,33098,2022-07-19,18:00,Paderborn,Rathausplatz,Kundgebung,2021-07-17 08:56:52,
 74641,DE,18055,2022-07-21,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:04:42,https://dlive.tv/7TuermeMedien
 74839,DE,88069,2022-07-22,18:00,Tettnang,Rathaus,Spaziergang,2022-06-26 21:06:52,
@@ -74,6 +77,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74840,DE,88069,2022-07-25,18:00,Tettnang,Rathaus,Spaziergang,2022-06-26 21:07:14,
 73927,DE,63225,2022-07-25,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-04-16 12:19:19,
 74711,DE,99510,2022-07-25,18:30,Apolda,Markt,Spaziergang,2022-06-11 09:45:35,
+74855,DE,39261,2022-07-25,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:11:07,
 74715,DE,01129,2022-07-28,02:37,Dresden,Parkplatz vor dem Edeka,Spaziergang,2022-06-12 15:05:14,
 74642,DE,18055,2022-07-28,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:05:27,https://dlive.tv/7TuermeMedien
 74841,DE,88069,2022-07-29,18:00,Tettnang,Rathaus,Spaziergang,2022-06-26 21:07:38,
@@ -82,23 +86,32 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74643,DE,18055,2022-08-01,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 23:06:13,https://dlive.tv/7TuermeMedien
 74842,DE,88069,2022-08-01,18:00,Tettnang,Rathaus,Spaziergang,2022-06-26 21:07:56,
 74750,DE,63225,2022-08-01,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:10:23,
+74856,DE,39261,2022-08-01,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:11:31,
 74653,DE,18055,2022-08-04,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:14:56,https://dlive.tv/7TuermeMedien
 74649,DE,18055,2022-08-08,16:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 23:11:00,
 74644,DE,18055,2022-08-08,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 23:07:04,https://dlive.tv/7TuermeMedien
 74795,DE,42651,2022-08-08,18:00,Solingen,Neumarkt,Spaziergang,2022-06-22 09:53:09,
 74751,DE,63225,2022-08-08,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:10:48,
+74857,DE,39261,2022-08-08,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:11:39,
 74654,DE,18055,2022-08-11,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:15:39,https://dlive.tv/7TuermeMedien
 74650,DE,18055,2022-08-15,16:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 23:12:15,
 74645,DE,18055,2022-08-15,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 23:07:44,https://dlive.tv/7TuermeMedien
 74752,DE,63225,2022-08-15,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:11:18,
+74858,DE,39261,2022-08-15,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:11:47,
 74655,DE,18055,2022-08-18,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:16:15,https://dlive.tv/7TuermeMedien
 74651,DE,18055,2022-08-22,16:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 23:13:22,
 74646,DE,18055,2022-08-22,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 23:08:30,https://dlive.tv/7TuermeMedien
 74753,DE,63225,2022-08-22,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:11:59,
+74859,DE,39261,2022-08-22,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:12:06,
 74656,DE,18055,2022-08-25,17:00,Rostock,Brunnen d. Lebensfreude,Aufzug,2022-06-05 23:17:00,https://dlive.tv/7TuermeMedien
 74652,DE,18055,2022-08-29,16:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 23:14:19,
 74647,DE,18055,2022-08-29,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 23:09:11,https://dlive.tv/7TuermeMedien
 74754,DE,63225,2022-08-29,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:12:30,
+74860,DE,39261,2022-08-29,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:12:15,
+74861,DE,39261,2022-09-05,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:12:50,
+74862,DE,39261,2022-09-12,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:12:58,
+74863,DE,39261,2022-09-19,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:13:06,
+74864,DE,39261,2022-09-26,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:13:27,
 71924,DE,88718,2022-10-02,14:00,Meersburg,Am Bodensee,Sonstiges,2022-02-17 21:46:12,
 69511,DE,60389,2022-10-20,18:30,Frankfurt Bornheim,Günthersburgpark,Aufzug,2022-01-17 10:20:55,
 55107,DE,70182,2022-12-18,13:45,Stuttgart,Wilhelmsplatz,Kundgebung,2021-12-17 13:46:15,
