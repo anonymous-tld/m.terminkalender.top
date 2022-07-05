@@ -1,9 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-74827,DE,91052,2022-07-05,14:30,Erlangen,Berliner Platz Park,Bürgerkrieg,2022-06-26 08:53:23,
-74845,DE,79108,2022-07-05,17:30,Freiburg,Neues SC Stadion Suwonallee 1,Autokorso,2022-06-26 22:36:07,
-74883,DE,76275,2022-07-05,18:00,Ettlingen,Dickhäuterplatz / ggü. REAL,Aufzug,2022-06-30 14:08:35,
-74822,DE,91052,2022-07-05,18:30,Erlangen,Ohmplatz,Aufzug,2022-06-26 08:36:41,
-74917,DE,17438,2022-07-05,19:00,Wolgast,Freifläche am Kai,Kundgebung,2022-07-04 14:06:14,
 74890,DE,70173,2022-07-06,18:00,Stuttgart,Marktplatz vor dem Rathaus,Aufzug,2022-07-01 20:55:41,
 74925,DE,90402,2022-07-06,18:00,Nürnberg,Lorenzkirche,Kundgebung,2022-07-05 19:23:31,
 74929,DE,64653,2022-07-06,18:00,Lorsch,Mannheimer Str. 36,Spaziergang,2022-07-05 21:47:35,
@@ -44,8 +39,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74760,DE,60329,2022-07-16,15:00,Frankfurt am Main,Taunusanlage,Aufzug,2022-06-16 17:56:50,
 74826,DE,91088,2022-07-17,10:00,Bubenreuth,Im Wald,Bürgerkrieg,2022-06-26 08:47:06,
 74569,DE,63741,2022-07-17,14:00,Aschaffenburg,Volksfestplatz,Aufzug,2022-06-01 19:58:58,
-74633,DE,18055,2022-07-18,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 22:59:10,https://dlive.tv/7TuermeMedien
 74637,DE,18055,2022-07-18,17:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 23:01:30,
+74633,DE,18055,2022-07-18,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 22:59:10,https://dlive.tv/7TuermeMedien
 74896,DE,21073,2022-07-18,17:30,Hamburg,Rathausplatz / Harburg,Spaziergang,2022-07-02 23:10:57,
 74922,DE,88239,2022-07-18,18:00,Wangen i.Allg.,Marktplatz,Spaziergang,2022-07-05 10:49:28,
 74838,DE,88069,2022-07-18,18:00,Tettnang,Rathaus,Spaziergang,2022-06-26 21:06:19,
