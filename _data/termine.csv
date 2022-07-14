@@ -1,7 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-75014,DE,76530,2022-07-14,11:00,Baden-Baden,Ernst-Becker-Str. 1 / SWR,Kundgebung,2022-07-12 06:56:49,
-75004,DE,60320,2022-07-14,14:00,Frankfurt am Main,HR Bertramwiese / Bertramstr.,Mahnwache,2022-07-11 05:31:02,
-74640,DE,18055,2022-07-14,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:03:32,https://dlive.tv/7TuermeMedien
 74829,DE,91052,2022-07-15,16:00,Erlangen,Whörmühl Insel,Aufstand,2022-06-26 08:59:44,
 75007,DE,01067,2022-07-15,17:00,Dresden,Postplatz,Demonstration,2022-07-11 14:36:41,
 75018,DE,76133,2022-07-15,17:30,Karlsruhe,Marktplatz / Pyramide,Kundgebung,2022-07-12 12:38:38,
@@ -19,8 +16,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 75035,DE,73326,2022-07-16,18:00,Deggingen,Rathaus,Gegenprotest,2022-07-13 22:48:01,
 74826,DE,91088,2022-07-17,10:00,Bubenreuth,Im Wald,Bürgerkrieg,2022-06-26 08:47:06,
 75015,DE,76530,2022-07-17,14:00,Baden-Baden,Augustaplatz,Demonstration,2022-07-12 06:58:20,
-74569,DE,63741,2022-07-17,14:00,Aschaffenburg,Volksfestplatz,Aufzug,2022-06-01 19:58:58,
 74978,DE,63741,2022-07-17,14:00,Aschaffenburg,Schlossplatz und Umgebung,Aufzug,2022-07-08 17:59:09,
+74569,DE,63741,2022-07-17,14:00,Aschaffenburg,Volksfestplatz,Aufzug,2022-06-01 19:58:58,
 75013,DE,90402,2022-07-17,15:00,Nürnberg,Lorenzkirche,Kundgebung,2022-07-12 06:47:11,
 74637,DE,18055,2022-07-18,17:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 23:01:30,
 74633,DE,18055,2022-07-18,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 22:59:10,https://dlive.tv/7TuermeMedien
@@ -120,8 +117,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74652,DE,18055,2022-08-29,16:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 23:14:19,
 74647,DE,18055,2022-08-29,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 23:09:11,https://dlive.tv/7TuermeMedien
 74754,DE,63225,2022-08-29,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:12:30,
-74965,DE,29221,2022-08-29,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:36:16,
 74964,DE,29221,2022-08-29,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:35:55,
+74965,DE,29221,2022-08-29,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:36:16,
 74902,DE,99510,2022-08-29,18:30,Apolda,Markt,Spaziergang,2022-07-03 13:13:26,
 74860,DE,39261,2022-08-29,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:12:15,
 75021,DE,63225,2022-09-05,18:00,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,2022-07-12 16:05:11,
