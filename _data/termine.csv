@@ -1,7 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-3890,DE,33098,2022-07-19,18:00,Paderborn,Rathausplatz,Kundgebung,2021-07-17 08:56:52,
-75045,DE,76275,2022-07-19,18:00,Ettlingen,Dickhäuterpl. gegenüb. REAL,Aufzug,2022-07-15 09:50:15,
-75071,DE,17438,2022-07-19,19:00,Wolgast,Freifläche am Kai,Demonstration,2022-07-17 22:44:07,
 75068,DE,70173,2022-07-20,18:00,Stuttgart,Marktplatz vor dem Rathaus,Aufzug,2022-07-17 19:34:58,
 75078,DE,90402,2022-07-20,18:00,Nürnberg,Lorenzkirche,Kundgebung,2022-07-18 18:49:34,
 75069,DE,61440,2022-07-20,18:30,Oberursel,Adenauerallee,Spaziergang,2022-07-17 22:20:08,
@@ -67,8 +64,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74795,DE,42651,2022-08-08,18:00,Solingen,Neumarkt,Spaziergang,2022-06-22 09:53:09,
 75048,DE,53111,2022-08-08,18:00,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,2022-07-15 14:39:59,
 74751,DE,63225,2022-08-08,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:10:48,
-74958,DE,29221,2022-08-08,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:33:21,
 74959,DE,29221,2022-08-08,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:33:40,
+74958,DE,29221,2022-08-08,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:33:21,
 74899,DE,99510,2022-08-08,18:30,Apolda,Markt,Spaziergang,2022-07-03 13:10:19,
 74857,DE,39261,2022-08-08,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:11:39,
 75046,DE,70190,2022-08-11,15:00,Stuttgart,SWR-Funkhaus / Neckarstraße 230,Kundgebung,2022-07-15 09:51:46,
@@ -91,8 +88,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74646,DE,18055,2022-08-22,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 23:08:30,https://dlive.tv/7TuermeMedien
 75050,DE,53111,2022-08-22,18:00,Bonn,Markplatz Ecke Wenzelgasse,Spaziergang,2022-07-15 14:41:22,
 74753,DE,63225,2022-08-22,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:11:59,
-74963,DE,29221,2022-08-22,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:35:38,
 74962,DE,29221,2022-08-22,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:35:20,
+74963,DE,29221,2022-08-22,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:35:38,
 74901,DE,99510,2022-08-22,18:30,Apolda,Markt,Spaziergang,2022-07-03 13:12:22,
 74859,DE,39261,2022-08-22,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:12:06,
 74656,DE,18055,2022-08-25,17:00,Rostock,Brunnen d. Lebensfreude,Aufzug,2022-06-05 23:17:00,https://dlive.tv/7TuermeMedien
