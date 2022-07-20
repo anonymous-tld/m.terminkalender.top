@@ -1,10 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-75068,DE,70173,2022-07-20,18:00,Stuttgart,Marktplatz vor dem Rathaus,Aufzug,2022-07-17 19:34:58,
-75078,DE,90402,2022-07-20,18:00,Nürnberg,Lorenzkirche,Kundgebung,2022-07-18 18:49:34,
-75069,DE,61440,2022-07-20,18:30,Oberursel,Adenauerallee,Spaziergang,2022-07-17 22:20:08,
-75076,DE,46045,2022-07-20,18:30,Oberhausen,Friedensplatz,Spaziergang,2022-07-18 13:48:27,https://youtube.com/c/FreieMedienNRW
-75082,DE,74936,2022-07-20,18:33,Siegelsbach,Rathaus / Platz davor,Spaziergang,2022-07-19 13:52:56,
-75047,DE,06618,2022-07-20,19:00,Naumburg,Vogelwiese,Demonstration,2022-07-15 14:30:49,
 74641,DE,18055,2022-07-21,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:04:42,https://dlive.tv/7TuermeMedien
 74839,DE,88069,2022-07-22,18:00,Tettnang,Rathaus,Spaziergang,2022-06-26 21:06:52,
 75077,DE,45355,2022-07-22,18:00,Essen,Alter Markt Borbeck,Spaziergang,2022-07-18 13:51:22,https://youtube.com/c/FreieMedienNRW
@@ -64,8 +58,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74795,DE,42651,2022-08-08,18:00,Solingen,Neumarkt,Spaziergang,2022-06-22 09:53:09,
 75048,DE,53111,2022-08-08,18:00,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,2022-07-15 14:39:59,
 74751,DE,63225,2022-08-08,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:10:48,
-74959,DE,29221,2022-08-08,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:33:40,
 74958,DE,29221,2022-08-08,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:33:21,
+74959,DE,29221,2022-08-08,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:33:40,
 74899,DE,99510,2022-08-08,18:30,Apolda,Markt,Spaziergang,2022-07-03 13:10:19,
 74857,DE,39261,2022-08-08,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:11:39,
 75046,DE,70190,2022-08-11,15:00,Stuttgart,SWR-Funkhaus / Neckarstraße 230,Kundgebung,2022-07-15 09:51:46,
@@ -77,8 +71,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74645,DE,18055,2022-08-15,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 23:07:44,https://dlive.tv/7TuermeMedien
 75049,DE,53111,2022-08-15,18:00,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,2022-07-15 14:40:44,
 74752,DE,63225,2022-08-15,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:11:18,
-74961,DE,29221,2022-08-15,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:34:21,
 74960,DE,29221,2022-08-15,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:34:01,
+74961,DE,29221,2022-08-15,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:34:21,
 74900,DE,99510,2022-08-15,18:30,Apolda,Markt,Spaziergang,2022-07-03 13:11:19,
 74858,DE,39261,2022-08-15,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:11:47,
 74655,DE,18055,2022-08-18,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:16:15,https://dlive.tv/7TuermeMedien
@@ -88,8 +82,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74646,DE,18055,2022-08-22,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 23:08:30,https://dlive.tv/7TuermeMedien
 75050,DE,53111,2022-08-22,18:00,Bonn,Markplatz Ecke Wenzelgasse,Spaziergang,2022-07-15 14:41:22,
 74753,DE,63225,2022-08-22,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:11:59,
-74962,DE,29221,2022-08-22,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:35:20,
 74963,DE,29221,2022-08-22,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:35:38,
+74962,DE,29221,2022-08-22,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:35:20,
 74901,DE,99510,2022-08-22,18:30,Apolda,Markt,Spaziergang,2022-07-03 13:12:22,
 74859,DE,39261,2022-08-22,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:12:06,
 74656,DE,18055,2022-08-25,17:00,Rostock,Brunnen d. Lebensfreude,Aufzug,2022-06-05 23:17:00,https://dlive.tv/7TuermeMedien
@@ -99,8 +93,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74647,DE,18055,2022-08-29,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 23:09:11,https://dlive.tv/7TuermeMedien
 75051,DE,53111,2022-08-29,18:00,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,2022-07-15 14:42:03,
 74754,DE,63225,2022-08-29,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:12:30,
-74964,DE,29221,2022-08-29,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:35:55,
 74965,DE,29221,2022-08-29,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:36:16,
+74964,DE,29221,2022-08-29,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:35:55,
 74902,DE,99510,2022-08-29,18:30,Apolda,Markt,Spaziergang,2022-07-03 13:13:26,
 74860,DE,39261,2022-08-29,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:12:15,
 75021,DE,63225,2022-09-05,18:00,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,2022-07-12 16:05:11,
