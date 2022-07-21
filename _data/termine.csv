@@ -1,13 +1,18 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 74641,DE,18055,2022-07-21,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:04:42,https://dlive.tv/7TuermeMedien
+75088,DE,01067,2022-07-22,17:00,Dresden,Postplatz,Demonstration,2022-07-21 16:07:01,
 74839,DE,88069,2022-07-22,18:00,Tettnang,Rathaus,Spaziergang,2022-06-26 21:06:52,
 75077,DE,45355,2022-07-22,18:00,Essen,Alter Markt Borbeck,Spaziergang,2022-07-18 13:51:22,https://youtube.com/c/FreieMedienNRW
+75087,DE,28865,2022-07-23,08:59,Lilienthal,Kichen,Musik,2022-07-21 06:48:29,
 74981,DE,83209,2022-07-23,10:30,Prien am Chiemsee,Am Sportplatz,Kundgebung,2022-07-08 19:02:59,
 74797,DE,74564,2022-07-23,11:00,Crailsheim,Schweinemarktplatz,Mahnwache,2022-06-22 12:47:52,
 74946,DE,29221,2022-07-23,11:00,Celle,Neumarkt,Aufzug,2022-07-08 11:22:46,
 74941,DE,29221,2022-07-23,11:45,Celle,Großer Plan,Kundgebung,2022-07-08 11:17:52,
+75089,DE,64385,2022-07-23,14:00,Reichelsheim,B38 Ortseingang Aldi,Zusammenkunft,2022-07-21 19:51:28,
 75056,DE,21072,2022-07-23,15:00,Hamburg - Harburg,Harburg am Rathausplatz,Aufzug,2022-07-16 14:18:52,
 74761,DE,60329,2022-07-23,15:00,Frankfurt am Main,Taunusanlage,Aufzug,2022-06-16 17:57:14,
+75090,DE,40213,2022-07-23,15:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2022-07-21 22:58:14,
+75083,DE,45127,2022-07-23,15:29,Essen,Willy-Brandt-Platz,Kundgebung,2022-07-20 03:08:42,
 75079,DE,90402,2022-07-23,18:00,Nürnberg,Lorenzkirche,Kundgebung,2022-07-18 18:50:17,
 75036,DE,73326,2022-07-23,18:00,Deggingen,Rathaus,Gegenprotest,2022-07-13 22:49:05,
 75073,DE,76530,2022-07-24,14:00,Baden-Baden,Augustaplatz,Kundgebung,2022-07-18 10:56:24,
@@ -29,9 +34,11 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74711,DE,99510,2022-07-25,18:30,Apolda,Markt,Spaziergang,2022-06-11 09:45:35,
 74855,DE,39261,2022-07-25,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:11:07,
 75038,DE,17033,2022-07-25,19:00,Neubrandenburg,Marktplatz,Kundgebung,2022-07-13 22:57:22,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/about
+75086,DE,84048,2022-07-25,19:00,Mainburg,Abensberger Str. 22,Spaziergang,2022-07-21 00:04:54,
 75070,DE,61440,2022-07-27,18:30,Oberursel,Adenauerallee,Spaziergang,2022-07-17 22:22:19,
 74715,DE,01129,2022-07-28,02:37,Dresden,Parkplatz vor dem Edeka,Spaziergang,2022-06-12 15:05:14,
 74642,DE,18055,2022-07-28,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:05:27,https://dlive.tv/7TuermeMedien
+75085,DE,76133,2022-07-29,17:30,Karlsruhe,Stephanplatz–Postgalerie-Amali,Kundgebung,2022-07-20 17:10:13,
 74841,DE,88069,2022-07-29,18:00,Tettnang,Rathaus,Spaziergang,2022-06-26 21:07:38,
 74982,DE,83209,2022-07-30,10:30,Prien am Chiemsee,Am Sportplatz,Schilderwald,2022-07-08 19:04:25,
 74945,DE,29221,2022-07-30,11:00,Celle,Neumarkt,Aufzug,2022-07-08 11:21:27,
@@ -42,12 +49,13 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74842,DE,88069,2022-08-01,18:00,Tettnang,Rathaus,Spaziergang,2022-06-26 21:07:56,
 75017,DE,53111,2022-08-01,18:00,Bonn,Marktplatz / Wenzelgasse,Spaziergang,2022-07-12 11:20:56,
 74750,DE,63225,2022-08-01,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:10:23,
-74957,DE,29221,2022-08-01,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:33:01,
-74956,DE,29221,2022-08-01,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:32:17,
 74955,DE,29221,2022-08-01,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:32:07,
+74956,DE,29221,2022-08-01,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:32:17,
+74957,DE,29221,2022-08-01,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:33:01,
 74898,DE,99510,2022-08-01,18:30,Apolda,Markt,Spaziergang,2022-07-03 13:09:05,
 74856,DE,39261,2022-08-01,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:11:31,
 74987,DE,83119,2022-08-01,19:30,Obing,Rathaus,Spaziergang,2022-07-09 15:27:25,
+75084,DE,32756,2022-08-03,18:00,Detmold,Markt,Kundgebung,2022-07-20 08:58:30,
 74653,DE,18055,2022-08-04,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:14:56,https://dlive.tv/7TuermeMedien
 75055,DE,33602,2022-08-05,18:00,Bielefeld,Rathausplatz,Spaziergang,2022-07-16 09:21:01,
 74983,DE,83209,2022-08-06,10:30,Prien am Chiemsee,Am Sportplatz,Schilderwald,2022-07-08 19:06:12,
@@ -93,8 +101,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74647,DE,18055,2022-08-29,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 23:09:11,https://dlive.tv/7TuermeMedien
 75051,DE,53111,2022-08-29,18:00,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,2022-07-15 14:42:03,
 74754,DE,63225,2022-08-29,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:12:30,
-74965,DE,29221,2022-08-29,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:36:16,
 74964,DE,29221,2022-08-29,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:35:55,
+74965,DE,29221,2022-08-29,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:36:16,
 74902,DE,99510,2022-08-29,18:30,Apolda,Markt,Spaziergang,2022-07-03 13:13:26,
 74860,DE,39261,2022-08-29,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:12:15,
 75021,DE,63225,2022-09-05,18:00,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,2022-07-12 16:05:11,
