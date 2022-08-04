@@ -1,6 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-74653,DE,18055,2022-08-04,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:14:56,https://dlive.tv/7TuermeMedien
-75125,DE,53902,2022-08-04,18:00,Bad Münstereifel,Rathaus,Spaziergang,2022-07-28 08:20:13,
 75158,DE,01067,2022-08-05,17:00,Dresden,Postplatz,Demonstration,2022-07-30 20:54:34,
 75134,DE,88069,2022-08-05,18:00,Tettnang,Rathaus,Spaziergang,2022-07-29 20:55:39,
 75055,DE,33602,2022-08-05,18:00,Bielefeld,Rathausplatz,Spaziergang,2022-07-16 09:21:01,
@@ -13,8 +11,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 74644,DE,18055,2022-08-08,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 23:07:04,https://dlive.tv/7TuermeMedien
 75128,DE,88239,2022-08-08,18:00,Wangen i.Allg.,Marktplatz,Spaziergang,2022-07-28 14:26:03,
 75135,DE,88069,2022-08-08,18:00,Tettnang,Rathaus,Spaziergang,2022-07-29 20:56:08,
-75162,DE,42651,2022-08-08,18:00,Solingen,Neumarkt,Spaziergang,2022-07-31 19:10:55,
 74795,DE,42651,2022-08-08,18:00,Solingen,Neumarkt,Spaziergang,2022-06-22 09:53:09,
+75162,DE,42651,2022-08-08,18:00,Solingen,Neumarkt,Spaziergang,2022-07-31 19:10:55,
 75148,DE,74523,2022-08-08,18:00,Schwäbisch Hall,Globe Theater,Spaziergang,2022-07-30 15:50:45,
 75096,DE,52428,2022-08-08,18:00,Jülich,Marktplatz,Spaziergang,2022-07-23 09:25:23,
 75048,DE,53111,2022-08-08,18:00,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,2022-07-15 14:39:59,
@@ -48,8 +46,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 75141,DE,88069,2022-08-22,18:00,Tettnang,Rathaus,Spaziergang,2022-07-29 20:58:46,
 75050,DE,53111,2022-08-22,18:00,Bonn,Markplatz Ecke Wenzelgasse,Spaziergang,2022-07-15 14:41:22,
 74753,DE,63225,2022-08-22,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:11:59,
-74962,DE,29221,2022-08-22,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:35:20,
 74963,DE,29221,2022-08-22,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:35:38,
+74962,DE,29221,2022-08-22,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:35:20,
 74901,DE,99510,2022-08-22,18:30,Apolda,Markt,Spaziergang,2022-07-03 13:12:22,
 74859,DE,39261,2022-08-22,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:12:06,
 74656,DE,18055,2022-08-25,17:00,Rostock,Brunnen d. Lebensfreude,Aufzug,2022-06-05 23:17:00,https://dlive.tv/7TuermeMedien
