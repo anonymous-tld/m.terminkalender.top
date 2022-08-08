@@ -1,18 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-74649,DE,18055,2022-08-08,16:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 23:11:00,
-74644,DE,18055,2022-08-08,17:30,Rostock,Neuer Markt,Aufzug,2022-06-05 23:07:04,https://dlive.tv/7TuermeMedien
-75128,DE,88239,2022-08-08,18:00,Wangen i.Allg.,Marktplatz,Spaziergang,2022-07-28 14:26:03,
-75135,DE,88069,2022-08-08,18:00,Tettnang,Rathaus,Spaziergang,2022-07-29 20:56:08,
-75162,DE,42651,2022-08-08,18:00,Solingen,Neumarkt,Spaziergang,2022-07-31 19:10:55,
-74795,DE,42651,2022-08-08,18:00,Solingen,Neumarkt,Spaziergang,2022-06-22 09:53:09,
-75148,DE,74523,2022-08-08,18:00,Schwäbisch Hall,Globe Theater,Spaziergang,2022-07-30 15:50:45,
-75096,DE,52428,2022-08-08,18:00,Jülich,Marktplatz,Spaziergang,2022-07-23 09:25:23,
-75048,DE,53111,2022-08-08,18:00,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,2022-07-15 14:39:59,
-74751,DE,63225,2022-08-08,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:10:48,
-74958,DE,29221,2022-08-08,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:33:21,
-74959,DE,29221,2022-08-08,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:33:40,
-74899,DE,99510,2022-08-08,18:30,Apolda,Markt,Spaziergang,2022-07-03 13:10:19,
-74857,DE,39261,2022-08-08,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:11:39,
 75046,DE,70190,2022-08-11,15:00,Stuttgart,SWR-Funkhaus / Neckarstraße 230,Kundgebung,2022-07-15 09:51:46,
 74654,DE,18055,2022-08-11,17:00,Rostock,Brunnen d. Lebensfreude,Kundgebung,2022-06-05 23:15:39,https://dlive.tv/7TuermeMedien
 75137,DE,88069,2022-08-12,18:00,Tettnang,Rathaus,Spaziergang,2022-07-29 20:57:04,
@@ -51,8 +37,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 75143,DE,88069,2022-08-29,18:00,Tettnang,Rathaus,Spaziergang,2022-07-29 20:59:33,
 75051,DE,53111,2022-08-29,18:00,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,2022-07-15 14:42:03,
 74754,DE,63225,2022-08-29,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:12:30,
-74964,DE,29221,2022-08-29,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:35:55,
 74965,DE,29221,2022-08-29,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:36:16,
+74964,DE,29221,2022-08-29,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:35:55,
 74902,DE,99510,2022-08-29,18:30,Apolda,Markt,Spaziergang,2022-07-03 13:13:26,
 74860,DE,39261,2022-08-29,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:12:15,
 75144,DE,88069,2022-09-02,18:00,Tettnang,Rathaus,Spaziergang,2022-07-29 20:59:54,
