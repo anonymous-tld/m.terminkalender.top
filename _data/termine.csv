@@ -1,13 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-75176,DE,74564,2022-08-20,11:00,Crailsheim,Schweinemarktplatz,Mahnwache,2022-08-04 00:04:03,
-74967,DE,29221,2022-08-20,11:00,Celle,Neumarkt,Aufzug,2022-07-08 11:49:39,
-75236,DE,20095,2022-08-20,11:30,Hamburg,Rathausmarkt,Kundgebung,2022-08-15 10:11:11,
-75238,DE,20049,2022-08-20,11:30,Hamburg,Rathaus,Kundgebung,2022-08-16 08:13:44,
-74970,DE,29221,2022-08-20,11:45,Celle,Großer Plan,Kundgebung,2022-07-08 11:51:48,
-75243,DE,64385,2022-08-20,14:00,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,2022-08-16 21:45:48,
-75234,DE,40213,2022-08-20,15:00,Düsseldorf,Johannes-Rau-Platz / Landtagsw,Aufzug,2022-08-14 14:25:39,
-75241,DE,90402,2022-08-20,17:00,Nürnberg,Lorenzkirche,Kundgebung,2022-08-16 15:37:55,
-75246,DE,73326,2022-08-20,18:00,Deggingen,Rathaus und Umgebung,Gegenprotest,2022-08-17 22:39:49,
 75237,DE,76530,2022-08-21,14:00,Baden-Baden,Augustaplatz 1,Kundgebung,2022-08-15 11:07:19,https://www.baden-baden.de/stadtportrait/aktuelles/webcams
 75242,DE,90402,2022-08-21,15:00,Nürnberg,Lorenzkirche,Kundgebung,2022-08-16 15:38:51,
 74651,DE,18055,2022-08-22,16:30,Rostock,Stadthafen/Kanonsberg,Mahnwache,2022-06-05 23:13:22,
@@ -20,8 +11,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 75248,DE,13507,2022-08-22,18:00,Berlin,Alt-Tegel (am Schinkelbrunnen),Spaziergang,2022-08-18 11:03:43,
 75239,DE,67547,2022-08-22,18:30,Worms,Lutherdenkmal,Spaziergang,2022-08-16 09:22:32,
 74753,DE,63225,2022-08-22,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:11:59,
-74962,DE,29221,2022-08-22,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:35:20,
 74963,DE,29221,2022-08-22,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:35:38,
+74962,DE,29221,2022-08-22,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:35:20,
 74901,DE,99510,2022-08-22,18:30,Apolda,Markt,Spaziergang,2022-07-03 13:12:22,
 74859,DE,39261,2022-08-22,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:12:06,
 75252,DE,75334,2022-08-22,19:00,Straubenhardt-Feldrennach,Rathaus,Spaziergang,2022-08-19 08:05:09,
