@@ -1,7 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-75216,DE,70190,2022-08-25,17:00,Stuttgart,Neckarstraße 230 (vor dem SWR),Mahnwache,2022-08-09 14:00:55,
-74656,DE,18055,2022-08-25,17:00,Rostock,Brunnen d. Lebensfreude,Aufzug,2022-06-05 23:17:00,https://dlive.tv/7TuermeMedien
-75226,DE,53902,2022-08-25,18:00,Bad Münstereifel,Rathaus,Spaziergang,2022-08-11 15:11:25,
 75272,DE,76133,2022-08-26,17:30,Karlsruhe,Marktplatz / nahe Pyramide,Kundgebung,2022-08-23 20:16:32,
 75142,DE,88069,2022-08-26,18:00,Tettnang,Rathaus,Spaziergang,2022-07-29 20:59:12,
 74968,DE,29221,2022-08-27,11:00,Celle,Neumarkt,Aufzug,2022-07-08 11:49:51,
@@ -26,8 +23,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 75267,DE,13507,2022-08-29,18:00,Berlin,Alt-Tegel (am Schinkelbrunnen),Spaziergang,2022-08-23 08:19:04,
 75266,DE,67547,2022-08-29,18:30,Worms,Lutherdenkmal,Spaziergang,2022-08-23 07:33:02,
 74754,DE,63225,2022-08-29,18:30,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-06-16 10:12:30,
-74965,DE,29221,2022-08-29,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:36:16,
 74964,DE,29221,2022-08-29,18:30,Celle,Stechbahn vor Stadtkirche,Spaziergang,2022-07-08 11:35:55,
+74965,DE,29221,2022-08-29,18:30,Celle,Innenstadt,Spaziergang,2022-07-08 11:36:16,
 74902,DE,99510,2022-08-29,18:30,Apolda,Markt,Spaziergang,2022-07-03 13:13:26,
 74860,DE,39261,2022-08-29,19:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-06-28 10:12:15,
 75278,DE,87600,2022-08-29,19:00,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,2022-08-24 21:30:32,
