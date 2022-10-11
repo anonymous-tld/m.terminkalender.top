@@ -1,7 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-75784,DE,63683,2022-10-11,18:00,Ortenberg,Marktplatz,Spaziergang,2022-10-04 13:07:42,
-75765,DE,76275,2022-10-11,18:00,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,2022-10-03 12:48:08,
-75782,DE,92421,2022-10-11,19:00,Schwandorf,Marktplatz,Kundgebung,2022-10-04 11:41:47,Klardenken.tv
 75853,DE,90402,2022-10-12,18:30,Nürnberg,Lorenzkirche,Kundgebung,2022-10-10 21:37:43,
 75822,DE,06618,2022-10-12,19:00,Naumburg,Vogelwiese,Kundgebung,2022-10-07 14:59:19,
 75816,DE,53902,2022-10-13,18:00,Bad Münstereifel,Rathaus,Spaziergang,2022-10-06 10:29:34,
@@ -88,9 +85,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 75714,DE,45468,2022-11-28,18:00,Mülheim an der Ruhr,Rathausmarkt,Demonstration,2022-09-30 01:13:09,
 75742,DE,63225,2022-11-28,18:00,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-10-01 12:13:16,
 75808,DE,06844,2022-11-28,18:00,Dessau-Roßlau,beim Rathaus jeden Montag,Mahnwache,2022-10-05 20:30:03,
-75702,DE,83119,2022-11-28,19:30,Obing,Rathaus,Spaziergang,2022-09-29 23:41:46,
-75700,DE,83119,2022-11-28,19:30,Obing,Rathaus,Spaziergang,2022-09-29 23:40:43,
 75699,DE,83119,2022-11-28,19:30,Obing,Rathaus,Spaziergang,2022-09-29 23:40:22,
+75700,DE,83119,2022-11-28,19:30,Obing,Rathaus,Spaziergang,2022-09-29 23:40:43,
+75702,DE,83119,2022-11-28,19:30,Obing,Rathaus,Spaziergang,2022-09-29 23:41:46,
 75674,DE,83209,2022-12-03,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:21:49,
 75715,DE,45468,2022-12-05,18:00,Mülheim an der Ruhr,Rathausmarkt,Demonstration,2022-09-30 01:14:03,
 75743,DE,63225,2022-12-05,18:00,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-10-01 12:13:38,
