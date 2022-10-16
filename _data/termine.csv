@@ -1,10 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-75872,DE,75015,2022-10-16,10:45,Bretten,Stadtpark/Alter Friedhof,Kundgebung,2022-10-12 21:59:30,
-75289,DE,70372,2022-10-16,12:30,Stuttgart,Cannstatter Wasen,Aufzug,2022-08-27 19:05:49,
-75848,DE,46045,2022-10-16,14:00,Oberhausen,Friedensplatz,Demonstration,2022-10-09 14:45:52,
-75850,DE,76530,2022-10-16,14:00,Baden-Baden,Reinhard-Fieser-Brücke,Kundgebung,2022-10-10 10:26:54,https://youtu.be/vmtOlrgcn40
-75855,DE,90402,2022-10-16,15:00,Nürnberg,Lorenzkirche,Kundgebung,2022-10-10 21:39:36,
-75886,DE,27472,2022-10-16,15:00,Cuxhaven,Kaemerer Platz,Spaziergang,2022-10-14 04:15:14,
 75901,DE,39261,2022-10-17,18:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-10-16 08:03:10,
 75769,DE,26382,2022-10-17,18:00,Wilhelmshaven,Rathausplatz,Spaziergang,2022-10-03 14:08:30,
 75844,DE,88239,2022-10-17,18:00,Wangen i.Allg.,Marktplatz,Spaziergang,2022-10-08 21:00:44,
@@ -116,8 +110,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 75715,DE,45468,2022-12-05,18:00,Mülheim an der Ruhr,Rathausmarkt,Demonstration,2022-09-30 01:14:03,
 75743,DE,63225,2022-12-05,18:00,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-10-01 12:13:38,
 75807,DE,06844,2022-12-05,18:00,Dessau-Roßlau,beim Rathaus jeden Montag,Mahnwache,2022-10-05 20:28:45,
-75701,DE,83119,2022-12-05,19:30,Obing,Rathaus,Spaziergang,2022-09-29 23:41:07,
 75703,DE,83119,2022-12-05,19:30,Obing,Rathaus,Spaziergang,2022-09-29 23:42:36,
+75701,DE,83119,2022-12-05,19:30,Obing,Rathaus,Spaziergang,2022-09-29 23:41:07,
 75795,DE,79098,2022-12-08,14:00,Freiburg,Platz der alten Synagoge,Aufzug,2022-10-05 02:53:38,Für Frieden, Freiheit und Vernunft
 75675,DE,83209,2022-12-10,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:22:32,
 75643,DE,10117,2022-12-11,12:33,Berlin,Brandenburger Tor,Schweigemarsch,2022-09-27 12:33:35,
