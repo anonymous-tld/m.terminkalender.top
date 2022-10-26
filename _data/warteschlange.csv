@@ -1,7 +1,6 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
 75988,DE,84028,2022-10-27,17:00,Landshut,Zeughaus / Wittstr.,Schilderwald,2022-10-25 05:59:49,
 75997,DE,20457,2022-10-29,15:00,Hamburg,Kunsthalle/Ernst-Merck-Straße,Aufzug,2022-10-25 20:26:26,
-75998,DE,20457,2022-10-29,15:00,Hamburg,Kunsthalle/Ernst-Merck-Straße,Aufzug,2022-10-25 20:29:26,
 75990,DE,20457,2022-10-29,15:00,Hamburg,Kunsthalle/Ernst-Merck-Straße,Kundgebung,2022-10-25 08:46:24,
 75991,DE,50679,2022-10-29,15:30,Köln,Wiener Platz,Kundgebung,2022-10-25 10:04:59,
 75994,DE,86150,2022-10-29,15:30,Augsburg,Elias Holl Platz,Kundgebung,2022-10-25 12:44:13,
@@ -9,7 +8,7 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 75995,DE,86150,2022-10-29,17:00,Augsburg,Elias Holl Platz,Aufzug,2022-10-25 12:45:01,
 75989,DE,06886,2022-10-31,13:00,Wittenberg,Amselgrund,Aufzug,2022-10-25 06:36:17,
 76006,DE,06886,2022-10-31,13:30,Wittenberg,Neustrasse,Versammlung,2022-10-26 17:49:03,
-76007,DE,06886,2022-10-31,16:30,Wittenberg,Am amselgrund,Treffpunkt,2022-10-26 17:50:10,
+76007,DE,06886,2022-10-31,16:30,Wittenberg,Am Amselgrund,Treffpunkt,2022-10-26 17:50:10,
 75993,DE,75328,2022-10-31,18:00,Schömberg,Rathaus,Spaziergang,2022-10-25 10:42:23,
 76005,DE,81675,2022-10-31,18:00,München,Maximilianeum / Landtag,Vortrag,2022-10-26 16:26:41,
 75996,DE,67547,2022-10-31,18:30,Worms,Lutherdenkmal,Spaziergang,2022-10-25 14:23:54,
