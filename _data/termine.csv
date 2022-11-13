@@ -24,18 +24,20 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 76146,DE,42651,2022-11-14,18:15,Solingen,Neumarkt,Spaziergang,2022-11-10 23:33:38,
 76133,DE,42651,2022-11-14,18:15,Solingen,Neumarkt,Spaziergang,2022-11-10 08:23:37,
 76136,DE,74564,2022-11-14,18:30,Crailsheim,Volksfestplatz,Aufzug,2022-11-10 13:37:39,
-76001,DE,07545,2022-11-14,19:00,Gera,Theater/ Hofwiesenparkplatz,Spaziergang,2022-10-25 23:47:44,diverse streams. Michel Michael Wittwer u.a. Odysse
 76009,DE,07545,2022-11-14,19:00,Gera,Theater/ Hofwiesenparkplatz,Spaziergang,2022-10-26 22:40:37,diverse streams. Michel Michael Wittwer u.a. Odysse
+76001,DE,07545,2022-11-14,19:00,Gera,Theater/ Hofwiesenparkplatz,Spaziergang,2022-10-25 23:47:44,diverse streams. Michel Michael Wittwer u.a. Odysse
 75842,DE,83125,2022-11-14,19:00,Eggstätt,Rathaus,Spaziergang,2022-10-08 18:14:47,
 75698,DE,83119,2022-11-14,19:30,Obing,Rathaus,Spaziergang,2022-09-29 23:39:21,
 76135,DE,76275,2022-11-15,18:00,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,2022-11-10 13:31:38,
 76147,DE,92421,2022-11-15,19:00,Schwandorf,Marktplatz,Kundgebung,2022-11-11 08:17:27,Klardenken.Tv
+76158,DE,06618,2022-11-16,19:00,Naumburg,Vogelwiese,Demonstration,2022-11-13 09:02:26,
 76030,DE,83022,2022-11-16,19:15,Rosenheim,Salingarten,Schilderwald,2022-10-28 09:33:39,
 76025,DE,83022,2022-11-16,19:15,Rosenheim,Salingarten,Mahnwache,2022-10-28 09:31:46,
 76083,DE,76530,2022-11-17,12:00,Baden-Baden,Ernst-Becker-Straße 1,Mahnwache,2022-11-01 13:24:30,
 76061,DE,85586,2022-11-17,18:00,Poing,Bahnhof Nordseite,Kundgebung,2022-10-31 19:09:03,
 76090,DE,53902,2022-11-17,18:00,Bad Münstereifel,Rathaus,Spaziergang,2022-11-02 09:16:17,
 75672,DE,83209,2022-11-19,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:20:09,
+76159,DE,40213,2022-11-19,15:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2022-11-13 09:53:30,NO_Vaccination
 76015,DE,70182,2022-11-20,15:00,Stuttgart,Wilhelmsplatz Stadtmitte,Aufzug,2022-10-27 19:36:32,
 76077,DE,39261,2022-11-21,18:00,Zerbst,Markt,Spaziergang,2022-11-01 10:48:21,
 76140,DE,88239,2022-11-21,18:00,Wangen i.Allg.,Marktplatz,Spaziergang,2022-11-10 16:28:51,
@@ -85,14 +87,15 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 75744,DE,63225,2022-12-12,18:00,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-10-01 12:14:06,
 75806,DE,06844,2022-12-12,18:00,Dessau-Roßlau,Marktplatz,Mahnwache,2022-10-05 20:27:23,
 75704,DE,83119,2022-12-12,19:30,Obing,Rathaus,Spaziergang,2022-09-29 23:42:52,
-75676,DE,83209,2022-12-17,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:22:51,
 75677,DE,83209,2022-12-17,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:23:08,
+75676,DE,83209,2022-12-17,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:22:51,
 55107,DE,70182,2022-12-18,13:45,Stuttgart,Wilhelmsplatz,Kundgebung,2021-12-17 13:46:15,
+76157,DE,79098,2022-12-19,14:00,Freiburg,Platz der alten Synagoge,Aufzug,2022-11-13 05:18:24,Uns reichts!
 75717,DE,45468,2022-12-19,18:00,Mülheim an der Ruhr,Rathausmarkt,Demonstration,2022-09-30 01:15:45,
 75745,DE,63225,2022-12-19,18:00,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-10-01 12:14:29,
 75705,DE,83119,2022-12-19,19:30,Obing,Rathaus,Spaziergang,2022-09-29 23:43:10,
-75678,DE,83209,2022-12-24,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:23:28,
 75679,DE,83209,2022-12-24,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:23:55,
+75678,DE,83209,2022-12-24,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:23:28,
 76156,DE,10178,2022-12-24,12:00,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,2022-11-12 22:53:38,
 73995,DE,01809,2022-12-25,19:00,Heidenau,Markt,Demonstration,2022-04-22 22:35:13,
 75746,DE,63225,2022-12-26,18:00,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-10-01 12:14:51,
