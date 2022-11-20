@@ -1,7 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-76189,DE,10117,2022-11-20,14:00,Berlin,Brandenburger Tor,Erholung,2022-11-17 20:03:03,
-76015,DE,70182,2022-11-20,15:00,Stuttgart,Wilhelmsplatz Stadtmitte,Aufzug,2022-10-27 19:36:32,
-76168,DE,90402,2022-11-20,15:00,Nürnberg,Lorenzkirche,Kundgebung,2022-11-14 20:58:03,
 76077,DE,39261,2022-11-21,18:00,Zerbst,Markt,Spaziergang,2022-11-01 10:48:21,
 76140,DE,88239,2022-11-21,18:00,Wangen i.Allg.,Marktplatz,Spaziergang,2022-11-10 16:28:51,
 76151,DE,95643,2022-11-21,18:00,Tirschenreuth,Oberer Marktplatz,Demonstration,2022-11-11 18:55:06,
@@ -11,8 +8,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 75741,DE,63225,2022-11-21,18:00,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,2022-10-01 12:12:55,
 75925,DE,84028,2022-11-21,18:00,Landshut,Ländtor,Aufzug,2022-10-18 20:09:18,
 76200,DE,76829,2022-11-21,18:00,Landau,Untertorplatz,Spaziergang,2022-11-20 00:14:21,
-75803,DE,06844,2022-11-21,18:00,Dessau-Roßlau,beim Rathaus,Mahnwache,2022-10-05 20:22:58,
 75804,DE,06844,2022-11-21,18:00,Dessau-Roßlau,Marktplatz,Mahnwache,2022-10-05 20:24:20,
+75803,DE,06844,2022-11-21,18:00,Dessau-Roßlau,beim Rathaus,Mahnwache,2022-10-05 20:22:58,
 76184,DE,76646,2022-11-21,18:00,Bruchsal,Rathausplatz / Kaiserstraße 66,Kundgebung,2022-11-17 09:00:01,
 76195,DE,27576,2022-11-21,18:00,Bremerhaven,Ernst-Reuter-Platz,Spaziergang,2022-11-18 12:21:37,
 75929,DE,53115,2022-11-21,18:00,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,2022-10-18 20:12:52,
@@ -25,8 +22,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 76098,DE,70190,2022-11-23,13:30,Stuttgart,Neckarstraße 230  SWR,Kundgebung,2022-11-02 22:02:41,
 76099,DE,70439,2022-11-23,18:00,Stuttgart,JVA Stammheim,Kundgebung,2022-11-02 22:04:27,
 76201,DE,92421,2022-11-23,19:00,Schwandorf,Marktplatz,Kundgebung,2022-11-20 15:12:48,Klardenken.Tv
-76026,DE,83022,2022-11-23,19:15,Rosenheim,Salingarten,Mahnwache,2022-10-28 09:32:20,
 76029,DE,83022,2022-11-23,19:15,Rosenheim,Salingarten,Schilderwald,2022-10-28 09:33:25,
+76026,DE,83022,2022-11-23,19:15,Rosenheim,Salingarten,Mahnwache,2022-10-28 09:32:20,
 76084,DE,76530,2022-11-24,12:00,Baden-Baden,Ernst-Becker-Straße 1,Mahnwache,2022-11-01 13:25:12,
 76062,DE,85586,2022-11-24,18:00,Poing,Bahnhof Nordseite,Kundgebung,2022-10-31 19:09:38,
 76188,DE,29525,2022-11-25,17:00,Uelzen,Am Schützenpl. / Ebstorfer Str,Demonstration,2022-11-17 14:41:54,
