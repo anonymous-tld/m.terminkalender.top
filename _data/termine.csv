@@ -1,12 +1,8 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-76262,DE,55127,2022-12-01,15:15,Mainz,AZ, Erich-Dombrowski-Straße 2,Mahnwache,2022-11-29 03:39:34,
-76263,DE,55122,2022-12-01,15:15,Mainz,SWR,Am Fort Gonsenheim/Wallstr,Mahnwache,2022-11-29 03:41:20,
-76261,DE,55127,2022-12-01,16:00,Mainz,ZDF, ZDF-Straße 1,Mahnwache,2022-11-29 03:37:58,
-76063,DE,85586,2022-12-01,18:00,Poing,Bahnhof Nordseite,Kundgebung,2022-10-31 19:09:54,
 76257,DE,90402,2022-12-02,16:00,Nürnberg,Hallplatz / Königstr.,Kundgebung,2022-11-27 15:06:02,
 76267,DE,76133,2022-12-02,17:30,Karlsruhe,Kronenplatz,Aufzug,2022-11-29 16:01:56,
-76209,DE,88069,2022-12-02,18:00,Tettnang,Rathaus,Spaziergang,2022-11-21 20:19:01,
 76241,DE,88069,2022-12-02,18:00,Tettnang,Rathaus,Spaziergang,2022-11-24 21:50:03,
+76209,DE,88069,2022-12-02,18:00,Tettnang,Rathaus,Spaziergang,2022-11-21 20:19:01,
 76226,DE,33602,2022-12-02,19:00,Bielefeld,Rathausplatz,Spaziergang,2022-11-23 01:56:57,
 75674,DE,83209,2022-12-03,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:21:49,
 76221,DE,32756,2022-12-03,12:00,Detmold,Bruchberg,Mahnwache,2022-11-22 14:36:29,
@@ -14,8 +10,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 76254,DE,60329,2022-12-03,15:00,Frankfurt am Main,Taunusanlage,Aufzug,2022-11-27 10:06:33,
 76269,DE,45127,2022-12-03,15:30,Essen,Kettwiger Straße 40,Kundgebung,2022-11-30 13:29:15,
 76271,DE,75015,2022-12-04,10:45,Bretten,Stadtpark/Alter Friedhof,Meditation,2022-11-30 22:57:54,
-76228,DE,54516,2022-12-04,14:00,Wittlich,Ottensteinplatz,Kundgebung,2022-11-23 11:16:00,https://rumble.com/user/Wittlich
 76236,DE,54516,2022-12-04,14:00,Wittlich,Ottensteinplatz,Kundgebung,2022-11-23 23:07:44,https://rumble.com/user/Wittlich
+76228,DE,54516,2022-12-04,14:00,Wittlich,Ottensteinplatz,Kundgebung,2022-11-23 11:16:00,https://rumble.com/user/Wittlich
 76154,DE,76530,2022-12-04,14:00,Baden-Baden,Augustaplatz 1,Demonstration,2022-11-12 07:11:09,
 76258,DE,90402,2022-12-04,15:00,Nürnberg,Hallplatz / Königstr.,Kundgebung,2022-11-27 15:06:46,
 76251,DE,22297,2022-12-04,15:00,Hamburg,Glockengießerwall 5,Demonstration,2022-11-26 12:13:40,
@@ -27,8 +23,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 75807,DE,06844,2022-12-05,18:00,Dessau-Roßlau,beim Rathaus jeden Montag,Mahnwache,2022-10-05 20:28:45,
 76190,DE,53111,2022-12-05,18:00,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,2022-11-17 20:19:40,
 76270,DE,06449,2022-12-05,18:00,Aschersleben,Am Markt,Spaziergang,2022-11-30 16:06:12,
-75701,DE,83119,2022-12-05,19:30,Obing,Rathaus,Spaziergang,2022-09-29 23:41:07,
 75703,DE,83119,2022-12-05,19:30,Obing,Rathaus,Spaziergang,2022-09-29 23:42:36,
+75701,DE,83119,2022-12-05,19:30,Obing,Rathaus,Spaziergang,2022-09-29 23:41:07,
 76268,DE,76275,2022-12-06,18:00,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Kundgebung,2022-11-29 16:09:54,
 75795,DE,79098,2022-12-08,14:00,Freiburg,Platz der alten Synagoge,Aufzug,2022-10-05 02:53:38,Für Frieden, Freiheit und Vernunft
 76064,DE,85586,2022-12-08,18:00,Poing,Bahnhof Nordseite,Kundgebung,2022-10-31 19:10:09,
@@ -44,8 +40,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 76191,DE,53111,2022-12-12,18:00,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,2022-11-17 20:20:43,
 75704,DE,83119,2022-12-12,19:30,Obing,Rathaus,Spaziergang,2022-09-29 23:42:52,
 76213,DE,88069,2022-12-16,18:00,Tettnang,Rathaus,Spaziergang,2022-11-21 20:20:44,
-75677,DE,83209,2022-12-17,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:23:08,
 75676,DE,83209,2022-12-17,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:22:51,
+75677,DE,83209,2022-12-17,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:23:08,
 76222,DE,32756,2022-12-17,12:00,Detmold,Bruchberg,Mahnwache,2022-11-22 14:37:06,
 76265,DE,55116,2022-12-17,14:00,Mainz,Osteiner Hof-Schillerplatz,Aufzug,2022-11-29 08:49:02,
 55107,DE,70182,2022-12-18,13:45,Stuttgart,Wilhelmsplatz,Kundgebung,2021-12-17 13:46:15,
