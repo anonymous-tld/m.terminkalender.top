@@ -1,11 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-76278,DE,16303,2022-12-04,10:00,Schwedt/Oder,Kreisel,B2 Ortsausgang Schwedt,Schilderwald,2022-12-02 20:35:27,
-76271,DE,75015,2022-12-04,10:45,Bretten,Stadtpark/Alter Friedhof,Meditation,2022-11-30 22:57:54,
-76236,DE,54516,2022-12-04,14:00,Wittlich,Ottensteinplatz,Kundgebung,2022-11-23 23:07:44,https://rumble.com/user/Wittlich
-76228,DE,54516,2022-12-04,14:00,Wittlich,Ottensteinplatz,Kundgebung,2022-11-23 11:16:00,https://rumble.com/user/Wittlich
-76154,DE,76530,2022-12-04,14:00,Baden-Baden,Augustaplatz 1,Demonstration,2022-11-12 07:11:09,
-76258,DE,90402,2022-12-04,15:00,Nürnberg,Hallplatz / Königstr.,Kundgebung,2022-11-27 15:06:46,
-76251,DE,22297,2022-12-04,15:00,Hamburg,Glockengießerwall 5,Demonstration,2022-11-26 12:13:40,
 76142,DE,88239,2022-12-05,18:00,Wangen i.Allg.,Marktplatz,Spaziergang,2022-11-10 16:31:18,
 76210,DE,88069,2022-12-05,18:00,Tettnang,Rathaus,Spaziergang,2022-11-21 20:19:29,
 76286,DE,75334,2022-12-05,18:00,Straubenhardt-Feldrennach,Rathaus,Spaziergang,2022-12-03 22:07:25,
@@ -32,8 +25,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 76064,DE,85586,2022-12-08,18:00,Poing,Bahnhof Nordseite,Kundgebung,2022-10-31 19:10:09,
 76211,DE,88069,2022-12-09,18:00,Tettnang,Rathaus,Kundgebung,2022-11-21 20:19:45,
 75675,DE,83209,2022-12-10,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:22:32,
-76266,DE,70372,2022-12-10,13:00,Stuttgart,Cannstatter Wasen  P9,Aufzug,2022-11-29 10:54:40,
 76260,DE,70372,2022-12-10,13:00,Stuttgart,Cannstatter Wasen  P9,Aufzug,2022-11-28 13:34:33,
+76266,DE,70372,2022-12-10,13:00,Stuttgart,Cannstatter Wasen  P9,Aufzug,2022-11-29 10:54:40,
 76276,DE,64385,2022-12-10,14:00,Reichelsheim,B38 Ortseingang Aldi,Zusammenkunft,2022-12-02 14:53:10,
 75643,DE,10117,2022-12-11,12:33,Berlin,Brandenburger Tor,Schweigemarsch,2022-09-27 12:33:35,
 76212,DE,88069,2022-12-12,18:00,Tettnang,Rathaus,Spaziergang,2022-11-21 20:20:13,
