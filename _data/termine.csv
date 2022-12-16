@@ -1,7 +1,4 @@
 ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Livestream
-76320,DE,90402,2022-12-16,15:30,Nürnberg,Hallplatz / Königstr.,Kundgebung,2022-12-14 08:31:47,
-76323,DE,76133,2022-12-16,17:30,Karlsruhe,Kronenplatz KA,Aufzug,2022-12-14 11:50:27,
-76213,DE,88069,2022-12-16,18:00,Tettnang,Rathaus,Spaziergang,2022-11-21 20:20:44,
 75676,DE,83209,2022-12-17,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:22:51,
 75677,DE,83209,2022-12-17,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:23:08,
 76222,DE,32756,2022-12-17,12:00,Detmold,Bruchberg,Mahnwache,2022-11-22 14:37:06,
@@ -28,8 +25,8 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 76322,DE,76275,2022-12-20,18:00,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,2022-12-14 11:14:17,
 76331,DE,83119,2022-12-20,18:30,Obing,Rathaus / Gemeinde,Spaziergang,2022-12-15 20:10:13,
 76215,DE,88069,2022-12-23,18:00,Tettnang,Rathaus,Spaziergang,2022-11-21 20:21:27,
-75678,DE,83209,2022-12-24,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:23:28,
 75679,DE,83209,2022-12-24,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:23:55,
+75678,DE,83209,2022-12-24,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:23:28,
 76156,DE,10178,2022-12-24,12:00,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,2022-11-12 22:53:38,
 76304,DE,02763,2022-12-24,16:00,Zittau,Markt,Kundgebung,2022-12-11 12:28:52,
 76310,DE,16303,2022-12-25,10:00,Schwedt/Oder,B2/Richtung Angermünde,Schilderwald,2022-12-11 23:51:38,
