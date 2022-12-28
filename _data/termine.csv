@@ -4,9 +4,9 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 76367,DE,76131,2022-12-29,18:00,Karlsruhe,Schloßbezirk 1 / BVG,Zusammenkunft,2022-12-26 00:21:43,
 76370,DE,90402,2022-12-30,16:00,Nürnberg,Lorenzkirche,Kundgebung,2022-12-26 16:26:00,
 76217,DE,88069,2022-12-30,18:00,Tettnang,Rathaus,Spaziergang,2022-11-21 20:22:17,
+76371,DE,84034,2022-12-30,18:00,Landshut,Schwimmschulstr. 14,Gebet,2022-12-28 10:09:49,
 75680,DE,83209,2022-12-31,10:30,Prien am Chiemsee,Am Fussballplatz,Schilderwald,2022-09-29 06:24:10,
 76316,DE,63739,2022-12-31,13:00,Aschaffenburg,Schlossplatz,Aufzug,2022-12-12 14:53:15,
-76255,DE,00000,2023-01-01,00:00,Demokalender,Internet,Abschied,2022-12-31 23:59:59,
 76362,DE,74523,2023-01-02,18:00,Schwäbisch Hall,Dietrich-Bonhoeffer-Platz,Spaziergang,2022-12-22 13:46:37,
 76355,DE,17291,2023-01-02,18:00,Prenzlau,Marktberg,Spaziergang,2022-12-19 21:59:08,https://m.youtube.com/channel/UCQKfjA7EYJ-G-oZd-y_MNBA
 76354,DE,16248,2023-01-02,18:00,Angermünde,Marktplatz,Spaziergang,2022-12-19 21:58:28,https://m.youtube.com/channel/UCQKfjA7EYJ-G-oZd-y_MNBA
@@ -19,3 +19,4 @@ ID,Land,Postleitzahl,Datum,Uhrzeit,Stadt,Treffpunkt,Protestform,Zeitstempel,Live
 76303,DE,63739,2023-01-14,14:00,Aschaffenburg,Theaterplatz,Aufzug,2022-12-11 11:20:28,
 76333,DE,83119,2023-01-17,18:30,Obing,Rathaus / Gemeinde,Spaziergang,2022-12-15 20:11:23,
 76334,DE,83119,2023-01-17,18:30,Obing,Rathaus / Gemeinde,Spaziergang,2022-12-15 20:11:47,
+76255,DE,00000,2023-02-01,00:00,Demokalender,Internet,Abschied,2022-12-31 23:59:59,
